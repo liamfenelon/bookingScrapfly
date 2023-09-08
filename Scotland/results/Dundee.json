@@ -1,0 +1,818 @@
+{
+  "https://www.booking.com/hotel/gb/westport-serviced-apartments.html": {
+    "name": "Dream Apartments Dundee",
+    "location": "Dundee",
+    "score": "7.7",
+    "review_count": "932 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332600821.webp?k=f22d22766037b7ae4ef053929e3498ffd5661abaeae4b5d95541b95da01f3b1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sleeperz-dundee.html": {
+    "name": "Sleeperz Hotel Dundee",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "4,339 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275380968.webp?k=9a7873c8080fdb7b7d1728752e1e6027c7893bb9d7374c250caa6963afde52f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampton-by-hilton-dundee.html": {
+    "name": "Hampton by Hilton Dundee",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "3,493 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159948746.webp?k=db0199b7acf277554ea37cc79d54253fb317f67fff22ac7edba4abc89caf6436&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-express-dundee.html": {
+    "name": "Holiday Inn Express Dundee, an IHG Hotel",
+    "location": "Dundee",
+    "score": "8.3",
+    "review_count": "2,305 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274334363.webp?k=df6eb1ce8dac2c3e5da1fb4e06617504058e37caa6f59147b1b724abc2d8b9ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/indigo-dundee.html": {
+    "name": "Hotel Indigo - Dundee, an IHG Hotel",
+    "location": "Dundee",
+    "score": "8.8",
+    "review_count": "1,477 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406802942.webp?k=87fd6b9fd68b7e391876f49229728453e5e8fffa09188286e55b07c40da722b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/best-western-invercarse.html": {
+    "name": "Best Western Invercarse Hotel",
+    "location": "Dundee",
+    "score": "8.4",
+    "review_count": "1,693 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139116619.webp?k=ed94fe25a4ba58a49e8e09d2eef306de14395ac4b34e7afa0ebf749b6432238b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swallowdundee.html": {
+    "name": "The Landmark Hotel and Leisure Club",
+    "location": "Dundee",
+    "score": "7.6",
+    "review_count": "2,343 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/33607358.webp?k=aaf64adf82d9b48c2c17dcde752e54ab9cd026d93fa6ba33967f2c522ab555f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/best-western-woodlands.html": {
+    "name": "Best Western Woodlands Hotel",
+    "location": "Dundee",
+    "score": "8.1",
+    "review_count": "1,981 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156615009.webp?k=c3a91eaad3b6472746eb53604f835c0f952596761fe83cfadb3148b465994077&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/staybridge-suites-dundee.html": {
+    "name": "Staybridge Suites - Dundee, an IHG Hotel",
+    "location": "Dundee",
+    "score": "9.2",
+    "review_count": "936 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245802135.webp?k=d575137227d85bd245be1972f11b7aa2815040a334af64831ea841e745a7a445&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/magdalen-house-dundee.html": {
+    "name": "Magdalen House",
+    "location": "Dundee",
+    "score": "8.9",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266758056.webp?k=d101713a6b92043da3b4d200762c66f57fa2c77ef68fceda506d4b8197bab287&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cordis-apartment.html": {
+    "name": "Cordis Apartment",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354433262.webp?k=14aff0c4f06765c72441e5f790580d0b2779310647457d49cebd968ecb042e25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greenstar-bell.html": {
+    "name": "GreenStar Apartments",
+    "location": "Dundee",
+    "score": "8.4",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205220781.webp?k=7763fee0912bf4d9f825b0461a4f784d1105119c8d2a3b48c05549a13f93ae86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contractors-groups-5-beds-sunrise-apts-at-the-law.html": {
+    "name": "3Bedroom Law, Ideal for Contractors, Free Parking, WiFi, Sleeps 5, Tourists, Relocation, Business Travellers, Long Extended Stays",
+    "location": "Dundee",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393700658.webp?k=d1289b68164e5363472ca1decb3f3da6bc27b399c9e3789ead34409e7ce1e058&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunrise-apartments-scotland.html": {
+    "name": "THE LAW, Great Contractor, Groups, Relocation Accommodation, 4 Rooms with TVs, Central, Free Parking, Fully Equipped, 2 Bathrooms, Long Stays Welcome",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393695461.webp?k=ebf83d619493ccfb02f072b08ce5193b9506efa3662c2e8b6d4abb1d153d57c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nelson-manor.html": {
+    "name": "Nelson Manor",
+    "location": "Dundee",
+    "score": "8.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250723601.webp?k=8ce3b9f5848b332cac0a9ccce807eeeca9b96081291e3a866984cc32a5c056ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-room-4-bed-apartment-at-the-white-house-by-sunrise-short-lets-and-serviced-acc.html": {
+    "name": "SCOTS-CORNER, Contractor Accommodation, Family Home, 2 Rooms, 4 Single Beds, Easy Access Ring-Road Location, Parking, WiFi, Sleeps 4, Fully Equipped, Great for Families, Tourists, Home from Home, Brilliant Location, Beautiful Sea Views",
+    "location": "Dundee",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393707483.webp?k=cc5bdf980b93d39e204668cb57758b1baa98ad263610c0d32f991db8943ea3cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carbet-lodge.html": {
+    "name": "Carbet Lodge",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97972154.webp?k=e63aba4fe9e70abc1162335ff66d48c36f5a4ca8f9c17afb4b5228219cf2eb39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mccoinnich-guesthouse.html": {
+    "name": "McCoinnich Rooms",
+    "location": "Dundee",
+    "score": "8.2",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339030883.webp?k=38ac515e81a6155e3e6391a7150035badd7f8213033825437ea68553657f0085&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/longforgan-dundee.html": {
+    "name": "Longforgan Coaching Inn",
+    "location": "Dundee",
+    "score": "8.0",
+    "review_count": "360 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231416863.webp?k=1e881d234480650440961d4d20f5d632ddeb172ea730943298a3b88269a85811&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fishermans-flat-river-view-holiday-home.html": {
+    "name": "Fishermans flat - River view holiday home",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96713468.webp?k=29667a02a3faf0d5343055bdb56b5fdf79a656e53bfaf2e67dc7fa7b8bdbb079&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/zara-apartments.html": {
+    "name": "Zara Apartments",
+    "location": "Dundee",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275690937.webp?k=e3acbe507933a08fa3866d3b6a6376e96c29f97a81e38381070cb8a2d738bed4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apexcityquayhotel.html": {
+    "name": "Apex City Quay Hotel & Spa",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "5,039 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/39621852.webp?k=7e597a76c95be59f3cae1f353b051783811586615594b5a8eecdf2a51046a183&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tranquil-place-in-dundee-near-docks.html": {
+    "name": "Tranquil Place in Dundee near Docks",
+    "location": "Dundee",
+    "score": "7.6",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188697209.webp?k=be6e3b82a4a4ae05658e3d82bf1330bcfece8734104866b0a4f935bb54127417&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/malmaison-dundee.html": {
+    "name": "Malmaison Dundee",
+    "location": "Dundee",
+    "score": "8.1",
+    "review_count": "2,152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378179875.webp?k=b238667edbbdd751365760b4f894c2e35d9534967fc8f7ff5110f3846d9bfcc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-palais.html": {
+    "name": "The Palais",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378210920.webp?k=047aabb0762ad5f2b8318cfe7f50ece8ed4e960075c4a3e84a48cd4726f8a2ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bedroom-townhouse-on-wallacetown-by-sunrise-short-lets.html": {
+    "name": "THE TOWNHOUSE, 4 Rooms Large Beds, PokerTable, Fully Equipped, Easy Ring-Road Access, Parking, WiFi, Sleeps 8, Great for Contractors, Families, Relocation, Groups, Long Stays Welcome",
+    "location": "Dundee",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394008172.webp?k=9a56509486db807be5e40f534e49ffe7e324ee52ea8574bde960849fd9e32851&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/forest-park-apartment.html": {
+    "name": "Forest Park Apartment",
+    "location": "Dundee",
+    "score": "7.3",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252572906.webp?k=d799175570d88b7645d5245d427b267bb48bbc38077cddf4fb5b09d18851ba3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roseangle.html": {
+    "name": "Roseangle",
+    "location": "Dundee",
+    "score": "7.6",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313346188.webp?k=e434ddf26a53ec792996325b068be28e1198994d4374f262c8fdabbb218f2540&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bissets-bond.html": {
+    "name": "Bissets Bond",
+    "location": "Dundee",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405529220.webp?k=4ba4206d1dbb17c4ed0c70d269253a220ee503945743838854aa3664483967d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tay-view-apartment.html": {
+    "name": "Tay View Apartment",
+    "location": "Dundee",
+    "score": "7.0",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270662180.webp?k=d1b8a53009e1065c29630c28d484e1eb5fc94dde61120af41102d583c7e8fe93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/art-deco-sunrise-at-the-white-house-wifi-parking-views.html": {
+    "name": "PRESIDENTIAL SUITE, Family Home, Luxury Bedrooms, 2 Rooms, 1 King Bed, 2 Single Beds, Free WiFi, Free Parking, Families, Tourists, Business Travelers, Relocation, Beautiful Sea Views",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393704902.webp?k=eeac0c3125e7e1d492a4c8fe7c72d3964bc05b5066513ede2690684d357d0b5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wonderful-3bd-holiday-home-in-broughty-ferry.html": {
+    "name": "Wonderful 3BD Holiday Home in Broughty Ferry",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378792185.webp?k=77573fa2833196985762793dabe9ca17accd2aea42251034df76751d073ebb9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridgeview.html": {
+    "name": "Bridgeview",
+    "location": "Dundee",
+    "score": "9.5",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345439008.webp?k=48b3049790f94dd746ed9e0d5382ff523bb33a9f985c359ddb61dfed0884e3cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westwood-cottage-dundee.html": {
+    "name": "Westwood Cottage",
+    "location": "Dundee",
+    "score": "9.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366190988.webp?k=ee7e0acde7af0f08c4bf54fc694893275d440181dac0effa0ec473acac595791&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-apartment-dundee-city-council.html": {
+    "name": "Waterfront apartment",
+    "location": "Dundee",
+    "score": "9.6",
+    "review_count": "142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364264888.webp?k=073ad31d4a80504cd2f3facef2c03ab8453f5f1eb7b82a5cd70803d5b7619761&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/royal-victoria-house-dundee.html": {
+    "name": "Royal Victoria House",
+    "location": "Dundee",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271715718.webp?k=d67e835b820ee70fd7f56e3ce3d477f079c5d12212dacff7ed36f31343afd08b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alberta-guest-house-dundee.html": {
+    "name": "Alberta Guest House",
+    "location": "Dundee",
+    "score": "9.1",
+    "review_count": "157 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81153770.webp?k=75e90314746ee1c0ad0121d80ebb32b077feaceaa7ef7786a50f6f02d41a8e4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/open-golf-25min-by-car-v-amp-a-10min-lux-apt.html": {
+    "name": "Lux Waterfront 2 bed Apt, V&A 10min walk, St Andrew's Golf 25min drive",
+    "location": "Dundee",
+    "score": "9.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364481811.webp?k=e10dbf72dcac0b74475a50de23cfee5135a8baa70f24035f29f330b1ccc6c9a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridgeview-apartment.html": {
+    "name": "Books & Bridges",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338223807.webp?k=3d9c347b5a1b20fe935f8b5e025eef0fc46f339579bf8bf6bd5c04074ada3ced&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dupplin152.html": {
+    "name": "Dupplin152 bed and breakfast",
+    "location": "Dundee",
+    "score": "9.8",
+    "review_count": "160 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/145742007.webp?k=5e93aad883dfb5dc44c4f8b19ad5decc51fe5bad2be2c4bc29153efb9766b697&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/janes-place.html": {
+    "name": "Jane's Place",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398563936.webp?k=c5b4f0ce85fcddce8ac558ac15d357e660a225b1fc59124aad5a3ad063e71cee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blackies-neuk-ideal-for-uni-west-end.html": {
+    "name": "Blackie's Neuk - Ideal for Uni & West End",
+    "location": "Dundee",
+    "score": "7.9",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380295231.webp?k=219f600008fc89a7044ae3c627bb1449f7561cf22407d5fe9eb3f015e1afbe68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-quay-apartment.html": {
+    "name": "Casa Fresa - City Quay Apartment",
+    "location": "Dundee",
+    "score": "8.8",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369917317.webp?k=be3afdcf1a0a1b4606a507dafab03404b30ee463dde9cf239dca76b92c9e9739&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/urban-quarters-dundee.html": {
+    "name": "Urban Quarters",
+    "location": "Dundee",
+    "score": "9.4",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177897240.webp?k=1c345bde4cd9e112a3973b3a2d00e52b074ed7539948dac52a397086bea8b1ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-apartments-by-central-serviced-apartments-sandeman-street-sleeps-5.html": {
+    "name": "2 Bedroom Apartment by Central Serviced Apartments - Sandeman Street - FREE Street Parking",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339411140.webp?k=48b3cb949836f8a1fa92018c89b447dadc401a05dcc8045a05f55a7ed6e703e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shaftesbury-hotel.html": {
+    "name": "Shaftesbury Hotel Dundee",
+    "location": "Dundee",
+    "score": "8.1",
+    "review_count": "561 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96885142.webp?k=1cde695e5274960932f93c648e18db4c5d53706925ce6daebd1e7f4e3dec8ea8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broughty-ferry-apartment.html": {
+    "name": "Broughty Ferry Apartment",
+    "location": "Dundee",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252180542.webp?k=0b2a7b96265ed9ff653b439383c20b70fe1f55b91f71fc2c312227dc4e4c86c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seaview-cottage-central-dundee.html": {
+    "name": "Seaview Cottage Central Dundee",
+    "location": "Dundee",
+    "score": "9.2",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372519978.webp?k=c66f070e03b0b984082781bea6e3cd31042415afe4253ae8088c0753f2fda0a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/casa-fresa-union-heights.html": {
+    "name": "Casa Fresa - Union Heights",
+    "location": "Dundee",
+    "score": "9.1",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267968795.webp?k=fa65b37c287b09ef8f1ffa64e9b12b729f361fd13a317dcf50a4d82af78e0a27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jollys-broughty-ferry.html": {
+    "name": "Jolly's Hotel Wetherspoon",
+    "location": "Dundee",
+    "score": "7.9",
+    "review_count": "1,594 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62010750.webp?k=01433875251ce0778141fa886d74a3c43e1842ac714671e3b73a7a3eb8337487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/house-on-the-hill-dundee-city-council.html": {
+    "name": "House on the hill",
+    "location": "Dundee",
+    "score": "9.2",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259992424.webp?k=3e9e5aec6d3f2bdce1a5a9bb2382b0b2d4e4a931ce0f639d64c7ebc9f5949fef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-stylish-1-bedroom-flat-with-free-parking.html": {
+    "name": "Entire Stylish 1 Bedroom Flat with Free Parking",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353350686.webp?k=5c1e7b08dd778d7193109e3b6918215b87aaf73bdd08a23de5efa7ac0731ffe4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brand-new-3-bedroom-house-with-patio-in-dundee-with-secure-parking.html": {
+    "name": "Brand New Luxury 3 Bedroom 2 Bathrooms with Patio with Secure Parking",
+    "location": "Dundee",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400706297.webp?k=3bb825172c13a61196a0259ed5a2f539d8cbeb50eaad9843a9d6de3d9e11f593&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-street-dundee.html": {
+    "name": "Church Street",
+    "location": "Dundee",
+    "score": "8.8",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234699370.webp?k=437eb1e2a47649a31141cad69815d41bf23c40c815c7ef93d0069a10539605da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maritime-house-dundee-city-council.html": {
+    "name": "Maritime House",
+    "location": "Dundee",
+    "score": "8.9",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274182855.webp?k=6d2294204eb1618724e462be64afa7756f160a77dd9c560e723bd48cf02004c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-experience-dundee.html": {
+    "name": "The Hideaway Experience",
+    "location": "Dundee",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164788064.webp?k=4af5ff22c70c7bb539703ae13a23fda9e68291a10ce838c468f5103a96e36753&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broughty-ferry-road.html": {
+    "name": "Broughty Ferry Road Hotel by Pillow",
+    "location": "Dundee",
+    "score": "5.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371732403.webp?k=05883902ad19b5ac889163e41329d672eec554ae8fa36f32786a0948225cec5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-view-apartment-dundee.html": {
+    "name": "River View Apartment",
+    "location": "Dundee",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366909325.webp?k=524318a3a46a4ba55726730be993953a01daba6a6016b803e0a8a17882c02097&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-heights-dundee.html": {
+    "name": "Casa Fresa - Castle Heights Apartment",
+    "location": "Dundee",
+    "score": "8.9",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355958308.webp?k=f91c888e80a0e04ab0add02e1fe98f649076d9732bba8f96234d1422cab69c6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/38-unicorn-court.html": {
+    "name": "38 Unicorn Court",
+    "location": "Dundee",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427494891.webp?k=ece887f2b4ad882cfb3c481e110d6ac2c10a2ca5062c3cf018756a1009e9454f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-quays-apartment.html": {
+    "name": "River View Apartment - Central Dundee",
+    "location": "Dundee",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428158205.webp?k=cee2705a0d08e0198f8e27ceb64a1ecfae9c87efcbf745673b32fe9863c56953&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-bungalow-next-to-balgay-park-west-end-of-dundee.html": {
+    "name": "Pass the Keys Bungalow next to Balgay Park, West End of Dundee",
+    "location": "Dundee",
+    "score": "8.9",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347808188.webp?k=86e669b8a1f21891f095397989596ddf660fbebf152437fb32f1cf3b21a4353e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aabalree-guest-house.html": {
+    "name": "Aabalree Guest House",
+    "location": "Dundee",
+    "score": "8.4",
+    "review_count": "141 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301515974.webp?k=e5ff277184feb7dd27974e600d5b297ef7954a7c04fd9a1cf52a956ebef57b52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cleppie-apartment.html": {
+    "name": "Cleppie Apartment",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324997417.webp?k=1b0275d709c189a74b5f43a13133164231d0842d704b9dbd3309874dc016e28a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sidlaw-view.html": {
+    "name": "Sidlaw View",
+    "location": "Dundee",
+    "score": "8.1",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353504612.webp?k=f487a9ad19dfc5a5e0a4f37f5e5138451b2a6629086bf8c436d927d4ed39799b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbotsford-apartment.html": {
+    "name": "Abbotsford Apartment",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328953120.webp?k=121843034677dbc583efe11224e83974f55b80a4b22dc999bb68f927ae74b3f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fishermans-tavern.html": {
+    "name": "Fishermans Tavern",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "595 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131633173.webp?k=e658eafd6f6488b7dbd27f07983dfd25fd80b441cbcb28d4575de5b4cf871985&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/forbes-of-kingennie.html": {
+    "name": "Forbes of Kingennie",
+    "location": "Dundee",
+    "score": "8.9",
+    "review_count": "208 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298150302.webp?k=2db430691c4563315164815fa7fe49e8a3bcc5ca67c975852735bd95a1639ce1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-duplex-apartment.html": {
+    "name": "THE DUPLEX, 4 King Rooms, Amazing Views, Fully Equipped, Free Parking, WiFi, Great for Groups, Businesses, Long Stays Welcome, Food, Bars, Shops, Library, River Views, 24hr Bakery",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393992391.webp?k=4889fab81a4fd88c24bb26f29b6ce83effe4f0b172bf385f29c4cc5512bac143&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-apartment-by-central-serviced-apartments-dundee-rosefield-street-with.html": {
+    "name": "1 Bedroom Apartment by Central Serviced Apartments - Rosefield Street - FREE Street Parking",
+    "location": "Dundee",
+    "score": "9.1",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326639652.webp?k=c01228e6d63f289ebee3d89727558ff6e6cbbdb29e74ab071e024db588823f8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/casa-fresa-seamen-39-s-chapel.html": {
+    "name": "Casa Fresa - Seamen's Chapel",
+    "location": "Dundee",
+    "score": "9.1",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350471583.webp?k=a1f5339a75b36929ac5d0e0e69707d8bca68066cdc25475f5f68c73c3ea23c17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scotland-beds-dundee.html": {
+    "name": "Scotland Beds",
+    "location": "Dundee",
+    "score": "4.8",
+    "review_count": "490 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243737909.webp?k=ffe65d55e72c459859d5f10c420f5d886e2ee2859134fb8ac09d627cfe3d8b47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tayview.html": {
+    "name": "Tayview Hotel",
+    "location": "Dundee",
+    "score": "6.7",
+    "review_count": "255 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/60983079.webp?k=b0bfd8fe220b54f41561fcadaf181ae125518335e561f9c30a6f94b976915201&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dundee-backpackers.html": {
+    "name": "Dundee Backpackers Hostel",
+    "location": "Dundee",
+    "score": "8.2",
+    "review_count": "685 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170592047.webp?k=98951d247c7bb860f4e0ed62a776961fd079cf6793867843a2f3bb935cde12e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fort.html": {
+    "name": "The Fort Hotel",
+    "location": "Dundee",
+    "score": "8.0",
+    "review_count": "306 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389207111.webp?k=cf38e1619764cc5273323daf6a2d9bb17691e4ce437aed4fb25ba3987a8794c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mycosy-provost-road.html": {
+    "name": "Mycosy Provost Road",
+    "location": "Dundee",
+    "score": "8.4",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161127222.webp?k=4be9add3d8e47da7463cad2b91cd1d550e46381fe0f968e9c6c338c934d08c89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/11-somerville-place-east.html": {
+    "name": "11 Somerville Place East",
+    "location": "Dundee",
+    "score": "8.0",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375681240.webp?k=95a1bd798213df7fb77cfc0eea1541a4ca3cb679c1c7baf4a5a00b9950470427&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/athollbank-guest-house.html": {
+    "name": "Athollbank Guest House",
+    "location": "Dundee",
+    "score": "8.8",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367184233.webp?k=c7f7e6b91da111812af8305d9e74223aaea31d6ab47d381fadbb2b54bef48ba6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-2-bedroom-west-end-apartment.html": {
+    "name": "☆ Bright, 2 Bedroom West End Apartment ☆",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387727185.webp?k=316e1aa2b7178b1c3d1fe755c410b1ff48d5b216eca2f2a223d1d838da17ad2a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-serviced-apartments-campbell-street-dundee.html": {
+    "name": "2 Bedroom Apartment by Central Serviced Apartments - Campbell Street - FREE Street Parking",
+    "location": "Dundee",
+    "score": "8.1",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322844039.webp?k=4cbc3f4f46635b1090fa16fa01da641c07af535ba25c8e63f626b1fc672112ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/princess-street-studios.html": {
+    "name": "Princess Street Studios",
+    "location": "Dundee",
+    "score": "9.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399807578.webp?k=f96b28ad25117556c8189aafdfc0a0da3bda3b2f49f44004eaeae6669aa6f0ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-penthouse-dundee-city-council.html": {
+    "name": "THE PENTHOUSE, Spacious, Stunning Views, Foosball Table, 3 Large Rooms, Tourists Location, River Front, Tay Bridge, V&A, TrainStation, City Centre, Lift Access, Parking, WiFi, hosted by Sunrise Short Lets",
+    "location": "Dundee",
+    "score": "7.9",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393983021.webp?k=07d705f2f1628a32e4537d14df55ba5df2061943939300fbba03607c674640ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/claymore-apartment.html": {
+    "name": "Claymore Apartment Broughty Ferry",
+    "location": "Dundee",
+    "score": "9.2",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232317627.webp?k=c23977a2e7189dc532aaa71b08e71a34e21807efb3aaeb2be058e4961f1e2f82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-flat-close-to-university-and-city-centre.html": {
+    "name": "☆Modern Flat, Close to University and City Centre☆",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387884448.webp?k=0d135a6093b97516327a80dd4a4bd538e2391bc186034bf78d7cd89f3ba707e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-estuary.html": {
+    "name": "The Estuary",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426555441.webp?k=b44216ec489a97831cc39ee792d8331e7bbc7965be991aee847147357a2ab4e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/north-balkello-cottage.html": {
+    "name": "North Balkello Cottage",
+    "location": "Dundee",
+    "score": "9.8",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163296671.webp?k=7a41c19fa67630f7233320458b01599e04d16ff296342ca0be84c63cf9b4a095&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cowgate-apartment.html": {
+    "name": "Casa Fresa - Cowgate Apartment",
+    "location": "Dundee",
+    "score": "8.6",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150107746.webp?k=aaf03dfa3348e1c49d8776e1b29ecfb2a388a0170c7f5c97ba2bd54e8ce29a70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/d-39-city-apartment-up-to-6-guests.html": {
+    "name": "D'City Apartment, up to 6 guests",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435541473.webp?k=83e1a706f88f2f04142299e4d7334ee06d4b26c5dc547db943abafb8544cf598&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/zara-apartments-pt2.html": {
+    "name": "Zara APARTMENTS pt2",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327557401.webp?k=9dacc831c9833cc078f30fdef690da20b65fc71ef44a21c5ad55a6346038a10c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ds-study-or-visit.html": {
+    "name": "DS Study or Visit",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433278341.webp?k=b095a701197c3b8eefbf87ab40ad7612e8c6508bc14d41e46455ed72fe8fa7ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-deyne.html": {
+    "name": "West Deyne",
+    "location": "Dundee",
+    "score": "4.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325275685.webp?k=84c6b4e39fe99fdac1e418188f47937c1fc559aeb06b4b5e3a73c1133e4b99d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-serviced-apartments-the-bond.html": {
+    "name": "2 Bedroom Apartment by Central Serviced Apartments - Seagate - City Centre",
+    "location": "Dundee",
+    "score": "9.2",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312625628.webp?k=5751660c408f41bdc1b565f25669e3b36051515485b6ea82218826d2d23f971a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-flat-with-easy-parking-public-transport.html": {
+    "name": "1 bedroom flat with easy parking/public transport",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436462547.webp?k=11e08e5bd14479b6bd0e9935c038c4bf941478dc7eb7c6e79e5d4c76643a48bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-apartment-by-central-serviced-apartments-lawson-place-sleeps-3.html": {
+    "name": "1 Bedroom Apartment by Central Serviced Apartments - Lawson Place - FREE Street Parking",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339464303.webp?k=bea7f8ce2f625e1a2c88c3078914337e578604d82a0857f9caf18f125e76d5c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautifully-refurbished-spacious-2-bedroom-flat.html": {
+    "name": "VR Beautifully refurbished spacious 2 bedroom flat",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403266521.webp?k=a8546b594f0832c388bbe4097b7baad9c9354e903e78b03451945835929f2c99&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedrooms-4-beds-central-location-newly-refurbished-fully-equipped.html": {
+    "name": "Cosy Law - 4 Beds, Fully Equipped, Free Parking, WiFi, 3xSmart TVs, Contractors, Trades, Groups, Families, Food, Shops, Bars, Long Stays Welcome, Weekly or Monthly, Just Ask SunriseShortLets",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429097726.webp?k=44c9a95e4de16582b2d7f7358a9ca0e6b2390b8953a696d7a780d1f83fcf425f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tipperwhig-dundee.html": {
+    "name": "Tipperwhig",
+    "location": "Dundee",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395864147.webp?k=b110823e094aa9c21f33384000dbc91f133740fc5bf27ec469bcaa483479ca65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baxter-park-city-base-dundee-city-council.html": {
+    "name": "Baxter Park - City Base",
+    "location": "Dundee",
+    "score": "9.3",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338084753.webp?k=cc397f27189aee4569ce214462f5b93105264a8fb8c929e5ced2cdf412ea67b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coldside-neuk.html": {
+    "name": "Kingscross Neuk - City Base",
+    "location": "Dundee",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345818207.webp?k=ea213577a672e612d6ac92f3116670befef64cd8af402691695ce67f956a7333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-2-bed-dundee-apartment.html": {
+    "name": "Central 2 Bed Dundee Apartment",
+    "location": "Dundee",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430737891.webp?k=5a632882fe5d20e82e0f2b211efffa22c67c74c1b6c311eb82bcf17034aa9596&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dundee-beds-dundee-city-council.html": {
+    "name": "Dundee Beds",
+    "location": "Dundee",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242245110.webp?k=617cfc1d0fa1129215af85dc1abab4852b9806707f996d49f3e87a4fc6d38323&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/11-somerville-place-east-dundee-city-council1.html": {
+    "name": "11 somerville place east",
+    "location": "Dundee",
+    "score": "8.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366198997.webp?k=d1c6b98bc5d36627f620e16293be2a5b3223130093507d7cc5beed5d33ab8c7d&o=&s=1"
+  }
+}

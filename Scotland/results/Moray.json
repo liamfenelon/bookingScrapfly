@@ -1,0 +1,1922 @@
+{
+  "https://www.booking.com/hotel/gb/davaar-b-amp-b.html": {
+    "name": "DAVAAR B&B",
+    "location": "Dufftown",
+    "score": "9.1",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248963519.webp?k=44fb6881820a1baca4b61b551f3ea8b1cfa95b37cbfbe9818fa4785b9f3fd004&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/emahroo-cullen.html": {
+    "name": "Emahroo Cullen",
+    "location": "Cullen",
+    "score": "9.5",
+    "review_count": "111 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/184919669.webp?k=08393a0f9536bf565ab66bb280b952e9adc7fb8c7ebb532629c5269df15fce1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seaforth-house-apartment.html": {
+    "name": "Seaforth House Apartment",
+    "location": "Elgin",
+    "score": "9.2",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306563015.webp?k=f5e82eddd5f35a6949426a17a59897c7a52ce41b37c602bc596162e33f42f0a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-views-3-bed-cottage-in-findochty-moray.html": {
+    "name": "The View 3-Bed Cottage Findochty Buckie Moray",
+    "location": "Findochty",
+    "score": "9.6",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279181892.webp?k=bd1eff6189c5f0c901a9e3fd44dd839d4c060f90828c30cdca9bc06be55df92a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/preston-villa-spacious-ground-floor-apartment.html": {
+    "name": "Preston Villa, spacious ground floor apartment",
+    "location": "Buckie",
+    "score": "9.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315141144.webp?k=6d0318797d7879313e2bcd78651688fc4163a46a4a08efd4c2dcadb1715f9c82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/craigewan-cottage-cullen-hot-tub-47-paddle-board.html": {
+    "name": "Craigewan Cottage Seatown Cullen",
+    "location": "Cullen",
+    "score": "9.0",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298537920.webp?k=d72c3abcaaa887fe99236599cebdeb4de80307275df307e766922596a811824f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunvegan-b-and-b.html": {
+    "name": "Dunvegan B and B",
+    "location": "Dufftown",
+    "score": "9.6",
+    "review_count": "212 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154819510.webp?k=ebf5e607452a0051bfe050976752251bf0935fd8495d69c0f2c93cfd80aefab0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-fulmar-road-next-to-west-beach-and-golf-course.html": {
+    "name": "1 Fulmar Road**Next to West Beach and Golf Course",
+    "location": "Lossiemouth",
+    "score": "9.6",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287555554.webp?k=736b004c055b36947b0e885e192a425961c7393b95b64ecbcfa1907e21d1fa65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/craigellachie-lodge.html": {
+    "name": "Craigellachie Lodge",
+    "location": "Craigellachie",
+    "score": "9.6",
+    "review_count": "163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289944155.webp?k=e7fdc24015cabdd9039bff404c3f4914cb3e41709d8f048d065aa8547fa3445d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chemists-house.html": {
+    "name": "Chemist's House",
+    "location": "Cullen",
+    "score": "8.9",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298324348.webp?k=6037eea4b665e6c9b571b4c06a735996a71bbd0e1c71dbc224bf93b0ea89ed0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-robin-b-amp-b.html": {
+    "name": "Little Robin B&B",
+    "location": "Dufftown",
+    "score": "9.9",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355188404.webp?k=173c61fbfc10f62e99a270901b9858c03eabcc29615498a71e77fdbbf05ef65f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/commercial-dufftown-dufftown.html": {
+    "name": "Commercial Hotel Dufftown",
+    "location": "Dufftown",
+    "score": "8.1",
+    "review_count": "239 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176144101.webp?k=72922d9980b730a841c68c4a38a74172294a3673d1d7533b08fa023f444b17d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lossiemouth-haven.html": {
+    "name": "Lossiemouth Haven",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327539918.webp?k=6a87ef6ccc5b0fcb279f87267673f73665c2f92c46bd712a6a9b1e09c1af1615&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-aberlour.html": {
+    "name": "The Cottage Aberlour",
+    "location": "Aberlour",
+    "score": "9.4",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236035121.webp?k=cef6ef36d926ebefcf3f027fc03c62da9e75bb5ed76abce0062124b247361903&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nurses-cottage.html": {
+    "name": "Nurse's Cottage",
+    "location": "Tomintoul",
+    "score": "9.6",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320418724.webp?k=b5ad79d146f5022544ef5de1b75fd24c75e7b8383587f524834572d82befa8eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-milking-sheds-dufftown.html": {
+    "name": "The Milking Sheds, Dufftown",
+    "location": "Dufftown",
+    "score": "9.6",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288040446.webp?k=9d6e175745166834928fa4a98e8b5f414e7e88c515d2195494f8c91b75ed8eef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/braebirnie-court-the-courtyard.html": {
+    "name": "Serviced Accommodation Moray",
+    "location": "Elgin",
+    "score": "7.9",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339848229.webp?k=819c7cb2bbe5054da18ef49c89172c6756969e94d7bf5c75967e89ee9ab2d37d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beachfront-lodge-lossiemouth-bay.html": {
+    "name": "Beachfront Lodge, Lossiemouth Bay",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297441289.webp?k=70e31b15b67acfdf4f520bcf71bc871e631eec3225f76a85e5dbb38d5eee6ce8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stotfield.html": {
+    "name": "Stotfield Hotel",
+    "location": "Lossiemouth",
+    "score": "7.5",
+    "review_count": "863 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/45415328.webp?k=3afff1a432351bd747df18503a2776cf63f3bf6c79eca5e090a0dc63d16f320c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mash-tun.html": {
+    "name": "The Mash Tun",
+    "location": "Aberlour",
+    "score": "8.9",
+    "review_count": "284 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264061180.webp?k=fe7ff5d1ec934e8cf26ec300882fad2ef9d2449fddf56b028dbc6dbed5533603&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/highlander-inn.html": {
+    "name": "Highlander Inn",
+    "location": "Craigellachie",
+    "score": "8.8",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216047123.webp?k=819f2b16b59f9af5ce978595fc4859667c6264df6a4f9f423d53eda2d026025a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lossiemouth-seaside-flat.html": {
+    "name": "Lossiemouth Seaside Flat",
+    "location": "Lossiemouth",
+    "score": "9.0",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345047724.webp?k=d6d2b9e1bf5f90c5e4372c46a62205035f61137f9e6f179967d5eec68261ad70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beach-front-panoramic-sea-views-free-wifi-parking.html": {
+    "name": "Beachfront Panoramic Seaview Free Wifi & Parking",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311239509.webp?k=f01c1aa57fb6d9c19518130dfc9982b53d9a9c8b0d05658fad956528ea978e11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/couples-highland-retreat.html": {
+    "name": "Highland couples retreat",
+    "location": "Ballindalloch",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417907296.webp?k=a746b9eee3eed529dc1baccb812b039dea1a5337f15b61fb6bf0ffa29dff9f98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dandaleith-cottage.html": {
+    "name": "Dandaleith Cottage No.2",
+    "location": "Craigellachie",
+    "score": "9.0",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146234054.webp?k=16d42a77296aa96159b6a3a53a30f758cc4eccdb28f3e03cc2fb716d1ae969f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-large-home-overlooking-hills-with-swim-spa.html": {
+    "name": "Self catering accommodation three bedroom house or one bedroom cottage",
+    "location": "Tomintoul",
+    "score": "9.4",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356329587.webp?k=b43c27639586efd1067b5384ec55bf4a6a1df6b683e1e9a4e396a1351227dca2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-aberlour.html": {
+    "name": "The Barn | Aberlour",
+    "location": "Aberlour",
+    "score": "9.6",
+    "review_count": "69 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180780147.webp?k=d337f73abea43fa5de84aa944fe4af8d21e80c1df594baad616b69774a1c2e7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gables-whisky-b-amp-b.html": {
+    "name": "The Gables Whisky B&B",
+    "location": "Dufftown",
+    "score": "9.5",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293658348.webp?k=3375abfb9d6ca28326f09fd9331af319472e276c716f7dbefc8c33c7df1b56bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-marina-quay.html": {
+    "name": "3 Marina Quay",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177337010.webp?k=71602ae769f0ce1fc63f59586c0790bb93870b982e93a68dc94d84b5812f20d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/owls-retreat-glamping-pod-with-hot-tub.html": {
+    "name": "Owls Retreat Glamping Pod with Hot tub",
+    "location": "Keith",
+    "score": "9.8",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328691193.webp?k=2e31136e92041fa66d574f787fda14f5f733c99a16d13f0d78ee265965296fa6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-bruntlands.html": {
+    "name": "Lower Bruntlands",
+    "location": "Fochabers",
+    "score": "9.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374030433.webp?k=891829f4d1ee80185240ec5ba08f2842e2c5135e488b7222191cca102ecbdb6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barley-mill.html": {
+    "name": "The Barley Mill",
+    "location": "Elgin",
+    "score": "9.7",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286823782.webp?k=11c4ec7a354c452fd37cd00dbec874d33854b9e232033e577b939479fbf025e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-boathouse-findochty-near-buckie.html": {
+    "name": "The Boathouse",
+    "location": "Findochty",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418257499.webp?k=b27270a52b051d05f957476bc6af867e09883e6b10b6319a6819822c494c40be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-jewel-of-the-moray-firth.html": {
+    "name": "The Jewel of the Moray Firth",
+    "location": "Lossiemouth",
+    "score": "8.8",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186453754.webp?k=d45eba014f217de53f007771a0cf4b9085218cf3e28941a7ab57fa3a8d86f4a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/isla-way-stays.html": {
+    "name": "Isla Way Stays",
+    "location": "Keith",
+    "score": "9.7",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371111124.webp?k=ecf6a508afcda425fcda7c13c076cb8dcd6fe7b77d8a75610644a56eafd3771d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skerry-view.html": {
+    "name": "Skerry View - Overlooking the Moray Firth - close to Beaches, Harbour, Shops and Restaurants",
+    "location": "Lossiemouth",
+    "score": "9.2",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257986211.webp?k=4f411620b5da9b0c6100b8cba9a44a5194a0a2b063b2b2e751a8666a56e802a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-chemist.html": {
+    "name": "The Old Chemist",
+    "location": "Cullen",
+    "score": "9.2",
+    "review_count": "108 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/187837918.webp?k=46724cf52250f295695d2eb4bc3c58094a204378a7163c9da5a9b028473d026f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bothy-aberlour.html": {
+    "name": "The Bothy Aberlour",
+    "location": "Aberlour",
+    "score": "9.6",
+    "review_count": "48 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300642006.webp?k=f529a508f3375d628cfa52ef522f444cdb088e6dc71cb7cf8fcd34beac29ac20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-cottage-in-portknockie-near-cullen-moray.html": {
+    "name": "4-Bed Cottage in Portknockie Near Cullen Moray",
+    "location": "Portknockie",
+    "score": "9.9",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279211145.webp?k=54f607bb7f5f5063e747a575e106cc6ff772f63e6ed7db460491bc3a52f05f75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dowans-of-speyside.html": {
+    "name": "The Dowans Hotel of Speyside",
+    "location": "Aberlour",
+    "score": "9.2",
+    "review_count": "264 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/116579320.webp?k=af12e37991b0eb2bf226e4f7a8a614e08a3dd0ff3338eb56bbdd70bd343bdc1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/norwegian-log-cabin-the-roe-deer-sauna-amp-hot-tub.html": {
+    "name": "Norwegian Log Cabin The Roe Deer -sauna & hot tub",
+    "location": "Keith",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410159136.webp?k=81b247a4ae7d660174fbbb8bd283bd9bbf879c85ef21915edfcbce18965371c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mary-39-s-apartment.html": {
+    "name": "Mary's Apartment",
+    "location": "Rothes",
+    "score": "9.4",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340084857.webp?k=b925bb60b85d7ff7535645923ec0d34fcef2527e089cd25ee3f3767c90054d94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/craigellachie-of-speyside.html": {
+    "name": "Craigellachie Hotel of Speyside",
+    "location": "Craigellachie",
+    "score": "8.3",
+    "review_count": "349 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115264508.webp?k=879ea2dff3a1235ba4037f4bd62512ec0794efa30757701c1a17541a5afd4d9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ploughmans-cottage-forres.html": {
+    "name": "Ploughmans Cottage",
+    "location": "Forres",
+    "score": "9.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372202703.webp?k=92523c892939eff43ab6bfe0a8f6f68fdba0b0c1029c4fa00b216866a1019e19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-spacious-near-marina-commerce-street-lossiemouth-free-parking-wifi.html": {
+    "name": "Modern Spacious, Near Marina - Commerce Street, Lossiemouth - Free Parking, WiFi",
+    "location": "Lossiemouth",
+    "score": "9.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321091376.webp?k=910a86a07eab4a5b2dcba2c66b78aa3dac46186badded44557ffb307b1d9a44a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-flat-marina-view-free-parking-wifi.html": {
+    "name": "Serviced Accommodation Moray, Marina View - Free Parking, WiFi",
+    "location": "Lossiemouth",
+    "score": "8.3",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294596132.webp?k=acf534f0afe1a7ef9471e32e3f6013d475f58b081286f34fb208199e669d0ddb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollies-retreat-lossiemouth.html": {
+    "name": "hollies retreat",
+    "location": "Lossiemouth",
+    "score": "9.4",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246143339.webp?k=c14c6ac2f1c0eb9223f8100ded34299e29b268a73dda6613028b1869a39bd3bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ricks-retreat.html": {
+    "name": "RICK'S RETREAT static caravan near the beach with free wifi",
+    "location": "Lossiemouth",
+    "score": "9.4",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327171884.webp?k=ce1fe3fbc6a3eda376cb420167181fca24a2bf1a40db6e08d1e321c4a5477933&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkmore-holiday-cottages.html": {
+    "name": "Parkmore Holiday Cottages",
+    "location": "Dufftown",
+    "score": "8.8",
+    "review_count": "48 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131164457.webp?k=37bb6c11dc516cdba7d683875af28289c121668ebf2033c6c673a3eff3ff042a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-aberlour.html": {
+    "name": "The Aberlour Hotel",
+    "location": "Aberlour",
+    "score": "8.6",
+    "review_count": "281 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288792537.webp?k=cd231b17acb67ddd9c0e164a4a61b87b335071d00a2ae83d4b049d89b99387b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-mill-inn-forres.html": {
+    "name": "The Old Mill Inn",
+    "location": "Forres",
+    "score": "9.0",
+    "review_count": "123 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434169809.webp?k=1028361881a36a4734973e814275c4d0b42e80a27860206c3aafb8c5b839ffc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/islas-cottage-a-home-in-the-heart-of-dufftown-in-speyside.html": {
+    "name": "Islas Cottage, a home in the Heart of Speyside",
+    "location": "Dufftown",
+    "score": "9.3",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402853294.webp?k=3f6afdb0c2f3023a0910a0a62a237993721e32d338e547b512a6708b9cf63383&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/zen-cottage-seatown-cullen.html": {
+    "name": "Zen Cottage Seatown Cullen",
+    "location": "Cullen",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356351442.webp?k=2cc094134d87ff375ba849305f8e9a27a65f72d55697caebc2f078938dc95fce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ben-wyvis-lodge.html": {
+    "name": "Burgie Woodland Lodges",
+    "location": "Forres",
+    "score": "9.3",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416070118.webp?k=bca4538dfdad05d67741a5cf43e3950c31a84b5c28fd30d8f2cfc381463daf35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lossiebeach-apartment.html": {
+    "name": "LossieBeach Apartment",
+    "location": "Lossiemouth",
+    "score": "9.0",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186657688.webp?k=32e1c83515c452e140c5d19da62f5f923de2081c78683d8f048751965297cea9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mosslodge-retreat.html": {
+    "name": "Mosslodge Retreat",
+    "location": "Keith",
+    "score": "9.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296722488.webp?k=8e26fcdcc70e5ff8dd98e919edc1e4ef3e1b20aeda7ef70ea507f087ec72dc39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-mills-garden-elgin.html": {
+    "name": "Old Mills Garden",
+    "location": "Elgin",
+    "score": "9.4",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149716696.webp?k=a320ce12c6df1d528823733607fe736380d41af157d1b086ffe9bf7ecf3c7b30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/balmara.html": {
+    "name": "BalMara",
+    "location": "Hopeman",
+    "score": "9.3",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131614882.webp?k=d780683f951b57810d4d09fa4368c872acd3912a64c3db36e9acc880e50b0cc3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grampian-fife-keith.html": {
+    "name": "Grampian Hotel",
+    "location": "Keith",
+    "score": "7.2",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165066882.webp?k=5bc68b787a774bbaea83f00c902afc63ea628aeeeb7fcd2787dc82e6c3499c6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbeyfield-dufftown.html": {
+    "name": "Abbeyfield B&B",
+    "location": "Dufftown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433088604.webp?k=4defd1c0aab1f325d76ec4803d0fb502ae658a32de05298a6a1dad25b3dc093b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ben-shea-smart-home.html": {
+    "name": "Ben Shea Smart Home",
+    "location": "Dufftown",
+    "score": "9.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288043066.webp?k=9cf8f7319006c1bbcb20dda6286607be0052c534e95c18b5ab308b7c8a80804e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-1-near-the-beach.html": {
+    "name": "Apartment 1 - near the beach",
+    "location": "Lossiemouth",
+    "score": "6.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137923912.webp?k=c8144083f384c616af192b486d1c2f3294814d3dbb8a147f96a39e66c0522c8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/links-lodge-lossiemouth.html": {
+    "name": "Links Lodge",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "208 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59021710.webp?k=67c11f0b28c240669050d02640c4372004d00de3d28af9a6669977773542ec95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-74.html": {
+    "name": "Number 74",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288808171.webp?k=c533697fefb38580297a83bfc9aa7b5839d3edac577a1f99f49dcc273938deeb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moraybank-bed-amp-breakfast.html": {
+    "name": "Moraybank Bed & Breakfast",
+    "location": "Elgin",
+    "score": "9.5",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241716970.webp?k=7e654c26ccbdd3f326ffd39b03ed626092aee28e93c66ff5b3cb43e23374bc5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-beach-hut-burghead.html": {
+    "name": "The Beach Hut, Burghead",
+    "location": "Burghead",
+    "score": "9.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367111713.webp?k=73595e212d0251fe14ec11b81c89f9319f1837189d00cb0bdc598b914d9ae278&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/richmond-arms.html": {
+    "name": "Richmond Arms Hotel",
+    "location": "Tomintoul",
+    "score": "7.9",
+    "review_count": "466 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306537526.webp?k=9c73e7f695ced7c2aa298997939b20b8d10e7c3954920842d9c7a4e14bb8b5c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carden-holiday-cottages.html": {
+    "name": "Carden Holiday Cottages - Elgin",
+    "location": "Crook of Alves",
+    "score": "9.2",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/40071222.webp?k=5e14df26b52aa8f4e9f0f64cd490a6bf0d026b4e88a9ae7f799f65aa04a42824&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mansion-house.html": {
+    "name": "Mansion House Hotel",
+    "location": "Elgin",
+    "score": "7.8",
+    "review_count": "1,111 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/58306284.webp?k=98d12b86f4df4ea9daf1900d12cf09131c0b67035bbe1be8aba6450bd8796419&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morven-dufftown.html": {
+    "name": "Morven",
+    "location": "Dufftown",
+    "score": "8.5",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209262088.webp?k=889246b4bd5f8379bf5f0726e2bd1af6474f5cea91c5187cbcc02139202c9804&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pauls-place-silversands.html": {
+    "name": "Paul’s place silversands",
+    "location": "Lossiemouth",
+    "score": "9.4",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240095059.webp?k=71afef9ea5415af5dabdbf305ee2d057f91d3d44b72d2a2942090b93156eabb8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pines-guest-house-elgin1.html": {
+    "name": "The Pines Guest House",
+    "location": "Elgin",
+    "score": "9.6",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410819593.webp?k=460d80c7cac89662b7a05752f77baab90efd5b3d1da2c91d0b341d619d6251a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kilmorie-house.html": {
+    "name": "Kilmorie House",
+    "location": "Elgin",
+    "score": "9.8",
+    "review_count": "435 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255883207.webp?k=1727681144cf2bc573c35a82baf33643688219841270d4f9f1e88cea3b86aa09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/golf-view-amp-macintosh-restaraunt.html": {
+    "name": "GOLF View Hotel & Macintosh Restaurant",
+    "location": "Lossiemouth",
+    "score": "7.5",
+    "review_count": "405 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403541438.webp?k=a5c8ef3c5342be736c2f528f72b75e8c5e603628ee935daa350b7a504792f809&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/117-seatown-cullen.html": {
+    "name": "117 Seatown Cullen Hot Tub Paddle Board",
+    "location": "Cullen",
+    "score": "9.6",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162467856.webp?k=d8dbc84a9887821691aa0a6b870f1ddad6a2189e392c6ec5737f21cc87f4fb0c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/87-lighthouse-view-caravan.html": {
+    "name": "87 Lighthouse View Lodge",
+    "location": "Lossiemouth",
+    "score": "9.4",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216593060.webp?k=577108702ec39cef3bc1dc22a0bd6812c72ccab93c7af010473eb6bccfb754d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shenval-cottage.html": {
+    "name": "Shenval Cottage - 28280",
+    "location": "Glenlivet",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418513205.webp?k=0f8fd5aee5462bd2b6ae1c06878b362cc0ff1f5b1a1b1696f63ead37d4b0763b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brylach-steading-the-bothy.html": {
+    "name": "Brylach Steading",
+    "location": "Aberlour",
+    "score": "9.7",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367196113.webp?k=8113f60f0adf191e0638f483b535c589e20dcf6c2dde8575a64c05e3b07e89e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-wing-apartment.html": {
+    "name": "East Wing Apartment in Elgin",
+    "location": "Elgin",
+    "score": "8.0",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/153833126.webp?k=1607c0a746c8e1c8bf8a189c9656c06c708f543a5d421bfeea66b7af7ef25a4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cullenbay.html": {
+    "name": "Cullen Bay Hotel",
+    "location": "Cullen",
+    "score": "8.3",
+    "review_count": "431 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46661887.webp?k=40c4cec8bcc33343598abff0e1a9e75a2b5dc8becf80234d106fbbd25dbde31d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-2-bedroom-house-in-picturesque-cullen.html": {
+    "name": "Spacious 2 Bedroom Home in Picturesque Cullen",
+    "location": "Cullen",
+    "score": "9.4",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311605755.webp?k=0e5948846065e3f01ece36ebd51425b281cc1f2d399def6921e5161ead9c2818&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inveravon-holiday-home.html": {
+    "name": "Inveravon Holiday Home",
+    "location": "Dufftown",
+    "score": "9.4",
+    "review_count": "93 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/73386001.webp?k=9731e3ade95b402b999159078a495317b5ac6cae8c8f9e8bfda14d02029a39c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/laichmoray.html": {
+    "name": "Laichmoray Hotel",
+    "location": "Elgin",
+    "score": "8.7",
+    "review_count": "922 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10059363.webp?k=00d77a202f056e5042bda0dee93c43352d1ef010942cf706d8c6dabb00e4e7d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garbity-cottage.html": {
+    "name": "Garbity Cottage",
+    "location": "Fochabers",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375108711.webp?k=b5d04d4b5579a7501617982f9d937ce44b9ebcf71d2bc38cc3c79bb2e75fc5a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victoria-portknockie.html": {
+    "name": "Victoria Hotel",
+    "location": "Portknockie",
+    "score": "8.8",
+    "review_count": "242 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299981881.webp?k=248a49b39a421f9e29473280d9247a3e3242ffe6817b4083f5057740f1ea861e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/firth-view.html": {
+    "name": "Firth View",
+    "location": "Garmouth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418211557.webp?k=554c0f3066bc459e71219ee41808df6538351ace32e9a9726ac0e322b6bb2007&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/melody-brooks-caravan-park.html": {
+    "name": "Melody Brooks Caravan Park",
+    "location": "Portknockie",
+    "score": "8.9",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350137911.webp?k=b4a7ae14ad0cb254cb5a6ae2df73f2831f8432df696e787eb519da2d51a0dc48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/station-hopeman.html": {
+    "name": "Station Hotel",
+    "location": "Hopeman",
+    "score": "7.7",
+    "review_count": "88 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/37144746.webp?k=9fcd44b7d866088bbf2cfd69e5064cfab048ac536067ad7bf6f4201cca28930e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillview-cottage-ballindalloch.html": {
+    "name": "Hillview Cottage",
+    "location": "Glenlivet",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96436630.webp?k=f2d88e81b7253c157112dd9715b48a6713c2275e12651a55f1c6a07041ef97e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardhu-country-house.html": {
+    "name": "Cardhu Country House",
+    "location": "Aberlour",
+    "score": "9.7",
+    "review_count": "261 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219583379.webp?k=7f5638ae0ed42b4db736960be044a1e1c6f585b71ca52dae9869cd16a670c05e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-cottage-hopeman.html": {
+    "name": "The Perfect Seaside Retreat, Hopeman",
+    "location": "Hopeman",
+    "score": "9.8",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288295909.webp?k=5e1e571c5ebea70bed00a0b7a59d078b4c12dcd53b345d8f0c4afd5c0cb6d2cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marine-buckie.html": {
+    "name": "Marine Hotel",
+    "location": "Buckie",
+    "score": "6.4",
+    "review_count": "218 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274474986.webp?k=af21fe2a7f479a41eb2fd877d19ccb1c28e483d8c8c152c3b744e6499660d79a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blervie-house.html": {
+    "name": "Blervie House",
+    "location": "Forres",
+    "score": "9.2",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140681683.webp?k=015c14b5dfc8c81f256b1068722e679acaea6f3f5d467118637c078b93c9ea6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/welcomehouse.html": {
+    "name": "WELCOMEHOUSE close to east beach, shops, restaurants and RAF base",
+    "location": "Lossiemouth",
+    "score": "9.2",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205538871.webp?k=28a0b4dbfc2b7de17fab429fdb36b90c5f1af3b2f9d06f46dc997725c6fba86d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bothy-forres.html": {
+    "name": "The Bothy",
+    "location": "Forres",
+    "score": "9.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295007340.webp?k=9839905c2f6cd75c931c087b5a7b1c71003acb6f71400ca154695fe94a31bf35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-seafield-arms-cullen.html": {
+    "name": "The Seafield Arms-Cullen",
+    "location": "Cullen",
+    "score": "8.9",
+    "review_count": "282 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203996200.webp?k=c046d87ebbaba70c63fd7333a4efcbb7bbdd51f7f689f2ff632e79da67eb958f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-stills-apartment.html": {
+    "name": "4 Stills Apartment",
+    "location": "Rothes",
+    "score": "9.0",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335897687.webp?k=839aca5f3005b6557de5089c43c7aa23b65899a48e96349dd22fb5a27ea20e03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kiltroom-cottage.html": {
+    "name": "Kiltroom Cottage",
+    "location": "Aberlour",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434765209.webp?k=0ab1881e1f0a60c82a0b69c8523274abced89c8cc6e5d1b4cceccee9879f4466&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tullich-house-keith.html": {
+    "name": "Tullich House",
+    "location": "Keith",
+    "score": "9.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416372848.webp?k=9764e80058a4cc04b1d23ebe714389549b31b0c0a42a815a027acd4dc3eb828b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/macbeth-39-s-hillock.html": {
+    "name": "Macbeth's Hillock",
+    "location": "Forres",
+    "score": "9.5",
+    "review_count": "111 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180911184.webp?k=ffd3f1df297380c32f9166be148beb95b0a94bb53cb2ef72b48f3d9d813ce817&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/convalmore-house.html": {
+    "name": "Convalmore House",
+    "location": "Dufftown",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249763609.webp?k=c2e799c02aeb647ec8374f0ec037b5c29b2fa8a1a02877413db53f16f6e44848&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-street-luxury-apartment-lossiemouth-moray.html": {
+    "name": "Modern seaside apartment ,Lossiemouth, Moray",
+    "location": "Lossiemouth",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333872934.webp?k=0f0251cc9c3a7fadbaf19e4e66ac7f5de52132070305bc12ac1ee1ae740f8265&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elgin-guest-house.html": {
+    "name": "Elgin Guest House",
+    "location": "Elgin",
+    "score": "8.4",
+    "review_count": "189 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135448679.webp?k=35a4cf41f401165a1d8a1857924897ce4b76f6155233193ee60451acaace9622&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boatmans-cottage.html": {
+    "name": "Boatmans Cottage - 27787",
+    "location": "Portessie",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418720195.webp?k=d1eea32cdbc712313ae950bea50c2fbcfe7a4b1a867ba39e9bd40315880575cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newlands-aberlour.html": {
+    "name": "Newlands, Aberlour",
+    "location": "Archiestown",
+    "score": "9.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344435695.webp?k=4fdae0331c71e69aa1831865fd0e199346c3ae67a4749a6b246adc9ed1a75865&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mortlach-cottage.html": {
+    "name": "Mortlach Cottage",
+    "location": "Dufftown",
+    "score": "8.8",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216598603.webp?k=62f3572a7d6e7f84346c3f3be461f9c1336c446fb55a7f4fb418d8e9687fce21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunflower-bed-amp-breakfast.html": {
+    "name": "Sunflower Bed & Breakfast",
+    "location": "Findhorn",
+    "score": "9.1",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216284121.webp?k=a06c49e452750c410d58b6371df84c0a69ae08b08a02a1e429c0f96d70248809&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seascape-lossiemouth.html": {
+    "name": "Seascape, Lossiemouth",
+    "location": "Lossiemouth",
+    "score": "9.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344440642.webp?k=c3adc3a322e41a4d215e41814a240188709b9eeea80b15494ba0710155680d58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-cottage-forres.html": {
+    "name": "East cottage",
+    "location": "Forres",
+    "score": "9.5",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326305163.webp?k=16297fdb425d13202a20591e7dec9bfcb7030469bf5f4d899aa2601524647ad5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dram-van-beautiful-luxury-static-caravan.html": {
+    "name": "The Dram Van - Beautiful, luxury static caravan",
+    "location": "Aberlour",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346933891.webp?k=0c4b33f4ca5a016f88fd4b1b7a2c76ce3044b2347343f87ca1dd6bbe69962363&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/camping-pods-silver-sands-holiday-park.html": {
+    "name": "Camping Pods Silver Sands Holiday Park",
+    "location": "Lossiemouth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417493265.webp?k=d1b749016e482d8be22cc128d3e7d004adc6230738fface7ca5c06a28954b484&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mansefield.html": {
+    "name": "The Mansefield Hotel",
+    "location": "Elgin",
+    "score": "8.6",
+    "review_count": "275 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277397598.webp?k=480d75be2f453d26dabba81d3567d280a7d5e6e0bcedbfd0c74209e5f30aea1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunninghill.html": {
+    "name": "Sunninghill Hotel",
+    "location": "Elgin",
+    "score": "8.6",
+    "review_count": "221 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/6057347.webp?k=2da6c11232e728647ea8cd6e1b104a66049f5a75e7382f93ab23cde9cb967cde&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-apartment-in-aberlour.html": {
+    "name": "The Apartment in Aberlour",
+    "location": "Aberlour",
+    "score": "8.7",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304173598.webp?k=84fcef281be60049d9952e41eaab84d0dad330dff0369a91a8b08982356ac2b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gracemount.html": {
+    "name": "Gracemount",
+    "location": "Portknockie",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354588427.webp?k=2e5d1b2bbcecd48564334890e762ddfec4d0a42674b6cf980748915a18a5580f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-salmon-van-beautiful-luxury-static-caravan.html": {
+    "name": "The Salmon Van - Beautiful, luxury static caravan",
+    "location": "Aberlour",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346930130.webp?k=7fa9b6c92cb58c5f66dd78095eeff099700b1c021bed9ee7d17f1c3a21987404&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dufftown-tower-view.html": {
+    "name": "Dufftown Tower View",
+    "location": "Dufftown",
+    "score": "7.3",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/85258488.webp?k=6db16ea8fa57bee92a726c9480765a5159aefb77e57d3909fb2581b7bdc2c6da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ceol-na-mara-portknockie.html": {
+    "name": "Ceol na Mara",
+    "location": "Portknockie",
+    "score": "9.4",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263795978.webp?k=d0454914a6aa328b74e3cb4ecaf4fb7c8a0b77924f888a7c369e8e0a705d42a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/belleville-bed-and-breakfast.html": {
+    "name": "BELLEVILLE BED AND BREAKFAST",
+    "location": "Elgin",
+    "score": "8.6",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266693131.webp?k=7faf144ef8a9c322408e64fbbf4363adfb3cbb5de0808b1b44eda65225e3ec03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thistle-dhu-bed-amp-breakfast.html": {
+    "name": "Thistle Dhu Bed and Breakfast",
+    "location": "Glenlivet",
+    "score": "9.8",
+    "review_count": "177 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311428397.webp?k=019cc4697a2fc0e970650898c5f0fff26c7f9f9b7cf434426fdcdec51f8aca6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lettoch-farm-holiday-home.html": {
+    "name": "Lettoch Farm Holiday Home",
+    "location": "Dufftown",
+    "score": "9.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314628238.webp?k=a3390aed0b1fca2791c11d18c97e6ca8b17b874e8eee3e4430a64e4c12be42a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seatown-cottage-lossiemouth.html": {
+    "name": "Seatown Cottage, Lossiemouth",
+    "location": "Lossiemouth",
+    "score": "9.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144156580.webp?k=c88b743e33e59ea06ecfe0185f713debc7980600d4dfaae25c0ac14147737ee3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dalmunach-house.html": {
+    "name": "Dalmunach House",
+    "location": "Aberlour",
+    "score": "9.6",
+    "review_count": "172 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338797739.webp?k=0bd6560e3998da440e4e1e5229a0ea9aaabcdcd9dca1508ede9ed586cc5f59b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tannochbrae-guest-house-amp-restaurant.html": {
+    "name": "The Tannochbrae",
+    "location": "Dufftown",
+    "score": "8.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403356342.webp?k=f1e464eb13551a5c16cf573fe93189ddde42459291275379a860959065214d6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/treetops-elgin.html": {
+    "name": "Grampian Serviced Apartments - Treetops Apartment - Lesmurdie House",
+    "location": "Elgin",
+    "score": "8.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303133621.webp?k=b7b0dae5a02ec973d4ed6b742592daa0ae9940d61e5127246cbe1d6a026018d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-flat-in-moray-near-coast-and-whisky-trail.html": {
+    "name": "2 bed flat in Moray, near coast and Whisky Trail",
+    "location": "Keith",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378215182.webp?k=391825a62442c5594ba60005a30d453765b52541b97fc58b8a7ac3082853406a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-rothes-retreat.html": {
+    "name": "The Rothes Retreat",
+    "location": "Rothes",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300649055.webp?k=3d45e009d4a9424403473beb34443b49663106b1214ddcd9e49309e13e26e94c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-spey-van-beautiful-luxury-static-caravan-aberlour.html": {
+    "name": "The Springer Van - Beautiful, luxury static caravan",
+    "location": "Aberlour",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435903633.webp?k=ccea46a3326f8bf579a7dcd99c6049634dc6fe8b94feb71191954937ee75d0a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-forres1.html": {
+    "name": "The Farmhouse, 6 bed property, Forres",
+    "location": "Forres",
+    "score": "7.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310358669.webp?k=75fbb903f90d83615493b5eaca3a884a96cc5b20d75126be129165a8281dcd27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-clock-tower-keith.html": {
+    "name": "The Clock Tower",
+    "location": "Keith",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311435334.webp?k=cbb15648bebbf52a36e9ce451de8a0e3699435b28539bd2dbe6fdba5a0e255c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-seafield-arms-cullen-cottages.html": {
+    "name": "The Seafield Arms Hotel Cullen - Self Catering",
+    "location": "Cullen",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295217991.webp?k=67310df0cc88d8cf9c368c74e45f690f2aef2e02924666323084b709b9e8518f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-carisbrooke.html": {
+    "name": "The Carisbrooke",
+    "location": "Forres",
+    "score": "7.9",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162717919.webp?k=c5a3c73b2d5e0188d5bc7804224821c6295f791942c4f91f2e2e939716491c78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kilmuir-cottage.html": {
+    "name": "Kilmuir Cottage",
+    "location": "Tomintoul",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424606088.webp?k=af1c9e113f3bdaf75ced4af32dee3efb89ebe597fcee841ed65e830f17582e79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kilmorie-gig-house.html": {
+    "name": "Kilmorie Gig House",
+    "location": "Elgin",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258676209.webp?k=9cead9bceb1cbe271b13643bbeb5e0aaa4a88c6b27b73c735601fc95de8a8dea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robins-nest-glamping-pod-with-hot-tub.html": {
+    "name": "Robins Nest Glamping Pod with Hot Tub",
+    "location": "Keith",
+    "score": "9.9",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342954547.webp?k=4bbb7e2addc1c7446152f92e48ce0fe550f61bd7fd8b803aabc12a8975956f75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westend.html": {
+    "name": "West End Guest House",
+    "location": "Elgin",
+    "score": "9.3",
+    "review_count": "165 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396525743.webp?k=f589a3169f76a27675d72d7a43de7db4e83d64284b4e812f6d8ff49c405bb01b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/traditional-country-farmhouse-with-open-fire.html": {
+    "name": "Traditional Country Farmhouse with Open Fire",
+    "location": "Fochabers",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404885521.webp?k=04e9c6909d3bd173a3b1bf6898fa2e82069955dd63f5685feb883c49b565d324&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-1-bed-flat-in-aberlour.html": {
+    "name": "Coal Office Aberlour",
+    "location": "Aberlour",
+    "score": "9.1",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335647595.webp?k=7080e2598d0f9d97b7887115dbe37142a83034e43ee0d77e8c1663bc66bb64d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-2-bedroom-apartment-in-elgin-free-parking-free-wifi-lesmurdie-ho-elgin.html": {
+    "name": "Serviced Accommodation Moray Lesmurdie House, Elgin - Free Parking, Free WiFi",
+    "location": "Elgin",
+    "score": "9.1",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275418435.webp?k=c0f80e433a608c8e85f5a60d1ab0816add1f95e92535c16b6c246b773e44d813&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-willy-gunn-pod-beautiful-luxury-pod.html": {
+    "name": "The Willy Gunn Pod - Beautiful, luxury pod",
+    "location": "Aberlour",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346922480.webp?k=c2f3ca6fc70f8874c285b660b2d93d4c2fa40aecdcd23a977f49692d7e589bba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aurora-lossiemouth.html": {
+    "name": "Aurora",
+    "location": "Lossiemouth",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394041931.webp?k=b275ed00bb02e70fd0602ef164725f60653da590bcc626e4839f764730e41c85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/firlands.html": {
+    "name": "Firlands",
+    "location": "Forres",
+    "score": "9.9",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75435885.webp?k=4875fd0d20055e94594769dc38fdac05529930a177f50803b7dbb724da4b7c90&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-telford-van-beautiful-luxury-static-caravan.html": {
+    "name": "The Telford Van - Beautiful, luxury static caravan",
+    "location": "Aberlour",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435898305.webp?k=205744f4c22347bfaae45008306270b813306a4ebcd5a65cc2e80c4223d8cf41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ladyhill-house-elgin.html": {
+    "name": "Ladyhill House",
+    "location": "Elgin",
+    "score": "7.5",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115176024.webp?k=267995436141622818f9a09ed51c37ab119287374b730995454c7f7786d607b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honey-cottage-auchnarrow.html": {
+    "name": "Honey Cottage",
+    "location": "Glenlivet",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418237629.webp?k=83b1ed70c229f11f4ff44f40a427143908b1b2f0dfca59d97bdcfedbbddabf21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/portknockie-escape.html": {
+    "name": "Portknockie Escape",
+    "location": "Cullen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396979561.webp?k=95ccc83dbd74f5341e1877808fd4b167e5cc811be4cc99775b0bc3472b659922&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shoemakers-steading-hopeman-near-elgin.html": {
+    "name": "Shoemakers Steading",
+    "location": "Hopeman",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420047810.webp?k=510f7a0e5a1acc38b0e23178581e20aff9170f2c5abfa7e94a33c1c229aae872&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/slaters.html": {
+    "name": "SLATER'S",
+    "location": "Portknockie",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344413558.webp?k=97f7c5e421d90664f2af6359c4f535bce40b0bdb3c3b01323544ddcfab67fe7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whyteleaf-cottage.html": {
+    "name": "Whyteleaf Cottage",
+    "location": "Hopeman",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380448246.webp?k=677e47686d656607a6b5fd2f49d44e7e025a0d42fec6b90d488884ae2db2798a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-smugglers.html": {
+    "name": "The Smugglers Hostel",
+    "location": "Tomintoul",
+    "score": "7.8",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75345247.webp?k=a2f7e6ece7630c5a9c41242fd64bf51b7cbd4c5a708fc54f97c81b5a982f0d03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willowbarn-rafford-self-catering.html": {
+    "name": "Willowbarn Rafford Self Catering",
+    "location": "Forres",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300770098.webp?k=f4ff03baf835aaf9964609173f4c0f4bf93642240d23accad730eeb67fe9693f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/golfview-4.html": {
+    "name": "GOLFVIEW 4",
+    "location": "Buckie",
+    "score": "9.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150945920.webp?k=5ed05f3dfadbbd6d83e8c3cdd88724d1c11fb26dd087895b7fda76e2333e4eb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/muirtown-lodge.html": {
+    "name": "Muirtown Lodge",
+    "location": "Keith",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393523437.webp?k=be01bb3e331eb8b82785abf659fe21d7604f67ebb7fc0f1baa37df9e664d4416&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-reception-room-at-the-institute-executive-apartments.html": {
+    "name": "The Reception Room at The Institute Executive Apartments",
+    "location": "Keith",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355192251.webp?k=348bd8ed6fc1421a38b3cba484fff03732b8598733346640a9948a79eb754813&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/auldfield.html": {
+    "name": "Auldfield",
+    "location": "Lhanbryd",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419653535.webp?k=91261f0f3d768e70300f3eb20f69d06ef5be9af0e55d820200051f8b257fb6a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-annex-keith-self-catering-private-parking.html": {
+    "name": "The Annex Keith Self Catering WiFi Private Parking bkng",
+    "location": "Keith",
+    "score": "9.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317102255.webp?k=b8c522a7b0ca977a0236fd094ae102385d762ae04a6cc5680a8ab8bc109d9a82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farm-steading.html": {
+    "name": "The Farm Steading",
+    "location": "Aberlour",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125537293.webp?k=d76921229685c1adf9040d0f1535074b69090822d482e84f695d15ffdfe04931&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mains-elgin.html": {
+    "name": "The Mains",
+    "location": "Elgin",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370728980.webp?k=d9dfc43ab990f6b2ba7da3fa99ac1713b1bf0e6451ac40bfc2f3828c30089b8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tombeck.html": {
+    "name": "Tombeck",
+    "location": "Tomintoul",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303983889.webp?k=a9a1bdea327bbaefcfe980f5d07a1eaa463ab5d349195fa8e8a218c252a7e5dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/council-chambers.html": {
+    "name": "Council Chambers",
+    "location": "Keith",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311723455.webp?k=1a81b18e5d23ba1df0e0be02ccade6aee31e7458f2d100e8390a82d179f425a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bruntlands-steading.html": {
+    "name": "Bruntlands Steading",
+    "location": "Fochabers",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374489238.webp?k=49978df100bf7c889aa186bfb9ef33cbea815d0cd2c7a8455f93255acb8879a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/taighsona-bothy-speyside-amazing-views-archiestown.html": {
+    "name": "Taighsona Bothy, Speyside - amazing views!",
+    "location": "Archiestown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406816202.webp?k=76bc25451c4ad07ed13130af1c4c505761aff7d8a1660cd5b706458e5c9ebdd1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lossiemouth-bay-cottage.html": {
+    "name": "Lossiemouth Bay Cottage",
+    "location": "Lossiemouth",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404929780.webp?k=4499c2c1e9e7c5c61a4d446146993a4338d8b5313a06a2f69c60d6c937b1aea8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodside-cottage-nether-bellandy-glenrinnes-near-keith.html": {
+    "name": "Woodside Cottage",
+    "location": "Auchnastank",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418293225.webp?k=52e83d87846bde54564c56a4f6ff5087b7259430f4075e200466380606e07889&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seal-view-buckie.html": {
+    "name": "Seal View",
+    "location": "Portgordon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354019568.webp?k=c92d3c1aebc52affc1b023d10813c022171dd12a9d367a14d260fcd8e362fd04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/march-brown.html": {
+    "name": "March Brown",
+    "location": "Kingston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392845578.webp?k=5af22c77e80e5ca5ed00cb8d243d5f6658b253bb6d99cfa8dfb8cc2ebd95dccc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beach-house-findochty-near-cullen.html": {
+    "name": "Beach House",
+    "location": "Findochty",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428153923.webp?k=2b721818084940b384dee33f90753a448f426f9d82a1f396f9b2e9fc10ce6da1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quarry-gardens-lodge.html": {
+    "name": "Quarry Gardens Lodge",
+    "location": "Fochabers",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/229902087.webp?k=c2ce47416ea4e56bde33a85e2ee4d549d6f2f8ff26bd0fcce013d8c9570c5042&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meikle-conval-keith.html": {
+    "name": "Meikle Conval",
+    "location": "Keith",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389214166.webp?k=827a97147da751a85c244692e48d16a5f25a92381deb113d317cf30134db342c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seascape-buckie.html": {
+    "name": "Seascape, Buckie",
+    "location": "Buckie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344431056.webp?k=98fb6c381e60572c840ca4be954d1605f379a9556c031abfc397bf6ff252a3d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-3-bed-cottage-located-in-the-cairngorms.html": {
+    "name": "Stylish 3-Bed Cottage located in the Cairngorms",
+    "location": "Tomintoul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334397864.webp?k=1969f8bd76de069cd8704f72b39d5f7be2601007d0565c5859fc686d1e69a74c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-buckie.html": {
+    "name": "The Granary",
+    "location": "Buckie",
+    "score": "8.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92246914.webp?k=6c28b79f0f48bc1eec002975c94ed1c93ce82ab9ced22c83498030687ee2542a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lolas-lodge-lossiemouth.html": {
+    "name": "Lolas Lodge",
+    "location": "Lossiemouth",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336083279.webp?k=70e44c5b99b3cf4cc9ff13a6fcf70e4f7e10764b7d5cb1a23e31466b22d66ed6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/61-seatown.html": {
+    "name": "61 Seatown",
+    "location": "Buckie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219984275.webp?k=b40b7ac4f2b678235650fe6345a621c47f96182a8c67f5c8f645966ce007cf93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flowermill-cottage.html": {
+    "name": "Flowermill Cottage",
+    "location": "Buckie",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376300133.webp?k=4d8acdd6fade494bafa60b3a1199848be1e697aa6c5f63a54db2bcf29096c2fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-the-coach-house-elgin.html": {
+    "name": "1 The Coach House",
+    "location": "Elgin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340225087.webp?k=c42c37d335f557d65990c01ee60f93f0135f9410c0f97c36ea4f073c2c9f729e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapelhill-croft.html": {
+    "name": "Chapelhill Croft",
+    "location": "Keith",
+    "score": "9.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238397312.webp?k=63080cf966c7af53d599a823c821cb8341506381379d302c2eb898ca6cdfe12f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lady-hill-house-flat-8.html": {
+    "name": "LADY HILL HOUSE - Flat 8",
+    "location": "Elgin",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278243779.webp?k=5573ba03caa1e040307a95fc2bec040e7b1b4c1c54589aac2ae9d5236745611c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jebel.html": {
+    "name": "Jebel",
+    "location": "Cullen",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420027595.webp?k=44934fa4af33c0085ad5cc126181a45698141b1f4b58468d2a9c0657d0f28085&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harbour-view-buckie1.html": {
+    "name": "Harbour View",
+    "location": "Buckie",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311665386.webp?k=7fc4565ef0e3388c7f2a32d2d4ea85d24393f2a54cf8cccf6958a402c411e541&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shedend.html": {
+    "name": "Shedend",
+    "location": "Fochabers",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418565823.webp?k=58443fa1d607497301bc2117173ba60a7c34d79614568d25bdb7a8954d722465&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moss-of-bourach.html": {
+    "name": "Moss of Bourach",
+    "location": "Aberlour",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371076282.webp?k=9ebaf58cafdb63e5a8a75a1177dbc5ee3d5fde044af7443a37005c32b5305c6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mountain-view-tomintoul-near-grantown-on-spey.html": {
+    "name": "Mountain View",
+    "location": "Tomintoul",
+    "score": "5.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418967572.webp?k=2c6837f393dc9c126c38c6a2d37bbe78347231a5147f63e1c29dfdfec422e1ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seashore-apartment-lossiemouth-near-elgin.html": {
+    "name": "Seashore Apartment",
+    "location": "Lossiemouth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419734667.webp?k=6f3e7d2b646a9c3e5af5fc7e788bc6b6c5e066606c65e231e86d6b989f226046&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fly-van-beautiful-luxury-static-caravan.html": {
+    "name": "The Fly Van - Beautiful, luxury static caravan",
+    "location": "Aberlour",
+    "score": "7.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346932984.webp?k=d83c46b4e9836eb5bed2c1b7174ffa0aad4244a71c38c98bfcdd853b23dddd74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easter-corrie-cottages.html": {
+    "name": "Easter Corrie Cottages",
+    "location": "Ballindalloch",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259792333.webp?k=5b90e4f27677271ddca6ef1a54cb99d8899dd3bb5e71476d68d02e214f74f0f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ben-view-aberlour.html": {
+    "name": "Ben View Aberlour Luxury Barn Conversion",
+    "location": "Aberlour",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420650857.webp?k=d5b2e764a1fe3693cd4e4f62ba498f063b204b10efb4b586bd3dcce22caf5e3d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberlour-cottage.html": {
+    "name": "Aberlour Retreat",
+    "location": "Aberlour",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269114740.webp?k=2c5b9404313bb4768f2e55afc4f2c04647e4350adb7d7418f284c3fe06aafa04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberlour-bolthole.html": {
+    "name": "Aberlour Bolthole",
+    "location": "Aberlour",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104832130.webp?k=aad4dc32041e3aec3adaa8a973b2657b05fa3faa30b24a4d0f62fb87499b0316&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lily-cottage-uk40820.html": {
+    "name": "Lily Cottage - UK40820",
+    "location": "Findhorn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408302356.webp?k=706c00b8029d100699cca6d3e3093899863575296d00a03aa45ba8ef4e36c505&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/firthview.html": {
+    "name": "Firthview",
+    "location": "Buckie",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385328780.webp?k=6bb8b3241e9a0f0abfa0b2ad024eb0a58b5780b00d502e2c063560765695fd28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/na-clamhanan.html": {
+    "name": "Na Clamhanan",
+    "location": "Forres",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266445195.webp?k=99bbaf56a8e3f17cc9437a28deb9134d305d20ff8718cd0bd9138f752d2986d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/needle-cottage.html": {
+    "name": "Needle Cottage",
+    "location": "Cullen",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394031908.webp?k=65da2ec42126d92897b1ee89c90a3356faa60847ba0e6bea63fb1b26a9d23d70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elgin-apartment.html": {
+    "name": "River View Apartment",
+    "location": "Elgin",
+    "score": "6.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396877586.webp?k=fb563d66f2fa1710531dc8e66f8f9cbfc6f0e62be981a7ada0566ded73635dd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moray-cottages-stable-cottage.html": {
+    "name": "Moray Cottages",
+    "location": "Dufftown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377495099.webp?k=58eff840d7e3f93bab00e536b521562eaf62fffc4ceb03613f77489916470556&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crannoch-self-catering.html": {
+    "name": "Crannoch Self Catering",
+    "location": "Buckie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371852469.webp?k=e62292541b08b4ccdc77515a79fbccc1b640d68d9d17ee677b0681b85152e690&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/serviced-accommodation-moray-lesmurdie-house-no-2.html": {
+    "name": "Serviced Accommodation Moray - Lesmurdie House No 2",
+    "location": "Elgin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392303648.webp?k=69f0ce7956254470b19d871497f46772cb93f609059c5d06f0acff30256d467b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/firlands-cabin.html": {
+    "name": "Firlands Cabin",
+    "location": "Forres",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375403981.webp?k=a65833e002adb98a39cf220d0e39ba9d29f017f702fa6407bc17f2378da71186&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sam-lossiemouth-queens-lane.html": {
+    "name": "SAM Lossiemouth Queens Lane",
+    "location": "Lossiemouth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390400737.webp?k=156a65a1fdd2d0bc1d485876b08f1626bafc7c741af89d7d4bdd146a871e7823&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bungalow-in-spey-bay-moray-disabled-accessible-nether-dallachy.html": {
+    "name": "Bungalow in Spey Bay, Moray (Disabled Accessible)",
+    "location": "Kingston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416348414.webp?k=d28d8dae0079d85378929d25c4441588c99dddebc49ee066fc6b5f5d50d4347b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tanglewood-lodge-lossiemouth.html": {
+    "name": "Tanglewood Lodge",
+    "location": "Lossiemouth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337955791.webp?k=90aa1fce180f8233797bf78cd4efe3060d0196ce8d4f9086a2a3e24d67c680f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/strathmill-house.html": {
+    "name": "Strathmill House",
+    "location": "Keith",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278624100.webp?k=e9ce2504a9cfbbb9779c8f862542672b4d66af87ab8edc88f4ce2bcc7f8980a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acarsaid-cottage.html": {
+    "name": "Acarsaid Cottage",
+    "location": "Portknockie",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433760106.webp?k=60380a173c82a91c549aff598b679fe8a68006defb9a8e18b9aa7fe35253d8a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-beachside-apartment-with-jacuzzi-bath.html": {
+    "name": "Boutique Beachside Apartment with Jacuzzi Bath",
+    "location": "Findhorn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406050100.webp?k=660e6c7aa6c399cd77f04ce9a4092d093798b0fa03a281bb43916f691143845b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aurora-view.html": {
+    "name": "Aurora View",
+    "location": "Forres",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329284820.webp?k=ccea8d0228d610372255a360187b7c437afb35b32efe73becf0b33988dc6d75e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-cottage-fochabers1.html": {
+    "name": "Garden Cottage",
+    "location": "Fochabers",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275581999.webp?k=b909e12f716ad634d3b582bb1a8e466fbf7bc1de10ee8319eccd12aee99da184&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dookers-hoose.html": {
+    "name": "Dookers' Hoose",
+    "location": "Buckie",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352827111.webp?k=9df5e09f82b6366b92faec48b512d04b289f1aabc427d533d2b99ee35be844f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hawthorn-house-tomintoul-near-grantown-on-spey.html": {
+    "name": "Hawthorn House",
+    "location": "Tomintoul",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415530365.webp?k=427fddebfc223dc6daa0da2320f0c26d7ac6a3bb944072b0b27e98248e4ce7c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-cottage-elgin.html": {
+    "name": "The White Cottage",
+    "location": "Elgin",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345214066.webp?k=89af8272cf8268b7c74ee55ef37132bc8eac30fe2cb24c7188558b352d405615&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-cottage-elgin1.html": {
+    "name": "Garden Cottage",
+    "location": "Elgin",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370734210.webp?k=910a8f87f3978eab9dc269a45b26244df510d29c27aaebb5bed899251a445631&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dolphin-view-uk30689.html": {
+    "name": "Dolphin View - UK30689",
+    "location": "Portknockie",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416806659.webp?k=045042a896fcf775aa08f6ee7e2f4ce404219f8bdd61ec83077058f9388e6ff5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/keltie-portknockie.html": {
+    "name": "Keltie",
+    "location": "Portknockie",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344401452.webp?k=a36cafeba9bcb2879326f8f78c15640efa9bcc9bf76c5d1699fd2de2c700b6c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ben-view-keith1.html": {
+    "name": "Ben View",
+    "location": "Keith",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389214723.webp?k=840b9b47d38f4d7aa87ff3108b380a8da116f19a2b66b8da56b56bfd76b0e09f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gardeners-cottage-forres.html": {
+    "name": "Gardeners Cottage",
+    "location": "Forres",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317329841.webp?k=0722c6f32566b755822fe8d99af68bc2ff081e2410afef771df2362425806b7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/berg-cottage.html": {
+    "name": "Berg Cottage",
+    "location": "Ballindalloch",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343182582.webp?k=daf1b74f8701160e4570f0f39d7f6a4af3e609c33cd751d14848dd198ee2e9c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lairds-wing.html": {
+    "name": "The Laird's Wing",
+    "location": "Forres",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279987579.webp?k=a002e070ba90a0c2b7e30d7e6790daa5856c4a2cda7413fd1f129612f017bf2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-of-burncrook.html": {
+    "name": "Mill of Burncrook",
+    "location": "Glenlivet",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393007929.webp?k=0e164d3fb052775d34a0710057725b83bd944b256cd2592d665cba04392c7e05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-spey-van-beautiful-luxury-static-caravan.html": {
+    "name": "The Spey Van - Beautiful, luxury static caravan",
+    "location": "Aberlour",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435901703.webp?k=69387fe6f6ced0e7e5007b25bfd4c8772debe4229fe84b3e4162b08b1a91d175&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grace-cottage-buckie.html": {
+    "name": "Grace Cottage, Buckie",
+    "location": "Buckie",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344440539.webp?k=0f38da3a3cd5c72b1b497bdf393d787effec3b6833101fad6d69faa4e7388dfe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-12-portknockie.html": {
+    "name": "Number 12",
+    "location": "Portknockie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427031754.webp?k=cf2800fcce97844d93b3f64a30f4348eb885c6de1e3a00730fc14e60aa88c9f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-breeze-cottage-buckie1.html": {
+    "name": "Sea Breeze Cottage",
+    "location": "Buckie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392461680.webp?k=f41746aae8cd5aa00b6f2a9197f5e84028681eceb397eef743c872b36d69e631&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rathven-parish-church-hall.html": {
+    "name": "Rathven Parish Church Hall",
+    "location": "Portessie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393110485.webp?k=7a952599c29ffb2bbb8a1df0c28675e1288f1ed93abc5d27b6e881ea11296521&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-den-uk31510.html": {
+    "name": "The Den - UK31510",
+    "location": "Tomnavoulin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392898936.webp?k=b2d0517e09b1380d33dc784ed4b668512ca0c2d120ab369f0c2bd4f4794b572f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corrie-view-uk31519.html": {
+    "name": "Corrie View - UK31519",
+    "location": "Tomnavoulin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393464585.webp?k=90880fd477cc1c40476f85baa90fe73e2aff609dadcecc512192df97a43d8e36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mill-uk31512.html": {
+    "name": "The Mill - UK31512",
+    "location": "Tomnavoulin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393062006.webp?k=61b7fbbca679cc4fa1ef3b36bc88573948a96f511f146d1e05d28d99fbe3747a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glen-view-uk31509.html": {
+    "name": "Glen View - UK31509",
+    "location": "Tomnavoulin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416842677.webp?k=c75e6d6945abc6e8198eb52448f255fd382f6f356c3299631ccc38f712cf696c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-tan-y-llan.html": {
+    "name": "1 Tan Y Llan",
+    "location": "Burghead",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395798456.webp?k=0a0a651b6c626023e3bb314bb02086189de6de8f7f8e04601872bd045218c758&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-wee-gem-dunphail-near-forres.html": {
+    "name": "A Wee Gem",
+    "location": "Rafford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418417749.webp?k=3ac4bb6f73517051b585623d6706b28cda1b182cccf9455c7a2ace3b041bbe3f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/telford-escape.html": {
+    "name": "Telford Escape",
+    "location": "Burghead",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408838585.webp?k=e0c89f4d34d92352d9eaafb53ff094e5dfc1106e187f25cd0617f2071c7310e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ash-lodge-3-twin.html": {
+    "name": "Ash Lodge 3 Twin",
+    "location": "Forres",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328028616.webp?k=d3993d8f32cd587ec670ffac615818c7b7d9159c1f53752bd53d2f1e90887455&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-orans.html": {
+    "name": "St Orans",
+    "location": "Rafford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419782639.webp?k=52732d46728f1040f37f0d80c43dcf8e64b4c92837f8b0a20ceb713d340f97fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rockside-buckie.html": {
+    "name": "Rockside",
+    "location": "Buckie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398624391.webp?k=04d394a8ee63134a81768004e9ebffeb2abe2b355c0e672e0f3c8a2de50af214&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inverspey.html": {
+    "name": "Inverspey",
+    "location": "Kingston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392468842.webp?k=74b5064bab45d74f9e59ff257793fa9223765f08988f6f92bbeeb93d75778731&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-beeches-forres.html": {
+    "name": "The Beeches, Forres",
+    "location": "Forres",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344471028.webp?k=e625d3bd6f8f35b4df3122024f35ddfc2772c97d774373d5191da02a7561df37&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dalvey-house-forres.html": {
+    "name": "Dalvey House",
+    "location": "Forres",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253466526.webp?k=b40bf84962e281a933963fd3afaf7555656f165ebada7c99db655cdd02831507&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thirty-spey-cottages.html": {
+    "name": "Thirty Spey Cottages",
+    "location": "Aberlour",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433862499.webp?k=2b9469dbbcda0c0c8449fd71238cb32d3eddd423e7085c5f3b5bf5c88a398592&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bungalow-elgin.html": {
+    "name": "The Bungalow",
+    "location": "Elgin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350884515.webp?k=626523c6275767a5a1fcebea6c5cfefb5c70f68e12e82406dc9313f3fe5dd544&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cormack-lodge.html": {
+    "name": "Cormack Lodge",
+    "location": "Forres",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279987593.webp?k=22b1ee5748320f3e99937d0d517becf83846e3a5c4c35284ff918acd7bf7e5f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manse-cottage-elgin.html": {
+    "name": "Manse Cottage",
+    "location": "Elgin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409449227.webp?k=f97115b1933b09406f9ec0be294d2e7ab0f13e5560b80aff6f1ce1bd26bb614a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-lodge-moray.html": {
+    "name": "East Lodge",
+    "location": "Dyke",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243775421.webp?k=0a6a876e25118d8664fbe59104c121820a8bc0e1dce627aef3f55c02ca74be77&o=&s=1"
+  }
+}

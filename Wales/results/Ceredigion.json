@@ -1,0 +1,3890 @@
+{
+  "https://www.booking.com/hotel/gb/the-old-vicarage-b-amp-b.html": {
+    "name": "The Old Vicarage",
+    "location": "Cardigan",
+    "score": "9.4",
+    "review_count": "317 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300718113.webp?k=38ec5f4b5df2378c6088c42b57d493075773e53fb9fb402b846039342c3e3ca5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/byre-cottages.html": {
+    "name": "Byre Cottages & Lakeside caravan",
+    "location": "Cardigan",
+    "score": "9.5",
+    "review_count": "207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378525169.webp?k=3d04f90d689d5e25641f43f41b2dcff5f30f75287189a166d1789611b0c2bdd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trenewydd-farm-holiday-cottages.html": {
+    "name": "Trenewydd Farm Holiday Cottages",
+    "location": "Cardigan",
+    "score": "9.3",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257572557.webp?k=5c42144cad60e4a1883b9ce4ce6d8a93063e172beaac25923f6f66fb8a3c263d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardigan-castle-cardigan1.html": {
+    "name": "Cardigan Castle",
+    "location": "Cardigan",
+    "score": "9.1",
+    "review_count": "569 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264848597.webp?k=2ff9853d3b47f543e9b5687d668ad96a360aec35f8fa92821b60e5cb6f48bb03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberystwyth-park-lodge.html": {
+    "name": "Aberystwyth Park Lodge Hotel",
+    "location": "Aberystwyth",
+    "score": "8.6",
+    "review_count": "2,003 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399320004.webp?k=36707c5a6281918715bc11c5c2cc9b8728ea5efb56060ff996374b4395ccb189&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crug-yr-eryr-isaf.html": {
+    "name": "Crug Yr Eryr Isaf",
+    "location": "Llandysul",
+    "score": "8.5",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305208430.webp?k=32a742b462d2225a70a51e5ed04a0444d2f62f52d7c08e28579eedfdb70f7ab9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/13-tabernacle-str-cosy-little-house-by-the-sea.html": {
+    "name": "#13 Tabernacle Str. Cosy little house by the sea.",
+    "location": "Aberaeron",
+    "score": "9.4",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314922540.webp?k=84f617bad6cc9a74271392f2c47530b97abf140d035fbc6fbe5c5d401d575060&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-starling-cloud.html": {
+    "name": "Starling Cloud",
+    "location": "Aberystwyth",
+    "score": "8.0",
+    "review_count": "1,467 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110276843.webp?k=5bf8cb879cdd0b24fca8cedcc2be76ff8669c40ffb3c5b13c5a4785b4967920f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cliff-hotel.html": {
+    "name": "The Cliff Hotel & Spa",
+    "location": "Cardigan",
+    "score": "8.5",
+    "review_count": "2,166 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117388957.webp?k=0ff14bba1b1b2e3404d3cba678641741711ff8df45d055352c9f4b9871e7eacd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/troedyrhiw-holiday-cottages.html": {
+    "name": "Troedyrhiw Holiday Cottages",
+    "location": "Cardigan",
+    "score": "9.4",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426934386.webp?k=0240c100158140b57de3c13799e334f8caf710135fe6b7ef877068afd710e98c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/treberfedd-farm.html": {
+    "name": "Treberfedd Farm Cottages and Cabins",
+    "location": "Lampeter",
+    "score": "9.0",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240212101.webp?k=a00c6186732c567971ab85398ab2d7868f1e2115ce32a64b196ecf6e183d6ca7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whispering-brook.html": {
+    "name": "Whispering Creek",
+    "location": "New Quay",
+    "score": "9.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394588844.webp?k=3bde0931fc2591061ae9cb4e526e99c69399f0d9b95c92028b76412178bec54d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beechwood-house-new-quay.html": {
+    "name": "Beechwood House",
+    "location": "New Quay",
+    "score": "9.2",
+    "review_count": "294 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/93901245.webp?k=b3527399d0063460a44391a1fcbe1e884073416705b6bfbb40566c5bc6532b50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ogof.html": {
+    "name": "Ogof Aberporth",
+    "location": "Aberporth",
+    "score": "9.5",
+    "review_count": "85 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269851353.webp?k=4a0518b318503bc92f40d5c65381625b76e78f633d5cd06a984b82ddb2db6dc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bakery-llanrhystud.html": {
+    "name": "The Bakery",
+    "location": "Llanddeiniol",
+    "score": "9.8",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111834065.webp?k=8825b3bf2c5faa0e664f39ba6e9070916f8154a4af834295e304333704ccae1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/breathtaking-views-with-a-hot-tub-bwlch-cliced.html": {
+    "name": "BREATHTAKING VIEWS with a HOT TUB - Bwlch Cliced",
+    "location": "Talybont",
+    "score": "9.5",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345293381.webp?k=b4dd0bb675ae12b1a0fbbd98dc4924f2d6c5e0c6d28d7985b564d02867f2ee65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/46-y-lanfa.html": {
+    "name": "46 Y Lanfa",
+    "location": "Aberystwyth",
+    "score": "9.2",
+    "review_count": "119 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242002690.webp?k=e31f48a1491d93b6795a03e4a5665f6241f9fb809b5b58beb88f2adc78cee4f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-modern-2-bed-flat-overlooking-aberaeron-harbour.html": {
+    "name": "Pass The Keys Modern 2 bed flat overlooking Aberaeron Harbour",
+    "location": "Aberaeron",
+    "score": "8.6",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322624323.webp?k=05cb6da10f5c86a1a5a4c541f9e93727a1d63f5d0da0e4b136115aadf3b83ca6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nanteos-mansion-country-house.html": {
+    "name": "Plas Nanteos Mansion",
+    "location": "Aberystwyth",
+    "score": "8.7",
+    "review_count": "442 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/200767146.webp?k=5f32b084275692564a6b36f3d290e3c572ebb443a1cdd106b5c6b601114d71e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-black-lion-royal-lampeter.html": {
+    "name": "The Black Lion Royal Hotel",
+    "location": "Lampeter",
+    "score": "8.2",
+    "review_count": "728 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402664093.webp?k=141589431d11df2911bf0eff702bc4b1685e5eadec0a52380922d769ba5e2569&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardigan-bay-caravans-direct.html": {
+    "name": "Cardigan Bay Holiday Park",
+    "location": "Cardigan",
+    "score": "8.9",
+    "review_count": "200 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/128291491.webp?k=e6616c6c9042ff6a6dc5b7a59b0fd4352ce25a32426fd1a6cdaed85901d185fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-bwthyn-talgarreg.html": {
+    "name": "Y Bwthyn",
+    "location": "Tal-gareg",
+    "score": "9.9",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340331640.webp?k=d7d8c1e33e7b7aec6d6dcf552646d362ed4e4b99a84b69f1ee3e934ea7cfd4df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nantgwynfaen-organic-farm-b-amp-b-wales.html": {
+    "name": "Nantgwynfaen Organic Farm Wales",
+    "location": "Llandysul",
+    "score": "9.5",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27261762.webp?k=3b324bd37624aae4fa78773cafb19d86d47a79f7ac2b5501b3685c14f0605f5a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/enlli-fach.html": {
+    "name": "Enlli Fach pet friendly Cabin , sleeps 2 adults 2 children not suitable for contract workers due to parking",
+    "location": "Borth",
+    "score": "9.8",
+    "review_count": "92 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364844779.webp?k=bc0d5a837a601f1ebe7e21ebb09ba141bbeee2ac712b41fd4e68b7c0984ef671&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwbert.html": {
+    "name": "Gwbert Hotel",
+    "location": "Cardigan",
+    "score": "8.6",
+    "review_count": "972 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345760579.webp?k=6d3d27e975741470576f2409408e1a95bd7ba9d8ba09dd0dccce02a9703cd7a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/celaeron-glamping.html": {
+    "name": "Celaeron Glamping",
+    "location": "Aberaeron",
+    "score": "9.7",
+    "review_count": "113 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368305248.webp?k=d766ce9686f365519901d483899dbd2a96685bc33edd04ee163685a26351e833&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/346-sunnysands-barmouth.html": {
+    "name": "346 Sunnysands Barmouth",
+    "location": "Talybont",
+    "score": "8.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332815220.webp?k=04e21bc10a5b679e6565f4aa4d93871e64c760fbb1836e3c3b8632e50b5f45ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-opa.html": {
+    "name": "TY OPA",
+    "location": "Penbryn",
+    "score": "8.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268304338.webp?k=dbacb733e5c6305f9a64f8086880a06f0e567e4bc2c07f4b7710a379b11757e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/emyln.html": {
+    "name": "Gwesty'r Emlyn Hotel",
+    "location": "Newcastle Emlyn",
+    "score": "7.8",
+    "review_count": "458 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292165832.webp?k=af366f8b849ad7765b31792375200f066f157ef2db49beddfc61e0aa688d957c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glyncoch.html": {
+    "name": "Glyncoch",
+    "location": "Aberporth",
+    "score": "9.1",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310132217.webp?k=3ceddfeb6d0c3429206d7728868d23e3c312b577ae309859cc75ceb4787ddf20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-llanddeiniol.html": {
+    "name": "The Granary",
+    "location": "Llanddeiniol",
+    "score": "9.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321685434.webp?k=fbb9e92bc79dd07fe28a046bbe6b041feb83f155c0f5fdfddb7fc519a926c301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bed-holiday-home-in-borth-with-views.html": {
+    "name": "Clwyd 68 - 3 bed holiday home in Borth",
+    "location": "Borth",
+    "score": "9.1",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424508022.webp?k=92a6a186479530872788fb60dd29f034a885224a2624cfd8deedb4df9bb4b9e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dyfed-23.html": {
+    "name": "Dyfed 23",
+    "location": "Borth",
+    "score": "8.2",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164357877.webp?k=e4ec3fae5c32cd11c7b82c966c334e73116000234901503b27a39cfdf4b10764&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-glengower.html": {
+    "name": "The Glengower",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "1,471 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299978720.webp?k=1fa2c574d15f99e02866c53eb70b85e2e68c00d02b09554f8f85e901d04f7626&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penwig.html": {
+    "name": "Penwig Hotel",
+    "location": "New Quay",
+    "score": "8.1",
+    "review_count": "717 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427169536.webp?k=c2d4a236c3a54c14c49ed88ec788630d03daac79f82d74276042791d33e78396&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-nant-llanon-near-aberaeron12.html": {
+    "name": "Ty Nant",
+    "location": "Llanon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418741527.webp?k=f796860f2055ace01c71b4f771e3575a46ed10906ccfa598d3c55a26291b4ed2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-view-lodge-brynowen.html": {
+    "name": "Bay View Lodge, Brynowen",
+    "location": "Borth",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427532224.webp?k=3f1259ec6134c3f8c7f78533dc66a57534a81c7359915f67194e7735a090dadf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/c8-ceredigion.html": {
+    "name": "C8",
+    "location": "Aberystwyth",
+    "score": "8.8",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334338951.webp?k=ba5edc80b260235898bf37d30d5934a4df0b664947beb4670180e6341a022b10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maesyfelin-isaf-apartment.html": {
+    "name": "Maesyfelin Isaf Apartment",
+    "location": "Llanybydder",
+    "score": "9.6",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318846406.webp?k=59da8c7b58fc27f0ec2e83635839e0f7f88753a5d6e79a07d67a983c84beedef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rural-cottage-between-the-mountains-and-the-sea.html": {
+    "name": "Rural cottage between the mountains and the sea",
+    "location": "Lampeter",
+    "score": "9.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315381731.webp?k=a4a691268a34caf6a3f9003f4cfa55412b49c58e2a5267775a537ae3f52647bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-newcastle-emlyn.html": {
+    "name": "The Lodge",
+    "location": "Newcastle Emlyn",
+    "score": "9.5",
+    "review_count": "79 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270903168.webp?k=a6c681ca2bbf2e15a84d30d01da1b33c2fb9f728a631708c17e77d4914169a0c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/selah-teifi-riverside-house.html": {
+    "name": "Selah Teifi, Riverside house.",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418417313.webp?k=b44c0a22022c3abb87977cadbffab467b3dd32c3376f2da5ce65a8da72626435&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-green-door-b-amp-b.html": {
+    "name": "The Green Door Vegan B&B",
+    "location": "Llanon",
+    "score": "9.5",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365460145.webp?k=70b82981319da198f2c7ae3381a40ba3e67a0c8b7c4684ffe579819c86bb62d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-seafront-2-bed-flat-in-aberystwyth.html": {
+    "name": "Lovely Seafront 2 bed flat in Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "9.5",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388623650.webp?k=a7ea2184c023cf8324386f98c80361986e05b2b4174eda1ab88453f3ff289172&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwt-y-gors.html": {
+    "name": "Cwt Y Gors",
+    "location": "Ystrad Meurig",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219997227.webp?k=0fae94b9b32d48b01b645bd1a24db1cede0118bd1267fbd90b1e3ec6a9485474&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marine.html": {
+    "name": "Gwesty'r Marine Hotel & Spa",
+    "location": "Aberystwyth",
+    "score": "6.9",
+    "review_count": "1,638 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/122967886.webp?k=5815bbebeec6d0e8b5c37ade2b61002063f5f3b68f97cd537236e30cddbd6a04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-holiday-caravan-minutes-from-the-beach.html": {
+    "name": "Cosy holiday caravan minutes from the beach",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386505584.webp?k=5b9bbbfec6e3d6dda73ba2f6db5b8a840ac66a0ff5f7d51eb107cbd448ea16c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/helmsman-guesthouse.html": {
+    "name": "Helmsman Guesthouse",
+    "location": "Aberystwyth",
+    "score": "8.7",
+    "review_count": "708 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195444457.webp?k=39074bd6e9b7de17ef37d3c2fa386c6a748f25ef0b794a76c3eaa8bcf2e0e091&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harbourmaster.html": {
+    "name": "Harbourmaster Hotel",
+    "location": "Aberaeron",
+    "score": "9.3",
+    "review_count": "418 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/136730363.webp?k=572c088fdf1aa78fc23b3927c0f8244d7549dfa17396f2e9ee4d08a79552226c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/h15.html": {
+    "name": "H15",
+    "location": "Aberystwyth",
+    "score": "8.7",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300533174.webp?k=a18ce685ef9858d252bfe67005f6e0848f17c826b20f452b8f826aa3221846de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penrhos-golf-country-club.html": {
+    "name": "Penrhos Park",
+    "location": "Llanrhystyd",
+    "score": "8.2",
+    "review_count": "487 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357444591.webp?k=33868ae0048a362b554a8d030304864642aebaaca2c18276fd0d8d03a345881e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/groveshotel.html": {
+    "name": "Harry's Hotel & Restaurant",
+    "location": "Aberystwyth",
+    "score": "7.7",
+    "review_count": "726 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/25956987.webp?k=584b66ebdf7a999ac5e6571d11c281afd8583814b8ce75ccf555ddb8cafea531&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-milking-parlour-saron-near-llandysul.html": {
+    "name": "The Milking Parlour",
+    "location": "Llangeler",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418240452.webp?k=831a1c3c48994649b315fe1cf00503a1d1cabf0c8e4f88379314815af078a028&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/static-caravan-kl13.html": {
+    "name": "Static Caravan KL13",
+    "location": "Bettws-Evan",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382834512.webp?k=4ab59299a7f7eeb04649c2c777fb5951a53319b3a8669e8ec4f94eb539daf741&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-stone-cottage-llandysul1.html": {
+    "name": "Old Stone Cottage",
+    "location": "Llandysul",
+    "score": "7.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280164673.webp?k=92b71d9b14244b4b364cd17a7b01d8682fbda16de8d485b4a9329d66cc5bf6ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottage-by-the-river-in-cenarth-with-fishing.html": {
+    "name": "Cottage by the river in Cenarth with fishing and Wifi",
+    "location": "Cenarth",
+    "score": "9.5",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323416306.webp?k=605eea78b4d9b54e49f4ac33d5e4fe9ae3beac40a13b9a39099ac2545b02a226&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glyn-garth-guest-house.html": {
+    "name": "gwesTY Guest House",
+    "location": "Aberystwyth",
+    "score": "8.3",
+    "review_count": "819 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357691922.webp?k=6760163cfc9398f06c8c7d6ca08422be84c32edf67898efc120a0100c046183e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trysor-y-mor.html": {
+    "name": "Trysor Y Mor",
+    "location": "Borth",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344408033.webp?k=5389aaf94d64a0c72759aeb602b70ccb0abc582a92662cc2db24e2c6b6e68e16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryn-yr-haf.html": {
+    "name": "Bryn yr Haf",
+    "location": "Llanfair Clydogau",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344281419.webp?k=52168c57128fb46c0423ea73d9cdf8c2bb1c895733510767173b70fb5bbd867c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunset-studio-apartments.html": {
+    "name": "Sunset Studio Apartments",
+    "location": "Aberaeron",
+    "score": "8.8",
+    "review_count": "145 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426408781.webp?k=f705459b77c2b24e93cf5a62e0fd3a41dcf87e6f683b04357ea934f69ced71a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llwynygog-guest-house.html": {
+    "name": "Llwynygog Guest House",
+    "location": "Aberystwyth",
+    "score": "8.2",
+    "review_count": "896 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294354396.webp?k=b142104a4efee71a8345e65f07eb45723abdb356d5d19544d3d412bcd553ca12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/highcliffe-cardigan.html": {
+    "name": "Rooms at The Highcliffe",
+    "location": "Aberporth",
+    "score": "8.9",
+    "review_count": "655 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227248361.webp?k=695be1f763f5a1319b6f32425e1ab8b99bd662f4e6e14c037121083f1b077d7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arforwest-near-llangrannog.html": {
+    "name": "Arforwest",
+    "location": "Sarnau",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418086940.webp?k=0d4fb5a798840a3e7a44ce72ff89c84da27393eaab8b7dc8a7df1448cc9c55cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/machlud-haul-luxury-shire-pod-with-private-hot-tub.html": {
+    "name": "Countryside Shire Pod with Private Hot Tub",
+    "location": "Lampeter",
+    "score": "9.4",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378177493.webp?k=ae173acd86d6ef35150abadda76a423c3a655364e857a9e5df7f91bafa4067e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pant-y-celyn-studio-apartment.html": {
+    "name": "Pant-Y-Celyn Studio Apartment",
+    "location": "Aberaeron",
+    "score": "9.6",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332601793.webp?k=fc9d599ed535b3fb80562c53719b66618de73ecacacdf0e8a2bbf43f31411060&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwesty-cymru-amp-restaurant.html": {
+    "name": "Gwesty Cymru Hotel",
+    "location": "Aberystwyth",
+    "score": "8.7",
+    "review_count": "282 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274826474.webp?k=3553c0ddf88982140d6eca0fc3cadaa14ae1511da68319d78f14b85939c663cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plas-tudor-serviced-apartment.html": {
+    "name": "Parc y Bryn Serviced Apartments",
+    "location": "Aberystwyth",
+    "score": "8.8",
+    "review_count": "113 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278373643.webp?k=51abbdd350d8b5145057bc0959483386976c4d1d9dafcb7b837c2aed55f7d409&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/falcondalemansionhotel.html": {
+    "name": "The Falcondale Hotel & Restaurant",
+    "location": "Lampeter",
+    "score": "8.5",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96086894.webp?k=c9e9f58fb689b7842992f0e9c94ac1aa7f1d623ac38f467204c2b9ffbdc147f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penybanc-farm.html": {
+    "name": "Penybanc Farm",
+    "location": "Llandysul",
+    "score": "9.3",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220331907.webp?k=ff5904e06149af6d3d716654e1d1cd09d37e76a348724d56992db98417abb502&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bader-house.html": {
+    "name": "Bader House",
+    "location": "Aberporth",
+    "score": "9.4",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313644994.webp?k=ee0fab3220dd8b7dee0d9b701a310252cebab4c33cd48efe99cdd1d79165a025&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-ty-glas-cottage.html": {
+    "name": "Y Ty Glas - Cottage",
+    "location": "New Quay",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432948503.webp?k=63a0aba48f0711660d4b41f09399b7e962e6ea4b7963b76f04012df250e95620&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwalia.html": {
+    "name": "Escapism Wales Gwalia",
+    "location": "Llanrhystyd",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387706550.webp?k=4125dcfe33f622e4f4960d8802f76fa7830b0625aa06ff30a074d7d074cb022e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goitre-bach-cottage.html": {
+    "name": "Goitre Bach Cottage",
+    "location": "Aberaeron",
+    "score": "9.7",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332456000.webp?k=42a94a9f01a1834389384f77d02bdf7e51a729a348b55fcfcfd3be17289b87ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/toms-of-tregaron.html": {
+    "name": "Tom's of Tregaron",
+    "location": "Tregaron",
+    "score": "9.2",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369849836.webp?k=e64f3bfc4a3c93af884465f25ab9428b5efb69b9e1040fee180cfb9cebd828de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queensbridge.html": {
+    "name": "Queensbridge Hotel",
+    "location": "Aberystwyth",
+    "score": "6.4",
+    "review_count": "1,038 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10578811.webp?k=c220ab861025d3fca7499725faa9f31431bd2403f0796620de36ce805a84ec96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llys-aeron-guest-house.html": {
+    "name": "LLys Aeron Guest House",
+    "location": "Aberaeron",
+    "score": "9.6",
+    "review_count": "204 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361085446.webp?k=44ad6d553be150105aa698d6e908c6ed5af9336c8efe631fa1e21dd4ec3892c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-apartment-aberystwyth-town-centre.html": {
+    "name": "Private apartment. Aberystwyth Town Centre.",
+    "location": "Aberystwyth",
+    "score": "8.8",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353646809.webp?k=9da1806785fd6f9655ed4d9f4124b490bf7a7e38333f14840b7f6327dc84ccb4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lodge-2-uk32923.html": {
+    "name": "Lodge 2 - UK32923",
+    "location": "Cwrt-newydd",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393471468.webp?k=f91975483c955612d5f4321853f90b345878f9ca81a958ce4352ac636c158657&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwmporthman-farm-cwtch-uk34700.html": {
+    "name": "Cwmporthman Farm Cwtch-UK34700",
+    "location": "Blaenporth",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418640970.webp?k=15e8123f29bc9cee582634592d620ae41c019d6dc5293f998f817533a6e7bbd1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sky-hut-caban-y-nen.html": {
+    "name": "Sky Hut - Caban y Nen",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399386161.webp?k=523c607a79b6d86b009e8c6f38b8e51d5e5ceb78b26c8976b01934022c19eed2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llewelyn-lodge-aberystwyth.html": {
+    "name": "Llewelyn Lodge, Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253477017.webp?k=a5d89d1b6a3c596870fec62a793aeca865eeecf73a2f470cf278e5e661ab2b31&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/escapism-wales-garthowen.html": {
+    "name": "Escapism Wales Garthowen",
+    "location": "Llanrhystyd",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344750475.webp?k=aab6841a0c96c40e88bcffb2ba1ac533a8c43ca3a10c7d042ad11cdb60019224&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clifton-ville.html": {
+    "name": "Clifton Ville",
+    "location": "Llandysul",
+    "score": "8.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421226385.webp?k=3cdd6a369da4fee973040522acb3f4664d9cf3ebcdfc01d79bc979e7a66eb6d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-view-aberystwyth.html": {
+    "name": "Bridge View Victorian Townhouse Central Aberystwyth Sleeps 6",
+    "location": "Aberystwyth",
+    "score": "8.8",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366309777.webp?k=ca89bcf039b25d473217a44ea576e940b7ef1b35eecafda7d2ebe2c359c99045&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-2-aberystwyth-town-centre.html": {
+    "name": "Apartment 2, Aberystwyth Town Centre",
+    "location": "Aberystwyth",
+    "score": "8.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404556850.webp?k=e1562699e01532e28398ddd06a94d0afd42114ac1620c17f0e664a13b73f505b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ar-lan-y-mor-seaside-apartment.html": {
+    "name": "Sea view Ar Lan y Mor LUXURY APARTMENT",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/138351490.webp?k=e1ffa19904a0d4a6d8e3ab482df3abe89d14b2737457c3222c72d54f7479af25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brynhyfryd-guest-house-cardigan1.html": {
+    "name": "Brynhyfryd Guest House",
+    "location": "Cardigan",
+    "score": "8.5",
+    "review_count": "276 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334921536.webp?k=3bc669c0d11eeb21b1a7c853a04f022937ddbef2cea375c2706ad277a51321b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-breeze-lodge-aberaeron.html": {
+    "name": "Sea Breeze Lodge",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348337627.webp?k=2f537ef5c279d08fc3ddd841c2c2b2fac689159d70b6c0e92a8194e6bef38d92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mount-cottage-newcastle-emlyn.html": {
+    "name": "Mount Cottage",
+    "location": "Newcastle Emlyn",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362690047.webp?k=21aa4ce4a06585b3c12d04bed0e247ee32f50cf1b438b780caa3086f30244a9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-cottage-cardigan.html": {
+    "name": "Castle Cottage",
+    "location": "Cardigan",
+    "score": "9.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421226191.webp?k=a347d7eca379807b35ef85bcb840ea34e3357ba7b55c7c4d71e69b3c365f87ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pencastell-views-pod-with-stunning-views.html": {
+    "name": "Pencastell Views Pod with Stunning Views",
+    "location": "Nantcwnlle",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393264775.webp?k=9928b5d66653339827a5d338f7eca030d4663d9752934c00f49bea79e2972d40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryn-parc.html": {
+    "name": "Bryn Parc",
+    "location": "Llandysul",
+    "score": "9.3",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97441643.webp?k=89119b2d6a691c565eb9d084dd37eab580605833b20c2f174ca9a7da2ddfe739&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhydgaled-llanon.html": {
+    "name": "Rhydgaled",
+    "location": "Llanon",
+    "score": "9.3",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199291031.webp?k=33c47ba4dd24bfc67409a6daaa5e8a3d829a36703f23c92b85a48588d1b94cd2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-caffi.html": {
+    "name": "Y Caffi",
+    "location": "Blaenpenal",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393330661.webp?k=139a4f123ac3e8104b7ea08b12abd83c62cd6b1d1e751fb200bf8956799462a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardigan-bay-holiday-apartment.html": {
+    "name": "Cardigan Bay",
+    "location": "Aberystwyth",
+    "score": "8.1",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413113227.webp?k=b02520ec1944a4fa02bf06cddd54a8667ded8a58197d0115f6a02c276d75acbd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nuthatch-lodge-is-set-in-24-acres-of-woodparkland-near-the-village-of-cenarth.html": {
+    "name": "Nuthatch Lodge is set in 24 acres of woodparkland near the village of Cenarth",
+    "location": "Newcastle Emlyn",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369774395.webp?k=cdf415f849963235798c48e34e2d29298c5d5f93d49123630ba42270342d5297&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chalet-88-aberystwyth.html": {
+    "name": "Chalet 88",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423444232.webp?k=90c14b731f0959b63ac50a315a09b1e3d20eef79d385bab00d267e30a5a80b7e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deluxe-apartment-in-historic-quarter-near-beaches.html": {
+    "name": "Deluxe Apartment in Historic Quarter near Beaches",
+    "location": "Aberystwyth",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324174240.webp?k=3fd50396063d7c9597c2fbaeaa7955227ea6d6879af3bb81ee9c9999a73d74e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-school-house-b-amp-b.html": {
+    "name": "Old School Traditional B & B",
+    "location": "Llandysul",
+    "score": "9.3",
+    "review_count": "195 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92009616.webp?k=13e1c231bb37b14f99f6a2cef506946692d828437fd76f32b3dce41baee627ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-aberaeron.html": {
+    "name": "Castle Hotel",
+    "location": "Aberaeron",
+    "score": "7.3",
+    "review_count": "346 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277886969.webp?k=6d7bf23b5d5403e8cc18dae05f827941a9b709bbbbb5baa475620c65d44d7831&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/belmont-apartment-2.html": {
+    "name": "Belmont Apartment 2",
+    "location": "Aberystwyth",
+    "score": "9.6",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306550951.webp?k=5689a19fcb2e4b7c9541ef06645beed6f996c626f955a0235a32d18e4f563a6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rusty-boathouse.html": {
+    "name": "Rusty Boathouse",
+    "location": "Llanarth",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367768769.webp?k=ace4e27cdc7cd321b3bac31187c77da8c6eb025b994c6e04f44ccb80600180db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penrhos-park.html": {
+    "name": "Penrhos Park",
+    "location": "Llanrhystyd",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427393535.webp?k=e85b6aa5614b0a7f0433d5e7df212424574649de90d020865b56bb5ab80d150f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awel-mor-4.html": {
+    "name": "Awel Mor 3 Luxury Apartment",
+    "location": "Aberystwyth",
+    "score": "9.2",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149119430.webp?k=eabac7f203678917a1434c125a62cd5bcbe8043b0dcea814b15674044b831e4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coedmor-cottages.html": {
+    "name": "Coedmor Cottages",
+    "location": "Lampeter",
+    "score": "9.1",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379706374.webp?k=0331a007dc04b1d0e8e7b06d3bc0e7ca7e67e6aef294bcc6cc38b39570165054&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bazanmoes-shed-no-49.html": {
+    "name": "Bazanmoes Shed No: 49",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380893818.webp?k=60ee1d49701aaada6a42a828ff2c110c072c8dbda49c769588b91c0436f8e3d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awelfa.html": {
+    "name": "Awelfa - ON7",
+    "location": "Aberaeron",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419684919.webp?k=946e8f82eadb77ac42ac0d34e73f27aaddcfac49de8c23851faa0441024210f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-talbot.html": {
+    "name": "Y Talbot",
+    "location": "Tregaron",
+    "score": "8.8",
+    "review_count": "343 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/229289052.webp?k=825c67cba47a1acca34f65bd509d6956d5338a9fff10ec4a844fe036f2ad12eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-4-1-laura-place-aberystwyth.html": {
+    "name": "Apartment 4, 1 Laura Place",
+    "location": "Aberystwyth",
+    "score": "9.2",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197942854.webp?k=24dff28379525ec9de465e850781cf3f579338b27caca4a8d7ccd921e31e93c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pant-glas-cardigan.html": {
+    "name": "Pant Glas",
+    "location": "Cardigan",
+    "score": "9.2",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221332405.webp?k=63da8cbe68b9cf0b2c0ac87f5df2e09adbb9ba9ee06d8b28385e096d035a23f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-street.html": {
+    "name": "Bridge Street",
+    "location": "Aberystwyth",
+    "score": "8.4",
+    "review_count": "316 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/172070557.webp?k=1de24618d3ec7a92bbbb00a4f3eaf35c1f56df77fdf5edd073712d80bbf74355&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardigan-bay-holiday-park-st-dogmaels-pembrokeshire.html": {
+    "name": "Cardigan Bay Holiday Park",
+    "location": "Towyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378754134.webp?k=a19682253417e5a286e4f737dc8aa5ced5731a0f0a8f3591ec8f6b809758c149&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfort-cottage-healing.html": {
+    "name": "Inviting 2-Bed Cottage in Newcastle Emlyn",
+    "location": "Newcastle Emlyn",
+    "score": "8.8",
+    "review_count": "93 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279212300.webp?k=315943f72a513d02a3dfa42a399421c6c8a2af8d606a2bf2ff3b4c0829a07354&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ysgoldy-brynwyre.html": {
+    "name": "Ysgoldy Brynwyre",
+    "location": "Llanrhystyd",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417347773.webp?k=f740a2c9e5e719e93578c6ae9b5747b78e6b9bb4ed9f03bc239f2745e2abb2d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-seler.html": {
+    "name": "Y Seler",
+    "location": "Aberaeron",
+    "score": "9.4",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364361164.webp?k=ec8fcedd9eba09ffc295a558091ec5d51ac4e9060b7d90533daa00503e044c8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-chalet-in-heart-of-lampeter-west-wales.html": {
+    "name": "Riverside Chalet in heart of Lampeter, West Wales",
+    "location": "Lampeter",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415025096.webp?k=a04943698097de14faf72963e2421ee60875db925c1efcf32f641dbef9c6df62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hawthorn-cottage-llandysul.html": {
+    "name": "Hawthorn Cottage, Llandysul",
+    "location": "Llandysul",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244895476.webp?k=4b00bfcf016afb07c756f27d7a41560d6166d6f473c9c9d54f0a6e5d985b0800&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwtsh-cragen.html": {
+    "name": "Cwtsh Cragen",
+    "location": "New Quay",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357921039.webp?k=65ba4360650220146d4873b57a02dd4fdf756c34963b6911770902e8ed27e654&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awel-mor-4-aberystwyth.html": {
+    "name": "Lan Y Môr 4 Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "9.3",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334992687.webp?k=a30e80a98c69a5f5e66518f835259ceb3a07d2ea6d793382ec226a318bc9edc8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lamb-of-rhos.html": {
+    "name": "The Lamb of Rhos",
+    "location": "Llandysul",
+    "score": "8.9",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367100924.webp?k=c8491d3da5d296e22d8a0d1af7f7805ae37c40d26027084317b75bcb8d9f1130&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maesllan-cabins-golwg-y-mor.html": {
+    "name": "MAESLLAN CABINS - 'Golwg Y Mor'",
+    "location": "Cross Inn",
+    "score": "9.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376842499.webp?k=e1681043e937d46ab24627f0d35847621005055fc7b14e178a809cd8395598d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/secluded-holiday-home-in-ceredigion-with-garden.html": {
+    "name": "Secluded Holiday Home in Ceredigion with Garden",
+    "location": "Pennant",
+    "score": "9.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263736778.webp?k=145a5820969903c1b26347b43a55bda82f138b96419938ac3032c677c1a17fdb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/d19.html": {
+    "name": "D19",
+    "location": "Aberystwyth",
+    "score": "8.8",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322078618.webp?k=b47c2b2d0db6e660381c11ddb4c76523ab8ed75dadca9e3062440f877fccf261&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-aberystwyth-south-beach-apartment.html": {
+    "name": "Stunning Aberystwyth South Beach Apartment",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407484734.webp?k=3a8e8d7dab83224d6e2d3f637e9cadb860f1c7f5fcd94136c62ccfdb0800966d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-on-the-beach.html": {
+    "name": "Home on the beach 190 static",
+    "location": "Aberystwyth",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404505579.webp?k=d1a3ce18c417061d28d65681888234c3498e31a6dfa129cb76a005e227ea2b9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trem-y-mor-new-quay.html": {
+    "name": "Trem y Mor",
+    "location": "New Quay",
+    "score": "7.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266857200.webp?k=53401d8daae6bd1a2760c170d36ac526410914cc033f7aa7500b0aad3c2413bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-lodge-set-in-a-beautiful-24-acre-woodland-holiday-park.html": {
+    "name": "Bluebell Lodge set in a Beautiful 24 acre Woodland Holiday Park",
+    "location": "Newcastle Emlyn",
+    "score": "8.4",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243292237.webp?k=ef906c8d4407f064cf7f88a67e6a847c82f05cd85cb98998f2d637692aca0118&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cranwell-court-seaview-apartments.html": {
+    "name": "Cranwell Court Seaview Rooms and Apartments",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277010136.webp?k=bc7e5186adea134162d4de6335cc9bfebc7ea99d81a0c7892ebaea883b22150e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwm-dulas.html": {
+    "name": "Cwm Dulas",
+    "location": "Llanddewi-Brefi",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394634095.webp?k=68b4b9d98dc7b9447b7ab934164e358d2ff199fd026835f498a8dc82c66803ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bwlch-y-gwnt-cottage.html": {
+    "name": "2 Bwlch-Y-Gwynt cottage",
+    "location": "Llanrhystyd",
+    "score": "9.2",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/272756369.webp?k=91b1b327c9378c893b679674a8748cd107ab1b5829499ea266c9d13f510fa482&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bedroom-bungalow-set-in-peaceful-countryside.html": {
+    "name": "4 bedroom bungalow in peaceful countryside with log burner - Talar Deg, Capel Madog",
+    "location": "Bow Street",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325399050.webp?k=1dd740feebd696977ebe2ed479d51aa5fb7d8650a36192dfaeb556934d28859b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhydyfran-west-wales.html": {
+    "name": "Rhydyfran West Wales, Cribyn Aberaeron Lampeter Ceredigion",
+    "location": "Lampeter",
+    "score": "9.8",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206979316.webp?k=6ee023bb71c9bf918f76dfd105bed89418824be58f3248a8694253b50dad9a98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-seaside-town-cottage-with-private-garden.html": {
+    "name": "Cosy seaside town cottage with private garden",
+    "location": "Cardigan",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391784121.webp?k=2e9f7d89b729694da07c25fd6663ec847cf7454d6e39c5b677d23e8f659a938c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-cottage-in-cardigan.html": {
+    "name": "Cosy Cottage In Cardigan",
+    "location": "Cardigan",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363391231.webp?k=40550a7037af26e92e9921b337c883d11ba0a4242e365f84921d03d4ff3482b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-14-aberystwyth.html": {
+    "name": "Apartment 14",
+    "location": "Aberystwyth",
+    "score": "8.0",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375112955.webp?k=f9c3e4905777ed9602742af2c9d4a065494be2c1e3ad175b6b4525fd3c24054e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-bwthyn-llanrhystud.html": {
+    "name": "Y Bwthyn",
+    "location": "Llanrhystyd",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395700504.webp?k=55e8ccbe4371f461b1f35fe6782ea235e71836b8af52dd44d1b574cd3a255263&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/granery.html": {
+    "name": "The Granary",
+    "location": "Aberystwyth",
+    "score": "7.9",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352817134.webp?k=54971290940cf67f53de28cda3577a01fdcd7b83fe9afa1c5322dda6d086971b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dolwylan-barn.html": {
+    "name": "Dolwylan Barn",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344601771.webp?k=e767fdb50ebce14a2852ee16c48ed0b47c3cbc0aa04667540a9e362d80632c13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/croft-y-beudy-aberaeron.html": {
+    "name": "Croft Y Beudy",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425912251.webp?k=d711e940e75843c172980d710e43c961835b26175399c4c1da0ff5764e81c280&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ocean-heights-holiday-park.html": {
+    "name": "Ocean Heights Holiday Park",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403786311.webp?k=45fc69556b5fef58d4fda20880b44ec044aa1f5e3770065f103c150ba548ec06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-powys-lodge.html": {
+    "name": "The Powys Lodge",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399815578.webp?k=f71891900a59e950d3b685a390b0a8cf8d73f4f912dcf25de28a079efa680385&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/12a-woodlands-park-resort-new-quay-wales.html": {
+    "name": "12A Woodlands Park Resort, New Quay, Wales",
+    "location": "Llanina",
+    "score": "9.6",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300627064.webp?k=ea9b39f2729b284c4e5577a1bf8814271ff328a40dac184cf5458e93604369fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-pengraig-draw.html": {
+    "name": "4 Pengraig Draw",
+    "location": "Llanychaiarn",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418285707.webp?k=87b57ed79a4b37461d079add124a9decfc390e4e32cd5c674374247de3a87ee5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryngwalia-fach.html": {
+    "name": "Bryngwalia Fach",
+    "location": "Cribyn",
+    "score": "9.9",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377128790.webp?k=7a3a5c13f4e61f3ee72fd89741b01e383b6bb350cc55636774f340d56159aff4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ardwyn-cottage-st-dogmaels.html": {
+    "name": "Ardwyn Cottage",
+    "location": "Cardigan",
+    "score": "8.4",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264193455.webp?k=b11c2a5e6dc126f41949a5f1e96910e26f155056e6c91580bca07411385b01ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/croft-farm-and-celtic-cottages.html": {
+    "name": "Croft Farm & Celtic Cottages",
+    "location": "Cardigan",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375688840.webp?k=1fd3546583f4effd9983bbcb6198ce368d9e1928be91eb6849f21f3b07872ae0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryncrwn-cottage.html": {
+    "name": "Bryncrwn Cottage",
+    "location": "Aberystwyth",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418702705.webp?k=447dfdd94100bed1150e99b794a47327cd16ac7f180768143c5ceb736f8ca084&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seascape-new-quay.html": {
+    "name": "Seascape",
+    "location": "New Quay",
+    "score": "9.6",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418394426.webp?k=261141d247b98d3888410f2ba52149bfe18b82a03752f8b1ebe64976cc589bd7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fron-towyn-cottage.html": {
+    "name": "Fron Towyn Cottage",
+    "location": "New Quay",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420275616.webp?k=ae6fc7799094581b367c426738141bd829061ade4ff30091b21097cdc9cb7ce2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barley-cottage-lampeter.html": {
+    "name": "Barley Cottage",
+    "location": "Mydroilin",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363347688.webp?k=a8571a192304b24667f702965ae906be32e3ced804510c6e7fd2a99fa4035c9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pengarreg-fawr.html": {
+    "name": "Pengarreg Fawr",
+    "location": "Llanilar",
+    "score": "7.8",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139097153.webp?k=23b2a3db1091bdecb6b1cc90cdcbdc7cdde08bfa3d37f1bb9dcd17b915972286&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llangrannog.html": {
+    "name": "Llangrannog",
+    "location": "Llandyssiliogogo",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418451957.webp?k=ab0517b45043b3c55f301e820133b89dfe8d293d0baeac3040d2d276a96a17b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beudy.html": {
+    "name": "Beudy-OH2",
+    "location": "Dihewid",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417852872.webp?k=4b442ad08fc241753278f141a060602dc4ff7d210f251715239a2e5702742661&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-3rd-floor-47-marine-terrace.html": {
+    "name": "No 47 Marine Terrace",
+    "location": "Aberystwyth",
+    "score": "7.4",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185716909.webp?k=3ff8386399700109f03b6c8f709135075972f6d73a0e4d693b9e7880d5955a21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penlon-farm-cottage.html": {
+    "name": "Penlon Farm Cottage",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421227275.webp?k=86cf8dedf4470ffe3aa7d3bebeff4b46515cf30816fcc29d86f92cf317e56d7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-oak-lodge.html": {
+    "name": "The Oak Lodge",
+    "location": "Aberystwyth",
+    "score": "6.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369258975.webp?k=054170af60910abae85b2fb3f6f1d57eb9f4a00d06f13f722bbd0a2ce522ee85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/18th-century-farmhouse-secluded-location.html": {
+    "name": "18th Century Farmhouse, secluded location",
+    "location": "Cardigan",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340603002.webp?k=f9e427a0e5cf07d4561af26caa047cdb384ac8639ea53e3437a6f94dc8e4bbb4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pengarreg-fawr-aberystwyth.html": {
+    "name": "Pengarreg Fawr",
+    "location": "Aberystwyth",
+    "score": "8.6",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324440674.webp?k=a0eae7994dcf039b84c31b230c1e7b360e5f4b8f11d60f8c0c13edb13062874e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brynhyfryd.html": {
+    "name": "Brynhyfryd",
+    "location": "Aberystwyth",
+    "score": "8.6",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/20668257.webp?k=7fb8c69e303e0222dd37763af41ec7a883e653c0d163ba015b4c4babf076737a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trawscoed-mansion-central-wing.html": {
+    "name": "Trawscoed Mansion,Central Wing",
+    "location": "Aberystwyth",
+    "score": "9.4",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359692592.webp?k=860582a46ceb3c41559c907d0dc6af0308bf8c860422647de6f51b7dcace01b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-room-cardigan.html": {
+    "name": "The Garden Room Apartment",
+    "location": "Cardigan",
+    "score": "9.6",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340184884.webp?k=71fe91e04e47b5c161c7d046b6ec9f526548f8918b32c64d4ca9b7bb26b30cbd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/suo-gan.html": {
+    "name": "Wales Luxury River House",
+    "location": "Newcastle Emlyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239100830.webp?k=c43c90e9799d32eb37e9f340fb83c0bb616cf18705525939cd94dede0409223f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-lampeter.html": {
+    "name": "The Granary Country Retreat",
+    "location": "Lampeter",
+    "score": "9.4",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161251501.webp?k=b3fae0f427ad859592c38741e267e935f4b9926916d38364132d784d02839c8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lodge-6-gilfachrheda.html": {
+    "name": "Lodge 6",
+    "location": "Llanina",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344646392.webp?k=377591887f52aa05157df1df5d684ed86a2a12189e9a16935dadc4a8af3b2a33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bella-vista-tresaith.html": {
+    "name": "Bella Vista",
+    "location": "Penbryn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419606256.webp?k=836d4e3c6dd27b30e97615f70a371f8b69ab3a90b254542fef40892656fd4325&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tynlon-villa.html": {
+    "name": "Tynlon Villa",
+    "location": "Ystrad-Meurig",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420339705.webp?k=49df565ccd6bf9db153ec5fcd9ad13406eeaa131061da5c08c44c71528664183&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llwynbedw.html": {
+    "name": "Llwynbedw",
+    "location": "Cardigan",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418891861.webp?k=4f61665a6a2cdb18c106be305ecfa8fb7c93bdf05c777213f67bcc084160a519&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-cardigan.html": {
+    "name": "Stable Cottage",
+    "location": "Cardigan",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240306507.webp?k=e1340fd8e4e3c8a082b87e738de6975d9de577f34e1ab31b58efa275660fab77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/panteg.html": {
+    "name": "Panteg",
+    "location": "Cardigan",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368092649.webp?k=6fd669e006969fc0b6e0ca2f127f0b9e43c0226ead8c92cea0bd5c2b0f12443f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cornel-clyd-felinfach-near-lampeter.html": {
+    "name": "Cornel Clyd",
+    "location": "Llanfihangel-Ystrad",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393189195.webp?k=510da952d3d6cda62aa6c4b979effb3140dc5c3f4762cfd98c82cc62d9aee753&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-attic-room.html": {
+    "name": "The Attic Apartment",
+    "location": "Cardigan",
+    "score": "9.7",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340173092.webp?k=dcaa3b47fd717e8c85ab6f0843a23857d7ad89534f8a10b17d86687b1791e41e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pine-lodge-aberystwyth.html": {
+    "name": "The Pine Lodge",
+    "location": "Aberystwyth",
+    "score": "6.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319984877.webp?k=3029d2de9c466c9bfc9c3512a7c51afe3b396e676163dd930b0a5e93d9909920&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-hen-stabl.html": {
+    "name": "Yr Hen Stabl",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419687078.webp?k=fb2944c517489e97e4d92aefd5393915114a0ebd9985686f431d5a1f1a835dd4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dyffryn-ceri.html": {
+    "name": "Dyffryn Ceri",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406801635.webp?k=d15f59ee038bd2592278f61113e929fc77e1587e3d70752bb0ea463cf9413833&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llys-celyn-holly-farm.html": {
+    "name": "Llys Celyn - Holly Farm",
+    "location": "Aberystwyth",
+    "score": "8.3",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114727535.webp?k=c56a7e41d1a87439293873b2ae3eedec478e7a3784a16bc54e0e6a9b376940e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dol-swynol-glamping-luxury-cabin-with-outdoor-bath.html": {
+    "name": "Dôl Swynol Glamping Luxury cabin with outdoor bath",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428564407.webp?k=617a998f32296480d949c3b2bb3221539f586e6b9035f553c90ad9148fe79350&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tancoed.html": {
+    "name": "Tancoed",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399437943.webp?k=7e58220ac064193e7ec81b38e7e36dce674a77b050daa188a16d4b30d2403e48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ystwyth-26.html": {
+    "name": "Ystwyth 26",
+    "location": "Borth",
+    "score": "8.1",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406214510.webp?k=9ba66f1462890994b4a8f820f910a941e5f5ad2f845131a8018a9018b1adcbda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oak-tree-cottage-cardigan1.html": {
+    "name": "Oak Tree Cottage",
+    "location": "Cardigan",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349634931.webp?k=8c7422ec3163f002d76538c3ac7b74a50793293e3392cbd0575df1ca91a78589&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glendower-aberaeron.html": {
+    "name": "Glendower",
+    "location": "Aberaeron",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418757485.webp?k=0524713494156381699842f265cd7897f78aa00404d597155d485823308f0ad0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/galwad-y-mor-cottage.html": {
+    "name": "Galwad Y Mor Cottage",
+    "location": "Llanon",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345543339.webp?k=897eed0ab9979c979efe7591b752abf69682dc62cf0a9e323c54e0b5410210bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elenydd-apartment.html": {
+    "name": "Elenydd Apartment",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316702964.webp?k=dea8a37532c91e0e7d4477a79e66ffae563e93b4c1470314199340e1b1500a15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/melbourne-house-aberaeron.html": {
+    "name": "Melbourne House",
+    "location": "Aberaeron",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437030560.webp?k=53627324ca06fffa284e604d803062fe3659d19aaa97e7cb65da3935c4650bad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/avalon-cardigan.html": {
+    "name": "Avalon",
+    "location": "Cardigan",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/276007245.webp?k=6bbfa2b5a7721d31b1f869002402434a7806dcc85e0d6c896597c1ef7359cfac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trem-y-rhiw.html": {
+    "name": "Trem y Rhiw",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326231010.webp?k=6ac78682109d3f3bacb1282bea3ebe48317947a86e5fe041da9816a8c669a3b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/belvedere-new-quay1.html": {
+    "name": "Belvedere",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403751225.webp?k=058ab19ac46dd1018f8ca942a196a66eafd61d50bcdbdf724069ea55118ac954&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maes-glas-lampeter.html": {
+    "name": "Maes Glas",
+    "location": "Lampeter",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338722466.webp?k=2f8f2e6939ac22803c12ccd8a2332e8bbd49a1e5d3d45a448eaedaae92fe3840&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haulfryn-cribyn-near-lampeter.html": {
+    "name": "Haulfryn",
+    "location": "Cribyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393556472.webp?k=9969aeedc2712956d45de60de98336e474e5870a22788123027d0c95f27122f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gorrig-bwthyn.html": {
+    "name": "Gorrig Bwthyn",
+    "location": "Tre-groes",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344299992.webp?k=b8fbed530855bfec4b2d2876caeb7536e8bf0cd47f602ef9844538d360793c58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-bach-aberystwyth.html": {
+    "name": "Ty Bach",
+    "location": "Aberystwyth",
+    "score": "7.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375156143.webp?k=fcf860f334a2141dd0f9ae57df16a02d62e8f325d7aa508a1efff789d67836e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swn-y-nant-swn-y-nant.html": {
+    "name": "Swn Y Nant",
+    "location": "Pontrhydfendigaid",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394398643.webp?k=831b550bbdf5d45a7e539ff06305780b35ba28ca83102bc5d27a1b6f06cc4335&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-home-with-superb-views-over-st-dogmaels.html": {
+    "name": "Pass the Keys Beautiful home with superb views over St Dogmaels",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373989702.webp?k=1977a713bd588c24bec0d4f4ac565ef6f39a90a716bf07f3f4c065dceea2bd4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llwynon.html": {
+    "name": "Llwynon",
+    "location": "Aberystwyth",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400202301.webp?k=506e14ca6b9b09e42244e05716b58d6986f26aee5b17d7196b72acafe8c43e70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-2-bed-chalet-in-aberystwyth.html": {
+    "name": "Beautiful 2-Bed Chalet in Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "5.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390411083.webp?k=8e05580548e9fb3ba7573b8d0fc6f715ee06c026dc5429806445305df1a14002&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-7-aberystwyth.html": {
+    "name": "No 7, Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "8.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316008665.webp?k=a3be9db8210422a7dc404dd0ae3c583e33dc0dc96d8b8cc0814dec5288747cf1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scrumpy-barn.html": {
+    "name": "Scrumpy Barn",
+    "location": "Dihewid",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414735556.webp?k=f21308ac78fb8547bcbe6f389fecf3ee62f9a70e0f761b4bdcf261ce7750e521&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ysgubor-the-barn.html": {
+    "name": "Ysgubor - The Barn",
+    "location": "Newchapel",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240148881.webp?k=07630b178c571101d7c6f7e7aee4e37912418cdafb400d20a23cd0a7b341679a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/double-decker-bus.html": {
+    "name": "Double Decker Bus",
+    "location": "Aberystwyth",
+    "score": "9.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377955743.webp?k=f4ca2842c0fca5c1c08cf7f87baa7b665a0b2914cf716cdc112f42f8a5e69e41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gorgeous-welsh-country-grade-ii-listed-cottage.html": {
+    "name": "Gorgeous Welsh country grade II listed cottage",
+    "location": "Bronant",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375043480.webp?k=f80dce04e74207f065d6ad0bc83717c12159e00d1a8fbd04186933ea135e8b81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-the-lion.html": {
+    "name": "Holiday Home Copa",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211175098.webp?k=2a16a6347f505ea6ef032b3d46c481312ef95b7fc6d2ca6207e9ad2f6254587a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/foresters-retreat-glamping-dinas-view.html": {
+    "name": "Forester's Retreat Glamping - Dinas View",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435798990.webp?k=7c365669cb4597ae0dccba8623b85390656c35764c62bce7c9ec6aa4d59bdf75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-belgrave-apartment-3.html": {
+    "name": "Ty Belgrave - Apartment 3",
+    "location": "Aberystwyth",
+    "score": "8.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322760895.webp?k=9f4cb20e931ada53c05b54595c3f5a14a84327492fa6ed0fdbd6bc8e35b0ab53&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llys-yr-onnen-aberystwyth.html": {
+    "name": "Llys yr Onnen",
+    "location": "Aberystwyth",
+    "score": "8.0",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114727064.webp?k=9716c06fad1dd6ee13e5510d5197b59041645d4a7948faaf4b28913e1103e81a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-4-bed-house-on-borth-seafront.html": {
+    "name": "Immaculate 6-Bed House in Borth",
+    "location": "Borth",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371063592.webp?k=97f791e54148201ed7ff9c165e0e8c0b4672456eeea22ed169225ecacc4b65ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-cottage-in-ceredigion-sleeps-6.html": {
+    "name": "Pass the Keys Beautiful Cottage in Ceredigion Sleeps 6",
+    "location": "Cardigan",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305778732.webp?k=501ee323f540b3484fb24dd10fc5fb558c1d8a857c2cd1f167f68005f93cda71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/escape-holidays-limited.html": {
+    "name": "Escape Holidays Limited",
+    "location": "New Quay",
+    "score": "9.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293484957.webp?k=7fb029bc166046b8b7f10653ed4186b7602ff6492d409ec0ea92b1d8586f46cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-twt-llandysul.html": {
+    "name": "Ty Twt",
+    "location": "Llandysul",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399539868.webp?k=d26ed252a4b850876153775ad43423da4072f849fdad4d8b051c4b9528752f10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/melindwr.html": {
+    "name": "Tŷ Melindŵr",
+    "location": "Capel Bangor",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419596112.webp?k=7a22df74bcda5e8c2d67c5ac5d3fa92e85d96905f80ac3211cd17163dac841da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oak-haven.html": {
+    "name": "Oak Haven",
+    "location": "Cenarth",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416822147.webp?k=37be2d4170f05f61b0173f97e5d8785692f4bb20f901a3b44e755c0d36a6af9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/john-lewis-apartment.html": {
+    "name": "John Lewis Apartment",
+    "location": "Aberaeron",
+    "score": "9.4",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367724716.webp?k=131c2dc00f0a61cc305ac07ddbaad1aa0ac9f94382acdcba39db013afb195334&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-barn.html": {
+    "name": "The Stable Barn",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357877825.webp?k=ffe8b1d5a60fca7e6ea8eaaf0cd894c8e562eee345f92aec270a982061998e23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/felin-iago.html": {
+    "name": "Felin Iago",
+    "location": "Aberystwyth",
+    "score": "9.3",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240309774.webp?k=50b5cd1af798c15109e86f0bd1c2453f839e00929e55f3a5354f9d20f093233c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-penrini.html": {
+    "name": "Holiday Home Helyg",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296749280.webp?k=8547b15d223fd61899bb0fbd8dd72fd4fe95f1c48c89b7d70ebcaae36e85ec85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plas-bronmeurig.html": {
+    "name": "Plas Bronmeurig",
+    "location": "Ystrad Meurig",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419688273.webp?k=307029786910567dc96096c83cfb1b4651528329d87d04e20f20d5f0bbdd5654&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morfa-isaf-farm.html": {
+    "name": "Morfa Isaf Farm",
+    "location": "Llangranog",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244915160.webp?k=43fc64caf5611caac4ceb17fabe501ad528c0d214b8c4febffb520195ffd00c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plas-y-dderwen-cottage.html": {
+    "name": "Plas Y Dderwen Apartments",
+    "location": "Aberystwyth",
+    "score": "8.9",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146792899.webp?k=fad8f4df3d1da93e9c463d076e4c1173d9177891b4aa1fa12aa87342c35f03a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodpecker-rest.html": {
+    "name": "Woodpecker Rest",
+    "location": "Llechryd",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418216592.webp?k=f27dd6721d3c623dc8bede50badbc2091d894d2ce2115212b4a7c5f481ddef8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-calf-suite-aberystwyth.html": {
+    "name": "The Calf Suite",
+    "location": "Aberystwyth",
+    "score": "9.1",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256874298.webp?k=00e4d4970f0fec0aed02aed737f09b8994db27c0b18fd5d488afcd216a3bf95a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ferry-view-st-dogmaels.html": {
+    "name": "Ferry View",
+    "location": "Cardigan",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394339837.webp?k=b1219ee16f50f370341bc609dd44b90163dda3c04f4c1b15a22559a9fe930830&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cilgwyn-bach-llandysul.html": {
+    "name": "Cilgwyn Bach, Llandysul",
+    "location": "Llandysul",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344288070.webp?k=d189b39a64b9b1c8b291feb856a7222ccac67aa0affb3fc66382e7414368f95c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grosvenor-house-apartments-ceredigion.html": {
+    "name": "Grosvenor House APT 1",
+    "location": "Aberystwyth",
+    "score": "8.1",
+    "review_count": "88 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234235437.webp?k=56b06593003c7927cd23e5c9f5116e94159b4ba116fc055d0d71ceeaa939f909&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/richardson-apartment.html": {
+    "name": "Richardson Apartment",
+    "location": "Aberaeron",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368802231.webp?k=089eb1222bf78834c8f7c423dfac42e1147c24edc3bf670236126226cefca235&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwtch-enrico-uk39064.html": {
+    "name": "Cwtch Enrico - UK39064",
+    "location": "Eglwys-fach",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419671517.webp?k=4e0402e743b45b517ecbbe060f3005ff5f8b0e32fd610613869d91374c1b01eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llys-y-barnwr-judge-39-s-court.html": {
+    "name": "Llys y Barnwr - Judge's Court",
+    "location": "Aberystwyth",
+    "score": "8.2",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114750110.webp?k=5b3b45011448c0da4f7b208f00c0e8263ae30c7b96c9987c254a83fa46a804a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-grade-2-welsh-longhouse-with-rural-views.html": {
+    "name": "Beautiful Grade 2 Welsh Longhouse with rural views",
+    "location": "Llanybydder",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343892953.webp?k=20ec3b94046bf99dee167a7bdaa099af0424f00fff0e7de11bdd027f5c3523d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/merlins-cabin-cenarth-near-newcastle-emlyn.html": {
+    "name": "Merlins Cabin",
+    "location": "Cenarth",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419630767.webp?k=4000d789af1c22beeab16d602f96561a1205129dcdfae3b0aeaec34be10780f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dyffryn-haidd.html": {
+    "name": "Dyffryn Haidd",
+    "location": "Llanafan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418772781.webp?k=dee2e243e78a722595650e7ccd270b7c084908b1880e4178c06ba16068f04d17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/belmont-y-prom.html": {
+    "name": "Belmont - Y Prom",
+    "location": "Aberystwyth",
+    "score": "8.1",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270017919.webp?k=e187d9550e84840a65ca9944eda8ccf4138660a30dffa9030876aae25db1b02b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-uk36200.html": {
+    "name": "The Granary - UK36200",
+    "location": "Llanfihangel-y-creuddyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395288538.webp?k=87ac54de993f7d96a751e99d5cd9e7614b095af3b5f97b7341a5e037fd43caa6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwmdu-cottage.html": {
+    "name": "Cwmdu Cottage",
+    "location": "Cwm-coy",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365365444.webp?k=026c3a4bfeea703a49568e88685e8bd769e0c4aceb15cffc5bea947e44194593&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-peaceful-coastal-2-bedroom-cottage-cardigan.html": {
+    "name": "Pass the Keys Peaceful & coastal 2 bedroom cottage",
+    "location": "Cardigan",
+    "score": "9.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341440985.webp?k=16c8c5a1d0ff985336c9ab82933c340fd47b99b2c3fea05ecc45acdd0f6b5576&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awel-wen.html": {
+    "name": "Awel Wen",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420059027.webp?k=9d0f8911df553aa61cd248849d66da8637b5394b853865217fb228321a3da79a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-wendill.html": {
+    "name": "Holiday Home Dinas y Gadair",
+    "location": "Llanilar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209850493.webp?k=badc337d82bfb2ce001c8fe1f697844dc4f040edaa9942f5b2c35df6a168a7c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blaenywawr-annexe-lampeter.html": {
+    "name": "Blaenywawr Annexe, Lampeter",
+    "location": "Cross Inn",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248358694.webp?k=cc49656282af145958cd26506c3847a46344815409d72ef18a0f263ae35c3fd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/delfryn-llanarth-near-new-quay1.html": {
+    "name": "Delfryn",
+    "location": "Llanarth",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420162795.webp?k=1dadf235d3c4d644a6a8fad152d70834844e83a74601803348ac0cab33b7fc6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhyd-y-fen.html": {
+    "name": "Rhyd y Fen",
+    "location": "Aberaeron",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375402103.webp?k=bb9765ef30adbd0272248731eec78dc9a61632d8c72d5a8bb091363885a71f26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/erw-las-ciliau-aeron.html": {
+    "name": "Erw Las",
+    "location": "Ciliau-Aeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399775063.webp?k=0adb7f68e741c41557dff2dccea55889292bcaf575d6eb30b7c01ab55d71648a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-newcastle-emlyn1.html": {
+    "name": "THE FARMHOUSE",
+    "location": "Newcastle Emlyn",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264325113.webp?k=47f11253d64b60e4e8c36678c46e1d43af904bf29e46b72db353f926c94dfc46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haul-y-bore-aberystwyth.html": {
+    "name": "Haul y Bore",
+    "location": "Aberystwyth",
+    "score": "8.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325951626.webp?k=96216fc16960af7dbed5d3a798ff88b244b003177a28ac1ec4f9764bf2c83ab6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llyswen.html": {
+    "name": "Llyswen large bedroom in top part of bungalow with garden view and balcony sleeps three",
+    "location": "Aberystwyth",
+    "score": "9.6",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270321156.webp?k=05eeae09ebfdc79d996914b8e14b033858de5756b82fe7d407ded49fd6237e13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-calf-suite-aberystwyth1.html": {
+    "name": "The Calf Suite",
+    "location": "Aberystwyth",
+    "score": "8.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374735623.webp?k=8e98d05f5315b2f30b69ff0b88d35e06e65d9decff028f8c2d8c51fc4dd537a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/neuadd-las.html": {
+    "name": "Neuadd Las",
+    "location": "Tregaron",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418573368.webp?k=15cd8a4ee5e456f14011ad5fd46d297148628b107bcdb3177dd85b5f94ee9fc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llanfair-hill-cottage.html": {
+    "name": "Llanfair Hill Cottage",
+    "location": "Cribyn",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395683206.webp?k=da09060243e46d61fbb8e5e4bfcaea0afe74abd67826374c6dff3bc105c1bbd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/highbury-abercych.html": {
+    "name": "Highbury",
+    "location": "Abercych",
+    "score": "9.9",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109999773.webp?k=3a0a6deda5013bbe978125f85e7cad8609d4832e09b524e537d289009bfd5d1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arvonia-sleeps-7-sea-views-dog-friendly.html": {
+    "name": "Arvonia sleeps 7, sea views, dog friendly",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424872842.webp?k=c5f87dd91bdc0070eb9e821a8f42b72c18c2f402a51e127b4a68301dfaca06db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mill-llandysul.html": {
+    "name": "The Mill",
+    "location": "Llandysul",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219983397.webp?k=8563b2827bd91a9fb04035bb0e8121da23f81da8d9f43a58e41a5142f7129a22&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bwthyn-rhosyn-gwyllt.html": {
+    "name": "Bwthyn Rhosyn Gwyllt",
+    "location": "Talybont",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291125824.webp?k=00903113946f8cf7cf1de1e4c0a478c2e3f10e6cba5609d9ddbda31aff4ae26a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwmhyfryd.html": {
+    "name": "Cwmhyfryd",
+    "location": "Llanllwchaiarn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420014768.webp?k=184670b7e4c2fbe996aade74bb11a607f8f089b5111181e8f2be22ef3aaf8caa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beach-retreat-aberporth.html": {
+    "name": "Beach Retreat",
+    "location": "Aberporth",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240325565.webp?k=2f36c540311f594c5f77e7a57bc07987c99cb5e83937d58b154ec443c570a8da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morlais-aberaeron.html": {
+    "name": "Morlais",
+    "location": "Aberaeron",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394487455.webp?k=224386ec80f0142f18efa5842a20b0c8a131a86f99643496896e5609ebe68f75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/foresters-retreat-dinas-view.html": {
+    "name": "Forester's Retreat Glamping - Dinas View",
+    "location": "Aberystwyth",
+    "score": "10",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424078059.webp?k=f603c5eda0e32c48b3f89869113f8b76c2e279d3ba0be60ce9825113109857d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/captains-cabin-uk.html": {
+    "name": "Captain's Cabin",
+    "location": "Aberystwyth",
+    "score": "9.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344461335.webp?k=f9bc4942d10d02267758da2d69312d4c5188a471093a6bfc1ce49d376b06e956&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bank-house-newcastle-emlyn.html": {
+    "name": "Bank House, Newcastle Emlyn",
+    "location": "Newcastle Emlyn",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263155195.webp?k=798c73d444d491078bf255ccffc0037ed603f2c33f7a4f3f5dedfa9e08a91337&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-aberystwyth.html": {
+    "name": "The Farmhouse, Aberystwyth",
+    "location": "Capel Bangor",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240181873.webp?k=3efa69986e4153bcc11cfe863122eb5b6f7dc4d5d087220ded291f32b569f799&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/frondeg-aberaeron.html": {
+    "name": "Frondeg",
+    "location": "Aberaeron",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394504378.webp?k=05ad6b59fdc6bbe0199db636cd8576af8b1ab00aa3908530f1eafe892a497c53&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/taliharris-cottage.html": {
+    "name": "Taliharris Cottage",
+    "location": "Pren-gwyn",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344425354.webp?k=36174c673473b5318e907c8c5a6443c8e4e9bb308e423d60fb22eb293d7cf727&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arnant-new-quay.html": {
+    "name": "Arnant",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399696271.webp?k=9a9e5f66d5e671289a0b5f022e92e15eff0038618c57e2c16bece5f012c33d00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-dairy-llandysul.html": {
+    "name": "The Old Dairy",
+    "location": "Llandysul",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270044231.webp?k=7dbaa2327e1b88f72448057bd4bafe7b421cb17621babd7747bb37120b1c75e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llaethdy-cardigan.html": {
+    "name": "Llaethdy",
+    "location": "Cardigan",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434081785.webp?k=25c7e251b5ce7a6a398bbe3ed2b3ee5ed9bbb689d6516c4556238123fb411059&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dolgoy-ponycob.html": {
+    "name": "Dolgoy Ponycob",
+    "location": "Blaencelyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429506080.webp?k=320096761359a9dd8cbae1c3e531296629c268439aafa83e06a4b0a45636fc2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-cariad-new-quay1.html": {
+    "name": "Ty Cariad",
+    "location": "New Quay",
+    "score": "7.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416795600.webp?k=aac44c2ed55ee8e72d23f32d16bd6bd4302cca1d1fba1d6673f5840bebeb64a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abrahams.html": {
+    "name": "Abrahams",
+    "location": "Henllan",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355989390.webp?k=9583bd0262228d79c5d577db44f4a46049112382aaa1585affbd9ae2eb47210b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-cottage-llandysul1.html": {
+    "name": "Rose Cottage",
+    "location": "Llandysul",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236352962.webp?k=bb07db86a068aa2dd4674dbc1363585253729bf58f653c1910d4b3910fe43621&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-odyn.html": {
+    "name": "Yr Odyn",
+    "location": "Llangranog",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240342653.webp?k=319406134f55bff7f8de899f0ed6fafb11aa807ce4fd47bd03ba93a82d5116f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mill-mydroilyn.html": {
+    "name": "The Mill - OM3",
+    "location": "Mydroilin",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432941178.webp?k=c7dd2c7fbf6aa6d877f861d55de469d547d5597076f9e7d364a96c40319c0ba8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chapel-barn.html": {
+    "name": "The Chapel Barn",
+    "location": "Llangynllo",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419751830.webp?k=caeaa60bebbc40e237ea8769c52a4250e332c2a5b866ae3965c0578609eecb51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glyncoch-isaf-farm.html": {
+    "name": "Bell tent 3 Glyncoch isaf farm",
+    "location": "Blaencelyn",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377622198.webp?k=06a07d9c13916f292f69225c90543be01fc93a5343f587cc2408fafdc9fbeb09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/traeth-rooms-cardigan3.html": {
+    "name": "Traeth Rooms",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420561815.webp?k=ab871833849198bf0dc9e9919cdef95ee662bc2fc9b55f103f49b8750ff27322&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gorwelon.html": {
+    "name": "Gorwelon",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396082144.webp?k=4e91f966aa2e6b79c142bf94298b5b57145e07a17cf8a62d5f122f7487459971&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-dreken.html": {
+    "name": "Holiday Home Tresaith",
+    "location": "Penbryn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387928391.webp?k=d2777b881095d1fe0bfafaf390f3f0ca127c0be2f63b59bb26a59f549791effc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-underfloor-heated-yurt-with-hot-tub.html": {
+    "name": "Luxurious underfloor heated Yurt with Hot tub",
+    "location": "Bow Street",
+    "score": "7.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364489948.webp?k=cf306f60049ec21df68573deebc830951c6b811a2a514dea6190cfb331f21486&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caban-cae-cnwc-cabin-private-cabin-with-hot-tub.html": {
+    "name": "Caban cae cnwc cabin, Private cabin with hot tub",
+    "location": "Aberystwyth",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404533011.webp?k=f3589ae60bb9f97e825a85ffe0bb468cc316a1cad217edeea3852fa06f50d4f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/uk39900-the-ceredigion.html": {
+    "name": "UK39900 - The Ceredigion",
+    "location": "New Quay",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396220123.webp?k=a032f0d51efb8718f7cbaa92f98624ab747dca178eb949dbbfcda0d2ca19e858&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-church-house-llechryd-near-cardigan.html": {
+    "name": "The Old Church House",
+    "location": "Llechryd",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392410468.webp?k=b04e21032548ed683030051baaadda050834559c31cfec483d93bb4196aef9ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-clyd-aberaeron.html": {
+    "name": "Ty Clyd",
+    "location": "Cross Inn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157765384.webp?k=aa7c013762d91c1ce4c02164b80ec65e62ed70e158ba9f7b16163246e6178bab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-twt-lampeter1.html": {
+    "name": "Ty Twt",
+    "location": "Lampeter",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326045260.webp?k=2862c837150943cc9079f4165fb1b435ed65cc4c1081ec4d667568d738a9509c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ocean-view-house-new-quay.html": {
+    "name": "Ocean View House",
+    "location": "New Quay",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420345769.webp?k=a970a743b3e909efd29f9f4416cdd1f21dea897ca4bb952a3967407d16828ff6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-fantastic-two-bedroom-victorian-apartment.html": {
+    "name": "Pass the Keys Fantastic two bedroom Victorian Apartment",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399846759.webp?k=e689c0eb3fadd8079ad476cf675ece21183f701bb0fe772c159aab3561e8a748&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wild-winds-annex.html": {
+    "name": "Wild winds Annex",
+    "location": "New Quay",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405074974.webp?k=3549f19277346ad7ed5244b8727c97116a08028c3b91635e42640c67b9d6ee34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-truken.html": {
+    "name": "Holiday Home Cwm Onnen",
+    "location": "Lampeter",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296748708.webp?k=7b0697f4e862aa183b0ec707529d97e5ad5fffabf66f43344c43e0cdcb291fcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arhosfa.html": {
+    "name": "Arhosfa",
+    "location": "Rhyd-y-felin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416835984.webp?k=a15a312e5c8b59d21116f9ab5700b455055415a3b9699a0b46d74d81f8977c14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-breeze.html": {
+    "name": "Woodland Breeze",
+    "location": "New Quay",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337575233.webp?k=dd8002c609d7f36e9df19143327e93f95cf736d61a76febc756512204c8404fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberystwyth-ilar-cottage.html": {
+    "name": "Aberystwyth Ilar Cottage,",
+    "location": "Aberystwyth",
+    "score": "8.8",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323392467.webp?k=0f7ab418e468a37b8f463f47844f7a13742d36bb5f29eb1e8e29169618bf3ac4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tawelfan.html": {
+    "name": "Tawelfan",
+    "location": "Cilcennin",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418716713.webp?k=dabef538795804137743fe35b299a2beb5507749eb347e88884f02f6d28f47d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-twt-ponterwyd-aberystwyth.html": {
+    "name": "Ty Twt",
+    "location": "Ponterwyd",
+    "score": "8.4",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259667571.webp?k=74b5ddb1264e7af85c90f9791d7ea5a06cedc58944000a69298ec2174cbe2ea2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glynmoor.html": {
+    "name": "Glynmoor",
+    "location": "Llanrhystyd",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125455239.webp?k=09f3f966a04b253aa7c060e69afd4831a8f18f5af6548d34cd09499926ee75d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/27-morfa-bach.html": {
+    "name": "27 Morfa Bach",
+    "location": "Aberystwyth",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399689849.webp?k=b790a55e2fb553667a536c836681cb2099032781dc5a5049f57e64919a5b7af8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elf-yurt-yurtopia-aberystwyth.html": {
+    "name": "Elf Yurt - Yurtopia",
+    "location": "Aberystwyth",
+    "score": "9.6",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421134940.webp?k=b6ff2eefe4a3f314fbc20458117fea57e2fc3e35bc91d49d64abd967dc18b1bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-cornel.html": {
+    "name": "Ty Cornel",
+    "location": "Aberporth",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418300016.webp?k=dab609e606c3de4bc5ee555439b5258397f15b5c9c62bdcf9f780a93663a4098&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salthouse-apartment.html": {
+    "name": "Salthouse apartment",
+    "location": "Aberaeron",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368846016.webp?k=0c6bbb511dedc64d1723175533a66b46af569399f88b0a9753df0513ce47e379&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-art-room.html": {
+    "name": "The Art Room Apartment",
+    "location": "Cardigan",
+    "score": "9.5",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390360850.webp?k=1bf163b276d5cef336bd779383a58619b66ad8df41f9e0a27106b8ac0a4d0017&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caban-y-gader.html": {
+    "name": "Caban y Gader",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399365835.webp?k=c9208a19738e913c12b9b1d491e716876e1f4dc9db6230b86142cc79a77a7d63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rwgan.html": {
+    "name": "Rwgan",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418386078.webp?k=d3a40b7d2300fabb67eb7519cc2eb03c2cb405f8c92350fd73e2b95718337de9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chestnut-cottage-aberystwyth1.html": {
+    "name": "Chestnut Cottage",
+    "location": "Aberystwyth",
+    "score": "9.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347856935.webp?k=1cf09c9518f354686f4776bcbb73fdf9abceb3b4cea0abb8a3f6e565703c7ae6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glan-mydyr-woodland-yurts.html": {
+    "name": "Glan Mydyr Woodland Yurts",
+    "location": "Ciliau-Aeron",
+    "score": "9.4",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142919717.webp?k=74f579035f0db2c8ecae4a33e4cbc5eb166edbb44d2e1ecc5889908cd740e1e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chalet-95.html": {
+    "name": "Chalet 95",
+    "location": "Aberystwyth",
+    "score": "7.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344422568.webp?k=0b79a559c8ea42224ffad3497dbb22579a4ae5280d40d3eced1fe802bb8efe49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/island-house-the-best-panoramic-harbour-views.html": {
+    "name": "Island House - The best Panoramic Harbour Views",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378093975.webp?k=eb00d829bd57e5e56fc74b1fa6cf2888571ae52695446cbac7ff78b59be84ea1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stores-aberystwyth.html": {
+    "name": "The Stores",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325652316.webp?k=11e1d5a7256068d48c8890855c4ae86dfc72b0d2c1dcda62f7233fa083034c99&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-ffermdy-farmhouse.html": {
+    "name": "Y Ffermdy Farmhouse",
+    "location": "Sarnau",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371776107.webp?k=c529349abf09141fdfcafd1e7f5a022fb9f16ea9e7916a599cc698040f520857&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberceiro-bungalow-bow-street.html": {
+    "name": "Aberceiro Bungalow",
+    "location": "Bow Street",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262059035.webp?k=47537a890c97dcb4654c3dceba6e3dcde39ea036778dca220228f7a35200a262&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bell-tent-2-glyncoch-isaf-farm.html": {
+    "name": "bell tent 2 Glyncoch Isaf Farm",
+    "location": "Llangrannog",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378056275.webp?k=2e453526df228d71c2572704d3a012f33c060de06989b6ab734680b793b1feeb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/over-the-rainbow-wales-cardigan.html": {
+    "name": "Over the Rainbow - Vegetarian Guesthouse",
+    "location": "Blaenporth",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/53081128.webp?k=ba97fb25a504e6680f6ca6a799d7b75ec6cf63f4eea8e6ec0b757e8256d9dd2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-lampeter.html": {
+    "name": "The Farmhouse, Lampeter",
+    "location": "Ciliau-Aeron",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280756204.webp?k=00222ce6a1992ab790bab46fbd8e082d769b89022b4793dd0018d11edd83cf1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwarcwm-uchaf.html": {
+    "name": "Gwarcwm Uchaf",
+    "location": "Tre-Taliesin",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/85041477.webp?k=b71a9c9c4172e58132accc054b548edf87b29e66a2e06e412c525844d56c23a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oak-cottage-llandysul.html": {
+    "name": "Oak Cottage, Llandysul",
+    "location": "Llandysul",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240183306.webp?k=2e3742fa664b5225989a8692eb2c38dc07a5e9611ae1691807196411622dbace&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/54-the-moorings-cardigan.html": {
+    "name": "54 The Moorings, Cardigan",
+    "location": "Cardigan",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344453464.webp?k=8673c3060ac1c4e9e456185c9ac05c02171c9f1e76c87d07e9ff34bb394e713d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwynfa-newcastle-emlyn.html": {
+    "name": "Gwynfa",
+    "location": "Newcastle Emlyn",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263058195.webp?k=559f39dc30c10658f68116ea70a6758b4e5ef77261b34e8cee9004fb25207109&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-spacious-4-bed-house-overlooking-borth-beach.html": {
+    "name": "Pass the Keys Spacious 4 bed house overlooking Borth Beach",
+    "location": "Borth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400974940.webp?k=d7005475bfbb9f863aefa7653543b74a3e35206fdc1a06fb1781e6777e199eaf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-lampeter1.html": {
+    "name": "The Stable",
+    "location": "Lampeter",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280756308.webp?k=e099ba9a4dceac33bcb6047dc6454d177c70253636a5ccf9006906216b63b647&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-hen-llaethdy.html": {
+    "name": "Yr Hen Llaethdy",
+    "location": "Troedyraur",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328728508.webp?k=628e9e78d4b6813abc55488360ef6d87f60091442151eb4d2d8ea6ed34043610&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penuwch-fach-aberystwyth.html": {
+    "name": "Penuwch Fach, Aberystwyth",
+    "location": "Llanfihangel-y-creuddyn",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253478175.webp?k=757637ad56522a2fc508fad08a118346e23f1a179d23b454e601a55e5c2b1eb2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crug-y-bar.html": {
+    "name": "Crug Y Bar",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407626090.webp?k=3ca48facdb1afb4e15b66d88530ed4e9be496673898d31497e11ab636fb0a438&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/siop-shoni-bric-a-moni.html": {
+    "name": "Ty Shoni - W42764",
+    "location": "Blaenpenal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430428094.webp?k=cd54cf95dddd63377e1f45f85f976c522fa8ca95566b8ede8374830a65ad19ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cambrian-rio-static-caravan.html": {
+    "name": "Cambrian Rio - Static Caravan",
+    "location": "Borth",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356427641.webp?k=e0682966ddf8a4ea70725e422cf8178b09b88bd928ae3b1f372977bcd242c8cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/murmur-y-ceri.html": {
+    "name": "Murmur y Ceri",
+    "location": "Rhyd Lewis",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399524472.webp?k=853fda8070becad87b1fc14b1e51584130fb8ac8951212e8e79dec48e0ecbec0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-courtyard-house.html": {
+    "name": "The Courtyard House",
+    "location": "Cardigan",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240293836.webp?k=ccfa1f6c5d7954659f2fda08d48b918d79bd6860342d9d8abd8dedcd16b121a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fishermans-cottage-llandysul.html": {
+    "name": "Fisherman's Cottage",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385264237.webp?k=3aa053c72eec6a734010f655048eb2e76297a6272bb0da6b7b120ef14ac258d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dewi-villa-aberaeron.html": {
+    "name": "Dewi Villa",
+    "location": "Aberaeron",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240313378.webp?k=347b45e3550f68a9ba3bd838d54a1f106926c8f437a126e82fa5e59e18284a30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clifftop-carriage.html": {
+    "name": "Clifftop Carriage",
+    "location": "Aberporth",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240307626.webp?k=8ea3ffdc0a4a5735f8243d101477e3212c8670173e43195d4d169c1fe4564e76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ysgubor-blaenparc-barn-uk41030.html": {
+    "name": "Ysgubor Blaenparc Barn - UK41030",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402613215.webp?k=c131a1393d464fad732ec34cb148ea22bd77e0143806b976d2bb4d6852170646&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-bwthyn-gwyn.html": {
+    "name": "Y Bwthyn Gwyn",
+    "location": "Devils Bridge",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420037522.webp?k=7b77b29313d99f58286ccbcae3fd218dd82845a9308e420245ced27368095129&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blackthorn-cottage-aberporth-near-llangrannog.html": {
+    "name": "Blackthorn Cottage",
+    "location": "Aberporth",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395959326.webp?k=09c48d8b800a47d2ee369a6f59f90cc9f49c0cd58fddbc5c3abf807b8bd2d726&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-18-aberystwyth.html": {
+    "name": "No. 18, Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309436343.webp?k=968aafa20067882827ea73cb55fd71a5d8fdf4727c5b428764e54416d4c6744d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-rhydgaled-rhydgaled-19th-century-grade-ii-listed-cottage.html": {
+    "name": "Pass the Keys Rhydgaled Rhydgaled 19th Century Grade II listed cottage",
+    "location": "Ystrad Meurig",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400972341.webp?k=c4d39757cd640947fc8bfc4fd6f286617f819922dea14bd4128655761227ab0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-the-green-dolphin-the-green-dolphin-4-bed-victorian-beach-house.html": {
+    "name": "Pass the Keys The Green Dolphin The Green Dolphin 4 Bed Victorian Beach House",
+    "location": "Borth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403743784.webp?k=abe17dfc8ce52c0f836cce1481d69ecfd77d00af81fc6be64796458cf37aa932&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottage-1-aberystwyth.html": {
+    "name": "Cottage #1",
+    "location": "Aberystwyth",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325954475.webp?k=67b9447319271cbf0d7fea1799a6a1f01cd212ed3a2cd5796e0bf05a973319f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seascape-new-quay12.html": {
+    "name": "Seascape",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391455579.webp?k=746bfd1690441faef7f82dfce1f93c01532a89e3caa493f94c1e7d35bf5c0115&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maesgwyn-cardigan.html": {
+    "name": "Maesgwyn, Cardigan",
+    "location": "Cardigan",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308492852.webp?k=5728944fff71e3fee5b0a285f6832e9c4470d69475e081ae142e7841a58c9c5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pentref-luxury-camping.html": {
+    "name": "'Villager' the Yurt at Pentref Luxury Camping",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421712632.webp?k=e9f2a93c00d20aebe625b338f653182c3fa945588008148499442d934a93aedf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daffodil-shepherds-huts.html": {
+    "name": "Daffodil Breaks Shepherd's Hut, Primrose",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437311321.webp?k=8f9c5f28493dcb1a43aee891eb4f595e57f9fa0d694ffe26d8122f900ef12931&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dolwylan-cottage.html": {
+    "name": "Dolwylan Cottage",
+    "location": "Llandysul",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354712004.webp?k=33bb0cd2640045cb2449832acfeddc70061ced4f584972badad173cd857cc691&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-coch-cottage.html": {
+    "name": "Ty Coch Cottage",
+    "location": "Dihewid",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418406247.webp?k=5743de0bab5a92a8dbde3ed2da291d285a90d913d2e107665ee2b63db5554b84&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awelon-y-mor.html": {
+    "name": "Awelon y Mor",
+    "location": "Aberaeron",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399695838.webp?k=deb86f7a90116fb616a38e6e4b1e8743d179e791b7635aee58a73ce83bd49579&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-hen-ficerdy.html": {
+    "name": "YR HEN FICERDY",
+    "location": "Aberystwyth",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387027357.webp?k=434535801b729bf03e30afce4700efb9880e863ce0e949fb92287098b0c51417&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-felin-cardigan.html": {
+    "name": "Y Felin",
+    "location": "Cardigan",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242523184.webp?k=31ed3fe81cb5260397ceaed3db2b713e1f28d9f93a0a9202cd5c259877ef93e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-pengraig-draw.html": {
+    "name": "5 Pengraig Draw",
+    "location": "Llanychaiarn",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418645136.webp?k=c6d63038d780690eb959e1b06ade559c9d36b853cb77b8604d0ffe538e94823b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-wrinckle.html": {
+    "name": "Apartment Harbour View",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296782960.webp?k=563f6d95d177c5a4720c72a795afee4aaa1098aa8f56597531342de61a62be52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/erwlon.html": {
+    "name": "Erwlon",
+    "location": "Llandysul",
+    "score": "5.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418772818.webp?k=2bd4ff2852e5b3b014ec6b461834c385b2f6b02a7d875df26433b744e13a85fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blaengader-cottages-aberystwyth.html": {
+    "name": "Blaengader Cottages DINAS",
+    "location": "Aberystwyth",
+    "score": "8.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323366661.webp?k=f646940f7f6c310efc3fb2a35f5c0ca6021eebefafddc7d8aee15dece1b397e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morahan-apartment.html": {
+    "name": "Morahan apartment",
+    "location": "Aberaeron",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368874421.webp?k=452563e50f1ebf6a1c363a1e0b0bd21261e5183a22bf5f90815c2f135241e5aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dan-y-faen.html": {
+    "name": "Dan Y Faen",
+    "location": "Devils Bridge",
+    "score": "5.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418139396.webp?k=1780d10178a94950435160bd81d66a7b618fae53a2f87cb19a945973419a03a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-felin-cardigan1.html": {
+    "name": "Y Felin",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363497429.webp?k=17c0ab38e8600a1a8c99d218f1c9502c4d74d7137fec76b9cf5a2253a7158ff1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pensarnau.html": {
+    "name": "Pensarnau",
+    "location": "Sarnau",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419694560.webp?k=c6013c3f3c055fa8b2bc7342d48e45c4665505925b12dbf5a18e4cbf537b8208&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/8-glan-ysgethin.html": {
+    "name": "8 Glan Ysgethin",
+    "location": "Talybont",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371539460.webp?k=dbf05aca8b1e55644be038dffb5da9ad220180ab81edb648f3a8e125740fbedd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maes-rheidol.html": {
+    "name": "Maes Rheidol",
+    "location": "Capel Bangor",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418650102.webp?k=9ac257aadf0ab0847740d2149e00cac354af62552d905467f4f79130e27f13dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clud.html": {
+    "name": "Clud",
+    "location": "Lampeter",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338692549.webp?k=15cb78e202f03e7c334a556bfb4a226f13e5cf6075f5fe9490ef961b7ac57a16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bronallt-aberaeron-cardigan-heritage-coast.html": {
+    "name": "Bronallt",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391465938.webp?k=22876dc6f7ab529a60fb28b657b38a942b526fffd72a50e2b885d587039c8949&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-barcud-lampeter.html": {
+    "name": "Ty Barcud",
+    "location": "Lampeter",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326045239.webp?k=bf5a2d328bc6fc99fc1afa7c34a7940579dc0be675175de57e2a59ccf97d2ec3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lake-view-romantic-retreat.html": {
+    "name": "Lake view Romantic retreat",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405495439.webp?k=945c8d3e65d1046e225c0100a2271b67146baaddcfe2c697edf2095b63eadbdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daffodil-breaks-at-the-daffodil-inn.html": {
+    "name": "Daffodil Breaks Shepherd's Hut, Bluebell",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437225950.webp?k=d572bdb7f6d23fd5466c7064bcba0fb7ca2138b37a0437d4d9823ff2c92a2381&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-cilwendeg-lodge.html": {
+    "name": "2 Cilwendeg Lodge",
+    "location": "Newchapel",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417935422.webp?k=0f68f9e820ee53a8df18fabbf619323b8799f7b103958651bea55cc5bd986db1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-milking-parlour-aberystwyth1.html": {
+    "name": "The Milking Parlour",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343057888.webp?k=9ca9d455e16bddb6268122be1bffe1fc0d96fdab534eecabeff37672f3af4e49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hay-suite-aberystwyth.html": {
+    "name": "The Hay Suite",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288044931.webp?k=b4d3fb340448f3432c6a1c023c3f27c118e1be1154425ad6b6a8babb2608fd66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/celtic-cwtch-lampeter.html": {
+    "name": "Celtic Cwtch",
+    "location": "Lampeter",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405216520.webp?k=449ca0352b451f5105995a1f5bcb31479d02233ff91235f20f3096cc12b78dac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parlwr-uk11210.html": {
+    "name": "Parlwr - UK11210",
+    "location": "Cwrt-newydd",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392454730.webp?k=836c79a1370a0192376742b4a25ae635c41b2a656d2afd1ed69337c67d424944&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-winderminer.html": {
+    "name": "Holiday Home Sgubor Hen",
+    "location": "Silian",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211174317.webp?k=40e17d4075e365eb00cb1558dbca9e6934770451b247a37e6ff891a0703d4e6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-hideaway-one-bed-cottage-with-hot-tub.html": {
+    "name": "Pass the Keys Beautiful hideaway one bed cottage with hot tub",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400976918.webp?k=e5f0ae70b68ef757fcfc5b59db81c6a7cdfe4c1efad68e61946bfa396b29390a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-dankino.html": {
+    "name": "Holiday Home Y Beudy",
+    "location": "Silian",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209852050.webp?k=01611067ef4dc88097dfbabca1645acdf2d2a97f59dbf6eb20e7d158efb1a62a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dolgoy-galleri.html": {
+    "name": "Dolgoy Galleri",
+    "location": "Blaencelyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429467390.webp?k=e18d88ccf2a92afd9d2ceb548045dcafe57a00d19cc48d1930e3db96ffdf347a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ysgubor-isaf-brongest.html": {
+    "name": "Ysgubor Isaf",
+    "location": "Troedyraur",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396620869.webp?k=f9f67c8298be833b3f1d034eaebff4307a364d505e747cb4b5685ad607c546f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-hen-ty-coets.html": {
+    "name": "Yr Hen Ty Coets",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244918407.webp?k=94862068c60411b262536980bd178384657fe8288083f005fe2479d1a039ad47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-garth.html": {
+    "name": "Holiday Home Garth",
+    "location": "Llanilar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259899078.webp?k=def46c15ba0d0cc1e123a9aee603865c58830b2cef0549bf4f0f3abb40e2fff4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-garth-grutt.html": {
+    "name": "Holiday Home Bwthyn Cadair",
+    "location": "Llanilar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209850348.webp?k=bbc79fc6c4c3b24a7c668ba9259b0c38f7aa11db6d26bfc177f88b350d870c8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-cartws-llandysul.html": {
+    "name": "Y Cartws",
+    "location": "Llandysul",
+    "score": "2.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363192774.webp?k=fcbb187fd52ae0092345d3d05efd3e18b1f2aafb0bee9262f0975d533ff3fb1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-peaceful-and-charming-3-bed-rural-cottage.html": {
+    "name": "Pass the Keys Peaceful and Charming 3 bed Rural Cottage",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421902690.webp?k=32410642a08ed89b2410284517664f20ff3c7ef8d401fc3e16ad99472a4a1a5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glyn-cottage-llanon.html": {
+    "name": "Glyn Cottage",
+    "location": "Llanon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350403104.webp?k=869a6e889c964ecd824a1ee2000440b684bd748ec3d71937b0336f38c84d02c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-mydroilyn.html": {
+    "name": "The Stable - OM4",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418564372.webp?k=3603b7249068c33e2e2467e4b90f451a1e57d8bdcc53be24f18801791cf1f76e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-mydroilyn.html": {
+    "name": "The Farmhouse",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418683422.webp?k=53c7e0c8ef7feddbbfad5da9567c337b5ebd9db6bf7b567e4841187105c37857&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-cwtch-llanybydder.html": {
+    "name": "Y Cwtch, Llanybydder",
+    "location": "Cwrt-newydd",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370702208.webp?k=f5be8d115c595c387a54694c04ded5af2c0d32d4200d78a067453e541723b4bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penceunant.html": {
+    "name": "Penceunant",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419667464.webp?k=a87e47dbf6c854136c4a24ff077ee180f90556fbf0be92c1c3d3d53f12217fd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-hen-beudy.html": {
+    "name": "Y Hen Beudy",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414675374.webp?k=3c057478cdb17c98b0d38a9732ed7cf1e8dda804618c62b5474e54b7f6156267&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/exclusive-use-of-celaeron-glamping-pod-site-sleeps-upto-16.html": {
+    "name": "Exclusive Use of Celaeron Glamping Pod Site - Sleeps upto 16",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435845884.webp?k=747b0545898f9f27cd70ecf87881a0e547f3b746e5b6b05251a7b47645dfb39d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-tiddler-cottage.html": {
+    "name": "The Tiddler - Cottage",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408151913.webp?k=3b6cc58faca51947786eb22e8767bf001d85606c5ec6c03047c953500d415529&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/water-street-aberaeron.html": {
+    "name": "Water Street, Aberaeron",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344457254.webp?k=1b65231a503407b7db91895cab6466e3c31df7ba3c48b8f06a467fe9b4eb8491&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cow-shed-neuaddlwyd.html": {
+    "name": "The Cow Shed - OR5",
+    "location": "Ciliau-Aeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418533168.webp?k=e94ebdf228639809c91a1b70b2ef04c0578bd901c5be4c412187b00d1b847fee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwel-y-llyn.html": {
+    "name": "Gwel-Y-Lyn",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417953233.webp?k=d9c4fe1415cc4ae681454bfdd18da8aa1e1b9f3ba05a47a3cd88231fc674ae8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tan-y-dderwen.html": {
+    "name": "Tan-y-Derwwen",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417897161.webp?k=756900a17bf487d926957af388a320db4563efa2d9b9b27901b29741292f7959&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beudy-bach.html": {
+    "name": "Beudy Bach",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391644415.webp?k=13deb7fee674eb71d6707f201a49d0822d9581a8895e5a5394536e6b2ec8373a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nant-y-bwthyn.html": {
+    "name": "Nant Y Bwthyn",
+    "location": "Llanfihangel-geneuʼr-glyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418620449.webp?k=264d593eef1bf3b912233b499076ef65851a5590d458def4e67a7ffd48a0cb32&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwent-74.html": {
+    "name": "Gwent 74",
+    "location": "Borth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425907428.webp?k=b06380020487e552683fab176e575935fdc44b6424beb1f2d46ad555e4c65e1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tipi-pengarreg.html": {
+    "name": "Tipi - Pengarreg",
+    "location": "Aberystwyth",
+    "score": "6.0",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375596027.webp?k=b4c89d07245190d34471ea4592b38376f11d4a0d26ab5bc66ae45816e212f921&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nut-hatch.html": {
+    "name": "Nut Hatch",
+    "location": "Cenarth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400179077.webp?k=59f35cce29bf3c547a16d8077875d961ac9e9d4984dea9469298c88466b240b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caban-bach-cennarth-near-newcastle-emlyn.html": {
+    "name": "Caban Bach",
+    "location": "Cenarth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403734994.webp?k=5ec57f420b2f160fdcad3b2d311e475591138bc792e929f6f40ecbd539972d50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stabl.html": {
+    "name": "Stabl-OH4",
+    "location": "Dihewid",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427904378.webp?k=a759a2722b69a785af6d44f870f16caed0ab4aaa4cb5179b421b406b783babc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cartws.html": {
+    "name": "Cartws-OH3",
+    "location": "Dihewid",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419626972.webp?k=f69135efe2dad7a6ab37fc9fd27235c055cb367663c957b1da8d04fc33f20ab9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-aberaeron-apartment.html": {
+    "name": "The Aberaeron Apartment",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88569630.webp?k=60987c98edbf8fb145e9f00c0917d68d768ea7cf848498bbec174daa088c9c6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morva.html": {
+    "name": "Morva",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418448164.webp?k=740ea6a88fa71036b0637ab76cf3a930b541cb4c698899d94f57a352196b0594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bwthyn-y-bugail-abercych-near-cardigan.html": {
+    "name": "Bwthyn Y Bugail",
+    "location": "Abercych",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416823347.webp?k=c062aedc48fb97bc8f3857db90b8b6b992d89a75173ecda773b5964c9945eeb2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-beudy-llanwenog-near-llanybydder.html": {
+    "name": "Y Beudy",
+    "location": "Llanwenog",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423520801.webp?k=e22c830265dd6c16726658b7cac039563f46a32a65027e1a1f81fbd08c55202b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/butterfly-lodge-saron.html": {
+    "name": "Butterfly Lodge",
+    "location": "Llangeler",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394925844.webp?k=6caef7d71cd4779d25ef0b022e509c01c3ac75f4a61ee60b30f48fc8c4b757c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cefnhendre.html": {
+    "name": "Cefnhendre",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399705144.webp?k=4a0d0e832efd0183879919d46f175adc634072e245cb09f59ba4438cc3fa4256&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wyn-y-mor.html": {
+    "name": "Wyn Y Mor",
+    "location": "Towyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423786653.webp?k=ee6f35fef4338c5aa6674eee29021ba3cc62e8594d93b3d06753ab2aa863b2b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwm-bach-cottage.html": {
+    "name": "Cwm Bach - Cottage",
+    "location": "Llandyssiliogogo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432946580.webp?k=66b4e3496d14ad6178a2ed97e9994165ae856c03ff2482e28623be56af38b97c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwmberwyn.html": {
+    "name": "Cwmberwyn",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363349321.webp?k=2794e1d4179b6fd765215e45a415ef1d5e83a8bfc5c7400f552465873d898bfc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-glen-pontrhydygroes-devils-bridge.html": {
+    "name": "The Glen",
+    "location": "Devils Bridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419816765.webp?k=786e36574bec35da5b205b31aa57b1f7cdc134a0d02935958cb5312b0337e3eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brook-lodge-llandysul1.html": {
+    "name": "Brook Lodge",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236353744.webp?k=df1f46fdac4b847b6cd5d02540afcee25916e9169e2b3f70e2b6f01bb1d57224&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-rhys-cardigan.html": {
+    "name": "Ty Rhys",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433385844.webp?k=2c2a4690851889a1ae1c500a7a32a39b381717487037b41d8767d5021ea5604f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwtch-carys-cardigan.html": {
+    "name": "Cwtch Carys",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433384090.webp?k=b8257f7d7a7c1f029f83816cf423929b35f6d9a1cac7b55fc22712f021b42aea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grosvenor-house-apt-2.html": {
+    "name": "Grosvenor House APT 3",
+    "location": "Aberystwyth",
+    "score": "8.0",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234236068.webp?k=4e3159ec7b4470cbdb922f066756953ac919b0db281b564a40654e03dba45930&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ystwyth-house.html": {
+    "name": "Ystwyth House",
+    "location": "Borth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416793625.webp?k=b04a9f7ed916a6df750f56873c1758a05b78049bae113673334e78946c9f0ca3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eithinog.html": {
+    "name": "Eithinog",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418435014.webp?k=420fd1ed47b1dad28f39f5b6962a33c25c4c2a2ce5da63b811282cc17ff0ee7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/helygen.html": {
+    "name": "Helygen",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418210596.webp?k=49b3aae5a8af3d12fe8efd723de77f99f3e6f9b59e571a51bbaa2a0632687090&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coach-house-5-minutes-from-stunning-beaches-of-cardigan-bay-aberporth.html": {
+    "name": "Coach House - 5 minutes from stunning beaches of Cardigan Bay",
+    "location": "Aberporth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438121030.webp?k=aef6f31db1f01c000b0d604314e76f186b26576776dd6171cb258d2f7096a6e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-glynarthen.html": {
+    "name": "The Cottage - OSD",
+    "location": "Aberporth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418711429.webp?k=973946e849d932ddaa6074a7df26f0107ac4fd1208fffd91c1498c35cfc3f98a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-glynarthen.html": {
+    "name": "The Granary- OSC",
+    "location": "Aberporth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418606493.webp?k=c0c17d757674f3b74ccca795e60dd92bb73a2aade090774eb7d9caa732c2fcf9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-glynarthen.html": {
+    "name": "The Stables- OSB",
+    "location": "Aberporth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418497007.webp?k=21b85214b97bc9634f903a7ed54de1df579c3b4de4223837bf7415b00f054b4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pond-cottage-new-quay.html": {
+    "name": "Pond Cottage",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240313531.webp?k=b25376f60274b8d2932f3c64482be918dd65f2d9fe877a45741a019cf54edaf8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shire-the-shepherds-hut-at-pentref-luxury-camping-near-tregaron.html": {
+    "name": "Shire the Shepherd's Hut at Pentref Luxury Camping",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434317018.webp?k=71771811414a02ecc7a49f7d5ae4bdc995b8bc273e6f1b18f3a2cffa7b5df8a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cych-cottage.html": {
+    "name": "Cych Cottage",
+    "location": "Newcastle Emlyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418638594.webp?k=eadbe63570a1345c3a08de2265ccc1d4e66d9b4e3511aaf2c98e1cd2b3ebe7e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-winill.html": {
+    "name": "Holiday Home Winill",
+    "location": "Llanddewi-Brefi",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242099210.webp?k=c6bd39de1ccfdc6ebdd9ed984cb6201817cc3fd5a4328f8d01a25ed3a5365abd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awel-y-mynydd-mountain-breeze.html": {
+    "name": "Awel y Mynydd - Mountain Breeze",
+    "location": "Strata Florida",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418132124.webp?k=d599ed32b65d22d99bd137f854a35a2f07938357e0ecebb1911afe9d964a384f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llety-elan.html": {
+    "name": "Llety Elan",
+    "location": "Rhyd-y-felin",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201927288.webp?k=e0d20df995eec03e09bb5de1c0da9f247f2a32832001693825fa756b948873b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llain-cottage.html": {
+    "name": "Llain Cottage",
+    "location": "Cross Inn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394952138.webp?k=1070d53e6cb01942ba309eff5848173a6e3ce4a9e0f198a589d9829301187913&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-lonydd.html": {
+    "name": "Y Lonydd",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403996214.webp?k=1454f63c0b9796389e8056f81785212c31f45e45834f7c29df81f5cf338b44a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bwthyn-barri.html": {
+    "name": "Bwthyn Barri",
+    "location": "Sarnau",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418879916.webp?k=ef8498bbb12bcfb26a3dc673215b7817148e16da6df19f9c2cfc485c43968dcc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-hen-beudy-aberystwyth1.html": {
+    "name": "Yr Hen Beudy",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410533144.webp?k=e96ca9e3cf3075906b793933b741f45274ad8b52d9159aabbe18b844232da068&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/panteg-cottage.html": {
+    "name": "Panteg Cottage",
+    "location": "Llanrhystyd",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421561145.webp?k=c8a85371f24ad9509f1384a7777d34bb0d89dad7db84d06d166bf96ad89877fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garth-fawr.html": {
+    "name": "Holiday Home Garth Fawr",
+    "location": "Rhostie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296744237.webp?k=b1a61e31e193cd0207cbeea055d247818d300e076cecb9f6a26bb8237ec646b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cledan-aberaeron.html": {
+    "name": "Cledan",
+    "location": "Aberaeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419697426.webp?k=7edaf4484defd862185901403e4ad6a63e8e4e852b6a4d3c6c00178c9cd87189&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garth-cardigan.html": {
+    "name": "Garth",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310151003.webp?k=3154d76b876c5f7c56a9c22d4d0acc82253fb1f261608a9f414946db22595915&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryneirin.html": {
+    "name": "Bryneirin",
+    "location": "Tal-gareg",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418975729.webp?k=de630e5b264d3f73344fdb4dd8ec7e2cd98109f7f502a9713d70e254beaa6c25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-the-leo.html": {
+    "name": "Holiday Home The Leo",
+    "location": "Llanddeiniol",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209839726.webp?k=b331e884adc8a8192f66c8fd84b6b038247f470a497c00a650774fd123102c15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yr-hen-sgubor.html": {
+    "name": "Yr Hen Sgubor",
+    "location": "Pentre-briwnant",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418796657.webp?k=6430876dceb32bea32d7e27ee3ec65fc6f90628debcd64aa831b0a731fdcb62e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tremle.html": {
+    "name": "Tremle",
+    "location": "Penbryn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391847441.webp?k=34c581a33abf3bbea41a38c0f64012a80dda183dc024b539ae4ec000e5f8a5a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nyth-bran-tresaith2.html": {
+    "name": "Nyth Bran",
+    "location": "Penbryn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414735357.webp?k=3cc3f5e5760e7fd6bf8130f26fc07f12f244682550363402093f68bdbb2e4ad9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/red-kite-lodge-tregaron-near-aberystwyth.html": {
+    "name": "Red Kite Lodge",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395783896.webp?k=48ac094f8922a3dbae852418fdc791623506b4200cb1539f6a2bb785579f516f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-scenic-rural-3-bedroom-cottage.html": {
+    "name": "Pass the Keys Scenic Rural 3 bedroom Cottage",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424822773.webp?k=034cb7ad9364d552c33db67b03c1aa1828f3a02bb9d02845cbe74ab74ad12e4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bwthyn-iorwg.html": {
+    "name": "Bwthyn Iorwg",
+    "location": "Tregaron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137480196.webp?k=e2788e300674cf15787d1d6a8eb425fcdc36d59f54998e86503c6e8959a27ce0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spindrift-rhydyfelin-near-aberystwyth.html": {
+    "name": "Spindrift",
+    "location": "Llanychaiarn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418575902.webp?k=f51d1dd49718c9f5e40d194c2bf6742277dbaa366ece8a45b280ed00c9a81c16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-dell.html": {
+    "name": "Woodland Dell",
+    "location": "Hawen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391863754.webp?k=a50f89f26911bf863cafc5430ceb28ef2dc0d1c60f4214804b6e67fa89b5c3b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/craigfryn-oakford.html": {
+    "name": "Craigfryn",
+    "location": "Llanerch-Aeron",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415182944.webp?k=9db701fb80c538811cc67c8341bdf0dad531b2567dacc8ef6ce740320ad35c4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwarffynnon-barn.html": {
+    "name": "Gwarffynnon Barn",
+    "location": "Cross Inn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429905155.webp?k=3e884c3f4b4bdba902dff35a81e88fe7fe8815d18b37b1835a55ebb2f5402100&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ysgubor-bach-llanwenog-near-llanybydder.html": {
+    "name": "Ysgubor Bach",
+    "location": "Llanwenog",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422296876.webp?k=e179a368b107f92c570d592b8e589e58ff086e11be1eecc14b9b1fc291b5b6fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hen-ysgubor-lampeter.html": {
+    "name": "Hen Ysgubor",
+    "location": "Lampeter",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157764573.webp?k=1bb03ddfbb17adb60c105087cda209b70cd242fe4c0097bb55432159a1021b71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/uk34953-bwlchgraig.html": {
+    "name": "UK34953 - Bwlchgraig",
+    "location": "Nantcwnlle",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394726414.webp?k=87a3fd3dbdd5c4a5938b1fdaa3d0b95b9fbb5124a579e0ab0a0b6f8e4fb353c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acorner.html": {
+    "name": "Acorner",
+    "location": "Gartheli",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395595598.webp?k=f689ee892c403cfa829718d4e1bb0d1c47cbb88ba1d067d524856fe3c8782198&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penrhiw-llangeitho-near-tregaron.html": {
+    "name": "Penrhiw",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418434813.webp?k=e814810e64c8c75ea5b9402838049a5eddfcaed12c3f7c7ea1997721621616fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trawsnant-cottage.html": {
+    "name": "Trawsnant Cottage",
+    "location": "New Quay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240327152.webp?k=965000b0da36d0088b1eaa14bc3ffb957c7d50b5f7133691ffdf3fbc35248973&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-bach-twt-llangeitho-near-tregaron.html": {
+    "name": "Ty Bach Twt",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418357035.webp?k=0d9d341084e91a8a3f488535a486f4e78dc110d31029c2bced0aa6a949774552&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-retreat-llangoedmor.html": {
+    "name": "The Retreat",
+    "location": "Llechryd",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421151550.webp?k=6665bb100dc585a53f2adf67ab488adcf75e0debac381a6f7afb1ebda5e7e678&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/panoramic-loft.html": {
+    "name": "Panoramic Loft",
+    "location": "Synod",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396395696.webp?k=ce02160d293cf37354731fde25f1ba57e1397d79e70c060b595ee40343dd7651&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/joppa-uchaf-uk42120.html": {
+    "name": "Joppa Uchaf-UK42120",
+    "location": "Llanrhystyd",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435055271.webp?k=be3a3a16eff243634997bac17f4126bb3135c2f46fd7853ff163c12124ee3359&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dildre-bwlch-llan-near-aberaeron.html": {
+    "name": "Brynllin Holiday Cottages - Dildre",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430428326.webp?k=58e88ecc24a9c98fde24e6a4d1ba64f3a59b971bb6ed059b99cc3d111c257d49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llyn-cae-ty-nant-fishery-holiday-let.html": {
+    "name": "Llyn Cae Ty Nant Fishery Holiday Let",
+    "location": "Lampeter",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363343396.webp?k=1088fdb691fef5a80fa03b6fd72f03c6d6a9b56fd6beb48a87f65e5794443b82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brynog-mansion-apartment.html": {
+    "name": "Brynog Mansion Apartment",
+    "location": "Lampeter",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415268044.webp?k=a36b42f1b61d38177d19b9568c876235da39ea8636bdc08f7c61841516e840b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-dandy.html": {
+    "name": "Holiday Home Dandy",
+    "location": "Capel-Cynon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296747975.webp?k=3af06defd2b5e85296d123911a11af3e15ea7f66cd0f00c19751a332c18aa40e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pendre-longbarn.html": {
+    "name": "The Pendre Longbarn",
+    "location": "Pentre-briwnant",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392219970.webp?k=a10ae6a4da8f6aad43536019086a438a9cd8fec509f23095df76768843c087a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rosevene.html": {
+    "name": "Rosevene",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418189106.webp?k=673330320eb0dfd16360dd104eb28e23239a7aa5ac4746c634b60e832bc88634&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deri-r-cwm.html": {
+    "name": "Deri'r Cwm",
+    "location": "Mydroilin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/86929224.webp?k=0d2d9afa425cca181d07376933f59a62da660d15eed1ad4cfa2b312109366ff5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blaenywawr-lampeter.html": {
+    "name": "Blaenywawr, Lampeter",
+    "location": "Cross Inn",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350979350.webp?k=2bd5c8a72349dcd9dab56a80d75a5a3c440e3dba141f294bb7c9f109da893578&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/frondeg-bach.html": {
+    "name": "Frondeg Bach",
+    "location": "Penuwch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392491468.webp?k=35cf67f0c4f9d5ccff772cc5f2d017259d583fb20161dd91fddc2121cf1fd41d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-pair.html": {
+    "name": "Ty Pair",
+    "location": "Llanon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399397413.webp?k=d1760fe5c9d7b94bedd8e845b1e0fa72989e241ace0cf06d28aa750282469989&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-jim.html": {
+    "name": "Ty Jim",
+    "location": "Llanon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399397822.webp?k=38301aea1b61cfef4508a24ddb6685f3fb9cd92711863c6bb1bd11653c31d431&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stone-barn-cottage-llandysul.html": {
+    "name": "Stone Barn Cottage",
+    "location": "Rhyd Lewis",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87159373.webp?k=3bd23742bdbde9cf578c942468a9f32f50f121469f1292c3caeb654fe9a9b454&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-pixie.html": {
+    "name": "Holiday Home Golygfa",
+    "location": "Blaencelyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325108486.webp?k=313ec338c813c24377d121c7c07ff3c10e7b696b491b48b568356f4a18c25696&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llety-ceiro.html": {
+    "name": "Llety Ceiro",
+    "location": "Bow Street",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402206034.webp?k=b6aae225548be7116818985db7686720109f2a34dab279cb0ca2ab99754df0ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/golwg-y-mor.html": {
+    "name": "Golwg y Mor",
+    "location": "Llandyssiliogogo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104018052.webp?k=06951c77973b53f496b2432ba19d3555bffec55e8f325f50c35941c2726ca3b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-llandysul1.html": {
+    "name": "The Farmhouse",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356221722.webp?k=94692d08bfe9c1d5c05d2f76806abb17b670127bc3ae1cecd6dc134da046cc9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-llandysul.html": {
+    "name": "The Cottage",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354492256.webp?k=5bdb79a937e2179c317cda70f451a2034b5ff7b7673ac05debb66311f2145c05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/herons-retreat-llandysul.html": {
+    "name": "Heron's Retreat",
+    "location": "Llandysul",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398674099.webp?k=52ddd3fad432365b1b02d07e900cf1c48ca725a7a18c6caf8098cc9005f84de0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penlon-aberystwyth.html": {
+    "name": "Penlon, Aberystwyth",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343331137.webp?k=451d51aa710b6a88c977f5a19e2d7d09eec843a7e8034ff5f9401da515a7ec6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glynderi.html": {
+    "name": "Glynderi",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422257774.webp?k=dc567cca5eb2525d3de05dd5d2da7d06620a3ec32b82d8c970db3bd9d877592e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beudy-cardigan.html": {
+    "name": "Beudy",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434081807.webp?k=274f1788bd06695c6107a990b6fb42721205970f7e350b58a1f5f34973b1328a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tyglyn-cottage.html": {
+    "name": "Tyglyn Cottage",
+    "location": "Lampeter",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395816751.webp?k=17e433bb3f7b73072918947e8c0a9edc196635f7aa8acf63d2bb28fa64673b41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-plucking-barn.html": {
+    "name": "The Plucking Barn",
+    "location": "Cwrt-newydd",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392306109.webp?k=6cc3e1d87351dc8e3363a4e66ddd44fe08fd8339eb7bf2fae90d5a5d50e89bc3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hafan-gwyn-cottage.html": {
+    "name": "Hafan Gwyn - Cottage",
+    "location": "Tremain",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408158045.webp?k=7652aa0104edba831b209e973fbfd820bc113feb18eada25a3d5c3784bb130fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-qc1789.html": {
+    "name": "Stable Cottage - QC1789",
+    "location": "Blaencelyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391706373.webp?k=5496362f68f39ead608d12f49a5eddb09ab88f26d5afcca0fe1c13ecf571d6f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bedfelltan-talybont.html": {
+    "name": "Bedfelltan",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422440539.webp?k=27145623f31cc2d7da0bc8d49df62ed9c72a9e6edf85d2972431e12e70a0c136&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aelwyd-y-don.html": {
+    "name": "Aelwyd Y Don",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359924221.webp?k=8b308b6b6175e8676f01febf8e683a1539d330898ecb530295da80979bda91f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penlon-house.html": {
+    "name": "Penlon House",
+    "location": "Cross Inn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396053054.webp?k=83c58afe80cf4c36eb2ef6b6af1019b56f2e7c18b14490934e85c73fa88e3fcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salem.html": {
+    "name": "Salem",
+    "location": "Cross Inn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415041963.webp?k=4cde245e6b514bc8ff707c8a93e5b8900d81cd6b0a580b89ac58d60a92121c86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-pentregat.html": {
+    "name": "The Hideaway",
+    "location": "Blaencelyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423380901.webp?k=1f04017d5aa0d4f3e4f0d4e048ef41e220ffea70477b272391615c6e96c3de0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-weavers-loft.html": {
+    "name": "The Weavers Loft",
+    "location": "Pren-gwyn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402559086.webp?k=0eaad23d46e9b85e1d8492ac13f5c89a56b9514fcd3eb7e4e6797b0195b7f145&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/madiwela.html": {
+    "name": "Madiwela",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100644999.webp?k=d85f5bb5f2e6a399d6d864a5b2e485bb9697513058aee51ead1a9a8c712165f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cilwendeg-lodge.html": {
+    "name": "Cilwendeg Lodge",
+    "location": "Newchapel",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420064395.webp?k=71c22e236bdae51c8b0e8a9b099e4e41b7e1bf9162325ebbae63786a39e58e62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/esgair-wen.html": {
+    "name": "Esgair Wen",
+    "location": "Pentre-briwnant",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399754632.webp?k=a9359465cf4ed2a80a4912c787e3dae2aa1bf9fd1db33943eb84d375ecc15a1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llaethdy-the-dairy.html": {
+    "name": "Llaethdy - The Dairy",
+    "location": "Newchapel",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344421023.webp?k=0ca265129ad53200436ee69b8ca8e10b76a41ba33398f84b32960af26a63ba12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-gwanwyn.html": {
+    "name": "Ty Gwanwyn",
+    "location": "Verwick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362355397.webp?k=a14d925a9148a6a7e685bd6a02909383dc7630b7804764ee453045ee8923a59a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mushroom-yurt-yurtopia-wales.html": {
+    "name": "Mushroom Yurt - Yurtopia Wales",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437195643.webp?k=78b93f79ffd928cbabbd93836871959ff381851bcf7eb0ccc07a10a1184d9b25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/foresters-retreat-glamping-cambrian-mountains.html": {
+    "name": "Forester's Retreat Glamping - Cambrian Mountains",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435798934.webp?k=af52f558a1fa8a7b79cf4369cbc14215dce248213949af761fc6ce5bdc1953ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/berwyn.html": {
+    "name": "Berwyn",
+    "location": "Talybont",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219997925.webp?k=4fb6d4555212c1327fae44c711b28f35321998f5be17ecc078594c23197ee81a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-view-aberystwyth.html": {
+    "name": "River View",
+    "location": "Aberystwyth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399377164.webp?k=c3dfd8299d2b9001dc04e0e2769a4f28561857134da60cd9e9af7be5954a7bde&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fern-cottage-cardigan.html": {
+    "name": "Fern Cottage, Cardigan",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244884340.webp?k=2bb8da2aa3025f4e9243e4e24210d6c52a5bc3009026272beae48e78774dce94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-dorlan.html": {
+    "name": "Y Dorlan",
+    "location": "Cardigan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419691929.webp?k=a54f394dfcf97c3d8b38e6aaece138ab7d40a6da85b243a3f864f81990b30402&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corlan-aber.html": {
+    "name": "Corlan Aber",
+    "location": "Rhyd-y-felin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201929624.webp?k=91d367f02fdc356b01374b8d991722bc77a52dd1ccdfcd6301b473e877c95ce0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hafod-aber.html": {
+    "name": "Hafod Aber",
+    "location": "Rhyd-y-felin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399378984.webp?k=88744df3b05d9b3319ed18e557dbd0c95e5d91016e3d0988d76a9c41a5aa810f&o=&s=1"
+  }
+}

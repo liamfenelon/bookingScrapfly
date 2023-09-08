@@ -1,0 +1,218 @@
+{
+  "https://www.booking.com/hotel/ie/hannons.html": {
+    "name": "Hannon's Hotel",
+    "location": "Roscommon",
+    "score": "7.7",
+    "review_count": "626 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390076553.webp?k=9d5a784d4138c3622e5c6ca7f041c1d9723e064a11e503c6b5ab42d305f33c26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/manorhouseabbeyhotel.html": {
+    "name": "Abbey Hotel Roscommon",
+    "location": "Roscommon",
+    "score": "8.2",
+    "review_count": "1,083 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56347703.webp?k=dc044c97b5d2fb408a9231920ef3c480d740c49bd14f514df0d97ce36db2bc69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gleesons-townhouse-restaurant.html": {
+    "name": "Gleeson's Restaurant & Rooms",
+    "location": "Roscommon",
+    "score": "8.8",
+    "review_count": "508 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/73606855.webp?k=f931996c98121d159262e7d9c6361b98a87525029fe93fb0819cc72688476f94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jacksons-restaurant-and-guesthouse.html": {
+    "name": "Jacksons Restaurant and Accommodation",
+    "location": "Roscommon",
+    "score": "7.1",
+    "review_count": "186 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/39181451.webp?k=45350cef9721b5fa12ce2e0a6f7364bc2f914bbbf8a9af67d1a4e91e91c22aca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-rathmore-house.html": {
+    "name": "The Rathmore House",
+    "location": "Roscommon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433438585.webp?k=9401ffd2e1268d5071d8412f1fe9bf48cc74abacff8f7d5a849bade66c0ff661&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kellys-countryside-self-catering-cottage.html": {
+    "name": "Kellys Countryside Self Catering Cottage",
+    "location": "Roscommon",
+    "score": "9.3",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302668731.webp?k=05582c53ec6a1baabae4755c321ed097172a8bf7e10405d24ad3f6b6fc818647&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-north-lodge.html": {
+    "name": "The North Lodge Kilronan",
+    "location": "Roscommon",
+    "score": "8.8",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/171990905.webp?k=0e33068e8072ac7e111dc0623465a0206251da617e3a8927e7c760b701d624ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-little-flock-farm.html": {
+    "name": "The Little Flock Farm",
+    "location": "Cloonmore",
+    "score": "9.4",
+    "review_count": "106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208233789.webp?k=38a0e6bebb04fa26d176274df406c5d91c81717ccb51079fd3870272eaf462f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cruiser-boats-ireland-co-longford.html": {
+    "name": "Cruiser Boats Ireland Shannon",
+    "location": "Taghsheenod",
+    "score": "7.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350086355.webp?k=9aa3d9818098c6698d45070d72877ef62248b777ef0659bcf45b58394c74c2c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-cottage-in-galway.html": {
+    "name": "Cosy Cottage in Galway",
+    "location": "Creggs",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426276871.webp?k=baab80c0aa6c4fbabb217099c39067afdf4a9ca7597e1b2c0fdb6e1e5439fe4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/riverside-marina-apartments.html": {
+    "name": "Riverside Marina Apartments",
+    "location": "Lanesborough",
+    "score": "9.5",
+    "review_count": "122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249347882.webp?k=9bbc0e59a942c17d563d08b9179a2916ed89e788bba75a9c0bb03855d97f5dd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ard-aoibhinn.html": {
+    "name": "Ard Aoibhinn Roscommon",
+    "location": "Lecarrow",
+    "score": "9.5",
+    "review_count": "224 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265180849.webp?k=76d027e9e4836ec34f84be5cc22e72284b85307d3cea405499ec0a8e73bc7730&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-local-lodge.html": {
+    "name": "The Local Lodge",
+    "location": "Longford",
+    "score": "9.7",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/212153318.webp?k=b6c588fca9d8c63b081e588973217c6a0e83987ab3c5854ee993e1eef628396e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/strokestown-townhouse-apartment.html": {
+    "name": "Strokestown Townhouse apartments",
+    "location": "Strokestown",
+    "score": "9.5",
+    "review_count": "143 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241158534.webp?k=6a0868468e2baae2f9bc934a55cc263cbc693fec26097a317965fcacbde10ec2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dream-cottage-roscommon.html": {
+    "name": "Dream Cottage",
+    "location": "Ballintober",
+    "score": "8.3",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151347050.webp?k=df84a77b93ebbebfb069279230d28cc685e749a4b6c7d65f79b1a8d9e8ea5788&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castle-view-ballintober.html": {
+    "name": "Entire House, Self Catering",
+    "location": "Ballintober",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362940359.webp?k=c808ddaa8f763e5754ca343c1c437e1c69c37091cbaff261a1b6d7a6e4908905&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castle-view-ballintober2.html": {
+    "name": "Self Catering House",
+    "location": "Ballintober",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364930144.webp?k=50bc29be340ced55307bd3f190114e3cecdebca51a4bbf12202b542f849b5820&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mees-house.html": {
+    "name": "Mees House",
+    "location": "Creggs",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350448560.webp?k=d4e26466683931b1d7ef99130ce1b1cc7e55e7dedfcc7993817ad683a874c30d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cairn-house.html": {
+    "name": "Cairn House",
+    "location": "Strokestown",
+    "score": "8.5",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364403706.webp?k=249687a7600380e1fe47f4144700bc487d177eeff03ffa2bc033f25699c7214c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/keenans-boutique.html": {
+    "name": "Keenans Boutique Hotel",
+    "location": "Termonbarry",
+    "score": "9.0",
+    "review_count": "305 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322600269.webp?k=678ed0d53c0f4d318b15b709a09dca97718f4d99787b2663504c3ce4e3b61de6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/alverna-house-b-b.html": {
+    "name": "Alverna House B&B",
+    "location": "Athlone",
+    "score": "9.2",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10386489.webp?k=fc75dbbf633de57d6280c5d7a3cc7499eb95b1a13aac5f7a4e3ec0a476e6e8c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-4-bed-marina-home-amp-40-shannon-mooring.html": {
+    "name": "Shannonside - Stylish 5 Bed Marina home & 40ft mooring",
+    "location": "Termonbarry",
+    "score": "9.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366620550.webp?k=5526a6abf25a4e2dca323a2759d7df7dacb1b4fb305995d360b752880e1f0cc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hodson-bay.html": {
+    "name": "Hodson Bay Hotel",
+    "location": "Athlone",
+    "score": "7.6",
+    "review_count": "1,640 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280933638.webp?k=0d299d2c0258fb59eb5b602f41cd077966e60f97b12d5a2f3b8ffedc6fb33bd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/inviting-4-bed-house-in-strokestown.html": {
+    "name": "Inviting 4-Bed House in Strokestown",
+    "location": "Grange",
+    "score": "9.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279365614.webp?k=ec6a2a092f4b2234298e4d562b7b12f55a3adb7aad0420f8cc642a6f20a7c2be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-townhouse-elphin1.html": {
+    "name": "The Townhouse",
+    "location": "Elphin",
+    "score": "9.2",
+    "review_count": "170 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156095132.webp?k=cc6c017f26794a710c7d1bcc38013a8ed0e9138e4d779e9371cb1ada44eb903b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glasson-glamping-farm.html": {
+    "name": "Glasson Glamping Farm",
+    "location": "Athlone",
+    "score": "9.0",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335165529.webp?k=c669e474f4a436c0000ffbac6c1132da541b94f36210e77a3a3ddc57a03b0adf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/home-farm-retreat.html": {
+    "name": "Home Farm Retreat",
+    "location": "Williamstown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413871929.webp?k=025230cc660bcd62d31d19e9822a0bf3c7a83ef09e13f4c9b740046e8e16fdf3&o=&s=1"
+  }
+}

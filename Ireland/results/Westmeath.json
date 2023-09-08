@@ -1,0 +1,386 @@
+{
+  "https://www.booking.com/hotel/ie/greville-arms.html": {
+    "name": "Greville Arms Hotel Mullingar",
+    "location": "Mullingar",
+    "score": "8.3",
+    "review_count": "1,805 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95381294.webp?k=3b34dd6afa2a2043fd052939ba59e88d93a92d2864e55686e8bb7f2c8bd878f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/radisson-sas.html": {
+    "name": "Radisson Blu Hotel, Athlone",
+    "location": "Athlone",
+    "score": "7.8",
+    "review_count": "4,181 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232812959.webp?k=aeb02542383177589f04c2c93dc371b2c91bf7c0856d1b9969ae791e3a0189cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sheraton-athlone.html": {
+    "name": "Sheraton Athlone Hotel",
+    "location": "Athlone",
+    "score": "8.6",
+    "review_count": "4,424 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345440614.webp?k=d9ee4d867570c172e9d2506c8cae864fe5ebecf098eacc3ab10f65a5ce0c7293&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/annebrook-house.html": {
+    "name": "Annebrook House Hotel",
+    "location": "Mullingar",
+    "score": "8.8",
+    "review_count": "2,085 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/74237631.webp?k=8819d67634dcd7e6f4ca0ca8033b3d4281a2d8f065ef4513478e4d8dcaedd90a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hodson-bay.html": {
+    "name": "Hodson Bay Hotel",
+    "location": "Athlone",
+    "score": "7.6",
+    "review_count": "1,640 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280933638.webp?k=0d299d2c0258fb59eb5b602f41cd077966e60f97b12d5a2f3b8ffedc6fb33bd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/seber-house.html": {
+    "name": "Seber House",
+    "location": "Kilbeggan",
+    "score": "9.6",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42608695.webp?k=077fe4dfaaba896f8175007af4dded2113fe57a68e1c1d8980fe18fa87c70dee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bloomfieldhouse.html": {
+    "name": "Bloomfield House Hotel, Leisure Club & Spa",
+    "location": "Mullingar",
+    "score": "8.3",
+    "review_count": "834 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308807627.webp?k=c4b2ff772a5ba92f8ea3ab7e5c880e53373618a1f32e4bff1c8cde6df377e05a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kerrigans-b-amp-b.html": {
+    "name": "Kerrigan's B&B",
+    "location": "Mullingar",
+    "score": "8.4",
+    "review_count": "268 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195526804.webp?k=df3c33949b7c67c3483c7ae9b122a45f8b0da60f7a3a5fb3ac35eef65dbad5fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/new-forest-golf-club.html": {
+    "name": "New Forest Estate Lodges",
+    "location": "Tyrrellspass",
+    "score": "8.3",
+    "review_count": "295 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175638652.webp?k=9a0540f04144ee05a29a887e8bc508ef7edcbb0af28c964bed83f8b691a18eff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/nanny-quinn-39-s-apartment.html": {
+    "name": "Nanny Quinn's Apartment",
+    "location": "Killucan",
+    "score": "8.9",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216680923.webp?k=5b25aa53b9d8a1a4572254fac507177416431deee99d5c73d4faa952f0247169&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shamrocklodge.html": {
+    "name": "Shamrock Lodge Hotel",
+    "location": "Athlone",
+    "score": "8.5",
+    "review_count": "1,411 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/98706757.webp?k=e1287465dae4cbb35e6b5f3573c2537e968ea79ee8e6b48c0bdd0fada9fc5f74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-prince-of-wales.html": {
+    "name": "Prince of Wales Hotel",
+    "location": "Athlone",
+    "score": "8.5",
+    "review_count": "2,405 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230614160.webp?k=528b9dffc1562588721a473bbf899d4f509fec2547b838050cedebf74fada931&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castle-varagh.html": {
+    "name": "Castle Varagh Hotel & Bar",
+    "location": "Westmeath",
+    "score": "8.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414252329.webp?k=3d02e3ed893a2c71cd5527dc933825cfab9dbc637e8330c30c07bb9ccd4a9e1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mullingar-park.html": {
+    "name": "Mullingar Park Hotel",
+    "location": "Mullingar",
+    "score": "8.5",
+    "review_count": "579 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263560148.webp?k=8d064988fc5969446f4e68affe2e4b6aeb8071f1260b3b222da161bfe4082207&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glenmore-house-bed-amp-breakfast.html": {
+    "name": "Glenmore House B&B Mullingar",
+    "location": "Mullingar",
+    "score": "8.7",
+    "review_count": "88 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42867492.webp?k=1143d392227c2fcab4482f400e2d57239891ecfc31b4dab7118e9ab124abd13b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/athlone-springs.html": {
+    "name": "Athlone Springs Hotel",
+    "location": "Athlone",
+    "score": "8.3",
+    "review_count": "1,297 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302124493.webp?k=668ce339debd1659956ffb63bb9b9e0e1298e3fd205d196a6d9dbbb9e850f663&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wineport-lodge.html": {
+    "name": "Wineport Lodge",
+    "location": "Glasson",
+    "score": "9.1",
+    "review_count": "460 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338411171.webp?k=82d0d0befda32ce1826cfb1addbc5365f323ba52ece029f7c7ece421abbb5cae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/arch-house-b-b.html": {
+    "name": "Arch House B&B & Apartments",
+    "location": "Athlone",
+    "score": "8.3",
+    "review_count": "464 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300953051.webp?k=7024ea631a8d11dddd9085279bad60b1c96553898d8fce7257f2e85cc835a942&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bartholomew-39-s-loft.html": {
+    "name": "Bartholomew's Loft",
+    "location": "Ráistín",
+    "score": "9.7",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324386856.webp?k=fda734fdde3e3c5e32afdf71ead9b5a603f1923e11a5405b409acd6c0a7d5962&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glasson-golf-club.html": {
+    "name": "Glasson LakeHouse",
+    "location": "Athlone",
+    "score": "8.3",
+    "review_count": "512 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399365023.webp?k=0efdd546d80f535cac4c1875a2d4a8a841b99de4e5ef87ed79fc82a90f03a385&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-village-b-amp-b.html": {
+    "name": "The Village B&B",
+    "location": "Moate",
+    "score": "8.7",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175661091.webp?k=c6de850a5b33dca677327a104c6f1dd45ad57bba982e6b24bcb5cd9e5f34b138&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/greenway-guesthouse.html": {
+    "name": "Greenway Guesthouse",
+    "location": "Mullingar",
+    "score": "9.5",
+    "review_count": "121 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315411501.webp?k=c8343586dfef2b2a56ddb844cda28d0094a85282572a230c8191716c4a061526&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/feericks.html": {
+    "name": "Feerick's Hotel",
+    "location": "Rathowen",
+    "score": "8.5",
+    "review_count": "273 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/102653699.webp?k=992a25b23a3c7b3c45d862b102538e2e6b83d94d49d878b7ed317f193e1f7995&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-bailey-bar-amp-lounge.html": {
+    "name": "The Bailey bar & lounge",
+    "location": "Athlone",
+    "score": "7.1",
+    "review_count": "467 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357723441.webp?k=4b2b62fad081f7c225d5e3f7d32f58f42c453b5d135041b1e49f74c0a2972074&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/riverdale-house-b-amp-b.html": {
+    "name": "Riverdale House B&B",
+    "location": "Athlone",
+    "score": "9.5",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348951986.webp?k=15dfaed65703afd36b032942b5b098d93933caf15d35048f5b76a1059946f3d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rose-garden-westmeath.html": {
+    "name": "Templemacateer",
+    "location": "Westmeath",
+    "score": "9.6",
+    "review_count": "106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313722756.webp?k=c314ced9992971d83e5a478e05022217cc4c492d0b3429645a1f218c2a4b9428&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/keyfield-house.html": {
+    "name": "Keyfield House",
+    "location": "Mullingar",
+    "score": "9.2",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96522183.webp?k=ce56516e2ab2479c01829478127eea314644f2c3c12052d5240acb7d7be20c6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glen-abhainn.html": {
+    "name": "Glen Abhainn",
+    "location": "Athlone",
+    "score": "7.0",
+    "review_count": "222 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249524440.webp?k=78355f8e15473e3f3cfa04538913e0801bd6ff61b9258764a1a3db89497f28e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fairways-b-amp-b-westmeath1.html": {
+    "name": "Fairways B&B",
+    "location": "Westmeath",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419641387.webp?k=0cb1e6b6fe6a7078ef4d270bdb241cfd7c3fa764534c0c8de1e46dc318d8dcb6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/highfield-house-collinstown.html": {
+    "name": "Highfield house bed and breakfast COLLINSTOWN",
+    "location": "Collinstown",
+    "score": "9.4",
+    "review_count": "215 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259937933.webp?k=f6a7242cfbb50eb6ba312b678d3ea6b9b4e2c357dae851726fd6b545db798726&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mullaghmeen-forrest.html": {
+    "name": "Mullaghmeen Forest",
+    "location": "Mullingar",
+    "score": "9.0",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377037977.webp?k=e7922070fc8d59456554bfeea0f7a0e5d2dfe97c23d4e4cf9b00901302e0fd9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/home-inn-guest-house.html": {
+    "name": "Home Inn Guest House",
+    "location": "Athlone",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435658994.webp?k=92db09873dc325709bf8883f2ae8d1b9b64cd6b2fe98574791af6e5c1b50394e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/moynure-house-b-amp-b.html": {
+    "name": "Moynure House Boutique B&B",
+    "location": "Athlone",
+    "score": "9.0",
+    "review_count": "163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14414202.webp?k=1d0bf2cd93e6765b47e28d80861801c2c4c2a451528d2fcc3d0a81cec693b14a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mullingar-town-apartment-2-bed.html": {
+    "name": "Mullingar town apartment 2 bedrooms",
+    "location": "Mullingar",
+    "score": "9.1",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258061166.webp?k=55a99f10cdc32463956acd96fd1e67427018971341f9192ec773713aeb3e82ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shelmalier-eircom-net.html": {
+    "name": "Shelmalier House",
+    "location": "Athlone",
+    "score": "9.3",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14579821.webp?k=9f6828b905a12e5e3bc50618f10d152e841641adcb1e64f6f9e68d612b61c123&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-apartment-with-fire-stove.html": {
+    "name": "Cosy apartment with fire stove",
+    "location": "Athlone",
+    "score": "9.2",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403467168.webp?k=670e1a2dce4da2ec59683eda150612fc5eeda8984b010d474d9137dfdb1ed30e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/whitaker-lodge-bed-amp-breakfast.html": {
+    "name": "Whitaker Lodge Bed & Breakfast",
+    "location": "Castlepollard",
+    "score": "9.5",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/191090806.webp?k=f13d027332f9ae76a32c2d2018f2531bba0f0f3d61a89588a7068020cff342aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-wild-farm-cottage-mullingar.html": {
+    "name": "The Wild Farm Cottage",
+    "location": "Mullingar",
+    "score": "9.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175795537.webp?k=c9a810caa59cfd355aef37e66ce58f6cef6c0d2dbe39ed333a21f15100f9a7ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-little-white-house.html": {
+    "name": "The Little White House",
+    "location": "Tyrrellspass",
+    "score": "9.8",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365369842.webp?k=087dc13b0e09c95a79f231aa638e5eb1be528ce523a10e03aa33d7310b4ebd2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rossmore.html": {
+    "name": "Rossmore Bed and Breakfast",
+    "location": "Castlepollard",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383638975.webp?k=9229ee916a7b2b27e15a00c0aa35c06caa0566b522ec168a966d8ae34232b6ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glasson-glamping-farm.html": {
+    "name": "Glasson Glamping Farm",
+    "location": "Athlone",
+    "score": "9.0",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335165529.webp?k=c669e474f4a436c0000ffbac6c1132da541b94f36210e77a3a3ddc57a03b0adf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pauleens-peaceful-place.html": {
+    "name": "Pauleens Peaceful Place",
+    "location": "Rochfortbridge",
+    "score": "9.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/254423522.webp?k=2b136c8d4c3b2718a22484a1efa2e61afb47193e331ca19413df9243b585591f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/butterfly-cottage-retreat-private-studio-getaway.html": {
+    "name": "Butterfly Cottage Retreat - Private Studio Getaway",
+    "location": "Delvin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430571398.webp?k=d3231a7ad566f50c7f24d6f4b9754c6c0ac72712a795243e95f954aff179bb86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/port-heron-lodge.html": {
+    "name": "Port Heron Lodge",
+    "location": "Athlone",
+    "score": "9.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316072791.webp?k=f4fe57146049f8edc19abb0396bc5f3e46cf03da28dc2b0b5211ada01e637f94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-wild-farm-lodge.html": {
+    "name": "The Wild Farm Lodge",
+    "location": "Mullingar",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378148354.webp?k=2ef4141ce26af94a4f55d84b03ab20d7a542ec057002e51632632270318fd5ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-speak-easy-cottage-multyfarnham-0876682090.html": {
+    "name": "The Speak Easy Cottage Multyfarnham 0876682090",
+    "location": "Multyfarnham",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326295737.webp?k=f53e7edaa912c95e195ca2606b4b334e96a1f26044b51f924d91a017960d0422&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/whitakers-holiday-apartment.html": {
+    "name": "Whitaker’s holiday apartment",
+    "location": "Castlepollard",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404187678.webp?k=e09e8990ca25d14a4c82c31145997c9f2524c6c9eb306d62d6129c278be932a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shannonside-house.html": {
+    "name": "Shannonside House B&B",
+    "location": "Athlone",
+    "score": "9.1",
+    "review_count": "391 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/202766845.webp?k=a128d673cbb110820a9a51a4d98b590edfa779e68b29c1ee83a27d61d962665b&o=&s=1"
+  }
+}

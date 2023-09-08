@@ -1,0 +1,402 @@
+{
+  "https://www.booking.com/hotel/gb/craigielea-apartment-3.html": {
+    "name": "Craigielea Apartment 3",
+    "location": "Lerwick",
+    "score": "9.7",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/123239133.webp?k=8bbc54f8f6dc40e6cd00ce59e561bff456b84551686f8d923e028299624fa518&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ald-norlande.html": {
+    "name": "Norlande",
+    "location": "Lerwick",
+    "score": "9.4",
+    "review_count": "181 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344246340.webp?k=66babf7eaeb5996994ff99eb33964e468b82c0c4d23e0cb8589524276e5905e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bustahouse.html": {
+    "name": "Busta House Hotel",
+    "location": "Busta",
+    "score": "8.8",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210842539.webp?k=9aa9792f02d0b0cc57fb80e3efeeb38258f9252f0eb28470fde478c93fb039c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/solheim-and-carradale-guest-houses.html": {
+    "name": "Solheim Guest House",
+    "location": "Lerwick",
+    "score": "8.9",
+    "review_count": "363 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222371712.webp?k=206feefecc0d6ace55044423f5686dbf98c02157d8e20188eaeaaeafd7370f91&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glen-orchy-house.html": {
+    "name": "Glen Orchy House",
+    "location": "Lerwick",
+    "score": "7.1",
+    "review_count": "341 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257968725.webp?k=7bdc74d322ece26614b6c176dfecd5646e23f463719e4e0c018f69edb912c080&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eddlewood-guest-house.html": {
+    "name": "Eddlewood Guest House",
+    "location": "Lerwick",
+    "score": "8.5",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344342875.webp?k=a4faa7f8971dc0739b8da04d07608b6d5fdadb02448ae0d1f50337d80af56aed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/one-bedroom-self-contained-apartment.html": {
+    "name": "One bedroom self-contained accommodation",
+    "location": "Lerwick",
+    "score": "9.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/182458993.webp?k=068e76897c09ae7ac0fb62094c4e23ce7ffb857dca601fa6562706b9d72d40f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carradale-guest-house.html": {
+    "name": "Carradale Guest House",
+    "location": "Lerwick",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387131941.webp?k=d26a78ae8ddb79338d604b3465e569186ed8c97b037e5ee6fc1fea086d4fc283&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-2-craigmore-upper-baila-lerwick.html": {
+    "name": "Apartment 2, Craigmore, Upper Baila, Lerwick",
+    "location": "Lerwick",
+    "score": "9.7",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366904201.webp?k=359040f7cc2e787889a63c22b26e91cd381349c5ff541dcc9cf9c8eae9fc1abc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-brae.html": {
+    "name": "The Brae Hotel",
+    "location": "Brae",
+    "score": "8.5",
+    "review_count": "316 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189823297.webp?k=a7a25911263f025b0e53563ecbb20f6b1cc4aa0f4f09905fde1ab2c3f7ada514&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/islesburgh-house-hostel.html": {
+    "name": "Islesburgh House Hostel",
+    "location": "Lerwick",
+    "score": "9.1",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369496792.webp?k=c665ddb307f50f48be27b34c57798810a85f73febb5df00874fe9d5c79442a32&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nort-bode-apartments.html": {
+    "name": "Nort Bode Apartments",
+    "location": "Lerwick",
+    "score": "9.4",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/116812566.webp?k=f5d6595cc7249d612fffa6b2c933195176836d59dd7c0edf7f1d36d8ff60fd5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-grand-lerwick1.html": {
+    "name": "The Grand Hotel",
+    "location": "Lerwick",
+    "score": "7.4",
+    "review_count": "302 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288410326.webp?k=f68fba174074fe2c60ae38b31361c7488ad7500a53ce0d41b62582a76a2aeed5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easterhoull-chalets.html": {
+    "name": "Easterhoull Chalets",
+    "location": "Scalloway",
+    "score": "8.5",
+    "review_count": "142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366552897.webp?k=247d27dd3617ac7aad0f1b374f66665b8093efa84c8d4cd7b1b416dcd5dda024&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kells-roadside.html": {
+    "name": "Kells roadside",
+    "location": "Hamnavoe",
+    "score": "9.3",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139276324.webp?k=d97a5e83b4c99b8a0789cb58c382fdb20a5e98deca4fc5505b8ff2b42707b2f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thelerwickhotel.html": {
+    "name": "The Lerwick Hotel",
+    "location": "Lerwick",
+    "score": "6.9",
+    "review_count": "100 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/6413871.webp?k=a145405877e79b4aee79a1fec8e1dc06fe14030e21472c26f3fc4b1565295332&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nort-bode-apartments-lerwick.html": {
+    "name": "Nort Bode Apartments",
+    "location": "Lerwick",
+    "score": "9.5",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404866733.webp?k=0d949368d22487983aa132536889289ab6107b3beae19888dafd7d7f412ede9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unique-perfectly-located-town-centre-house.html": {
+    "name": "Unique, perfectly located town centre house",
+    "location": "Lerwick",
+    "score": "8.3",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236784791.webp?k=c1bdd0951e4fba5561930e9cbd9f6a4c0b89fc18bd4b5e0ae978cf077db0c3ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/16-mounthooly-street.html": {
+    "name": "16 Mounthooly Street",
+    "location": "Lerwick",
+    "score": "9.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143432163.webp?k=ea382881f9a171b474296ea25f72c301f080c77ef01fabd1b4106041e7abbc8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northness-apartments-lerwick.html": {
+    "name": "Northness Apartments, Lerwick Self Contained",
+    "location": "Lerwick",
+    "score": "8.7",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/108249131.webp?k=58faf61d6416e5007d4d76f529036ab3580ce3b2074fb142fbe8c246503de101&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/self-catering-shetland.html": {
+    "name": "Decca - Self Catering Shetland",
+    "location": "Lerwick",
+    "score": "9.4",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409894456.webp?k=80cc3c7bdbc913004722f842d18375d80aead0eb34e6b1a7bdffc40bcb5f3b1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-cottage-in-kveldrso-gardens.html": {
+    "name": "Cosy cottage in Kveldrso Gardens",
+    "location": "Lerwick",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374565575.webp?k=0dabb17661a8161117b9e537c6dccf12a9b0a675e6fc8095d9ca1dc45a749dc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theshetlandhotel.html": {
+    "name": "The Shetland Hotel",
+    "location": "Lerwick",
+    "score": "7.4",
+    "review_count": "215 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95814487.webp?k=52b1c6dddfc79df88382cd5a772faa9b8979290bf9afa2cfda453be76c361fdb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unkenhaus-cosy-modern-apartment-private-parking.html": {
+    "name": "Unkenhaus. Cosy, modern apartment, private parking",
+    "location": "Lerwick",
+    "score": "9.5",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285135612.webp?k=b5233c1041d84bac5201f07bc66c56b6dd95bccfb4e3d1864f027bdeeab10370&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brand-new-town-centre-apartment.html": {
+    "name": "Brand New Town Centre Apartment",
+    "location": "Lerwick",
+    "score": "8.3",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204979943.webp?k=39822c0ae4d0daca00125c6dff6ac1b692a404076fa81479ed1f8dc12a2458fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stouts-court-apartment.html": {
+    "name": "Stouts Court Apartment",
+    "location": "Lerwick",
+    "score": "9.7",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193781023.webp?k=154487f4e4eecaeca79168642bf81975a2e953a14b35794431373093186e8f5a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maryfield-house.html": {
+    "name": "Maryfield House Hotel",
+    "location": "Lerwick",
+    "score": "9.4",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342880701.webp?k=6c0790f6c0b163867d0efad3ae804fec8e11ef34143e060d0b7cbd9e4fc0739f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quoys-self-catering.html": {
+    "name": "Quoys Self Catering",
+    "location": "Lerwick",
+    "score": "9.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150440277.webp?k=1399a4cfc52092c9b9a9945f9b7289c2d21db072b99a549d2d9420b49e301543&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burgess-self-catering-lerwick.html": {
+    "name": "Burgess Self Catering Lerwick",
+    "location": "Lerwick",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404175599.webp?k=43ae94b155883e11ae2e9b9d9631f08de60ef79dacff341f3c2a21b834f23672&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fishers-croft-scalloway.html": {
+    "name": "Fishers Croft",
+    "location": "Hamnavoe",
+    "score": "9.5",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89049671.webp?k=c6f0baa36d4bcece40de1e0afb485e9b6e51aab693031683ad699fb341c76caf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-house-central-mainland-ideal-base.html": {
+    "name": "Entire house, Central Mainland, Ideal base",
+    "location": "Lerwick",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409258031.webp?k=91f12094592ee46acb25c681867a3c48648cb8761bbed82a51caa1b0a502c559&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roadside-cottage.html": {
+    "name": "Roadside Cottage",
+    "location": "Sandwick",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111218338.webp?k=ad737f1453988176eaffdc9827815e2cd8cf40abc73fd871078cb2ea27de7926&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queens-lerwick.html": {
+    "name": "Queens Hotel",
+    "location": "Lerwick",
+    "score": "6.0",
+    "review_count": "175 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304184280.webp?k=7dfb78d03703b65cad62c14fb2bd98debb5d4b3ea9e7e771b51340c15d330183&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-13.html": {
+    "name": "Number 13",
+    "location": "Lerwick",
+    "score": "9.4",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125640296.webp?k=e736367e21d41b32bed99b5306b44757f66568f0c1ae4fef520e16436980d579&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/da-milk-shop-holiday-home.html": {
+    "name": "Da Milk Shop Holiday Home",
+    "location": "Scalloway",
+    "score": "9.1",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89743258.webp?k=db9a4a3582b996ccc0d3f5e31fcd7d9b31a887259de6651a2da1d8c3218891c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fort-charlotte-self-catering-lerwick.html": {
+    "name": "Fort Charlotte",
+    "location": "Lerwick",
+    "score": "9.3",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348212726.webp?k=a00568ea7015417c3b9eec14a043cc1e9ca90216df1a33887d4d4b2b18f5b38d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-magnus-bay.html": {
+    "name": "St Magnus Bay Hotel",
+    "location": "Hillswick",
+    "score": "8.8",
+    "review_count": "119 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375886306.webp?k=a321ad8d281052e16072e8cfc468a626acda83f1c0e4ae4a414a43289995e645&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westhall-cottage.html": {
+    "name": "Westhall Cottage",
+    "location": "Lerwick",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62799694.webp?k=57a9366d08d511372c48d7847ee4e31ebb895b57670cf651184ca6c04490bf8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-view-b-amp-b-yell.html": {
+    "name": "Sea View B & B",
+    "location": "Ulsta",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390612883.webp?k=c1edd7c627e1c4b4142e0b4c8ad31a8046ce41a3295e486bda57672cd8a5438b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corbie-self-catering-shetland.html": {
+    "name": "Corbie Self Catering Shetland",
+    "location": "Lerwick",
+    "score": "9.5",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59828044.webp?k=b7039b6dfe0f9a85e86373ac9a7037c2c425447477e25a07e28f325bb08d4c18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/herrislea-house.html": {
+    "name": "Herrislea House Hotel",
+    "location": "Tingwall",
+    "score": "8.0",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206973078.webp?k=6edb44e65867dbbe6eca883b35a27e067e3e0434da85dcf64c54b40ebf5ba492&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tamara-apartment.html": {
+    "name": "Tamara Apartment",
+    "location": "Sandwick",
+    "score": "9.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143914313.webp?k=c7028e1e26f4158ac6e6523985681ca907c0d5bce2decaa11017a5d5a175c1a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harbour-street-apartment.html": {
+    "name": "Harbour Street Apartment",
+    "location": "Lerwick",
+    "score": "9.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213828909.webp?k=03a775c836332dcee9ed707ff0f4dacccac042982e1651b66912d7f6ae8ae7c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-uyeasound-old-pier-cottage.html": {
+    "name": "The Uyeasound Old Pier Cottage",
+    "location": "Belmont",
+    "score": "8.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334293147.webp?k=49feeea65186548a34a2e539df30a58f94b59a0261f09d4f4e08b178c87d7bee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rockvilla-guest-house-lerwick.html": {
+    "name": "Rockvilla Guest House",
+    "location": "Lerwick",
+    "score": "9.7",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264611173.webp?k=96d20fee8a2194d9226ce00b78d3244d401a529400a50926a5004b3a3dd87f6b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/da-sunny-inn-3-bedroom-house-in-lerwick.html": {
+    "name": "Da Sunny Inn - 3 bedroom House in Lerwick",
+    "location": "Lerwick",
+    "score": "9.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353651391.webp?k=146e08bb4d9ed5cb9e9370231a62b1b08f4d3a34985e82ece059688daf34ec80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westhall-annex.html": {
+    "name": "Westhall Annex",
+    "location": "Lerwick",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215514703.webp?k=340261fbcc93e171fdee6a7beaa9edf0421f106bd7ce83d00249e19cf8692176&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/detached-four-bedroom-house-in-scalloway.html": {
+    "name": "Detached, four bedroom house in Scalloway",
+    "location": "Scalloway",
+    "score": "6.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291657852.webp?k=1c5697f5984545981112b0764bb24877c370419d680e72106a46bc0ab8f959dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-2-bed-apartment-in-central-shetland.html": {
+    "name": "Cosy 2 Bed Apartment in Central Shetland",
+    "location": "Brae",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391877337.webp?k=c8e40b283c7d3c4285fb42e43732510f33c06187b7fab5f90882206005f8114c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scalloway-waterside-2-bed-2-ensuite-apartment-great-views.html": {
+    "name": "Scalloway, Waterside 2-bed, 2-ensuite apartment, great views",
+    "location": "Scalloway",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353597154.webp?k=5cdd6ff913c3a6de3a4b83ae8380c4accde057c7c769e29ea55442880c346d48&o=&s=1"
+  }
+}

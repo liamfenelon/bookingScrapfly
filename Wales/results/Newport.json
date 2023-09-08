@@ -1,0 +1,522 @@
+{
+  "https://www.booking.com/hotel/us/america-s-cup-inn.html": {
+    "name": "America's Cup Inn Newport",
+    "location": "Newport",
+    "score": "8.5",
+    "review_count": "1,035 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109446744.webp?k=584fee787f0749fed6935824e42531e62489f324f344a1f3f3cabe9427ea0762&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-49-americas-cup-avenue.html": {
+    "name": "The Newport Harbor Hotel & Marina",
+    "location": "Newport",
+    "score": "7.6",
+    "review_count": "815 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/22905134.webp?k=de69195a3702078c12ec1407159dcf8d6a709ff194d5d779607e4b60541d0b95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/marshall-slocum-inn-newport-rhode-island.html": {
+    "name": "Marshall Slocum Inn",
+    "location": "Newport",
+    "score": "8.9",
+    "review_count": "357 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4133634.webp?k=1b912553b5da9efd3e29b1eeeb71d907d0955051f3a71519882f3fbdf8f40d69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/serenity-inn-newport.html": {
+    "name": "Serenity Inn Newport",
+    "location": "Newport",
+    "score": "9.6",
+    "review_count": "264 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206300202.webp?k=8b5c2ff6e554a9f12811f2dfa2faa3f1c1c0dc4a113566a0bbb526003ac805dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/viking.html": {
+    "name": "Hotel Viking",
+    "location": "Newport",
+    "score": "7.5",
+    "review_count": "729 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/76760095.webp?k=f68d25806f698b073f161ef79746c4d00ed707e53128663be9e7c32e1a0ff6cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/almondy-inn.html": {
+    "name": "Almondy Inn Bed & Breakfast",
+    "location": "Newport",
+    "score": "9.8",
+    "review_count": "193 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/129163737.webp?k=d462fdccd490294eac6fa388c1b2d2d488aecbb296c1b14a19bfe20a4c01456e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-c-house-newport-rhode-island.html": {
+    "name": "Cleveland House Inn",
+    "location": "Newport",
+    "score": "8.0",
+    "review_count": "373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273497573.webp?k=6d4b978220683a252eeb14e7145678f73f5181a74f2d37a972a20ea150c8d790&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pelham-court-newport.html": {
+    "name": "Pelham Court Hotel",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "123 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/128715145.webp?k=af134391b1af1701b6735300f8a40a8303115f213c079996b85bd373fb7b2bd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/wellington-resort.html": {
+    "name": "Wellington Resort",
+    "location": "Newport",
+    "score": "9.0",
+    "review_count": "1,052 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/44013099.webp?k=1d3c2464e808f0e5f383b5661887a68933a3e673d7a121376e78f48fa0c456a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/wyndham-newport-onshore.html": {
+    "name": "Club Wyndham Newport Onshore",
+    "location": "Newport",
+    "score": "9.3",
+    "review_count": "138 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208954517.webp?k=6a66376129126bfcc6910dd86937024c43dbbf237d5d523435b7a0c783805071&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hammetts.html": {
+    "name": "Hammetts Hotel",
+    "location": "Newport",
+    "score": "8.6",
+    "review_count": "507 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267855912.webp?k=091f9c4639b0510b27f2a284a34fad13ee81dad80ebdfa3eebd85263822ed0ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/wyndham-inn-on-the-harbor.html": {
+    "name": "Club Wyndham Inn on the Harbor",
+    "location": "Newport",
+    "score": "8.2",
+    "review_count": "133 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208953825.webp?k=9a86ad8baecc58daa4f78879d69c4a6c71d986ec471349ff788edf5aac4ad258&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/holiday-home-in-core-area-of-newport.html": {
+    "name": "Beautiful Home Historic Spring St",
+    "location": "Newport",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306115687.webp?k=5b5ba41716a2781d657766d3fc20018690fbee27da9600bac825179f1a468751&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/town-and-tide-inn.html": {
+    "name": "Town & Tide Inn",
+    "location": "Cliff Walk, Newport",
+    "score": "9.4",
+    "review_count": "163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163294302.webp?k=781545eee7bfe5559dec7d397d425ea191b3d91c76d291763c9fcde5359ad0c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/apartment-near-firehouse-theater-in-newport.html": {
+    "name": "Apartment near Firehouse Theater in Newport",
+    "location": "Newport",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293070595.webp?k=73a5706752952231e691477fe570a593d3e1629b63ea2321bdbf2b930a3d4053&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-bay-club-and-hotel.html": {
+    "name": "Newport Bay Club and Hotel",
+    "location": "Newport",
+    "score": "8.4",
+    "review_count": "574 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/83461251.webp?k=7ee870748af012347f25b0c1735c1bf3fc9203b9a509b99eadffcc07c455a3d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-marriott.html": {
+    "name": "Newport Marriott",
+    "location": "Newport",
+    "score": "8.0",
+    "review_count": "347 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426585391.webp?k=3f4311aa8a46797cacd47b04de666282b540045aac3068ecfd3ea5ea54a687c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bellevue-house.html": {
+    "name": "Bellevue House",
+    "location": "Newport",
+    "score": "8.4",
+    "review_count": "407 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117195744.webp?k=94acede6c97bb788a66951e5bc0c4eb5f5cfab8b22e8c144a80d631df0fcb67d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/burbankrose-inn-bed-breakfast.html": {
+    "name": "Burbank Rose Inn Bed & Breakfast",
+    "location": "Newport",
+    "score": "8.5",
+    "review_count": "329 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216859180.webp?k=c9c834df49344581c94241dd2d767c39d76cf5f4cd8f3ee1a57fe4cc914f7859&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/wyndham-inn-on-long-wharf.html": {
+    "name": "Club Wyndham Inn on Long Wharf",
+    "location": "Newport",
+    "score": "8.8",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297712996.webp?k=424804bc29d6b66f4a4aaaf1a62864ca9192d9ae1afeabc130c5df610987bec4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-home-less-than-3-mi-to-beaches-bowens-wharf.html": {
+    "name": "Newport House Less Than 3 Mi to Beaches and Bowens Wharf!",
+    "location": "Newport",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289014972.webp?k=e4fc92033faa041b6482615614de4b765a0798936bff6eb71487b91abd12939e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-outlook-inn.html": {
+    "name": "The Outlook Inn",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "119 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195331567.webp?k=3b082d68d731699b4e1b74cb7fecf5771ec5799def0e0f72a5073ff8f9d74f34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/paws-on-pelham.html": {
+    "name": "Paws on Pelham",
+    "location": "Newport",
+    "score": "9.3",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220861685.webp?k=9ffa05b17cdbd5a34889235f2f3cdfd20e89f3e39b465999d6ff5bbfaa060b00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/attwater.html": {
+    "name": "The Attwater",
+    "location": "Newport",
+    "score": "9.0",
+    "review_count": "368 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257118598.webp?k=0f11bea188423dbfc4142e87d0a953fc1fc0a96f793fea91dab81fd1bd516da9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beech-tree-inn-and-cottage.html": {
+    "name": "Beech Tree Inn and Cottage",
+    "location": "Newport",
+    "score": "9.2",
+    "review_count": "334 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88731173.webp?k=3170eeedc481260c5dc20e0bd4377d7bc969bc1c84a0f63e1d4d60b547bb0177&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-cliffside-inn.html": {
+    "name": "The Cliffside Inn",
+    "location": "Cliff Walk, Newport",
+    "score": "9.0",
+    "review_count": "130 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197675779.webp?k=dbd93a25cfe4de4be1c5be31a4fa524763da5a56f89c7eececbfbc02aeae4ec6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/gilded.html": {
+    "name": "Gilded",
+    "location": "Newport",
+    "score": "8.5",
+    "review_count": "193 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47731689.webp?k=c982babe9052494e6d360ddacae4ba1bd0f15dd30541d1be2f2d4c4c0927a916&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/clarkeston-inn.html": {
+    "name": "Clarkeston Inn",
+    "location": "Newport",
+    "score": "7.9",
+    "review_count": "185 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/1584974.webp?k=a092109810a9b011677e6697c1253896354a8a33789f2f90d3d38b0e4b6e8204&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/admiral-fitzroy-inn.html": {
+    "name": "Admiral Fitzroy Inn",
+    "location": "Newport",
+    "score": "9.1",
+    "review_count": "142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/22638267.webp?k=be172ed7722ca42d6f5fc0639549d1799774823b9135d17b3b543b0ea67f579b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/yankee-peddler-inn.html": {
+    "name": "Yankee Peddler Inn",
+    "location": "Newport",
+    "score": "8.3",
+    "review_count": "317 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/1453282.webp?k=37458a8d92dbde1d9d65d3645f2a8f47b9a9c9ce72dd31753120e7b1398e8501&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/fair-street-guest-house.html": {
+    "name": "Fair Street Guest House",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/74537189.webp?k=617ee0433cbb0a71703e219e94f3c15be3706954b42867c738f9d75e1e82962f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ivy-lodge.html": {
+    "name": "Ivy Lodge",
+    "location": "Newport",
+    "score": "9.6",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46024121.webp?k=5c25f2a09c14716da2199b6f6d7627a5a8e411a9cc74cf519146efe5d5bd221e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bellevue-manor.html": {
+    "name": "Bellevue Manor",
+    "location": "Newport",
+    "score": "8.4",
+    "review_count": "164 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118330004.webp?k=00d60e38064cc8e5bdec51da7c6f90f693b6bdcd4334f3b4fd62d1b0d998fcea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bouchard-restaurant-amp-inn.html": {
+    "name": "Bouchard Restaurant & Inn",
+    "location": "Newport",
+    "score": "9.0",
+    "review_count": "390 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/43291096.webp?k=c00e66a5f267aa87555adccebe84833351a6aca2e1877c1010520c0c4581900c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-249-jt-connell-highway.html": {
+    "name": "Motel 6-Newport, RI",
+    "location": "Newport",
+    "score": "3.3",
+    "review_count": "499 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79798825.webp?k=bfde746920e33616b0cf6e1f32f971dd62b277f0f30a64e5f61a1e914ebf1c43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/inns-on-bellevue.html": {
+    "name": "Inn on Bellevue",
+    "location": "Newport",
+    "score": "8.4",
+    "review_count": "236 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119323107.webp?k=3e0e1310f7a86bb1f62db7baa0eb5d8e0722c7157493d3e0762a1f0b4ac51a71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/chart-house-inn-newport.html": {
+    "name": "Chart House Inn",
+    "location": "Newport",
+    "score": "8.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382551790.webp?k=6474cfcc41cb3374b4e11dbf46b4d067dd7efbf0c3544bc447099640f5b208ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-chanler-at-cliff-walk.html": {
+    "name": "The Chanler at Cliff Walk",
+    "location": "Cliff Walk, Newport",
+    "score": "9.5",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/178257347.webp?k=b5154082c97b602fdb6b442d98f58cd496f34afe909988f61e345a8af69316ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/howland-house-inn.html": {
+    "name": "Howland House Inn",
+    "location": "Newport",
+    "score": "9.6",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/80194090.webp?k=9a3436026ccb30051c5ee2c42fa92893bf4159edd185b2fba074175ea51f4c0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/melville-house-newport.html": {
+    "name": "Melville House Newport",
+    "location": "Newport",
+    "score": "7.6",
+    "review_count": "188 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3012484.webp?k=8f47c99d1b78e41258ebf46d0f815bdd941d0b46d4724a26020c2babc7ee7627&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/holiday-home-in-core-area-of-newport-newport.html": {
+    "name": "Holiday home in Core area of Newport",
+    "location": "Newport",
+    "score": "7.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296121437.webp?k=5383dbc24070d9bc7e55cfcf06656a124c60094fb4dcb32c95b6ef156913fe60&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-20-kay-street.html": {
+    "name": "The Bayberry",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "124 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92168742.webp?k=a71273b59f52218a86027b5ce17deed11373a5780aca5ba9d9d7345800111ec9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-364-thames-street.html": {
+    "name": "The Newport Lofts - 364 Thames Street",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139619632.webp?k=c004883a3a61e9d2874b366bca12295c5315b5ffa711c4bfbafa0da9d8d88c8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-brick-market-place.html": {
+    "name": "The Newport Lofts - Brick Market Place",
+    "location": "Newport",
+    "score": "8.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175124026.webp?k=7dfcdf6e820594b9796f234e5bc768c145e1cd8ed1749306910ad48c83a0b12a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/admiral-farragut.html": {
+    "name": "Admiral Farragut Inn",
+    "location": "Newport",
+    "score": "7.8",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/1613148.webp?k=0831ceada4aa06f18185c56862656542c0067e27e915b8758b1a9e9201800076&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/forty-1-north.html": {
+    "name": "Forty 1 North",
+    "location": "Newport",
+    "score": "8.5",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207806136.webp?k=69b94292841e4c07adbee57ba16ac8e007b1bf663864c1622507c86d9fd47104&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/wynstone-inn.html": {
+    "name": "Wynstone Inn",
+    "location": "Newport",
+    "score": "7.8",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/1584620.webp?k=bcc9445fedcb25e6dcc22fcebaf0ea3c32c2ecd6c254cbe5004ae981b6e271cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pineapple-inn.html": {
+    "name": "Harbor Base Inn",
+    "location": "Newport",
+    "score": "6.0",
+    "review_count": "446 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369682349.webp?k=02d982850d9d880d6a469b89f02065131edd123b049cb9b979e6943252cb6cad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/irish-american-inn.html": {
+    "name": "Irish American INN",
+    "location": "Newport",
+    "score": "8.9",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261565111.webp?k=9f2e877cf09d0fd6d290199efd851ac5e87f717e03b91f1052b359458a77509c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-359-thames-street.html": {
+    "name": "The Newport Lofts - 359 Thames Street",
+    "location": "Newport",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88713788.webp?k=2fda9c981e86af36a805d098057d83f81fb41ebe6d2a7b2fe0460e8a6523b23e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-peaceful-puffin.html": {
+    "name": "The Peaceful Puffin",
+    "location": "Newport",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421428100.webp?k=af7a0d080a758af05938a372c72287006cfe28caf01235f7774c43b49aa00cdc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-410-thames-street.html": {
+    "name": "The Newport Lofts - 410 Thames Street",
+    "location": "Newport",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303324167.webp?k=d3dea60ef6759ab4c1b70aa5e48d1e86677cf50627ea478d80ec2de9e76e5158&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newport-105-pelham-street.html": {
+    "name": "Historic Hill Inn",
+    "location": "Newport",
+    "score": "8.7",
+    "review_count": "197 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/18428782.webp?k=aa8ba4eba8ee9e6b106a81a04490146818524a0108ea37e787fa05ae295ecfef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-546-thames-street.html": {
+    "name": "The Newport Lofts - 546 Thames Street",
+    "location": "Newport",
+    "score": "7.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135906555.webp?k=785994b3f89d80faac10201906c0e46ed3dbe7d530e8c143a3993918db1618ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/7-young-st.html": {
+    "name": "7 Young St Newport",
+    "location": "Newport",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434885643.webp?k=d6e20269a8ff17ffed537e8b9362336f85e916f613444e60246eb32cc69f166c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beautiful-narragansett-bay-oceancliff-i-amp-ii-suites-on-the-bay-newport.html": {
+    "name": "Beautiful Narragansett Bay - Oceancliff I&II Suites on the Bay",
+    "location": "Newport",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434183140.webp?k=a26446ed558246c688603c02e1c5f82a05e1c71fc59d7ce45e427bd5b1517681&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hydrangea-house-inn.html": {
+    "name": "Hydrangea House Inn",
+    "location": "Newport",
+    "score": "9.1",
+    "review_count": "154 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88739448.webp?k=6cbfd76f3ad4fc181a33e53452ecf5b0d031f9d1600b23e41af49f07696542d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/modern-cottage-in-downtown-npt-walk-to-all.html": {
+    "name": "Modern Cottage in Downtown NPT-Walk to All",
+    "location": "Newport",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284394369.webp?k=3727f5f8a0fb65e408b4d3b27c7dd721279bfdbeccc52cfddabe081616528576&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mill-street-inn.html": {
+    "name": "Mill Street Inn",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "121 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305252458.webp?k=4449974d29eff90a025f79a3ef57a347d5fbcc51fa35c3c51376cf121c8cf06d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-firehouse-inn.html": {
+    "name": "The Firehouse",
+    "location": "Newport",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117035693.webp?k=8d3a237a1d5807b95f355d0e1ae3fc97dcab3456f9c796333dc269b4819c1570&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/simeon-potter-house.html": {
+    "name": "Captain Simeon Potter House",
+    "location": "Newport",
+    "score": "9.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/124023709.webp?k=603c9958d4e115473086461c41e0f5391c66335571ee9f1d2d418a544d13aa7e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-611-thames-street.html": {
+    "name": "The Newport Lofts - 611 Thames Street",
+    "location": "Newport",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88713620.webp?k=d6a18c354e5d4c9faddf6c90c7f7495c81643974fa238a06dbe9e3131da74cce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hilltop-inn-newport1.html": {
+    "name": "Hilltop Inn",
+    "location": "Newport",
+    "score": "9.4",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107216301.webp?k=c367bbf930c34505cbbda34ec6326bfde1801a36b988c607c761f8228d99db87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-617-thames-street.html": {
+    "name": "The Newport Lofts - 617 Thames Street",
+    "location": "Newport",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88713428.webp?k=361bbcd15592c3de5bef360f1efc11b8404878ca02aa5a103fa288c3985ac141&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-newport-lofts-548-thames-street.html": {
+    "name": "The Newport Lofts - 548 Thames Street",
+    "location": "Newport",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/138634426.webp?k=f16c893f2ed4a66fbe370dca6b7962a9a27ef54261203a5cfe72b1ccddcd6bfb&o=&s=1"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "https://www.booking.com/hotel/us/motel-6-highland-ca-san-bernardino-east.html": {
+    "name": "Motel 6 Highland CA San Bernardino East",
+    "location": "Highland",
+    "score": "7.3",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422283099.webp?k=808018b540a089e5ae8e42187b85c4d5b923bc32ed1be1506a88cd77c22acb78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bear-springs.html": {
+    "name": "Bear Springs Hotel",
+    "location": "Highland",
+    "score": "8.5",
+    "review_count": "141 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244692021.webp?k=0e9b9ffea95dd783e2b2b96d10066bf1e79333e51bcaf5cfda33f936c4398e09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/days-inn-san-bernardino.html": {
+    "name": "Days Inn by Wyndham in San Bernardino",
+    "location": "San Bernardino",
+    "score": "6.4",
+    "review_count": "403 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135454129.webp?k=b5592f2110bb823e94e98ae0690d9eeb074af201f377b7ca6eb2d585fa677b29&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/residence-inn-by-marriott-loma-linda-redlands.html": {
+    "name": "Residence Inn by Marriott Loma Linda Redlands",
+    "location": "Redlands",
+    "score": "9.1",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434759612.webp?k=5515e0a87e62aa6b8cf98d653cbb37970c9ec6a2acf2def883228406501fe87b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/springhill-suites-by-marriott-riverside-redlands.html": {
+    "name": "SpringHill Suites by Marriott Riverside Redlands",
+    "location": "Redlands",
+    "score": "9.1",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436009083.webp?k=b43a459615d8adc1adc9f79012fe2821bcf2f1f4f03886bf3911e0654463cccb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/extended-stay-america-suites-redlands.html": {
+    "name": "Extended Stay America Suites - Redlands",
+    "location": "Redlands",
+    "score": "4.8",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397794461.webp?k=76a3a6a84ab404930502107ea4b9f17bf34c7c5cc0f9db3ef1b62a8f69797967&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/super-8-redlands.html": {
+    "name": "Super 8 by Wyndham Redlands/San Bernardino",
+    "location": "Redlands",
+    "score": "6.0",
+    "review_count": "235 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156639657.webp?k=6c2f1cebfed09b60c99e18b2d5a54e85e2d3ca702e51d909d77a4bafadfcc28f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ayres-redlands.html": {
+    "name": "Ayres Hotel Redlands",
+    "location": "Redlands",
+    "score": "8.6",
+    "review_count": "506 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/37718541.webp?k=7cb2ce37525baa74357c5f32785b5dcced48b5d9d9728df2e8ce584ebbade033&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/home2-suites-by-hilton-redlands.html": {
+    "name": "Home2 Suites By Hilton Redlands",
+    "location": "Redlands",
+    "score": "8.7",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356917498.webp?k=aed5fb18c7a26527ed72e5e3f748b150b6a29c5521aff709b7789a37be5ee0cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/dynasty-suites-redlands.html": {
+    "name": "Dynasty Suites Redlands",
+    "location": "Redlands",
+    "score": "8.5",
+    "review_count": "580 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/85117747.webp?k=d234ead500bbd29bd74db1e15876a728b3b5223aec39c65353b6a365da51163c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfort-suites.html": {
+    "name": "Comfort Suites Redlands",
+    "location": "Redlands",
+    "score": "7.8",
+    "review_count": "301 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273318265.webp?k=ba5ca6f62db9d154efd624197bfa99b3011f0129825af1225ebde66712bc60ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/motel-6-redlands.html": {
+    "name": "Motel 6-Redlands, CA",
+    "location": "Redlands",
+    "score": "5.3",
+    "review_count": "193 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/94521234.webp?k=97694ba4ed5040db6ac89448a955b7bbd01e6c5d29d9c1fcf0877d9eca7b0298&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pet-friendly-san-bernardino-apt-near-csusb.html": {
+    "name": "Pet-Friendly San Bernardino Apt Near CSUSB!",
+    "location": "San Bernardino",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410387270.webp?k=265d3c6c67b7ebbd49cb114a05a413fc58608f380be376c49a20d9418151c3ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/downtown-motel-7.html": {
+    "name": "Downtown Motel 7",
+    "location": "San Bernardino",
+    "score": "6.2",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/25660923.webp?k=d94ff53641f2274da0306f080b2816be30cb4c3916423ea5165f6e151f06c438&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/homewood-suites-by-hilton-san-bernardino.html": {
+    "name": "Homewood Suites by Hilton San Bernardino",
+    "location": "San Bernardino",
+    "score": "8.2",
+    "review_count": "377 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326317835.webp?k=0af25691f7b4f39da894c985db4c05ea338a3c3a1e2ee1b513601ba0f3324e94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/candlewood-suites-loma-linda-san-bernardino-s-an-ihg.html": {
+    "name": "Candlewood Suites - Loma Linda - San Bernardino S, an IHG Hotel",
+    "location": "Loma Linda",
+    "score": "8.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384547578.webp?k=b896270bfdb101ded78290f5c379cd82c39a00b573e24d8573f2288b3124716e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-amp-suites-san-bernardino.html": {
+    "name": "Hampton Inn & Suites San Bernardino",
+    "location": "San Bernardino",
+    "score": "8.0",
+    "review_count": "791 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245752862.webp?k=07c658c2f1a0cbd709c8f738010c3421c44e46ab80726ef338a02c34416b6fe7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/residence-inn-by-marriott-san-bernardino.html": {
+    "name": "Residence Inn by Marriott San Bernardino",
+    "location": "San Bernardino",
+    "score": "7.7",
+    "review_count": "188 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34256920.webp?k=b1cf9f007590b2da05032398fbe04215c5285580bf21b58abac3beeb643dbd76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/home2-suites-by-hilton-san-bernardino.html": {
+    "name": "Home2 Suites By Hilton San Bernardino",
+    "location": "San Bernardino",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384359171.webp?k=43a78f4c512531d1e174ac7378a8ad25bc34ca6e7274a642d956d57ff4008916&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/holiday-inn-express-hotels-suites-loma-linda.html": {
+    "name": "Holiday Inn Express Hotels & Suites Loma Linda, an IHG Hotel",
+    "location": "Loma Linda",
+    "score": "8.0",
+    "review_count": "240 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247611484.webp?k=805ad4f3aa51e9ffcc0497d2801f0c940221064dc2487d37d157e523821627c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/americas-best-value-inn-san-bernardino.html": {
+    "name": "Americas Best Value Inn San Bernardino",
+    "location": "San Bernardino",
+    "score": "7.7",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3791971.webp?k=b311ca44a9803c79a045e936e74ee041d7a8cf9b9882de28c5665c42954f62cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/san-bernardino-570-north-h-street.html": {
+    "name": "Sunshine Motel",
+    "location": "San Bernardino",
+    "score": "6.4",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47948872.webp?k=df422302d3a5cf9d361f63b3610bea46fe75bdb180014d9ea200396fb2553240&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rodeway-inn-san-bernardino.html": {
+    "name": "Rodeway Inn San Bernardino",
+    "location": "San Bernardino",
+    "score": "6.8",
+    "review_count": "499 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170437879.webp?k=f4122895e432dd0cd6eeb961df9e34b88b3f36eda5cdc2380932bffbac445adb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/towneplace-suites-by-marriott-san-bernardino-loma-linda.html": {
+    "name": "TownePlace Suites by Marriott San Bernardino Loma Linda",
+    "location": "Loma Linda",
+    "score": "7.9",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369713577.webp?k=49d63db94995a74a89c781daa8b796a79476a128340031c9e7e1d335ed8e2d05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/motel-6-san-bernardino-ca-downtown.html": {
+    "name": "Motel 6-San Bernardino, CA - Downtown",
+    "location": "San Bernardino",
+    "score": "6.8",
+    "review_count": "452 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109133960.webp?k=c683a3968b1925b7bc01beea37477de0b07745d03d6a4f2662d36c1f857f6c8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/econo-lodge-san-bernardino.html": {
+    "name": "Econo Lodge San Bernardino I-215",
+    "location": "San Bernardino",
+    "score": "5.2",
+    "review_count": "108 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135311294.webp?k=6d5ea89b780f06c725f4435ebb9a962c410645afb9afee32e7ada57b145c9f04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/fairfield-inn-and-suites-by-marriott-san-bernardino.html": {
+    "name": "Fairfield Inn and Suites San Bernardino",
+    "location": "San Bernardino",
+    "score": "8.4",
+    "review_count": "225 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8022788.webp?k=1fa1c29a6497d260859af15468688a4530ff1c4a5d4ebc588280499151f02011&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/astro-motel.html": {
+    "name": "Astro Motel",
+    "location": "San Bernardino",
+    "score": "3.3",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417560296.webp?k=4d4514d0bb624b7f730df0359ea575730b34a9b74df6230b4a2a6e865bef1753&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/economy-inn-san-bernardino.html": {
+    "name": "Economy Inn",
+    "location": "San Bernardino",
+    "score": "5.0",
+    "review_count": "127 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348719201.webp?k=e8c3960b25a41feec242dbe8ba9c498c134d7ca09bb285b3d9d42f43980a7faa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/9min-to-univ-of-redlands-spacious-boho-home-5min-to-downtown-discounts.html": {
+    "name": "9min to Univ of Redlands Spacious Boho Home 5min to Downtown DISCOUNTS",
+    "location": "Redlands",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371215296.webp?k=f2f2f0670c79217b56ea7a39f87ff96626ef0df8a6a2b46d482ee9e8958931e2&o=&s=1"
+  }
+}

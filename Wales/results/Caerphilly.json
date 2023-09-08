@@ -1,0 +1,74 @@
+{
+  "https://www.booking.com/hotel/gb/prince-of-wales-inn-caerphilly.html": {
+    "name": "Prince of Wales inn",
+    "location": "Caerphilly",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423183979.webp?k=4a080756e04eb433a2aec54bda2fe3f35c1609c12af5b47c2bcc9be1f21d8e03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhymney-house.html": {
+    "name": "Rhymney House hotel",
+    "location": "Caerphilly",
+    "score": "7.8",
+    "review_count": "345 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115112285.webp?k=7134e7f3094f7db5b8166c592c53c90d500fb6d6110fc9a9e259d2333029c148&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castell-cottages.html": {
+    "name": "Castell Cottages",
+    "location": "Caerphilly",
+    "score": "8.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92385458.webp?k=79af7bcfff06aebc9416ca5487079c300c96cf570a6d8a63886949a216bf1594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-castell-guest-house.html": {
+    "name": "Ty Castell Guest House",
+    "location": "Caerphilly",
+    "score": "9.1",
+    "review_count": "340 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423773716.webp?k=a57ad6856cf6dd98105c9bd183cfab9f79659b5336b6ac12c1f37cb7dc2ec9f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castell-cottages-van-rd.html": {
+    "name": "Castell Cottages (Van Rd)",
+    "location": "Caerphilly",
+    "score": "8.6",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213821946.webp?k=3bdb7ae2454bce1880f2c67456a83004394e4781cf4971e112672acfda142997&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-nance-cottage.html": {
+    "name": "Ty-Nance Cottage",
+    "location": "Caerphilly",
+    "score": "8.9",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328521043.webp?k=d8a23dec3e8e5a8f86b7d2533114c282021ba9f46e2d7eded5f625615198c255&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skyline-apartment-2-bedroom-castle-views.html": {
+    "name": "Skyline apartment - 2 bedroom, castle views",
+    "location": "Caerphilly",
+    "score": "9.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378227943.webp?k=5ca8560004a2d6fe0512a5e3a6dc6279a0cf4a76db275b2d34d35118eebbbb89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-fan.html": {
+    "name": "Y Fan",
+    "location": "Caerphilly",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436769581.webp?k=0f887b225d78d3e11b9cfdd4896aadac3bce121eb909ce3b3085147c0c5e3101&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-house-near-caerphilly-station.html": {
+    "name": "Entire 3 bedroom house near Caerphilly station",
+    "location": "Caerphilly",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386876978.webp?k=43ae2dd440928f40a970adba5fe1f2e43c605f7045f5625f0e890053c8ea0415&o=&s=1"
+  }
+}

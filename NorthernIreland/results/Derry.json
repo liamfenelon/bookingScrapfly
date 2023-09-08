@@ -1,0 +1,674 @@
+{
+  "https://www.booking.com/hotel/gb/towerhotelderry.html": {
+    "name": "Maldron Hotel Derry",
+    "location": "Walled City, Derry Londonderry",
+    "score": "8.2",
+    "review_count": "2,019 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/53202900.webp?k=c5a09a24e8153be05cc473bbdd2ad261a3181e44fe974f623876ea7e12d9c84f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-express-derry-londonderry.html": {
+    "name": "Holiday Inn Express - Derry - Londonderry, an IHG Hotel",
+    "location": "Derry Londonderry",
+    "score": "8.4",
+    "review_count": "2,763 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/225092101.webp?k=59d1e8f868851222f013aca8523860d1da156c5a0da96d6c8e788d291bf0667e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/serendipity-house.html": {
+    "name": "Serendipity House",
+    "location": "Derry Londonderry",
+    "score": "8.5",
+    "review_count": "1,213 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199843999.webp?k=8eb5bea0c400008b674de614220211f9f602b164aedb5074648c1d7e1d091f09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterfoot.html": {
+    "name": "Waterfoot Hotel",
+    "location": "Derry Londonderry",
+    "score": "8.3",
+    "review_count": "1,361 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163995282.webp?k=ffcf8c9c152e1032397498fde93b1c367eb2cb363ee57d2394506aa7e97c34fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/legenderry-b-amp-b-derry-londonderry1.html": {
+    "name": "LegenDerry B&B",
+    "location": "Derry Londonderry",
+    "score": "9.1",
+    "review_count": "682 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170972765.webp?k=6e0fddfc8ca5c8ef82965cc938bafa6deda408c12c260bd1ecd9924423ff46cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-8-the-townhouse-londonderry.html": {
+    "name": "Number 8 The Townhouse",
+    "location": "Walled City, Derry Londonderry",
+    "score": "9.0",
+    "review_count": "763 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42879480.webp?k=4a63dbb440546e00ad17f4dddbc0a166e00273d70b28adbf7f6e2a0c8500e9ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hastingseverglades.html": {
+    "name": "Everglades Hotel",
+    "location": "Derry Londonderry",
+    "score": "8.7",
+    "review_count": "1,098 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15093810.webp?k=80d529da0cc10c79a2b2e897868146b1e5c94cad6e483ffcebee388d355c9983&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/windsor-house-derry.html": {
+    "name": "Windsor House",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "212 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241414677.webp?k=e96e2ee597ef85694ca1a7e866ba36452a43c0bcfd70baf9cfea9d3f35a5f3d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tri-ard-house-derry-city-centre-town-house-londonderry.html": {
+    "name": "Tri ard house Derry city centre STILL OPEN",
+    "location": "Derry Londonderry",
+    "score": "8.5",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127681402.webp?k=963b20bbdec3b9e84b67939d40fc0031e69b245ecf97c1b35561c212d8b754f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/derry-londdonderry-city-centre-waterfront-appartment.html": {
+    "name": "Derry-Londonderry city centre waterfront appartment",
+    "location": "Derry Londonderry",
+    "score": "9.6",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375516170.webp?k=22672ca0d62885f47584b0af17f9e0a0a59d29044f9a040806a115038ecb6119&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/white-horse-londonderry.html": {
+    "name": "Best Western Plus White Horse Hotel",
+    "location": "Derry Londonderry",
+    "score": "7.8",
+    "review_count": "1,045 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298079286.webp?k=aa4542f3b493fd7b066febefb99bd8a7ae464180fe4cb8a8a3e9365a142b51c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bishop-gate-bnb-londonderry.html": {
+    "name": "bishop gate bnb",
+    "location": "Derry Londonderry",
+    "score": "8.6",
+    "review_count": "158 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/182992898.webp?k=d11adc676876bf2c31b41e8dcddbd467453dcf7920b43cb57fb199e7e9e32d1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-gate-house-derry-city-centre-townhouse.html": {
+    "name": "Castle Gate House Derry City Centre Townhouse STILL OPEN",
+    "location": "Derry Londonderry",
+    "score": "8.5",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162851366.webp?k=a3e56a1cb25573f2885d3c397664153d229b44279defdf7aac6df62a7dd58fb9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/angel-house.html": {
+    "name": "Angel House",
+    "location": "Derry Londonderry",
+    "score": "7.6",
+    "review_count": "364 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365312054.webp?k=460d7f57425f20f9bff79d8b418f9846a8302613036c6391c2f0c81f4f4a06d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-james-suites.html": {
+    "name": "The James Suites",
+    "location": "Derry Londonderry",
+    "score": "9.3",
+    "review_count": "283 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/223897361.webp?k=97315a70013f7cf18723d520cd52869e0cf8edb9d7f41fd2f23a1ea07ec68e9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-belfray-country-inn.html": {
+    "name": "The Belfray Country Inn",
+    "location": "Derry Londonderry",
+    "score": "8.6",
+    "review_count": "673 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/63571657.webp?k=3e97d2c47139b2efa4d266736e3938aa1f7b48c38171d8af7798df84deb3e7a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/just.html": {
+    "name": "Charlotte House",
+    "location": "Derry Londonderry",
+    "score": "7.5",
+    "review_count": "252 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143026529.webp?k=70a9465eeaffed822af6e9fe7a80ef0025466251d63ce51eca6fea7723d58b04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quay-8.html": {
+    "name": "Quay 8",
+    "location": "Walled City, Derry Londonderry",
+    "score": "8.7",
+    "review_count": "505 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311376359.webp?k=ae4ac725985951e36bb524bfa14925e4b3a35e9e63adf4947ed8f302cc6e4f7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harvey-apartments.html": {
+    "name": "Harvey Apartments",
+    "location": "Derry Londonderry",
+    "score": "7.6",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398026918.webp?k=e3ce8fa3f1d67c14b7489170732df1c7f88e83812b57c36f4b39f8e32d5d502e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westlands-suites.html": {
+    "name": "Westland Suites",
+    "location": "Derry Londonderry",
+    "score": "9.0",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367654259.webp?k=9bee8ecc35335eeef6fa2d27909bdba8077dccfd5f26247c75999fc02eae574f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterside-star.html": {
+    "name": "Waterside Star",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287382841.webp?k=85e4496f47211ff8f009d70874822a9d6f0c47e393504f78ecda9581dac52a9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elaghview-bed.html": {
+    "name": "Elagh View Bed & Breakfast",
+    "location": "Derry Londonderry",
+    "score": "8.7",
+    "review_count": "625 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266148650.webp?k=614c01ad53c6444d5d6c6e4324b35afa78c99be60b56cafeea7dfc67d63e646c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/derry-city-center-townhouse.html": {
+    "name": "Derry City center townhouse",
+    "location": "Derry Londonderry",
+    "score": "9.6",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167664667.webp?k=546171087c06abd4442cbe77cbdd6c16ee9c3cc1a7089af73d4252fad330db23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abercorn-house.html": {
+    "name": "Abercorn House",
+    "location": "Derry Londonderry",
+    "score": "8.8",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/57496219.webp?k=0ed7e067397933b41af1ea70af0828c237c35039564430f302c6e2e587a8f550&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/diamond-house-apartments.html": {
+    "name": "Diamond House Apartments",
+    "location": "Walled City, Derry Londonderry",
+    "score": "8.5",
+    "review_count": "383 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/145586554.webp?k=d61cd2e8919ca7c259058ebac6a5ca714bb3b517ed5662bacb63cdf495b501a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/login-house.html": {
+    "name": "Login house B",
+    "location": "Derry Londonderry",
+    "score": "8.1",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297060410.webp?k=b165dd9e88f68e843ccc182e830d3642c11f1b60ee5c1abf089a59c26a60429a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jazz-house.html": {
+    "name": "Jazz House",
+    "location": "Derry Londonderry",
+    "score": "9.3",
+    "review_count": "387 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248986308.webp?k=e455cc59caa86ef9e5cec33437684687259cb621e1ba5d9ac92c8571a4d70c84&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-park-house.html": {
+    "name": "Rose Park House",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "289 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205358163.webp?k=965b7ff9345f38b1baeee49011dcba89ca56498234b9305ec0552009265af1da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/enas-cove.html": {
+    "name": "ENAS COVE Homely Getaway",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351066072.webp?k=ae2bb9f798c5df84070bbb30b4f2d7c39f52954955f7bdb125359ac63335aadb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heights-view-apartment.html": {
+    "name": "Heights View Apartment",
+    "location": "Derry Londonderry",
+    "score": "9.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407926497.webp?k=825431a1c31eaa4e8df99cb325db47277279bff0f7b4389ab0bcad95d0424acd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/art-house-derry.html": {
+    "name": "Art House",
+    "location": "Derry Londonderry",
+    "score": "9.5",
+    "review_count": "590 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208173274.webp?k=594943da5e9836e2f593f0e6f30b045239ad62926a552970649b9cf33045a5cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-apartment-derry.html": {
+    "name": "Riverside Apartment",
+    "location": "Derry Londonderry",
+    "score": "9.6",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/178816230.webp?k=7e7107775bafd9c0f153bf39ea80d2872857c48d0c8eca4af89fbc707019901e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilltop-view-derry-city-sleeping-five-guests.html": {
+    "name": "HillTop View 'Sleeping 5 guests'",
+    "location": "Derry Londonderry",
+    "score": "8.9",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385556704.webp?k=788641b4c775a233eb106b9d201041a0374625e0ac36d601b11f8d735d17705d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-school-house-derry.html": {
+    "name": "Old School House",
+    "location": "Derry Londonderry",
+    "score": "9.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213838029.webp?k=885ea5158e96d3db9020fd291938a4a219c689950eca1ebc2bed8aafc89dc908&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/callas-place.html": {
+    "name": "Calla's place",
+    "location": "Derry Londonderry",
+    "score": "9.2",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367528270.webp?k=5916cd12785f64c014f20b2f4960c9d3f4d2fa34019257b2c3c112931bdf2309&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-town-house-10-minute-walk-from-city-centre.html": {
+    "name": "Argyle House, 10 minute walk from city centre",
+    "location": "Derry Londonderry",
+    "score": "9.2",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301818970.webp?k=3b5a2714b47f4e62bc865f9c3e83e0bc683b0d8bab43a36353b3a16f4eb7587c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cathedral-apartment-derry.html": {
+    "name": "Cathedral apartment",
+    "location": "Walled City, Derry Londonderry",
+    "score": "8.5",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236032125.webp?k=b4a53747426f9b4afbb6467932b599434a250e991253e7722ee05e2e0c142b98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/groarty-manor.html": {
+    "name": "Groarty House/Manor",
+    "location": "Derry Londonderry",
+    "score": "9.1",
+    "review_count": "372 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306093643.webp?k=18231448fee0b5c14ab8d6f3eb04321cddfaffa9c9027c2fbf6881e4a18ea763&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/free-derry-apartments.html": {
+    "name": "Free Derry Apartments",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426426084.webp?k=c9ca946c926af8db540dce1aab6850666b9300ddcf265af0d53a8406c6de9e5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chambers-rise.html": {
+    "name": "CHAMBERS RISE - City Centre Stays",
+    "location": "Derry Londonderry",
+    "score": "9.7",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420268151.webp?k=bcf67c0c22bef01f90bb78664a24264836585b1566f01c166c712f0698272d88&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dannys-place.html": {
+    "name": "Danny’s Place",
+    "location": "Derry Londonderry",
+    "score": "9.3",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154673032.webp?k=dd6f3ad06cc7def012960190d2d54328fe03341bc3f19fa0165aad711566910c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haven-house-derry-and-strabane.html": {
+    "name": "Haven House",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308854346.webp?k=f295acf6abd40826b0d28bcea21aee03f25c44553056ff14186524bed20690bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/iona-inn.html": {
+    "name": "Iona Inn",
+    "location": "Derry Londonderry",
+    "score": "8.5",
+    "review_count": "482 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/2068549.webp?k=862018b26925c35cbed0ca57b9fe8621f4c25ec77ecb158cc66dffdb2b9860c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shipquay-boutique.html": {
+    "name": "Shipquay Boutique Hotel",
+    "location": "Walled City, Derry Londonderry",
+    "score": "9.0",
+    "review_count": "937 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107513827.webp?k=6693b52489b4e4d8e66a66cfde0be0a89c3627afbb7301af2594654c24867484&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterloo-house-derry-city-centre-townhouse.html": {
+    "name": "Waterloo House Derry City Centre Townhouse",
+    "location": "Derry Londonderry",
+    "score": "9.0",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290536532.webp?k=26914626293b84b5a694136901be1157fb72b1af93c5cbb2161c99382981c444&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bishops-gate-apartment.html": {
+    "name": "Bishop's Gate Apartment",
+    "location": "Derry Londonderry",
+    "score": "9.2",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331678640.webp?k=0a3155c2b506fd911d4e8039fbc17512fc35a937fb93f4e75251195709ae2387&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-25.html": {
+    "name": "Boutique 25",
+    "location": "Derry Londonderry",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419995962.webp?k=a6d6499ace9b8427e50c93a5af09cc45e52395d823b5351cf6cd1034e6e6a1c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/casa-argento.html": {
+    "name": "Casa ArGento",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332140829.webp?k=099b2597bcb063a7b74fe356baeac98713a3374f4219079e8c6a260b052a0edc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/malvern-apartment.html": {
+    "name": "Malvern Apartment",
+    "location": "Derry Londonderry",
+    "score": "8.9",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424705941.webp?k=f875a71149d8073fc2b5513735adca7b9a959f5837a31ed79686cd359a2fb240&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/redgate-house-bed-amp-breakfast.html": {
+    "name": "Redgate House Bed & Breakfast",
+    "location": "Derry Londonderry",
+    "score": "9.9",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388177152.webp?k=8d96734ab87ae55018ee5793db7c7a79a1ceffb900d0309e4f6e0aac4710ba7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-townhouse-derry-city-centre.html": {
+    "name": "The Townhouse, Derry City Centre.",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336034389.webp?k=c638b57fab8615f421bddb9b45152733c299bcaeb3e4ab06a45ccdb665dc0504&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/twentyqc.html": {
+    "name": "TwentyQC",
+    "location": "Derry Londonderry",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419882059.webp?k=fee60e2c3567e9fe30e91165956932f2f7bd1ca51786b0df38a412bfa6ac5b0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-room-derry-londonderry12.html": {
+    "name": "The Garden room",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "78 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228407072.webp?k=150f4fb41c6fc74e42ae67fcef0bae18c99c91f551307b9f253093bc3cabdd4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/7-heaven-derry-city-centre-town-house.html": {
+    "name": "7 Heaven Derry City Centre Town house",
+    "location": "Derry Londonderry",
+    "score": "8.7",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323668424.webp?k=f809f6cfeef797a58b7df30a6a473b7fedad8d678bd83775c133d4f09633fafe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/login-house-derry-and-strabane.html": {
+    "name": "Login house A",
+    "location": "Derry Londonderry",
+    "score": "7.9",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317745188.webp?k=f7d3eec8f497d209db905b21fec0b1ef477bc549b67af6d9d5f2bd324af36993&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-22-derry-and-strabane.html": {
+    "name": "No. 22",
+    "location": "Derry Londonderry",
+    "score": "10",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364761441.webp?k=bdd1c0c649ededa9b73e5371402981b5e03581328bd9857cbd07ba5c24092d8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/erin-cottage.html": {
+    "name": "Erin Cottage",
+    "location": "Walled City, Derry Londonderry",
+    "score": "9.1",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/122639927.webp?k=5a70a230efeefac81a4b766a4014f85354b76d225826144c3f9302eb636d40c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walled-city-apartments.html": {
+    "name": "Walled City Apartments",
+    "location": "Derry Londonderry",
+    "score": "8.5",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/55319463.webp?k=a0db8004cc42b62c0c95cd12fd86b47a14bc608980211ea47e5494b397d01994&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-apartment-londonderry.html": {
+    "name": "City Centre Apartment",
+    "location": "Derry Londonderry",
+    "score": "7.9",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197589896.webp?k=e68f0a6ced93c41698647162794339b9acbec96d6c06391f72f9ca03b83d42c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chamberlain-too.html": {
+    "name": "Grant Rooms",
+    "location": "Derry Londonderry",
+    "score": "8.6",
+    "review_count": "74 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/202952547.webp?k=f46b637a42559c0ba3f646558d2e07a6b7069cc6d74269bd73d562af1a3d3f66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/princes-house-londonderry.html": {
+    "name": "Princes House in the Walled City",
+    "location": "Derry Londonderry",
+    "score": "7.1",
+    "review_count": "126 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/44051278.webp?k=7f76130efda755a2378e17b569ccd2fe23b26a9bdde11ebdbda71388ab58677f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/67-templegrove.html": {
+    "name": "67 TEMPLEGROVE",
+    "location": "Derry Londonderry",
+    "score": "9.4",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188059084.webp?k=e8483d1022ff2576c37d32c3ccba559985c6b2bb9552208b6d92c1fad595a037&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inviting-2-bed-apartment-in-derry.html": {
+    "name": "Central 2 Bed Apartment Above Great Derry Pub",
+    "location": "Derry Londonderry",
+    "score": "8.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331506457.webp?k=ebb4d1f4bd79bfe83fd3cb96208bfcf4db24c884aa9a7dbbb3c1d3db912da0ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nesswood-luxury-glamping.html": {
+    "name": "Nesswood Luxury Glamping",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371053901.webp?k=d39e93d92fb27517daf1e2ed57fa257a4ec162091af1f04f486b2835b0796a20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/station-house-apartment-portstewart.html": {
+    "name": "Station House Apartment Portstewart",
+    "location": "Derry Londonderry",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401501247.webp?k=313331f89fd0958033e1a2d704d32eb29c463e841ec993da142459428bd71971&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-20.html": {
+    "name": "Townhouse 20",
+    "location": "Derry Londonderry",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400707207.webp?k=024fbcf2d1d80c6d3256317465d971a4230603ebad1aeb514e8ba7818dfb52ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/danny-boy-luxury-farmhouse.html": {
+    "name": "Ballyness Lodge",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249024978.webp?k=948f66627884ed53063c2fe0ed5a36c66f090beefb7a2a77e88f089b6b449fe3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-lodge-private-apartment-with-sauna-derry.html": {
+    "name": "Woodland lodge, private apartment with sauna",
+    "location": "Derry Londonderry",
+    "score": "9.6",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367508323.webp?k=17ebbc4b6a0cae0e3a129cb6b28a279cedcf1c26521fe0ec2397519709315fa9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ballymakeever-apartment-derry12.html": {
+    "name": "Ballymakeever Apartment And Spa",
+    "location": "Derry Londonderry",
+    "score": "9.7",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403124219.webp?k=84649da7b99703af076b04720662861c6991a4723efdd27208ad01eaaec6f536&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/five-oak-s.html": {
+    "name": "Five Oaks",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/16402245.webp?k=f329726c6922403584ee900f6f9635e337374c1b3866c2d3d84c0394d2174418&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/monty-towers.html": {
+    "name": "Mountjoy House",
+    "location": "Derry Londonderry",
+    "score": "7.9",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232158943.webp?k=40dc5f32f47e8cc492de8e73382a950d97c4adf1814bd0d78814f639f5f1b71a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-rooms-abercorn-road-ltd-free-parking-free-wifi.html": {
+    "name": "City centre rooms Abercorn road ltd free parking free WiFi",
+    "location": "Derry Londonderry",
+    "score": "6.3",
+    "review_count": "92 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377262926.webp?k=f79ff4835c78561223f06966786694af5467f4f57b8c10465f873f6824cd1bee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/de-moleyn-house.html": {
+    "name": "De Moleyn House",
+    "location": "Derry Londonderry",
+    "score": "8.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309624781.webp?k=c708b74b652bdb85cf7cb01d6b3d9e3ecb05574ebca905f4ae8f8df4b80de8fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-in-derry-city-centre-derry-and-strabane.html": {
+    "name": "Townhouse in Derry City Centre",
+    "location": "Derry Londonderry",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405686006.webp?k=cf0011b8d570745f44b42bdbfcb4dab0609a5841319f0346d1131c892899a953&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coneyville-londonderry.html": {
+    "name": "Coneyville, Londonderry",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344454307.webp?k=fd4011878d94eb3fb6ee953b483414556eeac1085a7e970e4220ed1a119059b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-derry.html": {
+    "name": "Townhouse 34",
+    "location": "Derry Londonderry",
+    "score": "9.0",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322037209.webp?k=955d20f1b09c17105af57537d08feb74735d7019f8a4d02b3f29f8c711793219&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crawford-square-apartment.html": {
+    "name": "Crawford Square Apartment",
+    "location": "Derry Londonderry",
+    "score": "9.1",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/178690730.webp?k=917b4df596c19dfa97c0f7a5d5c65cc8bb0fe96d2cf73aadf15429c511541664&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carntogher-cabins.html": {
+    "name": "Carntogher Cabins",
+    "location": "Derry Londonderry",
+    "score": "9.7",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185886787.webp?k=dbb5d4f54dea2995ada2498b43e503295fcec9ac622f18e2ad6bfa05c552a3c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/le-petit-chantier-derry-and-strabane1.html": {
+    "name": "Le petit chantier",
+    "location": "Derry Londonderry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401857912.webp?k=60c1ee79e2b9b9e7423d7126cd1cb5d0560c36de1936a96591b6acfbb8efddd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/le-petit-chantier-derry-and-strabane.html": {
+    "name": "Le petit chantier",
+    "location": "Derry Londonderry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401777898.webp?k=7aad7772419be83959c4d33bff68cb04ee1a006027c9691b6e42ce468f260def&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-6-bedroom-period-house.html": {
+    "name": "Fountain Hill Manor House",
+    "location": "Derry Londonderry",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382802423.webp?k=f5902ecebe64e1c986a29af837b86dbab48c823e87091ffa13577617fbb1ab8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio42.html": {
+    "name": "Studio42 Hideaway",
+    "location": "Derry Londonderry",
+    "score": "9.7",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339203205.webp?k=f32f1d32e8e9fcb1ceac7d29db978021283e96a2d4ae68b0c469eab2883fb81b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-learmount-derry.html": {
+    "name": "The Coach House Learmount",
+    "location": "Derry Londonderry",
+    "score": "9.8",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247045672.webp?k=5cfbd53a39c558ce1c71d8d429f60752d12d6ecb93ff651f9b3c627302f7dcef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-elmos-townhouse-londonderry.html": {
+    "name": "St Elmos Townhouse",
+    "location": "Derry Londonderry",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422424423.webp?k=9992d5db61e2983f15554b38735602a0c9418ad08895a7aeb2d1b4ca76c9722e&o=&s=1"
+  }
+}

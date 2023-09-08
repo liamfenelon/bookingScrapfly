@@ -1,0 +1,2034 @@
+{
+  "https://www.booking.com/hotel/ie/the-gresham.html": {
+    "name": "Riu Plaza The Gresham Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.3",
+    "review_count": "21,548 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113662226.webp?k=7dfe6ae5664115664ddfd02b551690b2bff35ad624175cab95842b3729b59cd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-burlington.html": {
+    "name": "Clayton Hotel Burlington Road",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.3",
+    "review_count": "5,371 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287103680.webp?k=a8abcbc629792d26d1179a281ceed364c1cc8680d656705dfdb2f95012ec7a4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mceniffskylonhotel.html": {
+    "name": "Dublin Skylon Hotel",
+    "location": "Drumcondra, Dublin",
+    "score": "8.3",
+    "review_count": "5,370 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263235193.webp?k=1e947a8366ce091501c9c22ec952a79d85ae6eda1dd130663ab026a60feec292&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-grafton.html": {
+    "name": "The Grafton Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.6",
+    "review_count": "1,235 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328936544.webp?k=bf830d3fdf3884eaa9c6d626d90fc24e039adcc605632350a4eca92c73449380&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/marlin-dublin.html": {
+    "name": "Marlin Hotel Stephens Green",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.1",
+    "review_count": "6,735 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244976537.webp?k=128d97b0d458b21f545445532bfda6b0eabdda4a7b7de589d6117b047e49ef34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/blooms-dublin-2.html": {
+    "name": "Blooms Hotel",
+    "location": "Temple Bar, Dublin",
+    "score": "7.3",
+    "review_count": "2,270 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46176190.webp?k=e0e2a9e331f399ab101a4c96bc8b49c3466061ae35ed9e3e370380c118d825fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harcourt.html": {
+    "name": "Harcourt Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "7.6",
+    "review_count": "4,188 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412217749.webp?k=0358051907bcca28db7c7a4b1c97510f7fd188809af95d0c62f21f4e6ddbbb68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castle.html": {
+    "name": "Castle Hotel",
+    "location": "Parnell Square, Dublin",
+    "score": "8.0",
+    "review_count": "5,853 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163329279.webp?k=d74432837ab65573662616aa29019165b004335adbfc1d9c573ce242f9c7610c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hampton-by-hilton-dublin-four-courts.html": {
+    "name": "Hampton By Hilton Dublin City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.6",
+    "review_count": "2,657 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375232054.webp?k=82759ef650560fe139334eddb39fa40cb2ba2e5b2766fa48954ab57ab389792e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/staycity-aparthotels-dublin-city-centre.html": {
+    "name": "Staycity Aparthotels Dublin City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.9",
+    "review_count": "1,690 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389113624.webp?k=e899fe92bcadc913073125432e31975d27d24f0f0ca7f0260b36ce3390454bcd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/academyhoteldublin.html": {
+    "name": "Academy Plaza Hotel",
+    "location": "Parnell Square, Dublin",
+    "score": "8.1",
+    "review_count": "5,345 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/94976667.webp?k=20ea271f165063b6b84a6d604b95f58b0e2c446393db2025c0fd2f74b4b0c1b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-samuel.html": {
+    "name": "The Samuel Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.4",
+    "review_count": "4,969 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354744738.webp?k=c211546ee54aa443fc17d207994702bb8a4bb9af14700a9dd5aed9ae53808eef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/iveagh-garden.html": {
+    "name": "Iveagh Garden Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.7",
+    "review_count": "2,848 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134038589.webp?k=7e36d47205c5d6576f39b9463dcee4aa448990affad01a2a8ae48b125119b98d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/staycity-aparthotels-city-quay.html": {
+    "name": "Staycity Aparthotels City Quay",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.6",
+    "review_count": "1,814 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367340820.webp?k=1e53c35d7892120271b2fc9046700ff17737c41c0c698b713700ba68b902e7fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/drurycourt.html": {
+    "name": "Drury Court Hotel",
+    "location": "Temple Bar, Dublin",
+    "score": "8.9",
+    "review_count": "2,327 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217344589.webp?k=d58c5a7571bb7f97ac239f8cd4de20de148101b6d8a9de7a7db57676521bc0c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/morrisondublin.html": {
+    "name": "The Morrison Dublin, Curio Collection by Hilton",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.7",
+    "review_count": "1,110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419649257.webp?k=285cb01521ebf74c1833bd41877f795062d12fdf2328657cc6e68c35601a3dcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/trinitycapitalhotel.html": {
+    "name": "The Trinity City Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.2",
+    "review_count": "2,463 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342883159.webp?k=d485fdd8b1ac97420112aefb8c6926dcf1d2e07f842cda5b75f999d568ec4b08&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/staycity-aparthotels-tivoli.html": {
+    "name": "Staycity Aparthotels Tivoli",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.8",
+    "review_count": "2,502 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342701096.webp?k=2f8241ad5c280ea916c5828513779b83ee75c2c87414fb64df10e482ea191edb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-gibson.html": {
+    "name": "The Gibson Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.2",
+    "review_count": "7,726 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294080191.webp?k=92e3e38f709adafff97d84e8210d7538cf60d17728e1bc7feab82f0d766f4074&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-lombard.html": {
+    "name": "The Lombard Townhouse",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.3",
+    "review_count": "534 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299404332.webp?k=98a9e3c85c4620cf4b71c35310882678070934ffe09f696c4789f1f5cfdd9f8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/qualityhoteldublin.html": {
+    "name": "Clayton Hotel Cardiff Lane",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.7",
+    "review_count": "7,029 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300154625.webp?k=1f70c98332f1f9a1a51cd10a2b8e03d01fa794e51368868bb6c0083e863e3de4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hard-rock-dublin-dublin1.html": {
+    "name": "Hard Rock Hotel Dublin",
+    "location": "Temple Bar, Dublin",
+    "score": "9.1",
+    "review_count": "2,196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250343562.webp?k=d90b7eed49139fe78cd8a287b51f47c277bb6ddbc13002449ffcafd1f4c19cf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-hendrick-smithfield.html": {
+    "name": "The Hendrick Smithfield",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.9",
+    "review_count": "3,640 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/200646081.webp?k=a5cbc3a5187e770c8b5dad4759f75f2b8af06cc06b69526888925e491bb9c54f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/temple-bar-inn.html": {
+    "name": "Temple Bar Inn",
+    "location": "Temple Bar, Dublin",
+    "score": "8.6",
+    "review_count": "2,796 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328627371.webp?k=80a2889dfde8e6741c97c1e0ceb918a339c9248e4248edbc79fadce1b5ae3fdc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jurysinnparnellst.html": {
+    "name": "Jurys Inn Dublin Parnell Street",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.6",
+    "review_count": "11,931 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42138572.webp?k=06f2cdab1ebe45ff2308ffb19ff8c54a1b9a04a50712c8a0c8739654a3ea8944&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-marker.html": {
+    "name": "Anantara The Marker Dublin- A Leading Hotel of the World",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "2,247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263960554.webp?k=a336079fb6db03689bb3a3754b753e19c26470cd32d230e5f79aa5abb016ebec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/towerhotelgroup.html": {
+    "name": "Temple Bar Hotel",
+    "location": "Temple Bar, Dublin",
+    "score": "8.2",
+    "review_count": "3,388 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371640104.webp?k=f5bd36fa62f38e48884a310dd422704ed0d2b2297a091b14f91c9ecc4eb3829f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/theprinciplehotel.html": {
+    "name": "The Fleet",
+    "location": "Temple Bar, Dublin",
+    "score": "8.5",
+    "review_count": "4,004 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/171637732.webp?k=66d42a62b972f3c1677c589a2504b87714a4bafb0f9ca6d4e0606084472f2c11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/albanyhouse.html": {
+    "name": "Albany House",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.4",
+    "review_count": "1,859 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322583044.webp?k=091cbcbf6ae82e7abf226b5107dd69e985d0a3f691376e684cb85145916cea5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/staycity-aparthotels-mark-street.html": {
+    "name": "Staycity Aparthotels Mark Street",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.9",
+    "review_count": "2,043 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331508423.webp?k=c1494e5855ad486874edc29e24589fb0e87f7e89d3796aafff556d247c9f949f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clayton-charlemont.html": {
+    "name": "Clayton Hotel Charlemont",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.8",
+    "review_count": "3,580 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287114174.webp?k=67ed286a34cff1b7ef290996f721bc5c7acc6cc4967f977bc4ba93a27cdf93e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-davenport.html": {
+    "name": "The Davenport",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "456 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355200588.webp?k=c740df95488165c52cd4e8dea72c32009fc33fb6dab214fc3b900b3052fe059d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/moxy-dublin-city.html": {
+    "name": "Moxy Dublin City",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.3",
+    "review_count": "2,146 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232107810.webp?k=998e9b8ffaf516afcb9f2a91455c5a3484227afc5c07176f7bf1625429228d0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/trinity.html": {
+    "name": "Trinity Townhouse Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "9.1",
+    "review_count": "974 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163270033.webp?k=43823a167b2a7b0fab8400ded333bbdbec7566319fc919fa8f09ad5b3b7d0779&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maldron-merrion-road-dublin-4.html": {
+    "name": "Maldron Hotel Merrion Road",
+    "location": "Dublin",
+    "score": "8.5",
+    "review_count": "1,266 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422808801.webp?k=9f1f2b3217ca6a95f5d91dd6caea505ca6d4ac14e11e818b58fa3e2817846b80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-merrion.html": {
+    "name": "The Merrion Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "9.4",
+    "review_count": "691 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263925417.webp?k=d7d0a4d1b134ea37b728201bed7b9d828661201f2addf89839df252b8b219c5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mceniffgrandcanalhotel.html": {
+    "name": "Grand Canal Hotel",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.6",
+    "review_count": "3,480 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112406369.webp?k=3e6f53970d2ee2ce2eb4caefff4b82982abfb3715b0ac96dcbf3db7435acd247&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-fitzwilliam.html": {
+    "name": "The Fitzwilliam Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.5",
+    "review_count": "1,308 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268794319.webp?k=f61cc6a968ed6b0fd9df4bd6dd6f8d809240996fde16ed63d995ee28b43ae1db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/callaghan-alexander.html": {
+    "name": "The Alex",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.8",
+    "review_count": "1,185 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120849918.webp?k=ab83fa130398bb7dcec5798727cc0b1f3ab1ae44069ac73b43db24573ce0b8b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/herbert-park.html": {
+    "name": "Herbert Park Hotel and Park Residence",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.6",
+    "review_count": "2,469 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271123005.webp?k=10c94a81be43cca3d3f19be9909f62ffd76b9e8bb2be27d32acd5b5d9539382c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/juryscrokeparkhotel.html": {
+    "name": "The Croke Park Hotel",
+    "location": "Drumcondra, Dublin",
+    "score": "8.6",
+    "review_count": "1,533 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/19032571.webp?k=b991e8982f9696ac87c668e7f3fdd16a067457388e1e6f1b7d85d40dec19fc8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/arlington.html": {
+    "name": "Arlington Hotel O'Connell Bridge",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.1",
+    "review_count": "3,844 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221869140.webp?k=cbc821305952717ccb1879d5b73142b38d1cb3fb7a0ac1f157995c0ea787145f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/house.html": {
+    "name": "House Bedrooms Dublin",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.2",
+    "review_count": "927 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401207006.webp?k=67f02640f0a4da2f341b619ec514b866189608e7f84f0d589c75c8962b07b87e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maldron-hotel-parnell-square.html": {
+    "name": "Maldron Hotel Parnell Square",
+    "location": "Parnell Square, Dublin",
+    "score": "8.4",
+    "review_count": "6,393 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296715138.webp?k=5915cb65907bcb94bf8144566894091facbaeaa3b42d5dd0e6dac13730d2225e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pembrokehousehotel.html": {
+    "name": "Pembroke Townhouse",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.6",
+    "review_count": "1,959 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320599163.webp?k=63d48e61077f7960d0336b92ca27775e7f2fccecbf71ad895afc3d1eb3025763&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cassidysdublin.html": {
+    "name": "Cassidys Hotel",
+    "location": "Parnell Square, Dublin",
+    "score": "8.2",
+    "review_count": "3,282 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329180680.webp?k=05579268caa9acf4b2655e936d8e8c91d557cfd11ab1e774993f95e574c2452a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-spencer.html": {
+    "name": "The Spencer Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.2",
+    "review_count": "2,225 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268106346.webp?k=4b8765b326b932666e9f044836903500ddda529c186e36c924894cd5b67bca16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-morgan.html": {
+    "name": "The Morgan Hotel",
+    "location": "Temple Bar, Dublin",
+    "score": "8.5",
+    "review_count": "1,326 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342690919.webp?k=4aad06db651ecec7e81496ce2f62ef2cb124422e2613329e03bb55e055acdd6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/radisson-sas-royal-dublin.html": {
+    "name": "Radisson Blu Royal Hotel Dublin",
+    "location": "Temple Bar, Dublin",
+    "score": "8.7",
+    "review_count": "1,791 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232803228.webp?k=e495e01a6ac0fdb7c6abd2a3c6d4567a5f433e3d037ffbd1d3c8e95b8ce69eef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mercerhotel.html": {
+    "name": "Arthaus Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.7",
+    "review_count": "1,489 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257634049.webp?k=d78724bf64dd9fa0e0c06bd0b94586ab4d527132e055aa3eb8d38aa0fa0a6a6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-wren-dublin.html": {
+    "name": "Wren Urban Nest",
+    "location": "Temple Bar, Dublin",
+    "score": "8.9",
+    "review_count": "4,288 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386092704.webp?k=4c826c6abecfc3bb721eb8e3c22edbb142f11d24c51ec05e2dd73cc785ead780&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-loom-dublin-apartments.html": {
+    "name": "Stylish & Modern 3 Bedroom Apartments and Private Ensuites with Shared Kitchen at The Loom in Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.5",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306992611.webp?k=de6be8d1186c6c9700deea56e83e01ee9aa8ee145cf52b78d4314b845fde2f89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/generator-hostel.html": {
+    "name": "Generator Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.3",
+    "review_count": "4,708 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349076009.webp?k=eabf305a9d5321068f9dba7a7db3cdd8bec856afbbf9dd564df685d38ed43a88&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/number-31.html": {
+    "name": "Number 31",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "9.1",
+    "review_count": "657 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253377510.webp?k=5855c2835239daf6cf88e3cac5dc426aa4a20a31f0e316ae96e805fb445df633&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spacious-2-bedroom-apartment-near-o-39-connell-st.html": {
+    "name": "Spacious 2-Bedroom Apartment near O'Connell St",
+    "location": "Parnell Square, Dublin",
+    "score": "8.6",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149043881.webp?k=50954f79fa1aaf3da90f25040295d59633ea58a466633f375c26a0a64712f28c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/farringtons-of-temple-bar.html": {
+    "name": "The Norseman Temple Bar",
+    "location": "Temple Bar, Dublin",
+    "score": "7.9",
+    "review_count": "440 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/254363618.webp?k=67236979dd7f2a3e0df74c1fc6b0fbd5dfd805d731ca53ae4be1039ddfaef12a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jurysinnchristchurch.html": {
+    "name": "Jurys Inn Dublin Christchurch",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.8",
+    "review_count": "4,107 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/73089505.webp?k=2c1e02a32cb892fdaa9c35c10ae4af9362c0460f52195b6756c81e857c9dc67a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brookshotel.html": {
+    "name": "Brooks Hotel",
+    "location": "Temple Bar, Dublin",
+    "score": "8.3",
+    "review_count": "698 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283992152.webp?k=deb343de0f67de8d5daf112e7cfeec0aad54b9b3c6eed533301701f84a8c119d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hilton-dublin-kilmainham.html": {
+    "name": "Hilton Dublin Kilmainham",
+    "location": "Dublin",
+    "score": "8.5",
+    "review_count": "1,648 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347087881.webp?k=bcec4fbd773e5e6b683b9dee05809c902e2a9bc84d6af1ec3300395b9b2d5a73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/donoghue-s.html": {
+    "name": "O'Donoghue's",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.6",
+    "review_count": "486 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/20550059.webp?k=95d4cde286cc06522ec58766a05e79bbb4f3dff0e83ea21861b42d97e39e7593&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/camdencourt.html": {
+    "name": "Camden Court Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "3,752 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159183405.webp?k=eacf54eddcfef48646dab96a3312d97d40bf763e1d698aadf833b2d28e1b31c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-citi.html": {
+    "name": "Dublin Citi Hotel of Temple Bar",
+    "location": "Temple Bar, Dublin",
+    "score": "7.1",
+    "review_count": "652 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270641666.webp?k=6ba6e12fefaf1c5e33d27fff79f0f4a5cb91a8212170bc8fd5bda36dbd50ee70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/aloft-dublin-city.html": {
+    "name": "Aloft Dublin City",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.6",
+    "review_count": "1,000 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348635523.webp?k=5bb8542105c4931e53e3fe33a17b271865a277ae3aecff48db0bfaec1d5cfa82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clayton-hotel-ballsbridge.html": {
+    "name": "Clayton Hotel Ballsbridge",
+    "location": "Ballsbridge, Dublin",
+    "score": "7.8",
+    "review_count": "3,858 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59076227.webp?k=09dd68cc88d202f01744d41318329142767e59af1228b9b46e602e7cec452be8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harveys-guest-house.html": {
+    "name": "Harveys Guest House",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.2",
+    "review_count": "744 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273564710.webp?k=7906b883d0c196fe8c65ce1d9794a2e465fb4f6570590848d5af526cc72c1f64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/parnell-apartments.html": {
+    "name": "Parnell Apartments",
+    "location": "Parnell Square, Dublin",
+    "score": "7.2",
+    "review_count": "579 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/40928091.webp?k=0b9cf24df8c465c67aeabd7f1d8dd8f8d7731489739cb981d230f9536fa2a69c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hilton-dublin.html": {
+    "name": "Hilton Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.0",
+    "review_count": "1,721 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287225742.webp?k=d3a3156287d67860875291e8e257679ffaf5d64161dab59d13b7ce8be0e9d5da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bonningtondublin.html": {
+    "name": "Bonnington Hotel & Leisure Centre",
+    "location": "Dublin",
+    "score": "7.4",
+    "review_count": "3,809 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231511385.webp?k=00f710c4f7ce8f1dc69d25d2a56b1f08ea1915470b32d8174743f7d016253842&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/leesonbridge.html": {
+    "name": "Leeson Bridge Guesthouse",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.6",
+    "review_count": "653 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281038723.webp?k=65e739070702e10cccde13521e783d9216eb31797e61c1143da431366049e814&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gardiner-house.html": {
+    "name": "Gardiner House",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.7",
+    "review_count": "2,175 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408007141.webp?k=9450858c5034071cdd32b50a269707be24c1bcf56de20fe847d6111bcb43abc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/westindublin.html": {
+    "name": "The Westin Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.8",
+    "review_count": "218 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327900242.webp?k=eeeab5954f06e0aa182ed4083dabb7ba93316403926aecef80af71b6837982e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gleesons-townhouse-booterstown.html": {
+    "name": "Gleesons Townhouse Booterstown",
+    "location": "Dublin",
+    "score": "9.1",
+    "review_count": "585 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156076557.webp?k=99bec1ecd6b37431d39d442f9942ebb53aa8eaf19d0a3b830f77000c46585995&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dcu-all-hallows.html": {
+    "name": "DCU Rooms All Hallows",
+    "location": "Drumcondra, Dublin",
+    "score": "7.6",
+    "review_count": "448 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87382284.webp?k=1b46c8769cf6052aca05a4f4efad1d8aa205702da3468ce8d54e6af3e66e3c73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dylan.html": {
+    "name": "Dylan",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.2",
+    "review_count": "347 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59102756.webp?k=1cedf1ab007e3447cb08a89d000b6221eef71404f39c2c4d5b4a4f0a0c12a720&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sonder-dublin-central-suites.html": {
+    "name": "Sonder Mountjoy Square",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.3",
+    "review_count": "826 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257106517.webp?k=d5be56a257f2aab6b1d7c98ad961cd87fd1a06876fb6db3f32ef519e786601cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/five-lamps-suites.html": {
+    "name": "Five Lamps Suites",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "483 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/174957178.webp?k=d0dd1d8980d1fbbc1386b52ace384c2bcd6f18f4361a929c60b25466ec2a4d14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-merchant-house.html": {
+    "name": "The Merchant House",
+    "location": "Temple Bar, Dublin",
+    "score": "8.5",
+    "review_count": "247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88710814.webp?k=3608c287ddfad0dfcebf4196ae27040f0ea71c1108052407f5818fafe157a3a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-mont.html": {
+    "name": "The Mont",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.8",
+    "review_count": "788 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/233035796.webp?k=5ba2b0511506c4296f8cd7731622b539453c20ef21c0c23796c81825fbc9a3cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gardiner-lodge.html": {
+    "name": "Gardiner Lodge",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "1,942 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230340802.webp?k=c59ae11fc099cbbd372595827fe8815815e1e54005a7f2a397e49b56c2229525&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lovely-studio-loft-in-dublin-city-centre.html": {
+    "name": "Lovely Studio in Dublin City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422213516.webp?k=9b1e848dc0bd355b64a874220b137e3261818b299e8b62682674132bf837c254&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jacobs-inn.html": {
+    "name": "Jacobs Inn Hostel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.3",
+    "review_count": "5,818 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221636495.webp?k=8bb8640065106b3d76234614a1f63b0b9698ba35c1556826156b848b1881a965&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-henrietta-residences.html": {
+    "name": "Henrietta Suites City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.4",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197848555.webp?k=ca0f9bb431e8b3390d9279e103c4a806ba8c6a162934e1f61da6fa2823a6671f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/exclusive-city-centre-apartment.html": {
+    "name": "Exclusive City Centre Apartment",
+    "location": "Dublin City Centre, Dublin",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115793663.webp?k=5dcabbdf706ac53a81a15690680b219fb73e982c4e0eeccd55af758f0f7cce9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-draper-rooms.html": {
+    "name": "The Draper Rooms",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "635 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144535436.webp?k=6b7c548c66deb1acea75febb2bc1a1fb0e1d89452ead8b07917615e5b346f5e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wynn-s.html": {
+    "name": "Wynn's Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.6",
+    "review_count": "2,651 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/2226079.webp?k=cb25d373ae434fbcaabd73cd53be877a6eb125080acaaf6d16f9b80757b14e41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/georgian-loft-apartment.html": {
+    "name": "Georgian Loft Apartment",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195686721.webp?k=067f7a9804c7891d75c28be3c5b1f52008da6ab452565ef977e03b732c940158&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-and-central-abbey-street-apt-dublin.html": {
+    "name": "Cosy and central Abbey Street Apt",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420771956.webp?k=01ef477f62be8000b708013df84c67701ed7dd62100e74dc84bba08151cdcf4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/irish-stay-liptons-court-dublin.html": {
+    "name": "Irish Stay - Liptons Court",
+    "location": "Temple Bar, Dublin",
+    "score": "8.8",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324206980.webp?k=d9d60da04a2cdc9fc921f985d7557996ab9993501e9d674e048209d8eaee5a27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/keavan-39-s-port-dublin.html": {
+    "name": "Keavan's Port Hotel , Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "4,661 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405110641.webp?k=974beeebb99e237bf47f27d6487516180155ba1ed3f5726a17a52bd9ff5dbeaa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-gasworks-2-bedroom-dublin1.html": {
+    "name": "Sweet Inn - Spacious Grand Canal",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.2",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170567070.webp?k=f8f3411d9babe444fa7db0c5b60eb9e6cde0dabc386bf0f666532d1dddda1ce4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/georgian-grand-apartment.html": {
+    "name": "Georgian Grand Apartment",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207387526.webp?k=55fb72fe9f5cb7065714e2e3f8355edb9b4007670682df84aba6fd773a6d8864&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/parnell-boulevard-apartments.html": {
+    "name": "Parnell Boulevard Apartments",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.8",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375298532.webp?k=a9fe84ea9df92ae85f79de8a52d1e1589fce56f303be47bc39b5d05bdfda6918&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilronan-house.html": {
+    "name": "Kilronan House",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.9",
+    "review_count": "1,562 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143919545.webp?k=78d9aadb8c595d69c2dbcdfc7e3044349710b287d46e830f5ea3ab570431b0b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/city-centre-2-bedroom-apartment.html": {
+    "name": "City Centre Georgian Apartment",
+    "location": "Parnell Square, Dublin",
+    "score": "7.5",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162719702.webp?k=8b978f37d4287f5851544ddd5df3081122680ab183b70093e892c323f6701c50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sea-view-d4.html": {
+    "name": "Sea View D4",
+    "location": "Ballsbridge, Dublin",
+    "score": "9.4",
+    "review_count": "136 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65559797.webp?k=5bdd73f586c094bad42fb6968fc8631b2b7bb63fce3511e8a9c8937fedbfe913&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clarendon-suites.html": {
+    "name": "Clarendon Suites",
+    "location": "Temple Bar, Dublin",
+    "score": "8.2",
+    "review_count": "168 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/126202020.webp?k=823eb5f0e1f55029eca45a2fbaf311c3503de84d3c02feffb4ffb12b5fbfdbcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/arran-quay-ardcairn-house.html": {
+    "name": "Yugo Ardcairn House",
+    "location": "Dublin",
+    "score": "7.0",
+    "review_count": "589 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364047260.webp?k=00dfaca1670f27f44c25dd71083a0fe05d605f42c62e9c9ad4b673e8e2945df7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/easyhotel-dublin.html": {
+    "name": "easyHotel Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.1",
+    "review_count": "256 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423640823.webp?k=23a83a33ce331878754fe084fd5e04bed973f78ccbf1627f4982765bf2f5cf6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pembroke-hall.html": {
+    "name": "Pembroke Hall",
+    "location": "Ballsbridge, Dublin",
+    "score": "9.0",
+    "review_count": "409 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/133265986.webp?k=7ec91ab9cfbc0acd982f12235f19cb4c72c6cff9ea66b1135c725cd784fc74b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/point-a-dublin.html": {
+    "name": "Point A Hotel Dublin Parnell Street",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "3,512 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333641921.webp?k=3c562db59f9a4ee970025b792d28d2109d4add3703339bef33b2ad3262464983&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/buswells.html": {
+    "name": "Buswells Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.9",
+    "review_count": "338 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5757788.webp?k=403663fae2cf30e3a668ae6aa8d8b9ac5d8bea2c12647623c3d216ae2e32bcf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/egan-s-guesthouse.html": {
+    "name": "Egans House",
+    "location": "Dublin",
+    "score": "8.5",
+    "review_count": "2,581 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316502595.webp?k=a0be8274c716bcb3129285bde3d1a670351187cd8e8d7a7b24192dd12acf001f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beckett-locke.html": {
+    "name": "Beckett Locke",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "3,257 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301238774.webp?k=8521e5768610ff6e1eb1adc1ea1851bcaa5b876ea478706909f54105aa437233&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harbour-square-house.html": {
+    "name": "Harbour Square House",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.2",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335089316.webp?k=4ab57c0bf20b0ad3d3bfc95b5196f20da4d83336ec73b93f8e8ad5fb41ef198d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/roxford-lodge.html": {
+    "name": "Roxford Lodge Hotel",
+    "location": "Ballsbridge, Dublin",
+    "score": "9.0",
+    "review_count": "1,426 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302721220.webp?k=0a94f97294f3790ed40b3d2371584df57951c4273d2749005c5cbfb9ff875aac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beach-house-b-amp-b.html": {
+    "name": "Beach House B&B",
+    "location": "Ballsbridge, Dublin",
+    "score": "9.3",
+    "review_count": "145 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/50949614.webp?k=480df8d5ea6de281b84b2c01602abe9271cefbd00edc9262ed1f4982c176bf51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dergvalehoteldub.html": {
+    "name": "Dergvale Hotel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.6",
+    "review_count": "434 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255609648.webp?k=80eb4752c2dfb238eabd344b7fa3842b8283b0284339c6b686d3282a7bb39459&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/barry-s.html": {
+    "name": "Barry's Hotel",
+    "location": "Parnell Square, Dublin",
+    "score": "7.9",
+    "review_count": "163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337087868.webp?k=5b946aca358c35e28e7d4f66b03ccbc266c94d6525576fdbbd6d1f73ceda2e27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/modern-city-centre-rooms.html": {
+    "name": "Modern City Centre Rooms",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423378340.webp?k=a85d266f7f71f92de02263b8504b00315160a8b19e5f58f78ce008d62c618f1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/merrion-mews.html": {
+    "name": "Merrion Mews",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "9.2",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120097486.webp?k=6e6c99f6ed99c53c5a9829d690f4176529f2396628aedcfa8fcfb86572e105e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/donnybrook-townhouse-apartments.html": {
+    "name": "Donnybrook Townhouse",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.2",
+    "review_count": "226 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193455930.webp?k=c6d52ac7943ab47c7203caceda73b57edb5b82827b467ca487096036396749ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/christchurch-hall-apartments.html": {
+    "name": "Staycity Aparthotels, Dublin, Christchurch",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.4",
+    "review_count": "855 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421112454.webp?k=3357326269881042a0fb00285636847c68c303428ff83018271652db44313ce8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/city-centre-studio-apartment.html": {
+    "name": "City Centre Studio Apartment",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423701846.webp?k=73429cd73edb0abd28668b914f64b49f289af3faa143054998417637e9932618&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harry-clarke-mews-dublin.html": {
+    "name": "Harry Clarke Mews at the Castle Hotel",
+    "location": "Parnell Square, Dublin",
+    "score": "8.0",
+    "review_count": "277 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293392026.webp?k=3ac071dc84c1e6d28f3c5f935d462ae4690f988508b5d0c7a335289a3b0815a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/1-bed-apt-in-dublin-city-centre.html": {
+    "name": "1-Bed apt in Dublin City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422252376.webp?k=c402e91c101a381d5580b528ccd9fad109d38c2e4276106919ff92aa5eb9fc2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/temple-bar-lane-by-the-keycollections.html": {
+    "name": "Temple Bar Lane",
+    "location": "Temple Bar, Dublin",
+    "score": "6.7",
+    "review_count": "1,760 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263432378.webp?k=a2992b05acadc984d69c6822e3df80477315a4ca5f0ca166e6689e5f347c05a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/old-dublin-four-sisters.html": {
+    "name": "Old Dublin ‘Four sisters’",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.3",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389651906.webp?k=1b19fdd66f6497793aafa883b24b5b7daf1cbba4b024d9504e55e28f5f53cdb4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stauntons.html": {
+    "name": "Stauntons on the Green Hotel",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "9.1",
+    "review_count": "1,506 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206659887.webp?k=5b9e1472046784b32a9c35250563944e6b44a1ed0404e9377a668e727f94dc78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/irish-stay-dame-street.html": {
+    "name": "Irish Stay - Dame Street",
+    "location": "Temple Bar, Dublin",
+    "score": "8.8",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316153112.webp?k=28e79e2c72e7a0fae555ff41b886b6d03062c5b2d94629c98d5aff3e94c19afb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ariel-house.html": {
+    "name": "Ariel House",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.8",
+    "review_count": "1,631 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349126595.webp?k=6600ffe29dcb0614c811ad6f789cf2ccad7ab2c21ae4eedad78b8893963b8309&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/travelodge-dublin-city-centre.html": {
+    "name": "Travelodge PLUS Dublin City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346726166.webp?k=5985c2469dbfee941c251ee634d62b4a7ee280f0615ce84e1550b6d7da342133&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/modern-and-cosy-1-bed-apt-in-the-heart-of-dublin.html": {
+    "name": "Modern and Cosy 1-Bed Apt in the Heart of Dublin",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436441513.webp?k=ed3d607013aaf7d38a91b5d63b081a968a2a34347dc047dea2e581d0c01a4628&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tipperary-house-dublin.html": {
+    "name": "Tipperary House Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.0",
+    "review_count": "439 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296893235.webp?k=0c02674869af1d81a2808d512eabab453acc2d482edfb8339496720846960c7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-one.html": {
+    "name": "Dublin One",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.4",
+    "review_count": "3,825 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345952724.webp?k=a1cd3b15f384c498d5a6bb551ed3d4f0c550a88d8028972f6071655d5b861bcc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/connell-place.html": {
+    "name": "O'Connell Place",
+    "location": "Parnell Square, Dublin",
+    "score": "8.2",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342978206.webp?k=8c100bbedce6fce291a8249d2960a8a29b95e3e80e0d9f166ce9c12907c91715&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pia-house.html": {
+    "name": "Pia House",
+    "location": "Dublin",
+    "score": "7.6",
+    "review_count": "262 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92320158.webp?k=ed59ae9a6cde3dff4ca7046ff0763cad9b5631b029b2beeab6f519cabc5f4b67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-harcourt-suites.html": {
+    "name": "The Historical Harcourt Suites",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.8",
+    "review_count": "207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167775282.webp?k=1cdfd1b406f402b4eef2c7dd90491f1dba14b6b1507ea3bc0797a79da0cc0cba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-airport-room-with-airport-shuttle.html": {
+    "name": "Dublin Airport Room",
+    "location": "Dublin",
+    "score": "7.6",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144424828.webp?k=9f6a557b793d0d9c04849e45e30aa53dfbf6ee6327a710459d444e5a8fa5debd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beautiful-apartment-central-location.html": {
+    "name": "Beautiful apartment central location",
+    "location": "Dublin",
+    "score": "8.2",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384137313.webp?k=b84355ab0c045be0f31a0091eccaae1792e44373344115bfb36014f7dfcd4c89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/entire-house-in-popular-area.html": {
+    "name": "Townhouse near Dublin Beach",
+    "location": "Ballsbridge, Dublin",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417098219.webp?k=e3b56f5d21b512fb0daaf65d67af6846f3ffb7ebdb330ec547676aad11524b14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lovely-2bed-home-with-patio-fast-reliable-wifi.html": {
+    "name": "LOVELY 2bed HOME with patio & fast reliable WIFI",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407605585.webp?k=c96e7d58ecb138751939e2d42d796a67ba0aa70731b79a2b3bdb2eb7377059a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glencourt-apartments.html": {
+    "name": "Glencourt Apartments",
+    "location": "Dublin",
+    "score": "8.5",
+    "review_count": "288 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/39881018.webp?k=ccb51a6dced99d8dea01ea50ed53d2638a19d0206e844410e7ec4511ade9ea92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brampton-b-amp-b.html": {
+    "name": "Blackrock B&B",
+    "location": "Dublin",
+    "score": "9.6",
+    "review_count": "244 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199432503.webp?k=8cc88d2a20e0a438abfb84c1edbf9387686947bfd56dc776f7eaa4d4fc798ac0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/home-from-home-luxury-private-secure-house.html": {
+    "name": "Dublin 'Home from Home', Luxury, Private Secure House",
+    "location": "Clontarf, Dublin",
+    "score": "9.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330444952.webp?k=ac2626f735da85f9cba3532b9850bf5e8d82c07257324e13cdb949a535cebd18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/boden-heath.html": {
+    "name": "Boden Heath",
+    "location": "Dublin",
+    "score": "9.1",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287231382.webp?k=a6a64898a2f4001ec65317414c5ab6040e29faf32982f91253f007a78de18006&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sonder-the-earl.html": {
+    "name": "Sonder The Earl",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "8.0",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405565404.webp?k=8c711d37ab0eede899466908b7d7b038f16e03456b167479a9437c3d76678819&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashling-house-b-b.html": {
+    "name": "Ashling House Serviced Accommodation",
+    "location": "Drumcondra, Dublin",
+    "score": "7.4",
+    "review_count": "467 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/32649456.webp?k=b95c967719db64fb15550664c1ab8c8b7df7ae305ae7a6c37fe79b39aad2dfe2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/silver-eagle.html": {
+    "name": "Silver Eagle",
+    "location": "Dublin",
+    "score": "6.0",
+    "review_count": "533 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/85196201.webp?k=f044b363f9758748653545b81cc8ed0d9662adf244df870b21f91f69787392b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/albert-place-rooms-dublin.html": {
+    "name": "Albert Place Rooms",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430780028.webp?k=7902b38e1489c5c0d572c71bb746a2ec570070aa4d05ed8df917aea8c250e09c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-city-north-townhouse.html": {
+    "name": "Dublin City North Townhouse",
+    "location": "Dublin City Centre, Dublin",
+    "score": "4.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356163919.webp?k=dee4530843462e8188f956b7e52c00fa80b3a169d16450863b91945602df4a24&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/garden-lane-backpackers.html": {
+    "name": "Garden Lane Backpackers",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.1",
+    "review_count": "763 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81200801.webp?k=7a67cd7f9a0c8471b9b694991e566786d9d1d8870076892a2ec0b2c8f08a0859&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/d13-self-catering-townhouse.html": {
+    "name": "D13 Self Catering TownHouse",
+    "location": "Dublin",
+    "score": "4.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177567312.webp?k=8e92c2d35bab065c8a7dc59911bdda31533a62cbdb2f02e9ed5e423171232f88&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-artane-self-catering.html": {
+    "name": "The Artane Self Catering",
+    "location": "Dublin",
+    "score": "8.0",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125222663.webp?k=07b2876ee5c909191d2de68c90de5fd5b4587c3453a24da88e35e74860a0061a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/orchard-way.html": {
+    "name": "Orchard Way, Shared Apartment with an Amazing Double Bedroom with Ensuite",
+    "location": "Dublin",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422806835.webp?k=31ad981086639ba6434ed98dc91fad6285177571b34e18958f5eae8690a208ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/donnybrook-hall.html": {
+    "name": "Donnybrook Hall",
+    "location": "Ballsbridge, Dublin",
+    "score": "9.2",
+    "review_count": "502 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/254713808.webp?k=f68038c664f5b6efa687dfa25a8033b79132d19281722d0683e5ccc38bbca59a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/super-central-dublin-apartments.html": {
+    "name": "Super Central Dublin Apartments",
+    "location": "Drumcondra, Dublin",
+    "score": "4.3",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81323078.webp?k=5fe44f76a8ebab32b9eff4593239f5fc8e9513d07ddfa89ee05ae17c210ecba3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sutcliffe-house.html": {
+    "name": "Sutcliffe House",
+    "location": "Temple Bar, Dublin",
+    "score": "8.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389440383.webp?k=940b3511f7fb003ac1479240b2773ed40d0bc4b4e7cf8d0d9ca2a2ad233d4c3d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/new-room-private-bathroom-private-kitchynete.html": {
+    "name": "Cozy Room,Private Bathroom,Private Kitchynete",
+    "location": "Dublin",
+    "score": "9.5",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221730902.webp?k=7952d40a64fcfa378de0d14c222d9488c4e057f7d3cb048e5ece1b396e572313&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/family-friend-amp-smart-apartment.html": {
+    "name": "Family friend & Smart Apartment",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434199810.webp?k=95effbe0f25b36ec96234a8fa58e158b7c33abd0bc8ce35e68ec98bceaae9c04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-city-apt-guinness-museum-amp-temple-bar.html": {
+    "name": "Dublin City Apt - Guinness museum & Temple Bar",
+    "location": "Dublin City Centre, Dublin",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423219732.webp?k=5dd9f2d88b9668914a360eb24aba80e46f3e7e5ab68595f0519e190d4469696d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/windmill-lane.html": {
+    "name": "Windmill Lane",
+    "location": "Dublin City Centre, Dublin",
+    "score": "5.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227398280.webp?k=e7c1c4709955a775745d4f5f130374db0bb27c8bb5354d0e5773be3562952a63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sweet-inn-adelaide-square-dublin.html": {
+    "name": "Sweet Inn - Adelaide Square",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266944059.webp?k=dc6f684045b5152287fc806a05d9c8db40524c740cffa09e1b85853e8e95ecfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sandymount-studios.html": {
+    "name": "Sandymount Studios",
+    "location": "Ballsbridge, Dublin",
+    "score": "6.1",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355014730.webp?k=7ae2d5314a214a3aa5297d299d5724ddbf610c9779fda29f634e60c1029a6138&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spacious-2bed-apartment-city-centre.html": {
+    "name": "Spacious 2bed apartment city centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406368822.webp?k=0142d82dc50d95876f966fdd3680133c245cfdc76a1ac71b3c965955a8231013&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-allen-terrace-phibsborough-dublin-7.html": {
+    "name": "DUBLIN CITY CENTRE 2 Allen Terrace PHIBSBOROUGH Dublin 7",
+    "location": "Dublin",
+    "score": "7.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356050323.webp?k=c48b97aede64dfdabfdc6bbaf6ac63c304d1554877d2dc5b87c9f0ffba4a768e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/temple-bar-apart.html": {
+    "name": "Temple Bar Apart",
+    "location": "Temple Bar, Dublin",
+    "score": "6.8",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343442782.webp?k=0bfa287d7c6bb74eaa392b1919b80724e1f5904568dc94e990c516a39a5adffb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/st-patricks-cathedral-self-catering.html": {
+    "name": "St Patricks Cathedral Self Catering",
+    "location": "Dublin City Centre, Dublin",
+    "score": "5.7",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154212525.webp?k=90cb386199f2ffa5b12e605484a0690f230453b87c8258139a749a0b8838c035&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/library-view-villa-holiday-home.html": {
+    "name": "Library View Villa Holiday Home",
+    "location": "Dublin",
+    "score": "5.7",
+    "review_count": "146 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143789814.webp?k=4f0c535988c21bfa0753a6040d70829f79041bfb6e196378340e52d20ac51082&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/acara-house-b-amp-b.html": {
+    "name": "Acara House B&B",
+    "location": "Drumcondra, Dublin",
+    "score": "8.7",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195434669.webp?k=4ef4fdaf708fb21c7853bb1617c668aa79d197bb59217a096fd83648c06995fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-waterside-dublin.html": {
+    "name": "The Waterside",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.9",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215788691.webp?k=8270ef94e337e1fe0b07fdfb0a1e0c602ec9e48bd5f4e3a8e4e97d57f5845bb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hatch-street-st-stephen-39-s-green-apartments.html": {
+    "name": "Hatch Street St Stephen's Green Apartments",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "7.4",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104190767.webp?k=d94b0c158fc1e90cc797d4afb21b3aee425d179801c946af18bad1d83bb0b16e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lucan-lodge.html": {
+    "name": "Beechtree House",
+    "location": "Dublin",
+    "score": "9.3",
+    "review_count": "276 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227975407.webp?k=5b5cf48fa65fc6a535bd704e3826cc06d25dac53a85f05f437034980ca0b055b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/windmill-lane-002.html": {
+    "name": "Windmill Lane 002",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328693294.webp?k=c67ba78d99aacf850ed23219d45711ca0ff8d276a17675afaf16d5e9bf47400d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/seaside-apartment-with-sea-views.html": {
+    "name": "Seaside Apartment with Sea Views",
+    "location": "Clontarf, Dublin",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402141780.webp?k=0495ca58d4762b7f7bf6c4075c75fd3ef602bb29909a215bae413b323185dd4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-2-bedroom-flat-in-dublin.html": {
+    "name": "Stylish 2 Bedroom Flat in Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438157048.webp?k=a0753cc77f476865df55f7c6d56574d1792416c7632a96a43752a59039e26616&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-d3-self-catering.html": {
+    "name": "The D3 Self Catering",
+    "location": "Clontarf, Dublin",
+    "score": "7.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410906722.webp?k=f12b1ce1f30674f5353ca28d57bf10265915712b4f4f365ead73663a860b4e40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spacious-modern-apartment-in-the-heart-of-dublin.html": {
+    "name": "Spacious, modern apartment in the heart of Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397822114.webp?k=730b8dbb69d155ccd3a407abb544bddf21c6bd71607acc0c02d5f86985258e2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rugby-lodge.html": {
+    "name": "Rugby Lodge",
+    "location": "Rathmines, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215788913.webp?k=5743d52fe0a78bc3b69aff47dde682e6a0a49d2dc8a597679d5d871f4a0cdc0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/city-centre-georgian-style-2-bedroom-apartment.html": {
+    "name": "City Centre Georgian Style Apartment",
+    "location": "Parnell Square, Dublin",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162879587.webp?k=d21bbefdbc606a3820595f9661f2c476a31e18524dcc4a1acf4fc1faa54a30d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guestready-extraordinary-2-br-apartment-in-dublin.html": {
+    "name": "GuestReady - Vibrant Apartment in Dolphins Barn",
+    "location": "Dublin",
+    "score": "8.5",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420554332.webp?k=11126f13f245930d6c23d59631d7f43b4b12e8df4a87133641c6657aa6981e30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/29-gateway-view.html": {
+    "name": "The shamrock",
+    "location": "Dublin",
+    "score": "5.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414277804.webp?k=d61a71602106cbbdcec9fead6ac9f198f157556ba6ce423a25a8168586482850&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stay-wise.html": {
+    "name": "Stay Wise",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434892455.webp?k=f3c67d308fcd6b3620ba7a843e879c7b9b680074d2b172d5c601368d36197b45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guestready-lovely-2-bedroom-apartment-with-balcony.html": {
+    "name": "GuestReady - Lovely 2 Bedroom Apartment with Balcony",
+    "location": "Dublin",
+    "score": "8.7",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351992093.webp?k=6effbff2082bbebc07d45cdf68c3847b0eca9be2c72250e55aa4ad2da6912d18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/one-double-bedroom-flat-dublin.html": {
+    "name": "One double bedroom flat",
+    "location": "Dublin",
+    "score": "9.1",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348982169.webp?k=6b1ffd97a813cf9df3f9b82174abf6c6832484e265bfee7d96384a988b260570&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guestready-glamorous-flat-in-east-wall.html": {
+    "name": "GuestReady - Glamorous Flat in East Wall",
+    "location": "Dublin",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417522804.webp?k=c7d73e0c20ef5d295005bb93d49df9b6a53ae6064f01c7a310aa42e813ab3e17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/highfield-house-apartments.html": {
+    "name": "Highfield House Apartments",
+    "location": "Dublin",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249934386.webp?k=65a69df50db3bbf1e27df3e54ec0d46a32bd6ccbdffcc8ae10a667e8dc266729&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/terraced-two-story-redbrick-with-parking-in-secluded-cul-de-sac.html": {
+    "name": "Entire Terraced two story redbrick house with parking in secluded cul de sac",
+    "location": "Dublin",
+    "score": "7.5",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333060478.webp?k=a3082d5f51762bad9656f4076345c59ac6295bdfb4d8d7ea48b2efec6816973f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ayos.html": {
+    "name": "AYOS",
+    "location": "Dublin",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422872490.webp?k=895618f6dfef4bb255e07633d4aefd37ec70ba133b2539ae9caf4fd4a7e2a574&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/18-watkins-buildings.html": {
+    "name": "18 Watkins Buildings",
+    "location": "Dublin City Centre, Dublin",
+    "score": "8.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391337179.webp?k=86d244d66279c33468c19e2a84143dd3d498891d1995c36782b79e2ce133c00d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashfield-house-2.html": {
+    "name": "Ashfield Hostel",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.5",
+    "review_count": "1,487 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158643789.webp?k=4e7e304295cf3bd2cef3caff53aea013c3cfeff580e361eb8122df7fa6cd1ace&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/blima-ensuite-room.html": {
+    "name": "BLIMA ENSUITE ROOM",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435515423.webp?k=5f899a71f4ce4f96a9bfe065999e6d2cdd7547f00753b3da1bc4d66b36378a01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/charming-hideaway-in-vibrant-village.html": {
+    "name": "Charming hideaway in vibrant village",
+    "location": "Rathmines, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402088441.webp?k=1439f6ae08532c8336d783ecdc5e5be233d3e6f72d0b984c8d058fe4fcedfd8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/airbnb-apartment-dublin.html": {
+    "name": "Lodge Apartment",
+    "location": "Dublin",
+    "score": "8.8",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361352516.webp?k=70066b47b7ee6f505836d916c718d98eaedf8687087ef57e3cdf352b0ced98fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-fully-renovated-apartment-dublin-city-centre.html": {
+    "name": "Designer 1 Bedroom Flat with Terrace Dublin 1",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385561701.webp?k=a0437caf94d4b075e546ce8447a9348ef45256f3994339e52c2363577f80f2ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterfront-luxury-dublin.html": {
+    "name": "Waterfront Luxury",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424753810.webp?k=f43a84d448a26b76ff3826afe5874fc97b37853a464f43fea9558b1a60ec5a26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guestready-nice-1bdr-app-at-smithfield-mkt.html": {
+    "name": "GuestReady - Nice 1BDR apt at Smithfield Mkt",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339778826.webp?k=7f4d6e60385878aeea804e90cc5b22380282c4313a7d90ec4370a6c189a63d16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kelston-south-dublin.html": {
+    "name": "Kelston South Dublin",
+    "location": "Dublin",
+    "score": "8.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215788210.webp?k=65f8498bbfce4c2d37c3b2b2a7dc45e3263cb236c7274d5c22fa478e343922c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/city-centre-snug.html": {
+    "name": "City Centre Snug",
+    "location": "Dublin City Centre, Dublin",
+    "score": "6.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388574427.webp?k=917d5aea5b93daa00462b12d506d59c4d7d4861b81edfb36384679298e0c7421&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/elegant-1-bedroom-dublin-apartment.html": {
+    "name": "Modern 1 bedroom Apartment Close to the Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324422225.webp?k=7d12d57c9a96a8a64ecd2c51d2dfb3748fb1603f9fa7ee31452d3760e852416c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/charlotte-quay-dublin-2.html": {
+    "name": "Sweet Inn - Contemporary Charlotte Quay",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/160497279.webp?k=05b70bfc403dd9b3e720e44d72ba6cd259f7cc4c819619a2950e57dc44c3e40e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/downtown-luxury-apartment-beside-trinity-college.html": {
+    "name": "DOWNTOWN Apartment beside Trinity College",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365950341.webp?k=6b8ea4f1f048e5d99224852c4791710c034111cc91f75ce3a267f809a6db3323&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/killowen-dublin1.html": {
+    "name": "killowen",
+    "location": "Dublin",
+    "score": "8.2",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/233262514.webp?k=1f20eda45cc4f07801eab859a61df478c49d1903262b3709f6ed3000b6607a95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guestready-spacious-3br-house-with-patio-15-min-from-dublin-airport.html": {
+    "name": "GuestReady - Spacious 3BR House with Patio",
+    "location": "Dublin",
+    "score": "8.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375414181.webp?k=5b1ce812bbb7368a414747365a9831485f652874e927ab60e2f788bf5006d333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-poster-luxury-georgian-apartment.html": {
+    "name": "4 Poster Luxury Georgian Apartment",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416584965.webp?k=9cda6169e8907265dc2e428b507b402b165f0901310e8eafc5935099bee6126f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-3bd-flat-in-heart-of-dublin.html": {
+    "name": "Central 3BD Flat in Heart of Dublin",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435835384.webp?k=9ec6504f5496a3f71f440507dbfb391e84157c4fc08996cc73fb13bfe658ec85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/private-room-in-dublin-1.html": {
+    "name": "PRIVATE ROOM IN DUBLIN 1",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437218108.webp?k=6c47f1cd2cba4361c6839b62352109e2e9bb4cd4b67d8faa46085ce2e5b318c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/leeson-lane-boutique-townhouse.html": {
+    "name": "Leeson Lane Boutique Townhouse",
+    "location": "Saint Stephen's Green, Dublin",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207396176.webp?k=ae0af1d57a68cd65b6c5f20c6add60d1af8ad66682652249afec5a2400cacea4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/osullivans-ave-dublin.html": {
+    "name": "osullivans ave",
+    "location": "Drumcondra, Dublin",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388788453.webp?k=f7a1fa7e67ffc774ec689a64b27c65e705c8066252bf0601e8a064ffb013a2b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-beach-city-gem-5-bed-spaces-sofa.html": {
+    "name": "Central Beach/City Gem, 5 bed spaces + sofa",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436164261.webp?k=ec5bba31c6bdf90e27841625234c52e6c46973623d25fa1aed28ef997144de87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-bedroom-apartment-near-the-aviva.html": {
+    "name": "Beautiful 2 Bedroom Ballsbridge Apartment near the Aviva",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296096206.webp?k=d42936b2466aee2c07cf48830e3d1c390fce39076e57d6a9dc7336bffe2b4641&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/upstairs-studio-private-kitchenette-and-en-suite.html": {
+    "name": "Upstairs Studio - Private kitchenette and Small en-suite",
+    "location": "Drumcondra, Dublin",
+    "score": "8.8",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293942685.webp?k=b6a53cef988c606b52779750d7d6c9353c756a5fc2268bf070940ae80cf69e5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/eclectic-1-bedroom-cottage-in-dublin.html": {
+    "name": "Eclectic 1 Bedroom Cottage in Dublin",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352034304.webp?k=eaf53d92140958be31f2f23a6c7c6e70514f452d6176a6a8b3f50b28e11294d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/new-room-with-free-minibar-amp-tea-amp-coffee.html": {
+    "name": "New room with free minibar&tea&coffee",
+    "location": "Dublin",
+    "score": "9.3",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215935804.webp?k=50687f30022536dd8ced5a5cc93a0fc009c60ba56a543731e75d73020094ff85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/new-self-catering-room-dublin.html": {
+    "name": "Lovely Private Room",
+    "location": "Dublin",
+    "score": "9.2",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215478832.webp?k=5e3648ef4cc1daa8edde99f7efabf625b8e7dd36365fda8de3cffe5bd96b89d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fernbank.html": {
+    "name": "Fernbank",
+    "location": "Dublin",
+    "score": "9.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420437580.webp?k=2d158d6f42ea2e364ac991de6b4407549d5c74976198f9b0f12ae8bde23e1ad2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-walkinstown-property.html": {
+    "name": "The Walkinstown Property",
+    "location": "Dublin",
+    "score": "8.3",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380106793.webp?k=3ab1432a419b9dc5eb0d91fd0e008a4d69b6f0f908c7d7889c1dc28a93b08f6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/leeson-st-apartments.html": {
+    "name": "Leeson St Apartments",
+    "location": "Ballsbridge, Dublin",
+    "score": "3.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414344551.webp?k=4fee66f173f2db8f502d7b767ef33b21d4be18605922310a77b1f148ec35e523&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/city-centre-skyline.html": {
+    "name": "Top Floor suite",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378161918.webp?k=6b503742c5566a82f5b0d8c793912270cf8f1390f800e1b707f723b8e82a134c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/double-bedroom-in-santry-near-airport.html": {
+    "name": "Double bedroom in Santry near Airport",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415637509.webp?k=60b86719117b6117c2d85196f6a507c0d6afbb12b93f23b9c04198a9ddd6e39d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tritonville-avenue-dublin-4.html": {
+    "name": "Tritonville Avenue Dublin 4",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385557183.webp?k=56625d4f8c245517b8fdfb9ec78dead4fe2e94747111068c1f412c6d9384c816&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ha-39-penny-bridge.html": {
+    "name": "Ha'Penny Bridge",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.6",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303044456.webp?k=f6dc9146732d280097e16bb51d5bfba9890c7986d932b28d0fad0d1a9965ed1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/almanii-b-amp-b.html": {
+    "name": "Almanii",
+    "location": "Dublin",
+    "score": "9.4",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/28119012.webp?k=8952b0dce36827ac00ff23a5302230ac06d83c10c0eaee09002b8242d44a80a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-location-with-magnificent-views.html": {
+    "name": "Central Location with Magnificent views!",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/169265795.webp?k=5b65ac7312fe08077041f87bd43105f6c5179c1c552ea601a6be97ee49c87af4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/raaidas-home.html": {
+    "name": "Raaida's Home",
+    "location": "Dublin",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411478485.webp?k=02dda12569615292e65fbdffd4b8f705a67e2030235d41b78e432f64fbf72d60&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/private-room-in-dublin.html": {
+    "name": "Private room in Dublin",
+    "location": "Dublin",
+    "score": "9.0",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386637684.webp?k=f9e6b8146fb2285b4d99e49ae75b4e308ef617444155ff02c0b5ad59eed9b1f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/happy-guest.html": {
+    "name": "Happy guest",
+    "location": "Dublin",
+    "score": "6.6",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321967514.webp?k=27e71f361c01feb5a28507c53b374db00ea42f2f3ed34aae71a38bfed5d8cb80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-jacuzzi-escape.html": {
+    "name": "Dublin jacuzzi escape",
+    "location": "Dublin",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400252780.webp?k=7754b8134b8814a9ca3c0b049f55fe3546901aff6e7f63bf03b25de6848ac358&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/comfort-room-with-free-minibar-tea-amp-coffee.html": {
+    "name": "Comfort room with free minibar tea&coffee",
+    "location": "Dublin",
+    "score": "9.0",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219596630.webp?k=d49e1fa3792dce580e93eff3c3fa1bd604bd6d8395cd023ce036ef4d90cad068&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterloo-house.html": {
+    "name": "Waterloo House",
+    "location": "Ballsbridge, Dublin",
+    "score": "8.0",
+    "review_count": "540 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304244070.webp?k=2c3da326740b8100b3ad6b9741df8569268bf213b670657819212d4eb56fb45f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/charming-2-bedroom-home-in-rathmines-dublin.html": {
+    "name": "Charming 2 Bedroom Home in Rathmines Dublin",
+    "location": "Rathmines, Dublin",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419940186.webp?k=b77988f744f2288a9c63d6d8aeb9deac8c606a5f8243a2f3f51d8612b5a8303e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-designer-apartment-with-river-views.html": {
+    "name": "Central Designer Apartment with river views",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/168601917.webp?k=49f0e50c19b72015ded1505016f2ba0bc6dbb674e0ead568e237d16631565ce0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sweet-inn-trinity-gate.html": {
+    "name": "Sweet Inn - Trinity Gate",
+    "location": "Dublin City Centre, Dublin",
+    "score": "6.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/196037718.webp?k=6cd623c26c3adce973624e577bbf5ecffafd0a497120136aff13f3edbf6895ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-bedroom-family-home-in-residential-dublin-suburb.html": {
+    "name": "3 Bedroom Family Home in Residential Area Near Centre",
+    "location": "Dublin",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295365077.webp?k=e360555c3f95abdbfc46e51080bbf15874708c28763851e652260ab7928c6adb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ensuite-at-the-foot-of-dublin-mountains.html": {
+    "name": "Ensuite at the foot of Dublin Mountains",
+    "location": "Dublin",
+    "score": "9.2",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375758281.webp?k=0fad9f49b3a1ca7ba529792a3b66de61ef30f8e6a5be6dc16751fd078ef501ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-architect-designed-house.html": {
+    "name": "Luxury Architect Designed House",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/72975200.webp?k=e2dca3ec29fcdf214399192dd0e779a5d4ff3b3c7daddf355b27e83a5c57acd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-bedroom-house-in-peaceful-courtlands-area.html": {
+    "name": "House in an Award-Winning Estate",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295611387.webp?k=d976986fe7595882f3afbc7af9db7ba0acc9b2a13c29648366f562103eb4067c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-temple-bar-square-w-47-terrace-amp-views.html": {
+    "name": "Stylish Soundproof Temple Bar Square",
+    "location": "Temple Bar, Dublin",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320929260.webp?k=dcd8800bfa4d220b34a696923c5261bc0631ae61449c6dcc3093f3c35bf05bd5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/3-bedroom-cottage-near-botanical-gardens.html": {
+    "name": "Stylish 2 Bedroom Cottage Near Botanical Gardens",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295360795.webp?k=279f3679b7b6ff095ca5e2f14e4a7838cec995b95bde4574b5acda7cd1f7b016&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/renovated-2-bedroom-dublin-flat-by-city-centre.html": {
+    "name": "Renovated 2 Bedroom Dublin Flat By City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299617461.webp?k=4e5dccb50c3f479f86d585d244d74564b308f90c1d4cb7546403337fbddfdcf6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/very-central-1bed-new-refurbish.html": {
+    "name": "Very Central 1bed new refurbish",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410236714.webp?k=4dae8f8e3b0dd4a2be9fa17f3afa4e432be4d5142f9fc6be9ca04ce92c0a7bac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-1-bedroom-apartment-by-grand-canal.html": {
+    "name": "Modern and stylish apartment by Grand Canal",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324409460.webp?k=b15f8c1663e6624e050a99f611e9bc2ddbcee6e03768431f96934c4781ac0ee1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-gardiner-studio.html": {
+    "name": "The Gardiner Studio",
+    "location": "Dublin City Centre, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405032914.webp?k=5597e5658fc3f291667b973b06473601b1044a5ed5382d168a5e6fd2a236da71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/delightful-city-centre-apartment-with-balcony.html": {
+    "name": "Delightful city centre apartment with balcony",
+    "location": "Dublin City Centre, Dublin",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429951081.webp?k=bec104fb99350bc8cdd154d08397d8c79b11b647007b38559115bc2a3e215b4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-city-home.html": {
+    "name": "Jacuzzi Jungle City Centre",
+    "location": "Dublin City Centre, Dublin",
+    "score": "4.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368946012.webp?k=96eac449f3f1da4763615b6f423839446a62e8aa7da1ab3cd94ba8dd8c97bdc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-bedroom-cottage-in-central-dublin.html": {
+    "name": "Charming 2 Bedroom Cottage in Central Location",
+    "location": "Dublin City Centre, Dublin",
+    "score": "5.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295363301.webp?k=672924d99f0c537072af55355e6dc58fa1fbad8837d394757212e20e6edd27a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-bedroom-riverside-apartment-accommodates-6.html": {
+    "name": "Charming Riverside Apartment - Minutes from City",
+    "location": "Drumcondra, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295366981.webp?k=d959b337a6e4a9bd46fd13fbe82189930955f2b5e11a29cb23c5d4276c4f814f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/97-granville-road-dublin.html": {
+    "name": "97 Granville road",
+    "location": "Dublin",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408083305.webp?k=9a3380a043d38d35b5439fd860c41b62f62ae5b28d06bdd730fac877a7a2c747&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/artists-central-apartment-dublin1.html": {
+    "name": "Artist's CENTRAL apartment!",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435886065.webp?k=5004a5fdb468e4499a0d139ad5cad715a657c03aced82cad8b5bc1ca7e2ce67a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-cubes-a2b.html": {
+    "name": "The Cubes A2B",
+    "location": "Dublin",
+    "score": "7.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215788997.webp?k=b7154893b6aa930cd1ae4a408ec4f9ca47336f9230527d9b6c414562ed116fa3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/newly-furnished-modern-apartment.html": {
+    "name": "Modern Apartment good distance from Dublin City and Airport 4people",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428049720.webp?k=288d4e835ce92e08951ac77a5c53a895f07d621b05ee490a92827525486cb042&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-waterside-2.html": {
+    "name": "The Waterside 2",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417226927.webp?k=da983479553cb205563b267f92aafbed13506ba31f196fadaa6b2f9677ca8a45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/haddington-place.html": {
+    "name": "Haddington Place",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/145321938.webp?k=082ae2eafb0013ad302886223378ebd2462105dae289cdc07b307991cb72e23c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-forum-a2b.html": {
+    "name": "The Forum A2B",
+    "location": "Dublin",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215787854.webp?k=9c4b2369a8d4bddef2dc6e64f0e40bba1df71e85ed45fd06248ba020c1ddf032&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/deansetown-home.html": {
+    "name": "Dublin Blanchardstown Home",
+    "location": "Dublin",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426433511.webp?k=f9c5ee810d854440a0c3c06f61ffe60510f2011de357cc12a5f66ecd5cb3e23a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-room-in-1880s-guinness-worker-house.html": {
+    "name": "Stylish Room in 1880s Guinness Worker House",
+    "location": "Dublin",
+    "score": "7.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420834667.webp?k=e6b72a00426c8309f5016e27dd94768c34ee8865144dbfc2e45d5e5a41fc108d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-hideout.html": {
+    "name": "The Hideout !",
+    "location": "Dublin",
+    "score": "8.7",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159955368.webp?k=4a63a121da621995834bbc845bec004359373902cb1abfad1123a1e719f8ac9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-clontarf-promenade-townhouse.html": {
+    "name": "The Clontarf Promenade Townhouse",
+    "location": "Clontarf, Dublin",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412030171.webp?k=e75ac669956d0bd352c36c5b3c4d51fbaaa2fffb7b8fe46d6302a2874d68481e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-grange-dublin.html": {
+    "name": "The Grange",
+    "location": "Dublin",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215787383.webp?k=ab8e8ec95eb7604fdc7857bd103c7c93d2f6b83b663b85ac9a297bd964e795f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-bedroom-apartment-in-dublin-sleeps-4.html": {
+    "name": "2 Bedroom Apartment near historical Christchurch",
+    "location": "Dublin City Centre, Dublin",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295368020.webp?k=b243b1b2769bb4a753753c4c01f3bc1809567bc8b2be31204932ae1bcf478d7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/newly-1-bedroom-renovated-apartment.html": {
+    "name": "Luxurious Newly Renovated Apartment",
+    "location": "Ballsbridge, Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295372449.webp?k=b3d5b6a3899eeedba75c506b097fdb416d566c37dae5cf574ed535d9dc7fd816&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-thomas-street.html": {
+    "name": "Central Thomas Street",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436877254.webp?k=666540d0b15c1c891aaa0022688ccd9acbb5b15945d6599e4d07ab435fe90c8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-2-bed-apartment.html": {
+    "name": "Central 2-bed Apartment",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436451878.webp?k=e46d549d9ce84e39cf89677abbe73cbed98864ac3c60ac56c2a642aa3022bb83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/woodward-square.html": {
+    "name": "Woodward Square",
+    "location": "Dublin",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420439065.webp?k=1641adda6b7fb5b14839543ba5dbf6ae67acb0f9adcd0ddfb507d08338d1e5b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guestready-quiet-retreat-in-lovely-chapelizod.html": {
+    "name": "GuestReady - Tranquil retreat in Chapelizod",
+    "location": "Dublin",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421977063.webp?k=928c6c10a84a6b3ce86d703a38ea93f5ed0ca9af5e9fa64bc0e05d978fbf569b&o=&s=1"
+  }
+}

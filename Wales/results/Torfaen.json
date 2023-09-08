@@ -1,0 +1,50 @@
+{
+  "https://www.booking.com/hotel/tw/ya-man-ni-spajing-pin-qi-che-lu-guan.html": {
+    "name": "亞曼尼汽車旅館-頭份館",
+    "location": "Toufen",
+    "score": "6.9",
+    "review_count": "358 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422387190.webp?k=089c3cce4772eea02e8a83fa708fe3a71e0fa955a8d64593e8327420063b383d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/tw/nn-house-m401.html": {
+    "name": "Chill Lo 訂房後請收訊息確認",
+    "location": "Toufen",
+    "score": "8.0",
+    "review_count": "205 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340141101.webp?k=64879aba8e41a26a569b79be8d5a033a53744170593b1f651408d49dee4d55e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/tw/shang-shun-jun-le-fan-dian-tou-fen.html": {
+    "name": "Grand Royal Hotel",
+    "location": "Toufen",
+    "score": "8.3",
+    "review_count": "577 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112194808.webp?k=26f2701ed230712cf3d2b01420ffdbbe1353878a302b00748eae1e2125f1596f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/tw/xin-yue-shang-wu-lu-dian.html": {
+    "name": "Xin Yue Hotel",
+    "location": "Toufen",
+    "score": "6.3",
+    "review_count": "321 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230218220.webp?k=f9e8197083cfa2a7ee79e0df6db15befa6748f1598abd08ccc25b9220b2c9b74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/tw/teresa.html": {
+    "name": "Teresa Hotel",
+    "location": "Toufen",
+    "score": "5.3",
+    "review_count": "178 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97726465.webp?k=d6746daac29921f35a936a2ab4bbc8d3484af00f778398a9510353a26b448087&o=&s=1"
+  },
+  "https://www.booking.com/hotel/tw/ai-yi-bao-qi-che-lu-guan-miaoli-county.html": {
+    "name": "Ai Yi Bao Motel",
+    "location": "Toufen",
+    "score": "4.9",
+    "review_count": "400 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397638740.webp?k=8ef170c77dc49d1aed6a831f2c21b1b69a4c48e8207fde6d57cac7cc30a39bda&o=&s=1"
+  }
+}

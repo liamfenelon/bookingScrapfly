@@ -1,0 +1,3138 @@
+{
+  "https://www.booking.com/hotel/gb/post-office-cottage-stoke-on-trent.html": {
+    "name": "Post Office Cottage, Stoke-on-Trent",
+    "location": "Endon",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326505822.webp?k=6899c0859efed123fe2ad279818d1f3763ad7b885f2759c2ca498267ca87c826&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lowther-house-stoke-on-trent.html": {
+    "name": "Lowther House by YourStays",
+    "location": "Stoke on Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437609000.webp?k=2d7f134e0eded6ca2b88503ae0acefb278ed460570ff6bc3246dbeef8e630301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodlands-view-rudyard-lake.html": {
+    "name": "Luxurious lodge, Hot tub at Rudyard Lake, couples or small family",
+    "location": "Rudyard",
+    "score": "10",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287912840.webp?k=864313fce7c81785effab3f8365e5c77c09ad0d15bf5f86bce77e1a2ffae0ce5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cathedral-lodge.html": {
+    "name": "The Cathedral Hotel",
+    "location": "Lichfield",
+    "score": "7.9",
+    "review_count": "1,627 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87057276.webp?k=87af1931822bf576018a40b053f6831edc1a89f3a717b827728f035c7a3a968e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stoke-on-trentexpressbyholidayinn.html": {
+    "name": "Holiday Inn Express Stoke-On-Trent, an IHG Hotel",
+    "location": "Stoke on Trent",
+    "score": "7.9",
+    "review_count": "3,525 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246316933.webp?k=55b7d142b399742cd3b7d1d52d8965a485842365f4d3210a77441441eaa57298&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterside-lodges.html": {
+    "name": "Waterside Lodge Thirteen - UK11853",
+    "location": "Wetton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392350318.webp?k=eee6d853f86e091b94e1ef52087160e9bf22c73b9de190682096fc8ae1e88bbb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadows-way-guest-house.html": {
+    "name": "Meadows Way Guest House",
+    "location": "Uttoxeter",
+    "score": "8.6",
+    "review_count": "1,012 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/19946515.webp?k=621f3534e030049c4999d6ee2a47dcd7dbae3d06d55e6609405ec31f85c2c75f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vine-by-marstons-inns.html": {
+    "name": "Vine, Stafford by Marston's Inns",
+    "location": "Stafford",
+    "score": "7.7",
+    "review_count": "1,224 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371905874.webp?k=6b30d5bf4a2a00907d0aec15dc11dfe33a067416ccdacced02296e53a1d97db3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lux-apartments-burton.html": {
+    "name": "THE LUXE APARTMENTS - Burton upon Trent - Short & Long Stay Luxury Accommodation",
+    "location": "Burton upon Trent",
+    "score": "8.3",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434538750.webp?k=fa1c9ad9b08212257580e27c24479ab7656e3a5752a6b178a3e379c705989bab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-georgehotel.html": {
+    "name": "Best Western Lichfield City Centre The George Hotel",
+    "location": "Lichfield",
+    "score": "7.7",
+    "review_count": "1,016 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157862887.webp?k=91e4e5eccfc26501733e6cced3d14105a55642ca330cfe3fe713a4b7df3848e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chase-penkridge.html": {
+    "name": "The Chase Golf & Country Club",
+    "location": "Penkridge",
+    "score": "9.1",
+    "review_count": "245 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268342680.webp?k=a92123223c60fbadb5483b0736d5a42693426b1d00b64049d0e0755368914b83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ebhistaffordsouth.html": {
+    "name": "Holiday Inn Express Stafford, an IHG Hotel",
+    "location": "Stafford",
+    "score": "8.3",
+    "review_count": "2,497 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303875722.webp?k=31fc87d2d35af3da5fa45994e6902f63e1128135adb68ab3aef6b03abaf4fe15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spread-eagle-by-marstons-inns.html": {
+    "name": "Spread Eagle, Gailey by Marston's Inns",
+    "location": "Gailey",
+    "score": "8.5",
+    "review_count": "1,311 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110063152.webp?k=b7284b88effb9bcdc9ff042020e643abef1df63f9ef64e75884493a5f0a6fbb8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-stoke-on-trent.html": {
+    "name": "Holiday Inn Stoke on Trent M6 Jct15, an IHG Hotel",
+    "location": "Stoke on Trent",
+    "score": "7.1",
+    "review_count": "1,773 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246978820.webp?k=7e7918af2530f3d762f09f6522c7b773d82383136efd7b1bd317d2db8c4544d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tythe-barn-kingsley.html": {
+    "name": "Tythe Barn",
+    "location": "Foxt",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417883432.webp?k=5887f5d2377790ccbec6c01ce1b5c28afcb94383e415310a963710d192021874&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilton-garden-inn-stoke-on-trent-united-kingdom.html": {
+    "name": "Hilton Garden Inn Stoke On Trent",
+    "location": "Stoke on Trent",
+    "score": "8.6",
+    "review_count": "2,640 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271491346.webp?k=4f735b684d5f249a7a059bf9474eeece99d972e3078ebb647f933bddcbe9561e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-hart-uttoxeter.html": {
+    "name": "The White Hart Hotel",
+    "location": "Uttoxeter",
+    "score": "7.6",
+    "review_count": "1,192 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/102068610.webp?k=3d48acc2919fcbdd72feb2abbdc8d91ad5500e0be6785e409c2827168cd7e1d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/express-lichfield.html": {
+    "name": "Holiday Inn Express Lichfield, an IHG Hotel",
+    "location": "Lichfield",
+    "score": "8.0",
+    "review_count": "1,896 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266470521.webp?k=0a803a126eea1ce7f0e5b2c1d7dd3d9f13e88fa8f1aab0de441ad810547db806&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtyard-by-marriott-keele-staffordshire.html": {
+    "name": "Courtyard by Marriott Keele Staffordshire",
+    "location": "Newcastle under Lyme",
+    "score": "8.7",
+    "review_count": "1,262 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284859666.webp?k=61e2c92112e69df8dd3a82ade36c1860659d2cd999516e0f46c530425def718e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-queens.html": {
+    "name": "Three Queens Hotel",
+    "location": "Burton upon Trent",
+    "score": "6.6",
+    "review_count": "1,084 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271553234.webp?k=d812b974a3a7def4d312e24eb4d5ad992fd02a2ed621df29c89eca97284b600e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-johns-house-lichfield.html": {
+    "name": "St Johns House Lichfield",
+    "location": "Lichfield",
+    "score": "9.0",
+    "review_count": "815 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426357387.webp?k=49f2c506871edf5a4fee91e65bf159a8b00131080d62e41556f8dc5b018cdb5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wychnor-park-country-club.html": {
+    "name": "Wychnor Park Country Club",
+    "location": "Barton under Needwood",
+    "score": "8.5",
+    "review_count": "465 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348001949.webp?k=5c16b8554b0938ab05e15d3cc79bd8c6f4499b9ab26596d90a345806e05af39c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heathcote-hayloft-uk36663.html": {
+    "name": "Heathcote Hayloft - UK36663",
+    "location": "Hartington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395658356.webp?k=83ea1f7a02072ec1491571ab21198d6d0c93c1f75deb1ee6e9c861531a014745&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no5-at-53-2-bed-apartment-in-leek-staffs-peak-district.html": {
+    "name": "No5 at 53 - 2 bed apartment in Leek, Staffs Peak District",
+    "location": "Leek",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420329348.webp?k=88692ed8ffee50da0d877cf95ffb07db91998693370b7aac721d509190872d95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/portland-mews.html": {
+    "name": "Portland Mews - Ideal for Families, Tourists, Contractors & Pet friendly",
+    "location": "Leek",
+    "score": "8.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348051541.webp?k=cd42f5211543715d17b528c6771b274a27bbd0a8acfae80ff92e82defffc2432&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/squirrel-barn-milwich.html": {
+    "name": "Squirrel Barn",
+    "location": "Milwich",
+    "score": "9.2",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/152079339.webp?k=86760da3caa4b6abe7958b29b8f0d6a966cdddf46da0ebd901256e7dc17cf91b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/almost-heaven.html": {
+    "name": "Almost Heaven",
+    "location": "Acton Trussell",
+    "score": "8.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273151187.webp?k=d41a8a04fb3382296daf07d0a0f880cfcee0e6dedac3341e561529f3e02964ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/exmoor-bed.html": {
+    "name": "Dove Meadow",
+    "location": "Denstone",
+    "score": "9.6",
+    "review_count": "340 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185407676.webp?k=de86259cd14484640fdf0ed055b1348e243bd4f00e4c36771f6a9e5477853af5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peak-weavers.html": {
+    "name": "Peak Weavers",
+    "location": "Leek",
+    "score": "8.9",
+    "review_count": "157 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144130419.webp?k=480d62a6256ef5568bea0ef7240e587b60182ef7e8c6767d85655d3cf3bfea87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wheatsheaf-inn-staffordshire.html": {
+    "name": "The Wheatsheaf Inn",
+    "location": "Onneley",
+    "score": "8.7",
+    "review_count": "677 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96701909.webp?k=c87a9477714939ed995b70ccaeff34b533025a5e0d5ad248958b3b794cf4499c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-hotel.html": {
+    "name": "Riverside Hotel by Chef & Brewer Collection",
+    "location": "Burton upon Trent",
+    "score": "7.9",
+    "review_count": "747 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413746629.webp?k=e0626278830b30798f45b3da6eae48a9f2554d87cd5599bd1d7f5d49f18c5df0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-pumphouse-nr-leek.html": {
+    "name": "The Old Pumphouse Shepherds Hut",
+    "location": "Upper Hulme",
+    "score": "9.2",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369920499.webp?k=6f0bb1e2c224d49a1a1b9d74b60a3c20debc8b49f703c8cec71c56c515232952&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crown-stone.html": {
+    "name": "The Crown Hotel Stone",
+    "location": "Stone",
+    "score": "5.2",
+    "review_count": "512 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343937887.webp?k=de76fbfe681f0cf55a8a30c0df11b28dc7c0230a726aee6b3c58efc068f49569&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/road-king-hollies-truckstop-cafe.html": {
+    "name": "Road King - Hollies Truckstop Café",
+    "location": "Cannock",
+    "score": "7.8",
+    "review_count": "489 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176720143.webp?k=535c22ef68db717f475b774b8804a1ce39a6cacfc32bc1116faa4bf2818bd5e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fountain-inn-leek.html": {
+    "name": "The Fountain Inn",
+    "location": "Leek",
+    "score": "9.0",
+    "review_count": "560 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302085715.webp?k=0a410678246266fc10c01505f24417593dad4fbe1ff528af838e2906dad26161&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theswanstafford.html": {
+    "name": "The Swan Hotel, Stafford, Staffordshire",
+    "location": "Stafford",
+    "score": "8.9",
+    "review_count": "1,295 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/21141983.webp?k=c0ceaf68db3add6f23c1ad35183d115d0b3ba3f37344de235e7a864ba01616cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tamworth-arms.html": {
+    "name": "OYO Tamworth Arms Boutique Pub & Hotel",
+    "location": "Tamworth",
+    "score": "8.7",
+    "review_count": "636 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425851026.webp?k=e9ab40ea2c9b07effef49e845c0fd275069e9cfa1e7eeeb3a070963c7c85738b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gilman-house-by-truestays-holiday-or-worker-accommodation-hanley-stoke-on-trent.html": {
+    "name": "Gilman House by Truestays - 4 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "8.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357488607.webp?k=a0ae9bcf8ba3f998ad6be1f4048057ac8d1866bb7d4e94faeb2e6a33ff465d28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/days-inn-stafford.html": {
+    "name": "Days Inn Stafford",
+    "location": "Stafford",
+    "score": "7.3",
+    "review_count": "1,579 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135462274.webp?k=e37b354f32157607086909c4bd67a56631547fb1ce8ef8d8b98f351555823e65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swallows-rest-leek.html": {
+    "name": "Swallows Rest",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426552583.webp?k=714def5d79a3fbaeba0a363091a1025a9173a83085da8ca96bc0fb473c9ee415&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mill-stone.html": {
+    "name": "The Mill Hotel",
+    "location": "Stone",
+    "score": "8.5",
+    "review_count": "399 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219341995.webp?k=a6d1d4085af2a2795b7869eab570c4eac9f08fc4fd24bd48194d60968fbc5289&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/borough-arms-hotel.html": {
+    "name": "Borough Arms Hotel",
+    "location": "Stoke on Trent",
+    "score": "7.3",
+    "review_count": "1,346 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/191510299.webp?k=888a168ac7725916777928fe69d188e9e5e43601b3f5f5ea42e25fec657861b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/innkeeper-s-lodge-lichfield.html": {
+    "name": "The Hedgehog by Innkeeper's Collection",
+    "location": "Lichfield",
+    "score": "8.3",
+    "review_count": "524 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114623762.webp?k=dd71bb55e05041a2365a0131033c37639373e48516c344963e1c5a0c5b786570&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greenman.html": {
+    "name": "The Green Man",
+    "location": "Leek",
+    "score": "9.2",
+    "review_count": "506 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96713309.webp?k=761b797fee39e8e7707ccb80d635fb4d6725246161ffcb48b4144090f9940932&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stone-house.html": {
+    "name": "Stone House Hotel ‘A Bespoke Hotel’",
+    "location": "Stone",
+    "score": "7.7",
+    "review_count": "1,776 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268337160.webp?k=83a98e64f67939cbc69e9b0f8dae4e3c9200119a504f59f72330d4ea69d548d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gable-cottage.html": {
+    "name": "Gable Cottage",
+    "location": "Onecote",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418019505.webp?k=2b3cb3675c8cef4a0f489ad8e7069fdf0600f1679b03f1220ee27c8436d97392&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/himley-house.html": {
+    "name": "Himley House by Chef & Brewer Collection",
+    "location": "Himley",
+    "score": "6.8",
+    "review_count": "1,110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241465371.webp?k=d17fef4bf6f4ef02b77d6b58f7ea6a27ab01a7dce447c738ddaffcef89de8c30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harewood-cottage-peak-district.html": {
+    "name": "Harewood Cottage Peak District",
+    "location": "Leek",
+    "score": "9.7",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199261819.webp?k=2a3380f3b3cba6851c61f42d267a28c5742656c3348456a69b08cd2df228d16b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/drayton-manor.html": {
+    "name": "Drayton Manor Hotel",
+    "location": "Tamworth",
+    "score": "8.2",
+    "review_count": "653 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181852667.webp?k=b13d36067589aaf2b72a9501b160a82fa99e8e0b88e2cdcff4dd66f86ff0f3d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-piggery-longton.html": {
+    "name": "The Piggery",
+    "location": "Longton",
+    "score": "8.8",
+    "review_count": "126 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/93898999.webp?k=4cd56486fa841154711e7ac8f16df2c5c22a84deadf7008728d6fbeb43e9dcde&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/days-inn-cannock-norton-canes.html": {
+    "name": "Days Inn Cannock - Norton Canes",
+    "location": "Cannock",
+    "score": "7.9",
+    "review_count": "1,234 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135462314.webp?k=78e8e46936b3817a9fcd355fc2b8dc1147482f07aac337af850f14bf5156e594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chase-heights.html": {
+    "name": "Chase Heights",
+    "location": "Rugeley",
+    "score": "9.2",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328647717.webp?k=0507dfb1a515cf7686985f99a7733439f6b711e2c5bf8bc3328d687af6e8534e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/end-cottage-rugeley.html": {
+    "name": "End Cottage",
+    "location": "Rugeley",
+    "score": "9.7",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372156541.webp?k=ef22fa014e5a8f253783d3ba0efad48900e274e98827b0746f0effd7f48ed7a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/doubletree-by-hilton-stokeon-trent.html": {
+    "name": "DoubleTree by Hilton Stoke-on-Trent, United Kingdom",
+    "location": "Stoke on Trent",
+    "score": "8.3",
+    "review_count": "824 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429532911.webp?k=263bc4de57dcf0e223c59ca41bcec5c4c9b6333dc95642da513d8e90658d9264&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/birches-house.html": {
+    "name": "Birches House",
+    "location": "Ford Green",
+    "score": "9.2",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325295637.webp?k=8368bf012445ec1844f18822ddf73c0f34afb0d42de7634768aaf8deaacdc3a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scaldersitch-farm-boutique-camping-tipis-and-yurt.html": {
+    "name": "Scaldersitch Farm Boutique Camping Tipi with private wood fired hot tub",
+    "location": "Sheen",
+    "score": "9.9",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389174053.webp?k=f14e4e8d24a3eb475bdc62b2b8c5239a8e2a2bdb89aaee213c5c552d2c4c429a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hill-end-cottages.html": {
+    "name": "Hill End Cottages",
+    "location": "Warslow",
+    "score": "9.2",
+    "review_count": "182 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204327081.webp?k=0187a0732aebafba39f1845ad563c04aaa58266ac7957a8c1c39a6117814bab3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-clock-house-brewood.html": {
+    "name": "The Clock House",
+    "location": "Brewood",
+    "score": "8.8",
+    "review_count": "313 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239231693.webp?k=134d74e5c33abe9b29f81ff9783eb1022feccf72eba8db154bc61cb8a91a7ec5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-xiii.html": {
+    "name": "The Granary - E5483",
+    "location": "Whiston",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418311555.webp?k=459619da5bb79b8acebc569af57128754f8d9541d8b8b22825deb2632dba71bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lion-brewood-staffordshire.html": {
+    "name": "The Lion Hotel",
+    "location": "Brewood",
+    "score": "8.2",
+    "review_count": "671 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335367278.webp?k=3a752507cbf275788fa3bac923b4fa42a3ce438ccf21162f62192cf4ba85d183&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/liberal-house-tamworth.html": {
+    "name": "Liberal House Tamworth",
+    "location": "Tamworth",
+    "score": "7.8",
+    "review_count": "888 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194360481.webp?k=50eee980d99f1d410eb7d130dfeaf4c869d4170cd8b830fec758e5db5dae9d23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clarabels-guesthouse.html": {
+    "name": "Clarabel's Guest House- The Nook",
+    "location": "Wombourn",
+    "score": "9.5",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239554556.webp?k=4fb3326a940157eb312b6350f40bce7d941d002ef0ca986347effac711b36008&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chase-view.html": {
+    "name": "Chase View - Dog Friendly - Close to Cannock Chase - Great Motorway Links - Perfect for contractors and leisure",
+    "location": "Hednesford",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414317177.webp?k=222909e76c457d4920b4ace59ca073244db83140ae755265e373ed15cee7ef3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beech-house-apartment-1.html": {
+    "name": "Cannock Hotel Apartments",
+    "location": "Cannock",
+    "score": "8.9",
+    "review_count": "585 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113199718.webp?k=e85d16c83a580f40f665647e9019511f48cd560210c56a8ed1f1d37541f1b750&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dog-partridge.html": {
+    "name": "Dog & Partridge by Chef & Brewer Collection",
+    "location": "Tutbury",
+    "score": "8.5",
+    "review_count": "597 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232089485.webp?k=38ed3b1a753847b054e09e65b89bbef37edec196046853e51108ee9cd038a49b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/town-centre-apartment-staffordshire.html": {
+    "name": "Town Centre Apartment",
+    "location": "Leek",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403124924.webp?k=d34ba34cb89994bf2a5a591e40a0f3e71bb442e660f332c5c624f55357622ed3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theveathervane.html": {
+    "name": "Weathervane Hotel by Greene King Inns",
+    "location": "Stoke on Trent",
+    "score": "7.6",
+    "review_count": "1,881 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188463128.webp?k=eb5577648c7af14e6e8453bb535e2141d6257cfa34adf44aacb1d66d42c7a74a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-mill-annexe.html": {
+    "name": "The Old Mill Annexe",
+    "location": "Hartington",
+    "score": "8.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418511287.webp?k=9ee0f380aa6ccd1bedd39eed29a7237f4fc8c4c226aceeaa7cc59829695ac882&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-bucknall-new-road-stoke.html": {
+    "name": "Townhouse @ Bucknall New Road Stoke",
+    "location": "Hanley",
+    "score": "7.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325310250.webp?k=54aa42ff4a6fea6be98397a6f2681407dd35c80666d489d47640218207d8eb17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-boars-head.html": {
+    "name": "The Boars Head Hotel",
+    "location": "Sudbury",
+    "score": "8.3",
+    "review_count": "974 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137944496.webp?k=a343c960b1d6daba981ea77d9a7d031ea5a84669671c3a8d38cceb0b01bac70a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/weston-hall-stafford.html": {
+    "name": "Weston Hall",
+    "location": "Stafford",
+    "score": "8.2",
+    "review_count": "246 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219798434.webp?k=aff9e72d4f12163c359b672cfe266ad96b9c2a50eb84d7ace289dfb2b608b792&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-home-newly-refurbished-3-bedroom-house-near-alton-towers-wedgwood-muse.html": {
+    "name": "BEAUTIFUL HOME, 3 BEDROOM HOUSE near Alton Towers, Wedgwood museum, Universities",
+    "location": "Newcastle under Lyme",
+    "score": "7.9",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331196014.webp?k=f0230a4e0690165097d0d12b44b5719131486e933c97ed117c1fe4627a59422e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northwood-park-east.html": {
+    "name": "Northwood Park East",
+    "location": "Stoke on Trent",
+    "score": "9.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/136817936.webp?k=d23b3b46c8fe798513d11ccedecd32a289bccf3df82ea6e9fdb27461cf8dc71e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheerful-1-private-room-ensuite-with-free-parking.html": {
+    "name": "Cheerful 1 private room-ensuite with free parking",
+    "location": "Silverdale",
+    "score": "9.1",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365076742.webp?k=d7109f216b525c6440e525908430af404a6e18dac5a58d7f70939865f33af699&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-house-near-the-peak-district.html": {
+    "name": "Cosy House Near The Peak District",
+    "location": "Leek",
+    "score": "7.8",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326764762.webp?k=8d45bc6a3bb935c1812a536b03f3286d64e816c11ea58a630b0cf944c6be28c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rudyard.html": {
+    "name": "Hotel Rudyard",
+    "location": "Leek",
+    "score": "8.2",
+    "review_count": "837 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297048887.webp?k=c05dc6bdd1349cb854bcb6068d291d1df5772ea6aa066dcdce27c6fae45cf975&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shoulder-of-mutton-inn.html": {
+    "name": "The Shoulder Of Mutton Inn",
+    "location": "Hamstall Ridware",
+    "score": "9.5",
+    "review_count": "1,018 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185067427.webp?k=74b9e94ebd9a7a716243c5be65dcfac425b6d3a4992784385e5dbf194bc6cbaa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-caravan-on-luxury-campsite.html": {
+    "name": "Cosy Caravan on Luxury Campsite",
+    "location": "Hulme End",
+    "score": "9.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376393607.webp?k=dfd4d74a7cedaef2ffbf7a035bad936f0e04d43bd0fc132034507b87a223963d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilton-at-st-george-s-park.html": {
+    "name": "Hilton at St George's Park",
+    "location": "Burton upon Trent",
+    "score": "8.3",
+    "review_count": "993 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/64230461.webp?k=d09a7f1ce03f54771ae211f3400000b08bfb43554852d4baeb40422bc2bc6f45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-cruise-cribs.html": {
+    "name": "COSY CRUISE CRIBS",
+    "location": "Etruria",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436951506.webp?k=ddf55b9b7f0e833d3b73560d3168dc4c127fc1b5c7c2e167ea73dcf1f082f765&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lansdown-house-bed-amp-breakfast.html": {
+    "name": "Lansdown House Bed & Breakfast",
+    "location": "Market Drayton",
+    "score": "8.9",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245186111.webp?k=83ceec92e9605e296561405136b23f2276bef5a83084cc04ba8bcd99d4e834cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-royal-oak-biddulph-stoke-on-trent.html": {
+    "name": "The Royal Oak",
+    "location": "Biddulph",
+    "score": "9.2",
+    "review_count": "117 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337269719.webp?k=7ba5eadfaae162aef8ae64ebe9d91b5991bb76519a477388582421e8b680d1d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-four-alls-inn.html": {
+    "name": "The Four Alls Inn",
+    "location": "Market Drayton",
+    "score": "7.0",
+    "review_count": "278 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3743707.webp?k=2d5f92194153fe1885e8f07f3a1969af72005023688f0a71cbd9e4ebee76db1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/black-lion-inn-leek.html": {
+    "name": "Black Lion Inn",
+    "location": "Leek",
+    "score": "9.1",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311732308.webp?k=9f1fc2e2461a6c4d4469c17b8dba1d269b466f482f6f95d1d6decf40c918679f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brankley-cottage.html": {
+    "name": "Brankley Cottage - E4712",
+    "location": "Needwood",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418193336.webp?k=58851aae0ad4f357abfd1357525e97f21d21bcce0497459ffeba8b0157c6ff37&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-sutherland-arms.html": {
+    "name": "The Sutherland Arms",
+    "location": "Stoke on Trent",
+    "score": "9.1",
+    "review_count": "617 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280077343.webp?k=19c6a087bf349fea56c4c4644ac93b7aee4a0a318b7244b1cf5128e824981411&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chetwynd-lodge.html": {
+    "name": "Chetwynd Lodge",
+    "location": "Ingestre",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419976139.webp?k=39df7b56ddb19503c598fa1a56c14b3fb4ab09bdc15d8c62f29b105911f1ac6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bank-house.html": {
+    "name": "The Bank House Hotel",
+    "location": "Uttoxeter",
+    "score": "7.2",
+    "review_count": "414 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/18365254.webp?k=589a4a92380fe309ef000a1909e9c6b7bae831f17f8ec055b1b3868de1c3ff6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-three-horseshoes-inn.html": {
+    "name": "Three Horseshoes Country Inn",
+    "location": "Leek",
+    "score": "8.2",
+    "review_count": "467 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/29167441.webp?k=6a953de911dc0255b7b50b2edb240b695c6f6ece7b08d4f093c245accc9e9b29&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-smokehouse.html": {
+    "name": "The Old Smokehouse",
+    "location": "Rugeley",
+    "score": "9.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236251533.webp?k=13e27c274cd59f514393dea9209a13f1c2b878202840c33d9d76748d3ccdd6af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunnyside-bed-and-breakfast-buxton.html": {
+    "name": "Sunnyside Bed and Breakfast",
+    "location": "Longnor",
+    "score": "9.5",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346367384.webp?k=08e7867d7d0b28a4b3f332bc529a43635ad95e318158d678d372ce395f676e3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-victoria-newcastle-under-lyme.html": {
+    "name": "The Victoria",
+    "location": "Newcastle under Lyme",
+    "score": "9.1",
+    "review_count": "302 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373773510.webp?k=06bc89d95b8ef178ed20d76391f7554d829f4662c9398a09d241faa5aada38ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-littleton-arms.html": {
+    "name": "The Littleton Arms",
+    "location": "Penkridge",
+    "score": "8.1",
+    "review_count": "390 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347054651.webp?k=a7b526314b394935f4f537b8884eca168f40dadf0283a182402b38a98f01948f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heath-view-cheddleton-near-leek.html": {
+    "name": "Heath View",
+    "location": "Cheddleton",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393432626.webp?k=c372f5fe707ca7f47eea5be8737e684394102b1dde31e8899349db5b978ab1bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/school-house-bradnop.html": {
+    "name": "School House",
+    "location": "Leek",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418662537.webp?k=2a93371d66513da320e62e5f5122eb3f9d7f3bde1f2bbdd166b2e42d3dd12a16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bentilee-stoke.html": {
+    "name": "Bentilee stoke",
+    "location": "Bucknall",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419707145.webp?k=5f8c92dff6323e1f3ce2c0530f3c10478396a2dd0a157c8972d1dbab5b24e763&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/george-and-dragon-alrewas.html": {
+    "name": "George and Dragon, Alrewas",
+    "location": "Alrewas",
+    "score": "7.7",
+    "review_count": "200 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240841728.webp?k=210ddcc695a3c8a7c9ae4b44a5e1a992f75833726f2f53e9cdb85a83d228f11e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bedroom-apartment-with-garden-and-parking.html": {
+    "name": "Lovely 1-bedroom apartment with garden and parking",
+    "location": "Stone",
+    "score": "9.7",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322964134.webp?k=127ea18ee71cd78f6cb7566421b0aac30f52ee70535e05e973bd9bf59c1fdc2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barns.html": {
+    "name": "The Barns Hotel",
+    "location": "Cannock",
+    "score": "8.8",
+    "review_count": "662 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257011347.webp?k=03459dea72bd0b2c0db7950d333998cfc40bfec12bb44cd218f832fc060c95ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-takaroo-suite-one-bedroom-apartment-with-tv-wi-fi-free-parking-hednesford.html": {
+    "name": "The Tackeroo Suite",
+    "location": "Hednesford",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414773340.webp?k=f1d1f1d9e1f1715caf67a8786fe664bb38a51d75f96fc4318027805f5952a82f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-view-cottage-stoke-on-trent.html": {
+    "name": "Bank Top Farm Cottages",
+    "location": "Stoke on Trent",
+    "score": "9.0",
+    "review_count": "145 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/102040969.webp?k=204c7831243611d439d5d7213369c64e9dabe80622fc65ef01744f75d774f06b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quaint-house-in-a-beautiful-rural-setting.html": {
+    "name": "Quaint house in a beautiful rural setting",
+    "location": "Froghall",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422917795.webp?k=fbb822711ca99b6a25e14fd84aefd44d717ca8948f1247cfeb50d5f91792898a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roaches-view-barn.html": {
+    "name": "Roaches View Barn",
+    "location": "Wetleyrocks",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418415960.webp?k=237a75e7d54c2c35114b2216e2eed399c77d87f99d5de01b8023930afe1599a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-orchard-spacious-5-bed.html": {
+    "name": "The Orchard - Spacious 5 Bed",
+    "location": "Burton upon Trent",
+    "score": "9.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428546537.webp?k=80fa6c0ab874b30690725cdea897082fb92f88139e761c3930eacb49d7a7d452&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/serendipity-shepherd-hut.html": {
+    "name": "Serendipity Shepherd Hut",
+    "location": "Leek",
+    "score": "8.9",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197916665.webp?k=524a563262237e91444cd617d47a3a0d12bf8353bfe2e7e3422e30f718c0e626&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hare-and-hounds-inn.html": {
+    "name": "Olive Tree Guest House",
+    "location": "Uttoxeter",
+    "score": "9.3",
+    "review_count": "439 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206471184.webp?k=912b348119a1c85a1eaa4091f74f0067d27ccf5480f638ae9ef2d66003054a66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-versace-mansion.html": {
+    "name": "ST JOHNS HOUSE l Spectacular 6 Bedroom House l Shenstone",
+    "location": "Shenstone",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361542208.webp?k=988813a14df25eaad95dc4dcccf77a96f27290e0d0aa49395ad6c478703a1f75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-hart-alton1.html": {
+    "name": "The White Hart",
+    "location": "Alton",
+    "score": "8.7",
+    "review_count": "427 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396713736.webp?k=9227a1b723949bb767e94728886e999244650b47fc60e450fb5c2f14f15bd16c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stafford-apartments.html": {
+    "name": "Stafford apartments",
+    "location": "Stafford",
+    "score": "8.5",
+    "review_count": "311 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139516594.webp?k=f1a86cd8976542757fbcc0967d9a806f82a3a1c3253d473641681f249837a3ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/knights-stays.html": {
+    "name": "Knights Stays",
+    "location": "Longton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436484896.webp?k=caebda2af9c74d2933c75316b7942cc20e9fc7d4a92367aa9c8d7cde154f1587&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whiston-hall.html": {
+    "name": "Whiston Hall",
+    "location": "Whiston",
+    "score": "8.8",
+    "review_count": "639 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300346594.webp?k=60e2367e3853872ae4f92738cf9e4430f8b7954052ebd004f750ec45782789a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-grade-ii-listed-apartment.html": {
+    "name": "Beautiful Grade II listed apartment.",
+    "location": "Leek",
+    "score": "9.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390668155.webp?k=61fecff71495734bb50a6afaae62856b93e0f59a15f9477121b5be4c50bc5dba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-tamworth.html": {
+    "name": "Castle Hotel",
+    "location": "Tamworth",
+    "score": "5.9",
+    "review_count": "134 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113556577.webp?k=642412b1a49fd7b95a108ff141d6913cf690406a0b7defe839bb24e1deb22db5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-1-bed-apartment-in-burton-on-trent.html": {
+    "name": "Modern 1 Bed Apartment in Burton-on-Trent",
+    "location": "Burton upon Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435606063.webp?k=7380c83d35db0ef072252959395109d7d75c196e9084c939276c9d0935a024c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-amp-modern-3-bed-house.html": {
+    "name": "Spacious & modern 3 bed house",
+    "location": "Stafford",
+    "score": "9.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355378800.webp?k=36d3d22e49b8ffc249f14f724782d618c84cf42c7cc922bf5c2925969f6867be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-3-bednear-national-forestparking-wifi.html": {
+    "name": "JRR Stays - Burton upon Trent with Free Parking",
+    "location": "Burton upon Trent",
+    "score": "9.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411279587.webp?k=d4e90d6b4289650b92de9280daf83453b577dbdb7700f9bede8d63dfeb30bb06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bear-inn-hodnet-market-drayton.html": {
+    "name": "The Bear Inn, Hodnet",
+    "location": "Market Drayton",
+    "score": "9.5",
+    "review_count": "176 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308643446.webp?k=61e96c5656d131040a24c3b21b2b339066661b4d6ccb33d358f87e74e9b7fb5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peak-willow-apartments.html": {
+    "name": "Peak Willow Apartments",
+    "location": "Leek",
+    "score": "9.0",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365936271.webp?k=c3a7c3ff028b6201c8878bd039eeee496cfbf08b8e61c90d984cdc88464b7bdb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-joiners-house-by-truestays-3-bedroom-house-in-stoke-on-trent.html": {
+    "name": "NEW Joiners House by Truestays - 3 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374762724.webp?k=f4fa01cb99c794a8fee5a31741667b43b028c25951f19f314f2ed17e3601229c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milford-cottage-milford.html": {
+    "name": "Cottages in Derbyshire - The Cottage at Milford",
+    "location": "Milford",
+    "score": "8.9",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238413249.webp?k=94ade8a1f6ea5243dac476e622c36188cc3200f539964efa374e3fc664b0b584&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dog.html": {
+    "name": "The Dog & Doublet Inn",
+    "location": "Stafford",
+    "score": "8.6",
+    "review_count": "340 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46178302.webp?k=9c6e3350f1fc91e1ad5d2b66fc93d2519f7a442eb69608fb7086b9aac176fd61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trafalgar-house-stoke-on-trent.html": {
+    "name": "Trafalgar House",
+    "location": "Stoke on Trent",
+    "score": "7.9",
+    "review_count": "147 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/129073362.webp?k=5e06d4cca53f5ff8297bdcc89f1baff10e69492baff3eb658e167db4db03ba96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quiet-cosy-annexe-room.html": {
+    "name": "Quiet, cosy annexe room",
+    "location": "Rough Close",
+    "score": "9.3",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305040913.webp?k=8ed4f3e606a4c488e847921e9d5474319fcdb4aec30979d1dbd4559229bff2f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-olde-peculiar.html": {
+    "name": "The Olde Peculiar",
+    "location": "Rugeley",
+    "score": "8.8",
+    "review_count": "274 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265232455.webp?k=3778de54cf4e5750b8decaf5da6a58753562fc9a13f5db015a6f45c049ec4958&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nice-big-bungalow-with-big-garden-amp-jacuzzi.html": {
+    "name": "3 Bed Detached Bungalow with Big Garden",
+    "location": "Hednesford",
+    "score": "9.0",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312373169.webp?k=6c7530d19a020d130315ca2c72a2901c3802a7daec496447bc82ab6bdff56577&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pine-cottage.html": {
+    "name": "Pine Cottage - RCHP140",
+    "location": "Whiston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429258358.webp?k=fdb1166d5b87dde623fc4ffa4c0c6a6f04a1d0066ab0d7a946ac26da8a404f92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sneyd-arms-tunstall.html": {
+    "name": "Sneyd Arms Hotel Tunstall",
+    "location": "Chatterley",
+    "score": "4.8",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336527678.webp?k=d3d2b9b326a7ad7fd4a08420d87067f5f9edaaf6142fe34e36278cca50b39e26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hen-cloud-barn.html": {
+    "name": "Willow cottage with private hot tub",
+    "location": "Upper Hulme",
+    "score": "7.9",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114506468.webp?k=96fd533358bf528523735a52bace2e55e2bdc2f88cf198aac2bb68d0154eda3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bedroom-property-in-quiet-location.html": {
+    "name": "Modern 3 bedroom property in quiet location",
+    "location": "Burton upon Trent",
+    "score": "9.5",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436405204.webp?k=a9fc8ce16f1b609fd9375ee5e4ca5a0fe6905b75519a6bb26d1978257cb75ff0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contractor-house-amp-m54-amp-free-parking-by-comfyworkers.html": {
+    "name": "Contractor House & M54 & Free Parking by ComfyWorkers",
+    "location": "Great Wyrley",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283301034.webp?k=f258e0b2b69f93aa2a90eed6b6cf71c8e457362308a634011ce5d2e92c9f9b87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rock-view-cottage-alton.html": {
+    "name": "Rock View Cottage, 2 bedrooms near Alton Towers",
+    "location": "Alton",
+    "score": "8.3",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279074419.webp?k=39a4028b02a4f25d34aeceb1b6744a3541fd87eb4602dc49cfb20bc926a0cdc4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-endon-house-share.html": {
+    "name": "Luxury Endon House Share",
+    "location": "Endon",
+    "score": "9.0",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333186791.webp?k=3f7b4a69078f819324c59969e99d24b62734383442bfb759a1a590227ccc4398&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/angel-cottage-alton-towers-netflix-and-parking.html": {
+    "name": "Angel Cottage - Close to Alton Towers, Netflix and Parking",
+    "location": "Alton",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402431851.webp?k=6742a0658ac8fddf58663855a8610dc72cd0e67bdf6f5955723effba19da1e30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-one-bed-flat-in-stoke-on-trent-town-centre.html": {
+    "name": "Lovely one bed flat in Stoke-on-Trent town centre.",
+    "location": "Stoke on Trent",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410637573.webp?k=3e386ddad0d6034c2bfe5aae2d07e1e37de7df660f4fb4e19cec844a1731a49c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-loft-at-peakes-retreats.html": {
+    "name": "The Loft at Peake’s retreats",
+    "location": "Needwood",
+    "score": "9.6",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319361213.webp?k=5324cd3529466229375428384adc9401cd8ba3ce68d620d9e8a9c811abeaa084&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ryeland-barn.html": {
+    "name": "The Ryeland Barn",
+    "location": "Dilhorne",
+    "score": "9.9",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/229597140.webp?k=6e8d88419b37f088cc700334759485103d016ca7137ede7efe1e4e32ef540d63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/all-saints-house-by-yourstays-4-double-bedroom-in-stoke.html": {
+    "name": "All Saints House by YourStays 4 double bedroom in Stoke",
+    "location": "Stoke on Trent",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410654660.webp?k=77192a1aefd0bc274526fccac4c6269db8107b758a8b1f5a46fec3dbd2dc4127&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inspired-stays-city-centre-location.html": {
+    "name": "Inspired Stays ***City Centre Location***",
+    "location": "Stoke on Trent",
+    "score": "7.8",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298589513.webp?k=283b6486b9f0dba4306533fdff4597830769da4eed5d9d62a6d7b0240e8f7231&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lynam-house.html": {
+    "name": "Lynam House",
+    "location": "Stoke on Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426201124.webp?k=b1d49c51f6a365fccfd6c11bef4b81ff982492eec8f6970114e39c19c16bf251&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lavender-retreat-leek-staffs.html": {
+    "name": "Lavender Retreat",
+    "location": "Upper Hulme",
+    "score": "8.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383837923.webp?k=34df930504d5821150bd4e231cf6d3fc32c5bea1b5e61d7b4e66b6e1069850a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-newlands-street-stoke.html": {
+    "name": "Townhouse @ Newlands Street Stoke",
+    "location": "Etruria",
+    "score": "5.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265056137.webp?k=32da18a74f0a74f6cb03fa3304fcfdcc4c7222ab2640d5a6d48613b084cb4f24&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-george-burslem.html": {
+    "name": "George Hotel, Burslem, Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "4.2",
+    "review_count": "393 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228383771.webp?k=8431e211ca1e96e05d745bc0a109ccb8c709c715b795f280ddd995fbd9455552&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tranquillity-uk38552.html": {
+    "name": "Tranquillity-UK38552",
+    "location": "Endon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396434330.webp?k=eeb9a1bca7a5f8a1d3d670cbfee12adcf8f9579408acecf853ee483a3de08a3d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-home-king-size-bed-pets-in-oak-hill.html": {
+    "name": "Spacious Home - King Size Bed - Pets - In Oak Hill",
+    "location": "Trent Vale",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425365999.webp?k=fc0cc6758b20ca791200542c8dc66f8077fbe2c3d180eecb058f03e15ad8ef19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-amp-modern-4-bedroom-townhouse.html": {
+    "name": "Bright & modern 4 bedroom townhouse",
+    "location": "Stafford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363988899.webp?k=e1288ea8cee3965f0e09add19f864daf89293c1e088436e93fdfa9a64644c153&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/market-view-1-bedroom-unit-in-the-heart-of-leek.html": {
+    "name": "Market View, 1 bedroom unit in the heart of Leek",
+    "location": "Leek",
+    "score": "8.3",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363307086.webp?k=cf6b06ba6f3759c66f2598605ef5410d0fe888017e976825119938e70c4a8b7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brewsters.html": {
+    "name": "Brewsters",
+    "location": "Burton upon Trent",
+    "score": "8.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352078830.webp?k=b9fee20227cafec6a3e4f2fde13fa005809ee4bfbe9e1a80780b8c1d2d0b2e53&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-3-br-in-newcastle-with-allocated-parking.html": {
+    "name": "Peaceful Convenient 3 BR Flat Near Hospital with Free Parking",
+    "location": "Newcastle under Lyme",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438514357.webp?k=07df9c1bf472397d5f134b1a416acd58aac5431d9be1fdfc65f7f7771af7ec09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daisy-cottage-leek1.html": {
+    "name": "Daisy Cottage",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405331718.webp?k=38643279297ae81ef74047f14d3ec8e89fc5ffbe0a45832614e4c3f0c56c02b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-cottage-stoke-on-trent1.html": {
+    "name": "Orchard Cottage",
+    "location": "Bradley in the Moors",
+    "score": "9.5",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236401502.webp?k=0f9070dc5f057ef048de1bd6a0b5d4853be61cb71712df1c088ad99ba83b748e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mayer-house-only-two-minutes-from-hanley-city-centre.html": {
+    "name": "Mayer House by YourStays - Mayer House - Modern Home by Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "7.9",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410974629.webp?k=245405e3c6cd0ee2897d7da17a566e2d99b132a6f70ab7895f20bb5b933870fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mews-burton-on-trent.html": {
+    "name": "The Mews",
+    "location": "Burton upon Trent",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347082916.webp?k=f823b1aca818fbf4a8cdd5ac9b5e6c8bac0850a6e1482a4eaf5f1e6782cc1594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/regal-house-exclusive-home-for-corporates-families-long-term-discounts-house-3-b.html": {
+    "name": "Regal House by True Stays - 3 Bedroom House in Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "8.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357425138.webp?k=f0ddd84347daad84d11885a10277b6bac88dd375dd7d453db9c9c5e6ecfedf58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cathedral-coach-house.html": {
+    "name": "Cathedral Coach House",
+    "location": "Lichfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424233810.webp?k=10441821ff50a92de6e0069e1a20ea674e14de503108cd5c4dc31b5a82a05426&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-terraced-cottage-close-to-alton-towers.html": {
+    "name": "Charming terraced cottage close to Alton Towers",
+    "location": "Cheadle",
+    "score": "8.4",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270807847.webp?k=7e340da20b4ff8f97e96fdb5bea906c4c238d3bf7b50ed10fb873689f47e315e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-elms-no-58-luxury-4-bed-detached-residence.html": {
+    "name": "The Elms @ No.58 - Luxury 4 Bed Detached Residence",
+    "location": "Pattingham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337277057.webp?k=f9aeab4038bb971b66cfe1f730668aa3b39296306d45ffef211dc44c9043799a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-longnor-near-buxton.html": {
+    "name": "The Stable - UK33148",
+    "location": "Longnor",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394409796.webp?k=c0b2fdbb26e024683d1c748e5e7e36224d360dd47fb1fbcb7ee4196929df91ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapel-croft-guest-house.html": {
+    "name": "Chapel Croft guest house",
+    "location": "Biddulph",
+    "score": "9.4",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151636389.webp?k=d8aa0a905b0c080f5ec5a8d3fb810fa58153ede107402c9a01e6c9db4f0313c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broadmeadows-farm.html": {
+    "name": "Broadmeadows Farm",
+    "location": "Butterton",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392185577.webp?k=27415a56f7588cb08b1bada6fdf60cf317494b758f09470bd01a666a4eee2160&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hanford-apartments-by-yourstays.html": {
+    "name": "Hanford Apartments by YourStays",
+    "location": "Stoke on Trent",
+    "score": "8.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410968630.webp?k=42307a81eda9717e0854b977aed034f71e82ffb808034dc865034729176d0ae4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cotesheath-house.html": {
+    "name": "Cotesheath house",
+    "location": "Etruria",
+    "score": "3.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117062112.webp?k=303026a69cf36c16509ac2a6b545aaf85b7bb6e84f2f5e46676e193207def9ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cathedral-apartment-staffordshire.html": {
+    "name": "Cathedral Apartment",
+    "location": "Lichfield",
+    "score": "9.4",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400167453.webp?k=d4bdf9cf0f5e0d6016e7e19dee87693c6ee6a45308c0edc742172edebcb8e177&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newton-house-ashbourne1.html": {
+    "name": "Newton House",
+    "location": "Alstonfield",
+    "score": "8.1",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326591688.webp?k=843962e0b2cc28724de97841f2b2cec102cb5ca8c984ec357776838364e331e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodstock-a-nod-to-the-60s-and-retro-style.html": {
+    "name": "Woodstock, a nod to the 60s and Retro Style",
+    "location": "Codsall",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408773751.webp?k=51a87f678082a766b8a6222eb006f3a2c55fb15b45a2b543de3056bca5cbd023&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheerful-2-bedroom-home-in-stoke-on-trent.html": {
+    "name": "Cheerful 2 Bedroom home in Stoke on Trent",
+    "location": "Longton",
+    "score": "7.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378975918.webp?k=335a2630e21fc84f4fa814f1e40fb142396c14684a0c8fa4d2e3ef27fccc127e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stoke-city-house.html": {
+    "name": "Stoke City House",
+    "location": "Etruria",
+    "score": "3.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400761770.webp?k=84c119c566c3373e1a44725e1bfb218ee0244aa16ffb1c6f186fe3c05de00203&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-view-apartment-stafford.html": {
+    "name": "Castle View Apartment",
+    "location": "Stafford",
+    "score": "8.6",
+    "review_count": "118 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331878267.webp?k=f29bd9b44c45dccaac7895669f2bfc081c6a89901383a2111cd91c6c9d6164ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/staycation-new-3-bedroom-home-with-panoramic-views.html": {
+    "name": "Staycation new 3-bedroom home with panoramic views",
+    "location": "Endon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423608221.webp?k=0ee35c4cb73991f0a6bf196099a55367f581168c4be7a3f986002d6734c9e9fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartments-at-180.html": {
+    "name": "Cooper's",
+    "location": "Burton upon Trent",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347098297.webp?k=da7a5d195846d69816ff8d6903da6e0ea5dccaba9248ac9253432f4b51c59ee2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/homely-fenton-house-close-to-local-amenities.html": {
+    "name": "Homely Fenton House Nearto Local Amenities by Xenox Property Group",
+    "location": "Fenton",
+    "score": "8.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357468558.webp?k=d296c1ca536f4d99b0187f6d7e56284e42b8c8982844ddef7b082e295cbff224&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hideaway-leek1.html": {
+    "name": "Hideaway",
+    "location": "Leek",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391444944.webp?k=cad16e84060c9131310c1e7dc7694c5befb8c61d8bbea73e6caf116321f94f3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bay-tree-alton.html": {
+    "name": "The Bay Tree",
+    "location": "Alton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430754106.webp?k=d5f4090405424ad1f01604fb4296f1b150e8b040a9a55787055acb6101d28c62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/porters-lodge-tamworth.html": {
+    "name": "Porter's Lodge, Tamworth",
+    "location": "Tamworth",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344188038.webp?k=f2571f09a20916327b5baec4b053bcdde3e39d3d9a99ec7769bece3f353f6c21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/winifred-townhouse-by-avenew-management.html": {
+    "name": "2 Bedroom Winifred Townhouse at Avenew Management Serviced Accommodation Stoke-on-Trent with Free Parking & WIFI",
+    "location": "Hanley",
+    "score": "5.8",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307272845.webp?k=004e4e46c752a9b85f15733011c99d45a5ca99976e7228a46c59421d04a7843e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/larks-rise-cottage.html": {
+    "name": "Lark's Rise Cottage",
+    "location": "Onecote",
+    "score": "8.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385560939.webp?k=53b1d7cb5bce4944cf4fde5e68b1055673aaa99ec76cd8fdf7b9eec00d466d6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/market-place-guest-house.html": {
+    "name": "Market Place guest house",
+    "location": "Burslem",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329335522.webp?k=a31847734344a244d66abf88a9d945348bcfa3f7aa2b3fa9de88f069c996778f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fox-inn-stourton.html": {
+    "name": "The Fox Inn",
+    "location": "Kinvere",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427827504.webp?k=c43d9d182ccae15c0fff41e70c0fb63d79323abd869c6617cb84ef0c43c69b81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ash-house.html": {
+    "name": "Ash House",
+    "location": "Alton",
+    "score": "9.2",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344400741.webp?k=be2f985ac7b45e21762d1061f4b20d8e42d88bb551912846f76f10678cdeb140&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-coley-lane.html": {
+    "name": "5 Coley Lane",
+    "location": "Stafford",
+    "score": "7.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248294440.webp?k=a91beec9e9186193b1a6f6a39211330ab88aba1f197de5922e69c0fbd7af198c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gladstone-cottage-alton.html": {
+    "name": "Gladstone Cottage",
+    "location": "Alton",
+    "score": "9.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419969685.webp?k=31525b18b08b09b7d3fb3ef81535e90cfd30ef5ed0e626b22f650d487d1446e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/malthouse-farm-carriage.html": {
+    "name": "Malthouse Farm Cottage Carriage",
+    "location": "Dilhorne",
+    "score": "9.2",
+    "review_count": "95 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309378456.webp?k=55f980bb050fc961caed77264ab4cd43944dabf9d6a82ab199be48a66ec86516&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollybush-cottage.html": {
+    "name": "Hollybush Cottage - E2800",
+    "location": "Cheddleton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417886300.webp?k=bba052607429b3453dafcb1f95d97fab3c321159dda3fed506f275e5cc7a1f1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bed-home-in-crewe-by-53-degrees-property-ideal-for-business-amp-contr.html": {
+    "name": "Spacious 3-Bed house in Stoke by 53 Degrees Property, Ideal for Long Stays, FREE Parking - Sleeps 6",
+    "location": "Stoke on Trent",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404976464.webp?k=eaf4c1006071e072f238956e1a884ffeed387a48ace73c772b767da0124f58a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-plus-london-road-stoke.html": {
+    "name": "Townhouse PLUS @ London Road Stoke",
+    "location": "Stoke on Trent",
+    "score": "6.8",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265303719.webp?k=e6854b03dab5224fbfebbe2cf5dad1f871f91ef972e2276c7d6ef2f88c4caf63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cranmere-lichfield.html": {
+    "name": "Cranmere Lichfield",
+    "location": "Lichfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406108290.webp?k=cde9c2250a2e69ba3183665abc264d007f3c4a0c59401f98bd9b18d426bc7cbb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/melbourne-house-burton-on-trent2.html": {
+    "name": "Sherlocks House -- for contractors & family -- Entire house ,4 rooms, sleep 10, working facility, private parking , 42\"smart TV, 362 Mbps WiFi, easy access to A38, A50, 8 mins to Burton town centre",
+    "location": "Burton upon Trent",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430525792.webp?k=2013ccd177eac24541afaba4984f6e39525690d5db2c2aa9f82d2d370089e996&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-balfour-house-by-truestays-5-bedroom-house-in-stoke-on-trent.html": {
+    "name": "NEW Balfour House by Truestays - 5 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403280252.webp?k=8a07ab23163b6d46ce73d58a3a6559557c572dd857363be2d9c40db4546ee287&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-cottage-in-the-countryside.html": {
+    "name": "Cosy Cottage in the Countryside",
+    "location": "Stafford",
+    "score": "8.4",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331860370.webp?k=408908104883d45eb3de40853c32169fa99cfb0b434d9b12baf767d3cf128701&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-barn-litchfield.html": {
+    "name": "Park Barn",
+    "location": "Lichfield",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416795727.webp?k=2050eb2601253c81322467914e4b6aa29547d9a56ffbb3d79193867f03535fd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/middle-cottage-stoke-on-trent.html": {
+    "name": "Middle Cottage",
+    "location": "Stoke on Trent",
+    "score": "10",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242283579.webp?k=8e04610aaeb416faaca5193569d0a52cc59e53dad7eff4f61ea1704630a4fbf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-city-centre-home-kiln-side-by-true-stays-stoke-on-trent.html": {
+    "name": "Kiln Side by Truestays - 3 Bedroom House",
+    "location": "Etruria",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357425534.webp?k=c1f8db577c44301d875b87e6b2707cf6550c97e6743b015d4831dca8095e503d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-st-apartments-stafford.html": {
+    "name": "Bridge St Apartments",
+    "location": "Stafford",
+    "score": "8.1",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142368024.webp?k=c9022a102b0f84442d1acec0b0cbbf380de2154b3d1ac38bf94e058fca15f650&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boosley-grange.html": {
+    "name": "Boosley Grange - E5372",
+    "location": "Longnor",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419694715.webp?k=85fc4ef8490df22b8847b0bc1a7faeaea17152d6e2d02913afd15925e60c83f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-24-brunswick-place-stoke.html": {
+    "name": "Townhouse @ 24 Brunswick Place Stoke",
+    "location": "Etruria",
+    "score": "6.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326759553.webp?k=b7383b6a018307fd31a1b5af342809793d9c9b118005dcf1df99ce4f4fd4442d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-apartment-with-a-wonderful-view.html": {
+    "name": "1 Bedroom Apartment with a Wonderful View",
+    "location": "Stone",
+    "score": "7.7",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265234329.webp?k=86bdef380e742090feadf73709fe30b2aa6368a27f9086620109a84d96a172c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nook-staffordshire.html": {
+    "name": "The Nook",
+    "location": "Lichfield",
+    "score": "8.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350427924.webp?k=53c25ecd4c51bc7f7d0e858b9aaa5804c493ed5cb7ce31f858df24429a7c5725&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-property-in-newcastle-under-lyme.html": {
+    "name": "3 bedroom house lots of parking Maybank N-U-L",
+    "location": "Longport",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403929566.webp?k=a8addf2a504778fe3255e06513c3237af50511123b090de14a4fbab830dc0ce5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/snowdrop-cottage-nr-alton-towers-amp-peak-district-sleeps-4-2.html": {
+    "name": "Snowdrop Cottage nr Alton Towers & Peak District, Sleeps 4+2",
+    "location": "Cauldon",
+    "score": "9.2",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280447816.webp?k=2298573ab16a6ad0f62d442a28675e33c57a46fabd321e3a12b43a82227268e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aspley-cartshed.html": {
+    "name": "The Cartshed",
+    "location": "Slindon",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419782846.webp?k=145e6a1c83a6b7d60257cc72b11fcdae999887709c7166ac25faa055cc80a30d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-lily-by-truestays-3-bedroom-house-in-stoke-on-trent.html": {
+    "name": "NEW Lily by Truestays - 3 Bedroom House in Stoke-on-Trent",
+    "location": "Newcastle under Lyme",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391481745.webp?k=82d874acccf16b2428da1b966df4492d4f11c6cbd9a253ee7483278d01976957&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whole-2-bed-flat-stoke-on-trent.html": {
+    "name": "Fully Equipped 2 BR Flat Near Hospitals and Supermarkets with Free Parking",
+    "location": "Stoke on Trent",
+    "score": "8.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434083845.webp?k=8d0225e161bb52c797d09e51eb95c1a82a433a9daa8f97844d7f4e129febf1a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-dairy-ellenhall.html": {
+    "name": "The Old Dairy, Ellenhall",
+    "location": "Stafford",
+    "score": "9.4",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/184225166.webp?k=3261fe2b22e62d572b39c4df04d3cf5debbbba67b38ea2e827d4f4e34d04c3e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bed-flat-in-central-stoke-near-train-station.html": {
+    "name": "1 BR Flat in Central Stoke Near Train Station",
+    "location": "Stoke on Trent",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385455297.webp?k=00bb44bb55904b28989a61556d3e3aca4060622b7053918e41ba8ac0442cec2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greenvale-barn-cheadle.html": {
+    "name": "Greenvale Barn",
+    "location": "Cheadle",
+    "score": "10",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297241825.webp?k=138b832a2b68b02288c8d9bfabfb41169c76ede47826caca4b794b75ac15ab3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manifold-cottage.html": {
+    "name": "Manifold Cottage",
+    "location": "Grindon",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240130799.webp?k=bc5f0e9a090bed59ef7497a9b37b73a9db5c7047c347c01e48dbe3dd6a253f87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayloft-hartington-nr-buxton.html": {
+    "name": "The Hayloft",
+    "location": "Hartington",
+    "score": "8.4",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383678570.webp?k=9dab538beff73e15ec35bd0dfe0c40e9dd97930bb4109f1e8efd9b90aad93320&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-temperance-hall.html": {
+    "name": "The Old Temperance Hall",
+    "location": "Kingsley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125526835.webp?k=f798fddccdd48f49eb0502b2a64720763bdd5e3aa4679707ddf4318b91145538&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dairy-house-farm-horton-near-leek.html": {
+    "name": "Dairy House Farm",
+    "location": "Horton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416819752.webp?k=557221716047bc4800ce661f83813654b3a0679880add62435ba522e673f351a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodleighton-cottages.html": {
+    "name": "Woodleighton Cottages",
+    "location": "Uttoxeter",
+    "score": "9.8",
+    "review_count": "184 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221237579.webp?k=eb08f163f6e09befee827a98205f460838e1b6d65d2ba320aecadeadb8284d89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/onpoint-3-bedroom-townhouse.html": {
+    "name": "OnPoint-3 bedroom Town house Ideal for Contractors",
+    "location": "Etruria",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424765534.webp?k=295c3c4bda4fd9214dbd9c249e1f7c28e173ebb6f39ca8ce50971252067eb71b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lincolns-at-the-whitehouse.html": {
+    "name": "Lincolns at the Whitehouse",
+    "location": "Cannock",
+    "score": "8.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291112487.webp?k=e258049207b8599e7de558658e39ebcc51119aa74b2e5fa9c6b268583f3253f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-hethersett-walk.html": {
+    "name": "Bentilee Stoke",
+    "location": "Bucknall",
+    "score": "6.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408086067.webp?k=c816c7dcc95e23ab7b1e8c0a91e092afe923b857ecee6b4c61af83b1b1607898&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-hall-country-house.html": {
+    "name": "The Old Hall Country House",
+    "location": "Madeley",
+    "score": "9.8",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5307844.webp?k=ec1e781d804dac3e642991dd1decc8b63d778a3c4a1cce294ce3d658b5d94558&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-princes-road-stoke.html": {
+    "name": "Townhouse @ Princes Road Stoke",
+    "location": "Stoke on Trent",
+    "score": "6.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341098104.webp?k=044e38e360cc781228827af1050c05f765bee7bbad72fa8e56c01fb788073cee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ramblers-leek1.html": {
+    "name": "The Ramblers",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391444959.webp?k=aa1e1f3d606a6b2b627cbb12bd09e4f6f96a95b2777ffcefdd20f12209a1b36f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gate-house-stoke-on-trent.html": {
+    "name": "The Gate House, Stoke-on-Trent",
+    "location": "Oakamoor",
+    "score": "9.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344431940.webp?k=9ced8e47a5668da03173f4b2f6c57f044515db18f6aa4e30b3621ca1096d3941&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bigginhall.html": {
+    "name": "Biggin Hall Country House Hotel",
+    "location": "Hartington",
+    "score": "9.1",
+    "review_count": "173 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334438244.webp?k=c9f39a1685f3d08dac4f1b7d28b7b662e84634dbc2c4bf77d7fa955b058fe06d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-peacock-barn.html": {
+    "name": "The Peacock Barn - E4713",
+    "location": "Needwood",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418297708.webp?k=230952375fb3059123a989ffe0afeb91336ea8a4b2a18861e8f94814e9aee267&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queens-chambers.html": {
+    "name": "Westport Plaza",
+    "location": "Burslem",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421154277.webp?k=f680157171c1db1abdaab2c34e901c284cef4e6f11aba6793a19f4eba2a38470&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-woodview-house-by-truestays-2-bedroom-house-in-cannock.html": {
+    "name": "NEW Woodview House by Truestays - 2 Bedroom House in Cannock",
+    "location": "Cannock",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413642235.webp?k=4c9267f4986d1d549839e11fda7099a88e80de98c22f5742e23833757f194ab3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-studio-flat-in-stoke-on-trent-town-centre.html": {
+    "name": "Lovely studio flat in Stoke-on-Trent town centre",
+    "location": "Stoke on Trent",
+    "score": "6.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411681849.webp?k=54ac9347023dae580df6cf31a1e7b901cb0f1ad69996e8e5b35516d34349ba12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/single-flat-hanley.html": {
+    "name": "Hanley Entire Flat",
+    "location": "Hanley",
+    "score": "7.6",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424395481.webp?k=cd0f5c8b74bfb7b416fb35a84e0e0b7230c1486122ea005b6172445208c48c33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robins-rest-stoke-on-trent.html": {
+    "name": "Robin's Rest",
+    "location": "Stoke on Trent",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370152643.webp?k=cc4ab45fca23a1a025d06bf50f4d754ac2431f408354098d0eb5f26ebbd12b42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/four-bedroom-4-kiln-view-by-truestays-short-lets-amp-serviced-accommodation-hanl.html": {
+    "name": "Ambassador House by Truestays - Luxury 4 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357489818.webp?k=9e35d5eb2e1de6a4b22285ad5e2e9b50efbda57a2129c79fdbe0449cbc8a0e26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-rural-cottage-peak-district-pets-welcome.html": {
+    "name": "Cosy Rural Cottage Peak District, Pets Welcome",
+    "location": "Hollinsclough",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383287265.webp?k=2997e1fa9315edb6435b574751e97d98b535539b217fe6a00f42448f7bd4e9d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cul-mor-b-amp-b.html": {
+    "name": "Cul Mor B&B",
+    "location": "Eccleshall",
+    "score": "9.7",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84073131.webp?k=d056d196650a760d65bc913e005676a1b31bcd9a8ccedf90ba7fff3ff1bf8d15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-berkley-house-by-truestays-3-bedroom-house-in-stoke-on-trent.html": {
+    "name": "NEW Berkley House by Truestays - 3 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403910995.webp?k=fcb2924f1e67b6b79d528c562d74e9cb54899dd07f941db9c2e584e4014fab0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-furnished-apartment-in-a-rural-position.html": {
+    "name": "2 Bedroom Furnished Apartment in a Rural Position",
+    "location": "Stone",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217863224.webp?k=b2da1b3c18b89b384606fe182c47fdeaed52b6b2c8421fd7862421c69acb8e1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acorn-lodge-stafford.html": {
+    "name": "Acorn Lodge",
+    "location": "Stafford",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360189665.webp?k=d06f748822b18743541d9396512ad95b74c32a212d81236c84d3d280ede28da2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/venture-house.html": {
+    "name": "Venture House by YourStays - 3 Bedroom Home best for Alton Tower Tourists",
+    "location": "Stoke on Trent",
+    "score": "8.7",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410975289.webp?k=c6b5f6036afae6ba1cef6918c56efc857dd55c9033bea72de70b91e76b90fd38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chaseley-house-by-truestays-new-2-bedroom-house-in-rugeley.html": {
+    "name": "Chaseley House by Truestays - Luxury Apartment in Rugeley",
+    "location": "Rugeley",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357500358.webp?k=11a442e54ecba2618220728678123058e97ca17438d773e54e553775374aa5b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-detached-nec-47-bhx-47-snowdome-47-drayton-mnr-47-tamworth.html": {
+    "name": "Drayton Manor House FREE parking",
+    "location": "Tamworth",
+    "score": "9.5",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241149506.webp?k=20c6cce0d83bd405b92ab7628c7778442090e20eb0d7ef6584660b3463602e9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-beehive-betley-near-crewe1234.html": {
+    "name": "The Beehive",
+    "location": "Betley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420340437.webp?k=471c25a7b9f09ab2b69ae8e49c51d146a05641cbbc10315f28f6e7c8f9b82ec8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pipistrelle-stoke-on-trent.html": {
+    "name": "Pipistrelle",
+    "location": "Stoke on Trent",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369777952.webp?k=d09bf7e41361212923155cfa3d4f55c957de4d49e8d5c7f554e41da3d56a3494&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wren-cottage-leek.html": {
+    "name": "Wren Cottage, Leek",
+    "location": "Leek",
+    "score": "9.3",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358437161.webp?k=6c40d0640f0475a55e14464458297780b1d72e9f5825a75fa73876700fae7a95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhodes-to-serenity-luxury-shepherds.html": {
+    "name": "Rhodes To Serenity - Waterfall Shepherds Hut",
+    "location": "Cauldon",
+    "score": "9.6",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363731533.webp?k=2d83608cf5b0b75b4e4e8e7976f08ee0e6edca4c254fe24ceea2866baf66e000&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-onecote.html": {
+    "name": "The Stable",
+    "location": "Onecote",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418931096.webp?k=428454e3f7fc5051c8bb0ebd182262777238c92f5c09f14e33f276259bd59cff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ellenhall-farm-cottage.html": {
+    "name": "Ellenhall Farm Cottage",
+    "location": "Stafford",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385262733.webp?k=7fb0bd2dab17fe82fbdd04c41affa1649e0913a7ecd41ab09a3a44603ecff0b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-76-clare-street-stoke.html": {
+    "name": "Townhouse @ 76 Clare Street Stoke",
+    "location": "Stoke on Trent",
+    "score": "3.8",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265282208.webp?k=3115168cd73cfdf7de9b84f7decded40649f8714644288699d6188d6b61d0008&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/school-house-cottage-newtown.html": {
+    "name": "School House Cottage",
+    "location": "Newtown",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351882786.webp?k=f9b8b4823bed841d28e44d7fe0b0f817487ec1497e84834c3bea31bff58c06f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hidden-gem-canal-facing-retreat-with-lovely-walks.html": {
+    "name": "Hidden Gem Canal Facing Retreat with lovely walks",
+    "location": "Hopwas",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412551943.webp?k=06e1e9a1d4b4fdff24059e1f6c423ba3db9aaac6d615fa5798e1a30bef2ad4c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ford-coach-house-cottage.html": {
+    "name": "Ford Coach House Cottage",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374770578.webp?k=23330cd34220b099f2e9c89e22a18930d846f13c943cd44e1ec95d6b4b874739&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/slitting-mill-annex.html": {
+    "name": "Slitting Mill Annex",
+    "location": "Rugeley",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319004641.webp?k=c3d314de9d1fe4858164db5759cf1b92fd10850afaf9e43b5eedd87d57ee29b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-townhouse-stafford.html": {
+    "name": "3 Bed Townhouse Stafford",
+    "location": "Stafford",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286431219.webp?k=2f55e8f85194ef7145c3ae843158e9ca1cdec3e5d0c89ec33cc570e0f5848023&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/downsdale-cottage.html": {
+    "name": "Downsdale Cottage",
+    "location": "Flash",
+    "score": "8.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344402755.webp?k=f4a7ad26f89d6e3828837ad84c63b69c84edaab45cd0584fdcfb919f614c7b9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/zams-rooms-stoke-on-trent1.html": {
+    "name": "Zams rooms",
+    "location": "Stoke on Trent",
+    "score": "6.1",
+    "review_count": "110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365189037.webp?k=9544ad6ff1f054458a611b984c4acb98f7a27d8753a5c9ad5962c97163a8d2bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heythrop.html": {
+    "name": "Heythrop",
+    "location": "Alton",
+    "score": "8.7",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288115273.webp?k=53d4a2d92fc8fe5129dfe46ee95ad295f2dd2c5a2aeb49934bbaaf962a199ee4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-3-bedroom-cottage-in-great-location-longnor-buxton.html": {
+    "name": "3 Bedroom Cottage in Great Location",
+    "location": "Longnor",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379509599.webp?k=abae259721868409f9ca7fabe522e37cdb2f8a11ce315f036e8cc78d217f2e21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-stylish-three-bedroom-house-by-truestays-short-lets-amp-serviced-accommodati.html": {
+    "name": "Cornes House by Truestays - NEW 3 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357504267.webp?k=423b51554a7b6c33712937fe81827d17184b4277bcaae4d46049a34eee5cf412&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manor-barn-stoke-on-trent.html": {
+    "name": "Manor Barn, Stoke-on-Trent",
+    "location": "Fulford",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344431278.webp?k=4e9e53aabd2c48fcc7733d346b986b14a72fc30b865762646622593d8160c9b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-at-chatsworth-farm.html": {
+    "name": "The Barn at Chatsworth Farm",
+    "location": "Leek",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376073080.webp?k=189b3e8f7f42dabce7828de1c13976337167f393338c19e6f0ff16c2bd04577f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-place-brookfields-road.html": {
+    "name": "Meadow Place",
+    "location": "Ipstones",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425565626.webp?k=943b3ab00358e54c8e247fdb749c30ae2dc94495a46a9e34c5a0ca99fec8d014&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lee-house-cottage.html": {
+    "name": "Lee House Cottage",
+    "location": "Cheddleton",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344419458.webp?k=7a896745a4f561e402a54a9b26641067768e3eeee66b5c350056bc6c9149c87a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-warrington-road-stoke.html": {
+    "name": "Townhouse @ Warrington Road Stoke",
+    "location": "Etruria",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327052214.webp?k=2829639cd97f87f38f8fb93eb7ab99f6d798cf7951e3d1797f18cdcd652ead6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-3-bed-house-in-longnor-near-buxton.html": {
+    "name": "Beautiful 3-Bed House in Longnor near Buxton",
+    "location": "Longnor",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279161302.webp?k=540c4bc51315b3c7f698c0eebd30f671c7fffa879450b4566cb201b56ff1134e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-1-bed-flat-in-central-location-5-minutes-walk-to-local-amenities.html": {
+    "name": "Private 1 BR Flat at Central Stoke with Free Parking",
+    "location": "Stoke on Trent",
+    "score": "8.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434085195.webp?k=e4a4d1fc59507e82c956626087d4945121c2f058d39a987cf5b0348d4b783d77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-view-ukc3893.html": {
+    "name": "Woodland View - UKC3893",
+    "location": "Chasetown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419741530.webp?k=8ef97a679bfeea09c4be9da4bcaf31732ca0d3b6bc4791c9cd6e0e2d31c4e772&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-view-kinglsey-holt-near-stoke-on-trent.html": {
+    "name": "Park View",
+    "location": "Kingsley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431768005.webp?k=af76329b91eb75130464b1cc1da216b4c725be22b8b03d34b7863ddd87ae559d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-stables-standon.html": {
+    "name": "The Old Stables",
+    "location": "Standon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418819259.webp?k=d72371385372f3d111a6a8a7293e8aa035fb6eb5cfe10f71950bc5274bf09c27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mongolian-yurt-situated-on-an-organic-farm.html": {
+    "name": "Mongolian Yurts Fordhall Organic Farm",
+    "location": "Market Drayton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399781469.webp?k=65d20c55d4daedc5c91d7c674b47357fd11a816b86ab0e176a4fd054a7e37499&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-cottage-waterhouses-near-leek.html": {
+    "name": "Bluebell Cottage",
+    "location": "Waterfall",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392781409.webp?k=cec2375e9b4db8367caa43146102c3a737be92b40ca96c0553fd4d4fe42bad18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rudyard-lake-lodges.html": {
+    "name": "Rudyard Lake Lodges",
+    "location": "Rudyard",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427311720.webp?k=cb4647caaa2e35a3d24a50cb352a80e102c45634ca94ad9d5cf2f9bda69b203e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-birches-head-road-stoke.html": {
+    "name": "Townhouse @ Birches Head Road Stoke",
+    "location": "Stoke on Trent",
+    "score": "3.4",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265282506.webp?k=487b66663de17feca1693f07c5a2823b446f787591eb031a212a825aea66bdde&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newcastle-park-house.html": {
+    "name": "Newcastle Park House",
+    "location": "Stoke on Trent",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403346891.webp?k=09e16a15bbdf51913c05f4a936e86bdce1631012cf9514f284ff6d8929b0833c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lazy-mare-by-the-water.html": {
+    "name": "The Lazy Mare by The Water",
+    "location": "Rugeley",
+    "score": "9.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307742657.webp?k=13b0191ee49c18be487806f260208bc21072194d3fc057e621c5589f7b13c83b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/watersview-lodge.html": {
+    "name": "Watersview Lodge",
+    "location": "Leek",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258508533.webp?k=f718869075c584496de1788b38063f39210810a4d06115a725a9ac576121da05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/africana-restaurant-and-bar.html": {
+    "name": "Africana restaurant and bar",
+    "location": "Burslem",
+    "score": "1.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414945580.webp?k=15837a5fc744d2f05cc76cea3a39aebdd5bb9cb26c7a3a3961ee0be8cb6fd3d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swiss-cottage-alrewas.html": {
+    "name": "Swiss Cottage - E5375",
+    "location": "Alrewas",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419702509.webp?k=1147e0585117265e8b16316906e3277289a44873aea7383cebe713973d908132&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gatsbys-39.html": {
+    "name": "Gatsbys'",
+    "location": "Cannock",
+    "score": "6.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359856217.webp?k=3f539bf4345bc7fbe11509a55a3d628fa5f429c82c7b7c030c50277694c3004f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-penkhull-new-road-stoke.html": {
+    "name": "Townhouse @ Penkhull New Road Stoke",
+    "location": "Stoke on Trent",
+    "score": "6.1",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280349896.webp?k=f908290e9b93386dfe3f9a56156edd459f701d3b83a904eac278c03a251bb607&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/larch-uttoxeter.html": {
+    "name": "Larch",
+    "location": "Uttoxeter",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398385610.webp?k=832616d6604413c510221becfb0d19a65257059cb45c633d50d2e8d188b4c8e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/budget-house-with-wifi-and-parking-close-to-amenities.html": {
+    "name": "Budget house with wifi and parking close to amenities",
+    "location": "Burton upon Trent",
+    "score": "4.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385644432.webp?k=2f55905d806c9e208ca3185cbf51860428dab38c73eee530cebcb4b85800289a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westwing.html": {
+    "name": "Westwing",
+    "location": "Hamstall Ridware",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374835094.webp?k=2fed1df2ade2c158d131fb0459709d66edb0e5d182d7d2b8498186fe4552aa09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hartshill-road.html": {
+    "name": "Hartshill Road",
+    "location": "Stoke on Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419448743.webp?k=602c9abaa69c4fe533e998f62a9651874c103e48c0530729c11f5dce52b3e0f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oak-uttoxeter.html": {
+    "name": "Oak",
+    "location": "Uttoxeter",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398364035.webp?k=8ef7308f2175224459b6d55fe2143b5aab347ea53e41590d3ab256be487fdb2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-cottage-burton-on-trent.html": {
+    "name": "The White Cottage",
+    "location": "Burton upon Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363349105.webp?k=6dd39ef900bb93f29c84a505e185286c2c999b1e57d44e9bcf5e78609b38a1b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-stoke-on-trent1.html": {
+    "name": "The Stables",
+    "location": "Wootton",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265022910.webp?k=17a62032d5249c9b081a953c8117895f4980a9e99814694e4ffcaecbdf250147&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-at-middleton-house.html": {
+    "name": "The Lodge at Middleton House",
+    "location": "Church Leigh",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383048709.webp?k=be3fba0429e340760a769ecd6ea413a11515cf7cc4dcb5e08290e630d2032f81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/delightful-2-bed-detached-home-with-secure-parking.html": {
+    "name": "Delightful 2 bed detached home with secure parking",
+    "location": "Huntington",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387031216.webp?k=49b13db087716218acf77faef02d0f1175802a7c8cc48b30cdc4b09a92242e82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lapwing-cottage-stoke-on-trent.html": {
+    "name": "Lapwing Cottage",
+    "location": "Stoke on Trent",
+    "score": "8.9",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167999126.webp?k=768d655e2a24877daa94976fb912c9ffdd01ca9c6abaaefafa5683e73f782d71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whitehouse-farm.html": {
+    "name": "Whitehouse Farm",
+    "location": "Hartington",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418493778.webp?k=98fb465714364561742ceede9dbe7b3df4834f7313f47315d9db5944ce9409fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-rindle-leek.html": {
+    "name": "The Rindle",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236395618.webp?k=1db79ce97875ddfcff6d486a6cc1b7bbda7903c10cb76204b63aa0ced2244376&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-station-street-stoke.html": {
+    "name": "Townhouse @ Station Street Stoke",
+    "location": "Longport",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378698264.webp?k=3248c2068a9f5e9de41c3cfb44453aca1dd2e1ceef6a7947399d0899841ab2f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-luxurious-family-home-near-alton-towers.html": {
+    "name": "stunning luxurious family home near Alton towers",
+    "location": "Newcastle under Lyme",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399928804.webp?k=efc6f231b8479ac7d58c3c980970045f4cfafd49c175e8153ff4cf17b6529d2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-plus-beth-street-stoke.html": {
+    "name": "Townhouse PLUS @ Lower Beth Street Stoke",
+    "location": "Etruria",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279584802.webp?k=c25af4140ff457fe79901f6eccaab65f78457bcce0ae75f94319c14d23829ea3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pegasus-house-stoke-on-trent.html": {
+    "name": "Pegasus House by YourStays 3 Bedroom in Home Heart of Stoke",
+    "location": "Stoke on Trent",
+    "score": "7.0",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410975024.webp?k=415434f1bec385a56d1f8b9fb68c7b8597b73f08db24bafd9ba4d2c6a98eee50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farriers-staffordshire.html": {
+    "name": "The Farrier's Wimblebury close to Cannock",
+    "location": "Hednesford",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406179415.webp?k=25ba93d2ed6c9059c5e016bea179980c99d5626b6ca7e4511ac399445fdd3fc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pump-house-brewood-near-stafford.html": {
+    "name": "The Pump House",
+    "location": "Kiddemore Green",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394793180.webp?k=bfe24a4876436e7f02bc0da8179386b428977610881be76e8232c661df291508&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shepherds-hut-rugeley.html": {
+    "name": "Shepherds Hut",
+    "location": "Rugeley",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306472352.webp?k=74a069c155d65eaa885b5fe69b770d2356094ed92a6ec69f1fd7d1ee55b6171b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sycamore-cottage-ladderedge-near-leek.html": {
+    "name": "Sycamore Cottage",
+    "location": "Cheddleton",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419682924.webp?k=69d65f183dbc3c150384d48fc04dcc9d8279e3ce20a1552a65b552146d98ffa5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nutwood-cottage.html": {
+    "name": "Nutwood Cottage",
+    "location": "Totmonslow",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306284734.webp?k=c02273bc9a72c053080cbd6f5b030a9d48b1c621e7b2010b8eb00b6a8cf70ed8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/remarkable-1-bed-apartment-in-stoke-on-trent.html": {
+    "name": "Immaculate 1-Bed Apartment in Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "2.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353703662.webp?k=40dac6505aac8d7c9cc06e77c5265eced4b1b7407252502bddc8215648c0852e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/silver-trees-cannock-chase.html": {
+    "name": "Silver Trees",
+    "location": "Rugeley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403785522.webp?k=58017e5733a0fac73fb2ce8d45427d5511141e4d26b63c274eb547bba5ff431e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shooting-lodge-buxton.html": {
+    "name": "The Shooting Lodge, Buxton",
+    "location": "Warslow",
+    "score": "9.4",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344456328.webp?k=a9e8dfacb5ade9c167f93863c77fe8945c70f5af2b7f1ba1d962f61ff16f65f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wilnecote-house.html": {
+    "name": "Wilnecote House",
+    "location": "Tamworth",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/272742085.webp?k=1480a1284eba4a40a2fb3b1e906b39cd1d69326559f4f123df5038ad2fb5afbc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-luxury-cottage-on-lake-side-england.html": {
+    "name": "Beautiful luxury Cottage on lake side England",
+    "location": "Biddulph",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387440072.webp?k=52c88f13b562161a81cb42133169bdc118a54258c55df693f6dc02c373e83917&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-stoke-on-trent.html": {
+    "name": "The Cottage, Stoke-on-Trent",
+    "location": "Calton",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344457717.webp?k=51c445a57d3945701c307e65162a82d125a4cf90824f161a072c1e102fbe0f37&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-bedroom-nursery-l-house-by-truestays-short-lets-amp-serviced-accommodation.html": {
+    "name": "Nursery House by Truestays - 3 Bedroom House in Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357499989.webp?k=ebfa7c41933231a3dce6da568ff2b298b0eed99cccebf2a70bb1017ccb4eb658&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-2-bed-flat-whittington.html": {
+    "name": "Spacious 2 bed flat.",
+    "location": "Whittington",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369427902.webp?k=580a29580147a19f21ac2f2b8d7affc94197266687b038e3e8831abb5b734bac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rum-bridge-fisheries.html": {
+    "name": "Sleeps-6 lakeside bell tent - Suffolk",
+    "location": "Sudbury",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218896417.webp?k=90f537ef2157231fc822845b675b4946b4ea69f007fc1b665134e6e75a9715be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/talbot-lodge.html": {
+    "name": "Talbot Lodge",
+    "location": "Ingestre",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419678629.webp?k=43064dd9f1bda98f01fc2b353427dc2bf41cbe9d261a1feacefd30b81e55d8da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-hanley-road-stoke.html": {
+    "name": "Townhouse @ Hanley Road Stoke",
+    "location": "Ford Green",
+    "score": "6.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240459519.webp?k=49942d268a69de7a5b827e6f84f77b61c4b0975121c4616b8760255227d7e8ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/betley-court-farm-1.html": {
+    "name": "Betley Court Farm 1",
+    "location": "Betley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418420501.webp?k=4aeab7fdd4ff544ca23bbbb5d3d8bf57d641c80fd8d46360918ebd551ec78fe6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/betley-court-farm-2.html": {
+    "name": "Betley Court Farm 2",
+    "location": "Betley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420106107.webp?k=851e7b0c513224b699fdfa6180ddbdb70abfc14f08f3489fae4d1f68f56d2ddb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/squirrel-cottage-by-yourstays.html": {
+    "name": "Squirrel Cottage by YourStays",
+    "location": "Stoke on Trent",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410969236.webp?k=02b7aa91ebc2d2b71241fea6ca1c4fead615fe8ecdf17aefb89aaf3573d61699&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cow-barn-alton.html": {
+    "name": "The Cow Barn",
+    "location": "Alton",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392351560.webp?k=eceb82d4b0cc01081be6ce47b8cb831c459868ab1ffa8aa2e03eb6993f3aa166&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-high-street-stoke-on-trent.html": {
+    "name": "1 High Street",
+    "location": "Alton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362220531.webp?k=cdf6f1398ba9860f46e392e04a867d1dfbe6c82092f3dc5d9d5f61476ab51748&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sturgess-house-by-yourstays.html": {
+    "name": "Sturgess House by YourStays",
+    "location": "Stoke on Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426897242.webp?k=729e7bda0454d636a9263a3c2ef62c1215dd27a140f3b5d0292d5583d849a349&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/colliery-house.html": {
+    "name": "Colliery House",
+    "location": "Stoke on Trent",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410662270.webp?k=957ab00ad6f750fe083704fa33e2b68abd1fa2a24686894c1b6d641913d1ffd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-gem-uttoxeter.html": {
+    "name": "Little Gem",
+    "location": "Uttoxeter",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328337258.webp?k=1ab00709a2e441ca3b60d2a431f4a960f44e7c97fb212f61de09d6db28dfed50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peter-marshall-39-s-apartment-at-89-newcastle-street.html": {
+    "name": "Silverdale - Newcastle under Lyme",
+    "location": "Newcastle under Lyme",
+    "score": "8.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203180345.webp?k=2f77065c3f8e0cfe5787a79d05bdf9852183cf3f546168774d4d1623cd5b12b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ash-uttoxeter.html": {
+    "name": "Ash",
+    "location": "Uttoxeter",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398536536.webp?k=e15b3794691d403691da017eace94271bff80c4d803319d99c606a7958657644&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kipling-lodge-leek.html": {
+    "name": "Kipling Lodge, Leek",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257792389.webp?k=3f209b3bc8a330b565206bc5b35684c142d72842cd76a13c574b08d4ae1578e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-sty.html": {
+    "name": "The Old Sty",
+    "location": "Whiston",
+    "score": "9.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344481829.webp?k=efb8225ff2e3d10d8dfd20f6c793c618060cd2682c9e5fec111d2dfd6225cab3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ivy-cottage-rugeley.html": {
+    "name": "Ivy Cottage",
+    "location": "Rugeley",
+    "score": "7.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388912052.webp?k=0145c461c04521bcb2b0969327c321d94ec60852baf70d123db6fa5796c0c99f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sublime-stays-stylish-studios-stoke-city-centre-5f.html": {
+    "name": "Sublime Stays Webberley Stylish Studio Stoke City Centre",
+    "location": "Stoke on Trent",
+    "score": "5.3",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323336095.webp?k=edf0fc54e835493793cbd13200be1e73e3803554c539fcac33922e7bdbc3e0cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-victorian-style-house-in-stafford-centre-ideal-for-contractors.html": {
+    "name": "Large 5 Bedroom Victorian House - Drive Way Parking",
+    "location": "Stafford",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404205939.webp?k=b9cf277328f8a9be39f6d05727305b712c2f1f38bd474520fa9224d93562c8e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pastures-barn.html": {
+    "name": "Pastures Barn",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210949882.webp?k=0183d648461be35496dbc0f63b81064f055ae4543ca3a19f6170549ad73f8a94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeyberry-cottage.html": {
+    "name": "Honeyberry Cottage PART OF WOODBINE COTTAGE",
+    "location": "Alton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434432319.webp?k=b9435c79a497f4e3b0d08342411e157a3adc3ac46779771cb57d1846d85a6b6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glamping-at-holly-grove-farm.html": {
+    "name": "Glamping at Holly Grove Farm",
+    "location": "Stoke on Trent",
+    "score": "9.8",
+    "review_count": "148 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239262504.webp?k=1d6ebbe35eae4757fe8c61ad5df8ef01e6ce631a25d9a471c7837b256e2edda0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/applegarth-cottage-stoke-on-trent.html": {
+    "name": "Applegarth Cottage",
+    "location": "Whiston",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304000482.webp?k=be661d6728ca81efa50039fc8c3910c1cf21c8d3c7f72f5a71ba7ba422894f40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brampton-him-house.html": {
+    "name": "Brampton Him House by YourStays",
+    "location": "Stoke on Trent",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410661385.webp?k=279f79ac380fa4e55915e88ab9ce8c6f397f8d11b822fa05dc08fd0913752061&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/herdwicks-barn.html": {
+    "name": "Herdwick's Barn",
+    "location": "Wootton",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344412018.webp?k=22a4c2b4933aaa755da4bf9974fa038f460c1549dcbede296785399ab0b598e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cordwainer-cottage.html": {
+    "name": "Cordwainer Cottage",
+    "location": "Stoke on Trent",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344480664.webp?k=a0504440b3549006dd94693d47a19b9cd6f3607bef8413d0dd7ad907d801c656&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goldcrest-meerbrook.html": {
+    "name": "Goldcrest",
+    "location": "Meerbrook",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236370613.webp?k=c186364f6f04e45b64a68eb154a89832f83f91980e62a6aa41b0dfcbc633da2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodside-view-leek.html": {
+    "name": "Woodside View",
+    "location": "Leek",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396524379.webp?k=ffbe560b3d00ac50b23671ef8176953cc7a0f574b0df8dfd4dfd4aea13233854&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-barn-stone.html": {
+    "name": "Orchard Barn, Stone",
+    "location": "Stone",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270078509.webp?k=58ae6a22755dcab13ebf13dda0a56518f013fb8beff38eab7ba90fd6f06dbf41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-2-bed-flat-near-alton-towers.html": {
+    "name": "Stylish 2 bed flat near Alton Towers",
+    "location": "Blythebridge",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412738759.webp?k=07d447166de66248d5f7bf08ff9385b1e022192015722115acf92cba80c74cd4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-manifold-inn.html": {
+    "name": "The Manifold Inn Hotel",
+    "location": "Hartington",
+    "score": "8.7",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/30989245.webp?k=80758a3e10cebd386076fdf3144a0c3d42db10906e45b912a9e7690793a92f6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spring-cottage-hollinsclough.html": {
+    "name": "Spring Cottage",
+    "location": "Hollinsclough",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398038193.webp?k=0d94733d2c8c8bf063b7c7928cbf71be8c0454b5240840aa063f686750cda453&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-malthouse-burton-on-trent.html": {
+    "name": "29 at the Malthouse",
+    "location": "Burton upon Trent",
+    "score": "8.3",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352080957.webp?k=d1f7343bcb896794940ddb1b97ae7f57f5523007b42dd22af6a63072589cf154&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhodes-to-serenity-mermaid-shepherds-hut.html": {
+    "name": "Rhodes To Serenity - Mermaid Shepherds Hut",
+    "location": "Stoke on Trent",
+    "score": "9.9",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379848393.webp?k=4b05b0a0180fe6ef31791dfb767db4bbeb2dda3f3d5ec39802c249a8624a72d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/awesome-stoke-on-trent-home.html": {
+    "name": "Awesome Stoke-on-Trent Home",
+    "location": "Longport",
+    "score": "5.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312192691.webp?k=4979a809de71c2730b4765079a0cb13fcc15d5cdb5da14188142d04012e061ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/albany-house-by-yourstays.html": {
+    "name": "Albany House by YourStays",
+    "location": "Stoke on Trent",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410657519.webp?k=bb1ff11ac2f0ff23f9ac8d187a045f6d36d91d83c2cb84fc2c6948e7d3a302f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-corporation-street-stoke.html": {
+    "name": "Townhouse @ Corporation Street Stoke",
+    "location": "Stoke on Trent",
+    "score": "5.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265282586.webp?k=35fd23b80f9843f90e3e0a52f9da825bd7754e5482cb9ab488a0156d30dfa73c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heathcote-hideaway-uk36659.html": {
+    "name": "Heathcote Hideaway - UK36659",
+    "location": "Hartington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395635006.webp?k=254063b371f9b77f57a3299f0f3bf4122ff6da1b5c0647d7967a267301c21ce1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sixpence.html": {
+    "name": "Sixpence",
+    "location": "Uttoxeter",
+    "score": "7.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412467733.webp?k=0013b965d59b34414d2e3f395bfa207b9cd1cf04fab882811cc8058890dcb89e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moddershall-oaks-spa-restaurant-suites.html": {
+    "name": "Moddershall Oaks Country Spa Retreat",
+    "location": "Stone",
+    "score": "8.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82401675.webp?k=b32a77078db15afe26dc04fdbfe4beb9506364574f64170b6cd2b70cbbbac72a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-barn-stoke-on-trent.html": {
+    "name": "The Old Barn, Stoke-on-Trent",
+    "location": "Alton",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288230817.webp?k=44e489045ec863b2e65c32e288e577e290257cccc68fa2eafbf7da8cd74ed566&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/four-bedroom-penkhull-house-by-truestays-short-lets-amp-serviced-accommodation-h.html": {
+    "name": "Penkhull House by Truestays - 4 Bedroom House in Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "7.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357499911.webp?k=39b951b8a9b2d653117344d57c281a2b3a34f5591c5152aff14afe9ba7efe51b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holly-dale.html": {
+    "name": "Holly Dale",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249885618.webp?k=2ac0b792fb3d438fc4298c100f1a2cbbbaa73bb696c35c0f8fef93c4ffdfc59b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-2-5-bath-contractors-and-groups-free-parking-driveway-new-build-house.html": {
+    "name": "3 Bedroom! 3 Toilets! Contractors and Groups! Free Parking! Driveway! NEW BUILD HOUSE!",
+    "location": "Burton upon Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421273194.webp?k=712ec62edaaa1f017daf4b767f8c1d38979f7ae67a539363d48c547c6a662f6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/7-the-green-lichfield.html": {
+    "name": "7 The Green",
+    "location": "Lichfield",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397829419.webp?k=7c97e85e7c45bfe89d209bf4702079ddfb0c9fe2826787b78fdc5a1205c087f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/freshwinds.html": {
+    "name": "Freshwinds",
+    "location": "Market Drayton",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386823875.webp?k=ffd835c9f1422c1538e5f562d1fd40f3d645fb8da9c07ae34f8cdb7a942976c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-parlour-denstone-near-uttoxeter.html": {
+    "name": "The Parlour",
+    "location": "Denstone",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420112709.webp?k=05612b04f01443b7f73e192b77ca989da0f9b93daba5f6867067f4664a34c903&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sleeps-3-gypsy-carriage-39-rose-39.html": {
+    "name": "Sleeps-3 Gypsy Carriage 'Rose'",
+    "location": "Sudbury",
+    "score": "8.9",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269631863.webp?k=fe69c11e7b9a128435188c4e1ab00678d5cc9447f50b596777f499bebdcd7393&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grove-house-by-sigma-stays.html": {
+    "name": "Grove House - By Sigma Stays",
+    "location": "Newcastle under Lyme",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436587575.webp?k=369ba84920506de3ca21ea57cfdadc25ca1d5663cecc4cabb000bda136fca52a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bateman-house-by-truestays-new-2-bedroom-house-in-stoke-on-trent.html": {
+    "name": "Bateman House by Truestays - NEW 2 Bedroom House in Stoke-on-Trent",
+    "location": "Biddulph",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407635382.webp?k=78da06d1eaa1dab922746d7dfe7c1ff889293808dc5250382d09dd78bedfdc8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-carthouse-nr-uttoxeter.html": {
+    "name": "The Old Carthouse",
+    "location": "Newborough",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418483740.webp?k=36244c305cc3dc4bdf5479e16517135dc474620e0d003aaa09b0413f72e22d04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/farley-cottage-stoke-on-trent.html": {
+    "name": "Farley Cottage, Stoke-on-Trent",
+    "location": "Oakamoor",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161582597.webp?k=b74ea2889722cd595dfd0fc51e6e83bf309054b7719dbc742457dc3e08581b75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-renovated-3-bed-house-stoke-on-trent.html": {
+    "name": "Beautiful 3-Bed House by MiniStays Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403367541.webp?k=f63bbe0343c0de9c5e08e7032bed312b109d70f5ffbe6e2b6a8852c31dedbf0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lilly-rose-cottage.html": {
+    "name": "Lilly Rose Cottage",
+    "location": "Waterfall",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392585775.webp?k=829ea589e11148f3493a27dc80c945e76055dac3e0be77d465ff2feb47a9918d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottage-close-to-alton-towers.html": {
+    "name": "Woodbine Cottage",
+    "location": "Alton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412619182.webp?k=5851d00309e4052eab2b865cf47ba0b9f172bbbfbc1a8786bbd5c15218228dba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-carthouse-uk34671.html": {
+    "name": "The Carthouse - UK34671",
+    "location": "Longnor",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395024682.webp?k=93a9e96d4ecf99c4c44f5af12c7f3ac7b3430c26d3e542f5a0998c5c718b794c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-church-coach-house.html": {
+    "name": "Old Church Coach House",
+    "location": "Church Leigh",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344409020.webp?k=6ad197a00712b67502d12f65a2f3009b66b2700e12c6ed0c94c20e97ff36fba4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-view-by-peakes-retreats.html": {
+    "name": "Castle View by Peake’s Retreats",
+    "location": "Tutbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437832760.webp?k=65ff82286e5e2eb09b535d465361cdb8480a858c12c355b932b30fa4465b3110&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-secluded-peak-district-luxurious-barn.html": {
+    "name": "Stunning Secluded Peak District Luxurious Barn",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302321624.webp?k=d8986df5e0c2c3dd29edae3186d74fca680dc328587e623eebd5c0b281bcfc10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhouse-nicholls-street-stoke.html": {
+    "name": "Townhouse @ Nicholls Street Stoke",
+    "location": "Stoke on Trent",
+    "score": "4.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278691290.webp?k=47e35067a91f5304239abc0b6f8bed2fa2d8ed6cf3471a848c22cb14ae6c8924&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/my-ly.html": {
+    "name": "My Ly",
+    "location": "Himley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419769598.webp?k=52d5e01bdeabcd4d31bbe1c09de22906eef614e68143853a3b0352239a43a4ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haydon-house-by-truestays-new-4-bedroom-house-in-stoke-on-trent.html": {
+    "name": "Haydon House by Truestays - NEW 4 Bedroom House in Stoke-on-Trent",
+    "location": "Etruria",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434122216.webp?k=87757c9e45f3e1bdd48682bcf3f42efece5b0adafc0994de5a2a2bf40017ef80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-cottage-staffordshire.html": {
+    "name": "Garden Cottage",
+    "location": "Stone",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387520270.webp?k=b06717998f1b3c6daffb7211e4bf0998cc639d945b70ab0d32fcadd8a8ff3378&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ramshorn-estate-woodland-lodges.html": {
+    "name": "Ramshorn Estate Woodland Lodges",
+    "location": "Oakamoor",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280622500.webp?k=148cac6a7e38ce1250916eb701259147a59033e1559c05c4d20df08f29d1281f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-stoke-on-trent12.html": {
+    "name": "The Coach House",
+    "location": "Oakamoor",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306516069.webp?k=b734947871216dfef1e2457d4330a4726dbf3a37c384a2bb1770c69e31f32e76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/saddlers.html": {
+    "name": "Saddlers",
+    "location": "Stone",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363267852.webp?k=0fe8531ba3221547d87bd51100418487dd83d1fac2da19643f314870e1317cda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/south-hillswood-farm.html": {
+    "name": "South Hillswood Farm",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410372527.webp?k=1f5456bca62cadfce7d16c5e4b252ca3924f71aab73fb3f933a55fc65dd94e17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/town-end-barn.html": {
+    "name": "Town End Barn",
+    "location": "Warslow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418908417.webp?k=f045708049ea636ef06f54c33a1a9e5d1311e4808bd4ed7247c28816784d2049&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/serenity-uk38551.html": {
+    "name": "Serenity- UK38551",
+    "location": "Endon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423586783.webp?k=7ab62d2af113849fb384af1515eff58943f613cbd1af1be60dd70cc4e2764967&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rumer-hill-house-staffordshire.html": {
+    "name": "Rumer Hill House Cannock",
+    "location": "Great Wyrley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375826095.webp?k=6d6bdea65c6eea3a56ff1c3b07772d4d404c402e3b058851df58f26459ca4f11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-lea-cottage.html": {
+    "name": "Mill Lea Cottage",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395269952.webp?k=9b3584b129056ac3b69f0ee566f6a0a6c3a601b616a45c4b778eda6bbdeac963&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-quiet-woman-market-town-apartment-and-social-space.html": {
+    "name": "The Quiet Woman Market Town Apartment and Social Space",
+    "location": "Leek",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383061533.webp?k=4e74b499d03ddff57ef4a89769612d6356b127517497c686612f16cfe6df5a56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-leek.html": {
+    "name": "Stable Cottage",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396148226.webp?k=1a33a9004a7e4b49689c956b1b77311b5780d270470b0c34fa79d8b2c1762f2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lakeside-wooden-tipi.html": {
+    "name": "\"George's\" lakeside wooden tipi",
+    "location": "Sudbury",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271706150.webp?k=b00576fce8321ab25d6364608ec6953fa7d1f79b024507217962ce7c9da43081&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dundas-house.html": {
+    "name": "Dundas House",
+    "location": "Stoke on Trent",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437317183.webp?k=64dc9f13d9d4c37dc4a54f643d4d5cb76fdc28b46eb99d2a646515dc7a232305&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-view-buxton.html": {
+    "name": "Church View, Buxton",
+    "location": "Hartington",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240171735.webp?k=b8ddb94c0192fda170e1abe8cf017d920a6a9cca63b00baa279a39ac3be61b9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/highfield-house-stoke-on-trent.html": {
+    "name": "Highfield House",
+    "location": "Leek",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435939753.webp?k=5389af4f67428893cdd29472c5429ec0e094aba1959e9806cc11f5dd4bd23ca3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-uk41742.html": {
+    "name": "The Cottage - UK41742",
+    "location": "Mayfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431844977.webp?k=fc094d8a7afb72d6b1813baee1f10e1e0daa9439f2dbf036f30bd4843088f5a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jasmine-cottage-middle-mayfield-near-ashbourne1.html": {
+    "name": "Jasmine Cottage",
+    "location": "Mayfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419752149.webp?k=125dbedee5cf8f12d221ef4257ded857ce7d6bbdab843243a13e2861faee3b67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nield-bank-bungalow.html": {
+    "name": "Nield Bank Bungalow",
+    "location": "Flash",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418710171.webp?k=18321ebe27535a746a86baa4487c4c755b8d802f86cd820dd9695f8ab1879cc5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jubilee-cottage-clifton-near-ashbourne12.html": {
+    "name": "Jubilee Cottage",
+    "location": "Mayfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419811544.webp?k=3a1debaf8f45b287f9d790679715386a0feb589f0b0ab205158dad34374b329a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillcrest-house-brown-edge-nr-leek.html": {
+    "name": "Hillcrest House",
+    "location": "Endon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419023869.webp?k=c9f0d151d3e2d4a3f8ff0beffa2c505c9bf15fd3979129323c75097e0017c159&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hen-house-rugeley.html": {
+    "name": "The Hen House",
+    "location": "Rugeley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262108899.webp?k=fb05d981555cb55953969edc5f5582252f3dcc08f4cc7bc0a5a39d9654777552&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-luzon-dove-barn.html": {
+    "name": "1 Luzon Dove Barn",
+    "location": "Stoke on Trent",
+    "score": "8.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127328149.webp?k=eb757f81126515e9c6420f0cab2d20c080dd6dcad94ad382f36e9e3b25211a04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/far-coley-farm-and-kilnhurst-log-cabin.html": {
+    "name": "Far Coley Farm and Kilnhurst Log Cabin",
+    "location": "Stafford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395445795.webp?k=a731ac3b71de2cae14b6e146f47d346f617b1491729526ad2de518d74d8daadc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollywell-cottage-lichfield.html": {
+    "name": "Hollywell Cottage",
+    "location": "Lichfield",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388206944.webp?k=14580e4efce83f4f8a9d65970592ea55d6240d2015396f98fadce4cb95d34ee2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pigsty-uk30945.html": {
+    "name": "The Pigsty - UK30945",
+    "location": "Audley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393075201.webp?k=190ebb0e354d0c59692dde1fe49221e2d2be5baf47dda68161df4c9838862fac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeysuckle-cottage-middle-mayfield-near-ashbourne1.html": {
+    "name": "Honeysuckle Cottage",
+    "location": "Mayfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418480204.webp?k=abc98fac9d59f6dff39b17bf7e508c0ce3979491bcab65c8e6d47bc5cc4a09da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greenway-cottage-stoke-on-trent.html": {
+    "name": "Greenway Cottage, Stoke-on-Trent",
+    "location": "Stoke on Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288729384.webp?k=2b36ac76e2da64497cd5b31077721f5b2d178f45976a424a63abd6d942cb4cca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-collared-dove-barn.html": {
+    "name": "1 Collared Dove Barn",
+    "location": "Stoke on Trent",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127311677.webp?k=53376f0143c4d58169ab76db0a650e50da77472f3a9aa92f2197b1f18218c250&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pod-at-bank-house-farm.html": {
+    "name": "The Pod at Bank House Farm",
+    "location": "Stafford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402341536.webp?k=f3e35b6285328b353c6e52896392e07e0b527d4d6e79a408abec6dc8b89046cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moorhen-cottage-stoke-on-trent.html": {
+    "name": "Moorhen Cottage",
+    "location": "Stoke on Trent",
+    "score": "9.6",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/187612554.webp?k=a505746d21292a03c745fcd3fd74fc5daee001d2249842f713ed906777f038a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3h.html": {
+    "name": "Hotel 3H",
+    "location": "Stafford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438503186.webp?k=a8d1978206f26fcb726113b75477cf9173ea30336ec6c4c7082dad64312a4e2b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oriel-house-stoke-on-trent.html": {
+    "name": "Oriel House",
+    "location": "Stoke on Trent",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438423018.webp?k=8aac0fc7938673b8da6f9a16c42b9d015d1accf23f38fd2fd92500cd23a90d4c&o=&s=1"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "https://www.booking.com/hotel/ie/killurin-lodge.html": {
+    "name": "Killurin Lodge",
+    "location": "Wexford",
+    "score": "9.3",
+    "review_count": "247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/49618572.webp?k=5382395c760c346a3168ba4208e09386d2010a9c36a5531ed167d95025cce355&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/talbotwexford.html": {
+    "name": "Talbot Hotel Wexford",
+    "location": "Wexford",
+    "score": "8.2",
+    "review_count": "3,142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/11907395.webp?k=ef575131bdf594caa7e7d51c2ecbeeadb90ec7bf509a2e3db4e7ddc0f0b3d11d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/whitford-house.html": {
+    "name": "Whitford House Hotel",
+    "location": "Wexford",
+    "score": "9.1",
+    "review_count": "1,695 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/182108838.webp?k=18207dbc34b4986c73ed78eeccac36763ada3e37b3fdf563b49e3348572c1293&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/crown-quarter.html": {
+    "name": "Crown Quarter",
+    "location": "Wexford",
+    "score": "8.4",
+    "review_count": "700 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336165324.webp?k=cec4f9e45c4a1f70525e4424d5337143234d5988fd39047b028869eeaaf06c77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/talbot-suites-at-stonebridge.html": {
+    "name": "Talbot Suites at Stonebridge",
+    "location": "Wexford",
+    "score": "9.1",
+    "review_count": "703 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84164353.webp?k=00f41ebc8af53947255f3f9d3df217cd9872e43e1b37b2daa3f66562edeebc2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/whiteswexford.html": {
+    "name": "Clayton Whites Hotel",
+    "location": "Wexford",
+    "score": "8.0",
+    "review_count": "3,729 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56901527.webp?k=7733e4e08bbfb6c3e6ec1a3d3143d0dd81ba90175f65fd4c3b8a8e6bfcbe59fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/farmers-market.html": {
+    "name": "The Farmers Kitchen Hotel",
+    "location": "Wexford",
+    "score": "8.3",
+    "review_count": "866 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107849093.webp?k=6d9d05ae7c16356c5039413b9985d8854b3ecff77bc1247013c4b9ce23ac0c8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/killiane-castle-country-house.html": {
+    "name": "Killiane Castle Country House & Farm",
+    "location": "Wexford",
+    "score": "9.4",
+    "review_count": "727 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120692520.webp?k=27abfe9e713d3d901becb4a810474190ee5d693fd8b9eb125f5eb96b016b0577&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glenhill-b-b.html": {
+    "name": "Glenhill B&B",
+    "location": "Wexford",
+    "score": "9.1",
+    "review_count": "502 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317179311.webp?k=77d8bf3aabeade18e69aba8ecfd3a80fe4f7e34bb2347d641a2fd23cfb462b92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ferrycarrig.html": {
+    "name": "Ferrycarrig Hotel",
+    "location": "Wexford",
+    "score": "8.5",
+    "review_count": "1,170 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269164404.webp?k=0cb5f64308307ddce440997000b5c801e7ea184b72e454d0ffa0e3adfca8dcea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/qualityhotelwexford.html": {
+    "name": "Maldron Hotel Wexford",
+    "location": "Wexford",
+    "score": "7.6",
+    "review_count": "1,635 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131286021.webp?k=abdd783222b8e4fe47a8a7b5d8010269d1d746931dd25b497c002ed0c9d5bee0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sinnotts-bar-wexford.html": {
+    "name": "Sinnotts Bar",
+    "location": "Wexford",
+    "score": "8.8",
+    "review_count": "512 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148237164.webp?k=e86b8edb5f82c6d09f82477871ca295fb1a40922733408def7ecf39199405eb8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/faythe-guesthouse.html": {
+    "name": "Faythe Guesthouse",
+    "location": "Wexford",
+    "score": "9.0",
+    "review_count": "608 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/29185031.webp?k=6bd63e5961516c9dddf57a2175abced6858d5da81f5d82920288941fb65591a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glendine-house.html": {
+    "name": "Glendine House",
+    "location": "Wexford",
+    "score": "9.3",
+    "review_count": "210 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340566225.webp?k=c7defede65ce90b74cc698624a5795bae7689cb400daafffaa4122e0b695b1c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wexford-town-centre-apartment.html": {
+    "name": "Wexford Town Centre Apartment",
+    "location": "Wexford",
+    "score": "9.5",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364018547.webp?k=aaf5be8e68a0a6e1187e9b00514e14f32ca40c7a7a13b128e5e19e0ab3b25efe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bugler-doyles-bar-amp-townhouse.html": {
+    "name": "Bugler Doyles Bar & Townhouse",
+    "location": "Wexford",
+    "score": "8.4",
+    "review_count": "955 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364764967.webp?k=ec8768c476dfd54675e8ad6b15d7c3b5e19167b0a986aa035d84a019b744c923&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/riverbank-house.html": {
+    "name": "Riverbank House Hotel",
+    "location": "Wexford",
+    "score": "7.8",
+    "review_count": "884 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127890219.webp?k=32ad26a12b1ea2dc4e485266710fab6154f6ba1b16c065c1eef854de64381ee3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ocean-view-wexford.html": {
+    "name": "ocean view",
+    "location": "Wexford",
+    "score": "8.8",
+    "review_count": "144 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164317615.webp?k=030623e1870007d6feea4d5fa535f3c9793e76bf7d6a312e4cf21024325bf30e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/secluded-apartment-in-the-heart-of-wexford-town.html": {
+    "name": "Apartment in the heart of wexford town",
+    "location": "Wexford",
+    "score": "9.4",
+    "review_count": "106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262096219.webp?k=b670072c9b16081e0cd006ff4f8ba08c9dea0c475c0037d5e4dedba09dc66569&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rathaspeck-manor.html": {
+    "name": "Rathaspeck Manor B&B",
+    "location": "Wexford",
+    "score": "9.7",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/18625136.webp?k=d49d9b366b5158c74620860a0b353db1e33b8001018bd7027133b8190f063a78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/orchard-cottage-wexford.html": {
+    "name": "Orchard Cottage",
+    "location": "Wexford",
+    "score": "9.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365547309.webp?k=8c76cfd37dd32e29072d75bbcaf214256a9acca82982c57f85309fc40a8665d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bellfry-at-old-boley.html": {
+    "name": "Bellfry at Old Boley",
+    "location": "Wexford",
+    "score": "9.9",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/172098210.webp?k=7b99428772c1cd9a2c97fceb4acd0a2a5f2f12fd280ac68c1a74d724c49f6aba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-ramblings.html": {
+    "name": "The Ramblings",
+    "location": "Wexford",
+    "score": "8.1",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314916291.webp?k=289033170e7d0106a59866de390acacb77130a575ce52680d373db5bbf2ede6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/abiento.html": {
+    "name": "Abiento",
+    "location": "Wexford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429579495.webp?k=f2beee7e709262ecde9b5724a1303574fcbcb7f138c747f05680d643666d475e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-dolls-house.html": {
+    "name": "The Dolls House",
+    "location": "Wexford",
+    "score": "9.6",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109911012.webp?k=e04f79dfdd942bade9f2da04417d4dae4adaa95c113c7d0889b42713b0e51aef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/loughgunnen-grove-lodge.html": {
+    "name": "Loughgunnen Grove Lodge",
+    "location": "Wexford",
+    "score": "9.8",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377630126.webp?k=1380edbc8c3d65a2f5bd775efadee0c9d85729c3d9e7258ac8693369adb7543c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-maple-lodge.html": {
+    "name": "Maple Lodge",
+    "location": "Wexford",
+    "score": "8.8",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/58389272.webp?k=9ef4103de6ccccf29613fad30e7d6f57cc9e56d1e048542d21e5b8353234ea33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rathjarney-gatelodge.html": {
+    "name": "Rathjarney Gatelodge",
+    "location": "Wexford",
+    "score": "9.6",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339013126.webp?k=46d524e0daab93dfe4b2eed45b0a7eaf6800d2806858da911c5e441527bb6e98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/serviced-apartments-wexford.html": {
+    "name": "Serviced Apartments Wexford",
+    "location": "Wexford",
+    "score": "6.7",
+    "review_count": "110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31941727.webp?k=2dcfa6257b0005bf8e586d7dfc62d31784b59f9c0e46fa89382db890f9f0c778&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/modern-3-bed-townhouse-newly-refurbished-free-parking-10-mins-walk-to-town-centr.html": {
+    "name": "Modern 3 bed Townhouse newly refurbished free parking 10 mins walk to town centre , hospital and college. Wi-fi , Satellite TV, ideal rental for couples, families, professionals. Non smoking Premises",
+    "location": "Wexford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325984472.webp?k=4e01e9a875578dbdb8342a82fad7e3d94b34ffd8c5d487d856dccb339be2b158&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballysheen-house-wexford.html": {
+    "name": "Ballysheen House",
+    "location": "Wexford",
+    "score": "8.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146397572.webp?k=0d98d32bfcf190fa42775719dd9b49dce9a3b66f080a83ed7e0d831f4755f16d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/seaside-cottage-wexford.html": {
+    "name": "Seaside Cottage",
+    "location": "Wexford",
+    "score": "9.7",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180723543.webp?k=5f3f4453257330ce6d4b4a835883969d49dc9af5714fae683da6556d2ee94469&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/17b-db-airbnb.html": {
+    "name": "17b DB Airbnb",
+    "location": "Wexford",
+    "score": "8.7",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325292167.webp?k=803dfe6bb604c978eb5e62cd35a2fed70767945b50054d62b4b5220c497f86d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/faythe-holiday-home-wexford-town.html": {
+    "name": "Faythe Holiday Home Wexford Town",
+    "location": "Wexford",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115295603.webp?k=fa6717d81d5e1b3b65aa1a9efc5e6b9ed5df47910f490eebd14bc6b21f4c48fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wexford-town-opera-mews-one-bed-apartment-sleeps-2.html": {
+    "name": "Wexford Town Opera Mews - 1 Bed Apartment",
+    "location": "Wexford",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115293700.webp?k=a5b2d16d8ede7492b7f7178143389f2f33ec8b413eb7ea30f7eae510055c3ceb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wexford-town-opera-mews-2-bed-apartment.html": {
+    "name": "Wexford Town Opera Mews - 2 Bed Apartment",
+    "location": "Wexford",
+    "score": "8.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112542459.webp?k=2bdafe919a00ceb8752aae00ab4e3f9078d65bfeed7181135b408107736b33bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sutton-cottage-wexford.html": {
+    "name": "Sutton Cottage",
+    "location": "Wexford",
+    "score": "9.4",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/136524306.webp?k=75f89f88726413e91760552f2e7e02c971ace338fcb2d24f7ca81d282fb4e574&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/findale-broadway.html": {
+    "name": "Findale, Broadway",
+    "location": "Wexford",
+    "score": "8.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344465148.webp?k=dc0153595e353d392f9ac1984dfa98772718d6b6fbc354c0a0091863b51a771b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mollys-cottage-at-wells-house-gardens.html": {
+    "name": "Molly's Cottage at Wells House & Gardens",
+    "location": "Wexford",
+    "score": "8.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252840558.webp?k=b7b43ffa5d5217904b413822df20a3b790d4c43127ad2ce1202ae8098b8aebea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wexford-town-apartment-relax-ireland.html": {
+    "name": "Wexford Town Apartment",
+    "location": "Wexford",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115716840.webp?k=5c6ed72a73c09c49fe604c074fabe7fa95e4bfdedeb5d23392a82f3863048d00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-tack-room-cottage-wells-house-gardens.html": {
+    "name": "The Tack Room Cottage - Wells House & Gardens",
+    "location": "Wexford",
+    "score": "7.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252840878.webp?k=0a06a72b2c1f1ace5a5a081056f15cbc631fbe23bf319882c695e61fb1795ae2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mogues-cottage-at-wells-house-gardens.html": {
+    "name": "Mogue's Cottage at Wells House & Gardens",
+    "location": "Wexford",
+    "score": "8.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252841273.webp?k=a441c1b6b14e85cdac4a58bfa1fd80a7c7d1a2d5befe8a2e1354f381b3f8d0b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/17a-db-airbnb-wexford.html": {
+    "name": "17A DB Airbnb",
+    "location": "Wexford",
+    "score": "9.1",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324329583.webp?k=bca94a3e0a7d775eb3ce906bff06a07ad4857df76c59d510e54df9c0481bd524&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/townhouse-wexford.html": {
+    "name": "Townhouse Wexford",
+    "location": "Wexford",
+    "score": "6.3",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368088317.webp?k=b15f03754171737ec01a36a7a7b4a4a81c52cbc2df64fb3ff068b51780824229&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/townhouse-wexford-town.html": {
+    "name": "Townhouse Wexford Town",
+    "location": "Wexford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391853795.webp?k=668279131e512c7ed2e5e9e7f4387e838b3ebd38f4eeefdaaceb1fc2d234bc68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-pump-house-cottage-at-wells-house.html": {
+    "name": "The Pump House Cottage at Wells House",
+    "location": "Wexford",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252844737.webp?k=a462442bc9edbda595300cecfa02784f51ea8d6f06ff53c474a020d1beea5a69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/house-wexford.html": {
+    "name": "House",
+    "location": "Wexford",
+    "score": "8.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372370809.webp?k=c1cf5e22238e054056d83da4a15b781718e60bac85929038bd885588b337f1d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rockwood-cottage.html": {
+    "name": "Rockwood Cottage",
+    "location": "Wexford",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401078694.webp?k=501e5a8d824ab4b2ade67be6adea6d80318f78bc08ca05e146bac2ecd6b96d02&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-dairy-cottage-at-wells-house-wexford-wexford.html": {
+    "name": "The Dairy Cottage at Wells House, Wexford",
+    "location": "Wexford",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252844449.webp?k=0ba95bc18135a786d650f41f4028a1d04c82cfc89e4d8dc976f6bb4fcc180006&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/seascapes-ballyhealy-beach-kilmore-wexford.html": {
+    "name": "Seascapes Ballyhealy Beach Kilmore Wexford",
+    "location": "Wexford",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384018848.webp?k=040ce6b9ebac45844bc6425493ae73ebaeec7aca4cf55a4731904f4099594f4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/townhouse-3-bed-house-in-wexford.html": {
+    "name": "Wexford Town House off main street",
+    "location": "Wexford",
+    "score": "5.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383043924.webp?k=f6fd916d19e95a8e819a6451dc5fbeef0cd4dc7f87e7322117f4e2e8dcf957fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-mill-at-wells-house-gardens.html": {
+    "name": "The Mill at Wells House & Gardens",
+    "location": "Wexford",
+    "score": "7.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260081627.webp?k=16b9f1b1655a2ecb788847f4164e83954d1f45e2ea6fe14189218116e9875398&o=&s=1"
+  }
+}

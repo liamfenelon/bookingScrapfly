@@ -1,0 +1,290 @@
+{
+  "https://www.booking.com/hotel/ie/the-fitzwilton.html": {
+    "name": "The Fitzwilton Hotel",
+    "location": "Waterford",
+    "score": "8.1",
+    "review_count": "2,365 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387176744.webp?k=3bdc7d8e8fa37a64f2d167150e21d0eec19be9deb031aebb944675eae99bb6c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dooley-s.html": {
+    "name": "Dooley's Hotel",
+    "location": "Waterford",
+    "score": "8.4",
+    "review_count": "2,508 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262929442.webp?k=2e8abe3bed1a203af22c3fdf82b93e3efb59edb5cda2895a7ee46eec18de24da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/qualityhotelwaterford.html": {
+    "name": "Waterford Marina Hotel",
+    "location": "Waterford",
+    "score": "7.8",
+    "review_count": "3,038 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376119061.webp?k=65b9f1ab28cc9200f180744d6b238b7dd25746e10dcb53fc052c462391915511&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/diamond-hill-country-house.html": {
+    "name": "Diamond Hill Country House",
+    "location": "Waterford",
+    "score": "8.2",
+    "review_count": "739 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/9236728.webp?k=958f94028bca544b98d85bf47fb18587917787b1aa84374a5cf882c89e08bdf4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/woodlandshotelwaterford.html": {
+    "name": "Woodlands Hotel & Leisure Centre",
+    "location": "Waterford",
+    "score": "8.0",
+    "review_count": "1,911 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46120233.webp?k=ef257325a4de27095e4824a5fa72378c5c1e81a6dbd7a987eccb1ab5f69fce00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-rhu-glenn-country-club.html": {
+    "name": "Rhu Glenn Hotel",
+    "location": "Waterford",
+    "score": "8.3",
+    "review_count": "425 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/64195980.webp?k=50187ea9898b9313019dc626ff4e354dd675a87bbf8708972f6a829f6252209d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/granvillewaterford.html": {
+    "name": "Granville Hotel",
+    "location": "Waterford",
+    "score": "8.8",
+    "review_count": "2,861 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371675922.webp?k=41a138b0adbd351fa45ef8db414bce5c8936d1ec6aa1641fd2ed4cf9b3ca6186&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/towerhotelwaterford.html": {
+    "name": "Tower Hotel & Leisure Centre",
+    "location": "Waterford",
+    "score": "8.6",
+    "review_count": "1,116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270564222.webp?k=12c339ba8af7eb3bd7e68831a2d1c4f5926946e3c9a88e1f4f910e8133a33095&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/vikinghotel.html": {
+    "name": "Waterford Viking Hotel",
+    "location": "Waterford",
+    "score": "7.9",
+    "review_count": "1,471 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285499500.webp?k=c329cb0a878f9ff7c0be7b06cea63b1e4bff838d1d43391e8c43882a6aab46b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/aa1158841133441.html": {
+    "name": "Travelodge Waterford",
+    "location": "Waterford",
+    "score": "6.9",
+    "review_count": "1,449 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56909240.webp?k=49b9fbc4e6ef355b545b49e79e295f1e22a499f73cdd9c079609dbf0825739fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/faithlegghousehotel.html": {
+    "name": "Faithlegg Hotel",
+    "location": "Waterford",
+    "score": "8.6",
+    "review_count": "1,651 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/70938725.webp?k=826707ce5c664309b98d6243e2cbf616095908ae11bb382cf17e60af1906456c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridgewaterford.html": {
+    "name": "Treacy’s Hotel Spa & Leisure Club Waterford",
+    "location": "Waterford",
+    "score": "7.1",
+    "review_count": "1,389 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227090419.webp?k=cf6fbc7a0b01ae1fd54558e42fae499ad923bae905ccd4abbfa783e4a6f78480&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-dyehouse.html": {
+    "name": "The Dyehouse",
+    "location": "Waterford",
+    "score": "9.4",
+    "review_count": "330 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47289281.webp?k=f30872e4fe2b94af2fc97a5c0c93084ba043ed7454c0c7b8042bd03127a85313&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-saratoga.html": {
+    "name": "The Saratoga",
+    "location": "Waterford",
+    "score": "8.9",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302087653.webp?k=f0dda771d127db15d029301506967975189728222497e7ea37c3a5f70ceaf49b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/coolcormack-stud-b-amp-b.html": {
+    "name": "Coolcormack Stud B&B",
+    "location": "Waterford",
+    "score": "9.7",
+    "review_count": "118 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262565266.webp?k=0e4df0acf157736b2323a2508e2426c0ff375db316a91f908bff52bb2ac16955&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/one-bedroom-apartment-with-stunning-sea-view-waterford.html": {
+    "name": "One bedroom apartment with stunning sea view",
+    "location": "Waterford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434117381.webp?k=ddd356a5b47b04854aaf976c22c22980c93478afd88a35fff420013eae33782e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/trinity-apartments.html": {
+    "name": "Trinity Apartments - 2c 1-Bed Apt King or Twin Beds",
+    "location": "Waterford",
+    "score": "9.6",
+    "review_count": "112 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273085605.webp?k=205fc6f37f4a7ac80707bf2bf8dcba2e39cdfdf5fd7a9b3a12760c62a6bf06db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/24-power-mews-faithlegg-waterford.html": {
+    "name": "Faithlegg Estate, Mews Holiday Home, Waterford",
+    "location": "Waterford",
+    "score": "9.2",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239267703.webp?k=617adff4b7fac6756ecbb0c0f5aef2682ff86bf1fa757852b8a28aa7f07ec5ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterford-castle-lodges.html": {
+    "name": "Waterford Castle Hotel Lodges",
+    "location": "Waterford",
+    "score": "8.8",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297390438.webp?k=e59bd2eebeb746ed16826adebdffb9fce4eae7e8c1bc3c6f877269d84080d627&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/trinity-apartments-2a-1-bed-apt-waterford-city.html": {
+    "name": "Trinity Apartments - 2a 1-Bed Apt Waterford City",
+    "location": "Waterford",
+    "score": "9.5",
+    "review_count": "79 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385098017.webp?k=cb9d33a2d4b9d836b388b14060378c4a4ab8f2d3a70f2b7456075b896227b19e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-house-located-close-to-waterford-city.html": {
+    "name": "Millstream Cottage",
+    "location": "Waterford",
+    "score": "9.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420400429.webp?k=273e13e35097d9278d321855ffa524d848fdc474426d74f028a3bcc12fc2ae7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/avonlodge-waterford.html": {
+    "name": "Avonlodge",
+    "location": "Waterford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431489731.webp?k=118039ad3fc279604cf2849046b7c62d4083e969f03b9f088ca9ad991ade50f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/greenway-manor.html": {
+    "name": "Greenway Manor Hotel",
+    "location": "Waterford",
+    "score": "7.9",
+    "review_count": "226 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/171158946.webp?k=b6c5efb3f40c584fc7592c9a43bc456a4964d97fbe31e784b92270b2e0ae93bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/priory-house-manor-apartments.html": {
+    "name": "Priory House, Student Accommodation, Manor Village apartments, Cork Road, X91W427",
+    "location": "Waterford",
+    "score": "8.2",
+    "review_count": "393 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149055215.webp?k=1e1b2bd926816c1cecaedbe1133c6500902922c80ffaa5df58a23b0e41fd1699&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-laurels-waterford.html": {
+    "name": "The Laurels",
+    "location": "Waterford",
+    "score": "9.3",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265482539.webp?k=cfb91b14e58bdfcfba3ef875bf08d2aec6d67ec8b0bbe76d9fbf5363415b0efb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/grannagh-castle-house-waterford.html": {
+    "name": "Grannagh Castle House",
+    "location": "Waterford",
+    "score": "8.6",
+    "review_count": "115 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/101799161.webp?k=15a5c64ad0c0293f216ff16c18f7a22f15d05774f63d820bf685259ddb0804ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/faithlegg-house-lodge.html": {
+    "name": "Faithlegg House Hotel Holiday Lodge",
+    "location": "Waterford",
+    "score": "9.1",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321406434.webp?k=bd995724d1abc341b20f8d5aa5da03956e5562bce98c1aa53a2ad07b327732b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/trinity-apartments-2b-studio-apt-waterford-city.html": {
+    "name": "Trinity Apartments - 2b Studio Apt Waterford City",
+    "location": "Waterford",
+    "score": "9.1",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273071171.webp?k=d06110db15501437db4337afa1856e633ea4407ecea688a607d4c3b462a665d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/19-willow-wood.html": {
+    "name": "Faithlegg Hotel Lodge",
+    "location": "Waterford",
+    "score": "8.9",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255753216.webp?k=276e4809b78b73e924d62af244b30e9e02338176ebdebcdc4364d4c3a7fd0ebf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-vee-bed-amp-breakfast.html": {
+    "name": "The Vee B&B",
+    "location": "Waterford",
+    "score": "6.8",
+    "review_count": "373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265275503.webp?k=2edb3690affda76269096eab58694c35d526c02edd60469b268e035a4c39957a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/faithlegg-self-catering-mews.html": {
+    "name": "Faithlegg Self Catering Mews",
+    "location": "Waterford",
+    "score": "7.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252078254.webp?k=41094b9144ecdf38253f90033125e3776c7215446798fc4993cc967dd66f72cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/faha-bells.html": {
+    "name": "Faha Bells",
+    "location": "Waterford",
+    "score": "9.4",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144954579.webp?k=ca0b2a199a28461a4e99a966e6c6e041cf4c6328e4167c41ffd89bbf8aeb433f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hunters-lodge-b-amp-b.html": {
+    "name": "Hunters Lodge B&B",
+    "location": "Waterford",
+    "score": "9.4",
+    "review_count": "136 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204942014.webp?k=0cb51650b7bc509daa652d9553be1551220b706a1d4d7f4e05fcdd5f39a457ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-old-thatch-lemybrien.html": {
+    "name": "The Old Thatch, Lemybrien",
+    "location": "Waterford",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412949884.webp?k=258c3a2fc4f43e9ee2b72b38360628498741a0e09e3517169556f821da75b214&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/coins-abhainn.html": {
+    "name": "Aine's",
+    "location": "Waterford",
+    "score": "7.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318391334.webp?k=e7639c17fb89f5928522e35781c718b6fc507430b6c679e7e15b102ac0cb105f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-log-cabin.html": {
+    "name": "The Log Cabin",
+    "location": "Waterford",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424751700.webp?k=a2d37da06d52d2bc1184d3f88120b28b81784163ba5c00c335c28825bc476053&o=&s=1"
+  }
+}

@@ -1,0 +1,3034 @@
+{
+  "https://www.booking.com/hotel/gb/express-by-holiday-inn-redditch.html": {
+    "name": "Holiday Inn Express Birmingham Redditch, an IHG Hotel",
+    "location": "Redditch",
+    "score": "7.9",
+    "review_count": "1,600 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/223992176.webp?k=559cc0ea3ebbfbd1d2d82ca20a67b49c65d07a7fd0cf924b7376596e27a52e1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dumbletonhallhotel.html": {
+    "name": "Dumbleton Hall Hotel",
+    "location": "Broadway",
+    "score": "8.3",
+    "review_count": "1,114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/106874506.webp?k=7907860f128f9aeee9cc9f7fb6721e1235caaf2dc84e5164c7ca61e99069dd9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/exhidroitwich.html": {
+    "name": "Holiday Inn Express Droitwich Spa, an IHG Hotel",
+    "location": "Droitwich",
+    "score": "8.3",
+    "review_count": "2,157 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247117818.webp?k=4b77d61037124e7d63abc8f572a6aad338c5e58910b1cae71f87e4d76f81d66b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bromsgrove.html": {
+    "name": "Holiday Inn Birmingham Bromsgrove, an IHG Hotel",
+    "location": "Bromsgrove",
+    "score": "7.0",
+    "review_count": "1,159 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234831403.webp?k=bda72f671e69b7b1e0fdfefb47f8f26b84b98ce47efcebee4ebb241e9b7fca69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-farm-redditch.html": {
+    "name": "Meadow Farm Redditch by Marstons Inns",
+    "location": "Redditch",
+    "score": "8.1",
+    "review_count": "1,390 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368872876.webp?k=c726a3eb0b5ac133a05f9d921dc5d5aff3c0031fa84fba22ef18535decf164d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stourport-manor-sure-hotel-collection-by-best-western.html": {
+    "name": "Stourport Manor Hotel",
+    "location": "Stourport",
+    "score": "7.0",
+    "review_count": "1,333 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256980067.webp?k=6fbf60fab0ae6e8a0c93011105b0d83b148ef7bc00a8bf634994edbe719452b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/qualityhotelredditch.html": {
+    "name": "Southcrest Manor Hotel; BW Signature Collection",
+    "location": "Redditch",
+    "score": "7.6",
+    "review_count": "1,818 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298078898.webp?k=e39d9c3e36d27f14d82e5d72facc9e88b24efc8e8cdecd223b0600534d5ea603&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yeoldetalbothotel.html": {
+    "name": "Ye Olde Talbot Hotel by Greene King Inns",
+    "location": "Worcester",
+    "score": "7.3",
+    "review_count": "1,455 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247604640.webp?k=9a9fb0c6c618a2984c92b9fcdcf50dce4092c7e572232c6990349eb5c8f95711&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peacehavenholidaylets.html": {
+    "name": "Bridge Farm Holiday Cottages",
+    "location": "Cow Honeybourne",
+    "score": "8.9",
+    "review_count": "280 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/21244471.webp?k=4746b6af00f8d790bd6ecdccab403663923ae197770ebc5148bb43ebdb11513e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/8-brunel-house.html": {
+    "name": "Stunning Hillside Town Centre Apartment - GREAT MALVERN",
+    "location": "Great Malvern",
+    "score": "9.6",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345084364.webp?k=6f2f81f23fb3632d4561d1d53b1d280952e9e6b033b59826db08c105f84b0f12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-northwick.html": {
+    "name": "The Northwick Arms Hotel",
+    "location": "Evesham",
+    "score": "7.5",
+    "review_count": "965 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334843327.webp?k=49890e4e10b385dcb79c5663f04d93f7033286472d7859dc0f41ee7a8dd3ebad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theworcesterwhitehousehotel.html": {
+    "name": "The Worcester Whitehouse Hotel",
+    "location": "Worcester",
+    "score": "7.7",
+    "review_count": "2,343 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56965581.webp?k=5976402b77296bdd77bc0baabe511d597ed82cbc3ac7b87cfd7f1fded975da4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/george-bewdley.html": {
+    "name": "George Hotel Wetherspoon",
+    "location": "Bewdley",
+    "score": "8.0",
+    "review_count": "1,293 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271194549.webp?k=1f9f60167f576909f97529449809a3bc98c1dbba9d5c771eaffa17e46c0a1162&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/staddlestones-broadway.html": {
+    "name": "Staddlestones Broadway",
+    "location": "Broadway",
+    "score": "9.2",
+    "review_count": "304 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164427686.webp?k=a6ba81133013063aabe16c92f5bbf3eaa8b8f1d414b2b5a377427cbc3a1580bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/colwallpark.html": {
+    "name": "Colwall Park - Hotel, Bar & Restaurant",
+    "location": "Great Malvern",
+    "score": "8.2",
+    "review_count": "502 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/57941019.webp?k=b74f59f542da7027616cb1bfc39f80b8a0b1c2971e43b56bf137ecf223b97534&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-view-stourport-on-severn.html": {
+    "name": "River view Apartment",
+    "location": "Stourport",
+    "score": "9.4",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/99427192.webp?k=a77d1d249d30702837c64745a654f9d7592b82c542ba1a11f693b7d6ec5cddf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillscourt.html": {
+    "name": "Hillscourt",
+    "location": "Barnt Green",
+    "score": "8.3",
+    "review_count": "623 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15277014.webp?k=71f817117604f51688b585b081556e1eed47014900af7592fa1ca7a07693737f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-10-broadway.html": {
+    "name": "No.10 Broadway",
+    "location": "Broadway",
+    "score": "9.2",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117629679.webp?k=9d5d04eb548db15d165274f32db58e373fe05dffb6ac1b29d1c55bf2c91b72e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-foley-arms.html": {
+    "name": "The Foley Arms Hotel Wetherspoon",
+    "location": "Great Malvern",
+    "score": "7.6",
+    "review_count": "1,677 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62620638.webp?k=010714914746467eb8e4b7a3904c55dd04f3671d49ec5886d991511323b68e03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-luxury-apartment-10mins-from-cotswolds-kid-friendly-great-location.html": {
+    "name": "Entire apartment, 10mins from Cotswolds, Child friendly, Great Location & plenty of free parking nearby",
+    "location": "Evesham",
+    "score": "8.1",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363506726.webp?k=7c47f98f0595b16eb9e39101dafe06b0af151f99b2b455aaaeb368b976bf2c4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crown-worcestershire.html": {
+    "name": "The Crown Wetherspoon",
+    "location": "Worcester",
+    "score": "8.4",
+    "review_count": "1,773 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62010039.webp?k=c250142157330920e19c8f58e2d235507ac5fa3b69e38f4f5d39fdc0b4985fa0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mount-pleasant.html": {
+    "name": "Mount Pleasant Hotel",
+    "location": "Great Malvern",
+    "score": "7.9",
+    "review_count": "956 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368340470.webp?k=52b3666108eebf069a2877e13a821bbe9949bdbd42a2831fbee0bb17bf815df3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-luxury-apartment-springhill-court-bewdley-worcestershire.html": {
+    "name": "NEW - Luxury apartment Springhill Court, Bewdley, Worcestershire.",
+    "location": "Bewdley",
+    "score": "9.6",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209744872.webp?k=8b5256dbec5405414a34cba829d6f6714d8f7e07267fde57e9f8ff02339d716c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wood-norton.html": {
+    "name": "The Wood Norton",
+    "location": "Evesham",
+    "score": "7.9",
+    "review_count": "898 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59815625.webp?k=f22bcaed888773e8e73b35d26a8bbb7de2e465a55d62a67f3228f1617cfbd951&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-cottage-evesham.html": {
+    "name": "Riverside cottage",
+    "location": "Evesham",
+    "score": "9.3",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/80504831.webp?k=37a3f7062f2e0a3cee290e2aa25bbdd6dca983f9f4251ff2c1d2c2b20cdf37ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crown-by-marstons-inns.html": {
+    "name": "Crown, Droitwich by Marston's Inns",
+    "location": "Droitwich",
+    "score": "7.9",
+    "review_count": "708 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110049591.webp?k=25b7a0b6c58106b9948ae5dfa6d34994d2926689014deca4d964b3dbc6fd0631&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brockencote-hall.html": {
+    "name": "Brockencote Hall",
+    "location": "Kidderminster",
+    "score": "8.9",
+    "review_count": "464 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42589641.webp?k=ef7cfa8d4023ed60c2032210ec2d21c20882195c1f2beb2cd6927019e1983d54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wharton-park-golf-amp-country-club.html": {
+    "name": "Wharton Park Golf & Country Club",
+    "location": "Bewdley",
+    "score": "8.5",
+    "review_count": "253 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/12354480.webp?k=2eef721cfe3e2a0617ddcb6e34b391d86c881cd45215afe9d291228ecc186544&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilton-bromsgrove.html": {
+    "name": "Bromsgrove Hotel and Spa",
+    "location": "Bromsgrove",
+    "score": "6.2",
+    "review_count": "2,605 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/68901337.webp?k=ea8cc4767248e1badaa9e294a8c4daed0f8f2f592f37c4ee946f58f1a7574d14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-elms-a-luxury-family.html": {
+    "name": "The Elms Hotel & Spa",
+    "location": "Abberley",
+    "score": "9.0",
+    "review_count": "306 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282562099.webp?k=b929841188ef80187244580dee590b8e966dcb62bd91f298a92ae9efdc9dda67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lenchford-inn-shrawley.html": {
+    "name": "The Lenchford Inn",
+    "location": "Shrawley",
+    "score": "7.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426366601.webp?k=db99c3d6b76f55cb905f125902717f05eb2cdd9ab2ec8e1ad8ccaf4d3d3b97a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-farm.html": {
+    "name": "Bluebell Farm",
+    "location": "Upton upon Severn",
+    "score": "7.7",
+    "review_count": "333 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264753198.webp?k=03aae9fc2c6a402ee5604dca3a2470424a842fe554ac72c7c4aa710c560c2255&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horn-and-trumpet.html": {
+    "name": "horn and trumpet",
+    "location": "Bewdley",
+    "score": "8.5",
+    "review_count": "274 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/168419931.webp?k=4180fb659ed4f65506d1b668217bdf86ab1c52f91e46757b5dc5731bfb2104c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-angel-inn.html": {
+    "name": "The Angel Inn Hotel",
+    "location": "Pershore",
+    "score": "8.5",
+    "review_count": "588 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306275213.webp?k=90c4e6bfc256d32dd59e7d99841d33b63b969c024fb112e79db56142608b576b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kateshill-house-bed-amp-breakfast.html": {
+    "name": "Kateshill House Bed & Breakfast",
+    "location": "Bewdley",
+    "score": "9.6",
+    "review_count": "535 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274177956.webp?k=3cc4810650d643b78145e4bc5354d27c2b1d439a71806f8c83c21c3799b31c15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/room-1-deuice.html": {
+    "name": "Riize Rooms - self check in boutique hotel",
+    "location": "Worcester",
+    "score": "8.5",
+    "review_count": "585 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294908599.webp?k=b6280aec919ea5c6ba1d5a2d1932f382a42e2e414e74387458c33b4b8010485a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbeyhotelredditch.html": {
+    "name": "Abbey Hotel Golf & Spa",
+    "location": "Redditch",
+    "score": "7.2",
+    "review_count": "1,250 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/55949329.webp?k=b8a90bbb9fce5b902dc9e82a41ee5464ec82d9d63ca6217e009c7a5faef10b74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lygonarms.html": {
+    "name": "The Lygon Arms - an Iconic Luxury Hotel",
+    "location": "Broadway",
+    "score": "8.3",
+    "review_count": "946 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368910956.webp?k=f2919a8e4895a5041336d4b5576cf635242d8c45ade5e9c5c6b80d16f8fa7ebc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/malvernspa.html": {
+    "name": "The Malvern",
+    "location": "Great Malvern",
+    "score": "8.2",
+    "review_count": "427 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/223589559.webp?k=69ab802e4c9b0ea2fe0791c3154cc2863e8c5c523cca71ed35a1b4d963c2ea00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bakers-cottage-urban-spa-and-garden-bar.html": {
+    "name": "Baker's Cottage, Urban Spa and Garden Bar",
+    "location": "Evesham",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405047234.webp?k=9f137050340f6939e74e70db7852009b56cdddb638937c0658baa8df6c86d9f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chequers-inn-worcestershire.html": {
+    "name": "Chequers Inn",
+    "location": "Fladbury",
+    "score": "8.7",
+    "review_count": "557 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209216480.webp?k=b2918ec4dbe3c193963cd9083730dfc371e2416b797493457c885c8dd20bc75d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wells-cottage-worcestershire.html": {
+    "name": "Wells Cottage",
+    "location": "Malvern Wells",
+    "score": "9.6",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358058639.webp?k=a75209aa0dc16e13cecf9eee6d1290151708612b86b064e0b83e0054576b3d2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/days-inn-tewkesbury.html": {
+    "name": "Days Inn Tewkesbury",
+    "location": "Strensham",
+    "score": "7.3",
+    "review_count": "1,207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120225643.webp?k=06188963e4678c6ef4b2c2a7e944250febb530be89822cf2614b095ac8fe9eb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crown-and-trumpet-inn.html": {
+    "name": "Crown and Trumpet Inn",
+    "location": "Broadway",
+    "score": "7.8",
+    "review_count": "274 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264981013.webp?k=556907d470861a8c26cc669a6817e09fce6741c9ce9b1c81c578284a45348435&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fountain-oldwood.html": {
+    "name": "The Fountain Oldwood",
+    "location": "Tenbury",
+    "score": "8.6",
+    "review_count": "309 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135840916.webp?k=0b44835f2c1d4183fd90d29abd4b9cb381a0418073ed0982e822b9b4a05d12db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-side-bed-and-breakfast.html": {
+    "name": "Orchard Side Bed and Breakfast",
+    "location": "Great Malvern",
+    "score": "9.8",
+    "review_count": "142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282850877.webp?k=2c9e58275d86ed7336cf6f2c9a6af6ccce982e6e0c4def05f66cafa09d332cec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-countryside-cottage.html": {
+    "name": "Lovely Countryside Cottage",
+    "location": "Bredon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433609241.webp?k=709227a6680ad89261cda9ab19a392bfc08a50e53686e88eb59835c68bd54b30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-view-glebe-barn.html": {
+    "name": "Meadow View @ Glebe Barn",
+    "location": "Pershore",
+    "score": "9.2",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267735842.webp?k=193f691601bad9b1781a2aff5530b42ad452b449a7d53ca188019df071399ba1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-poop-deck-upton-upon-severn1.html": {
+    "name": "The Poop Deck",
+    "location": "Upton upon Severn",
+    "score": "9.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/108673955.webp?k=35466371dbc3c2dcc039bd0144a35b31a7e4952dc139a13bcafcda64e765dd73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corner-cottage-worcestershire.html": {
+    "name": "Corner Cottage",
+    "location": "Bewdley",
+    "score": "9.7",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282183078.webp?k=11dbd746059b77b22ecb522ea38dff3c086ba5d4c1d91ec161a115f39f41b3cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clerks-cottage.html": {
+    "name": "Clerks Cottage",
+    "location": "Upton upon Severn",
+    "score": "9.3",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373088122.webp?k=634b06279fa31b2edf1491017a7dc8730fee86cdfda262581347549858c8a5cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cozy-2-bedroom-bungalow-in-beautiful-bewdley.html": {
+    "name": "Muskoka",
+    "location": "Bewdley",
+    "score": "9.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404043525.webp?k=c99c7b709a928d473acfde179c52140b9f39a2fd1322e1c7617f36bc21b3050b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upton-home-on-water.html": {
+    "name": "Upton-upon-Severn Home on Water",
+    "location": "Upton upon Severn",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418203417.webp?k=29c6622196ce0e257750aab7b716a4c387ecc1dd5cfae29b334517c2cbac8ba7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-andrews-town.html": {
+    "name": "St Andrews Town Hotel",
+    "location": "Droitwich",
+    "score": "8.0",
+    "review_count": "359 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/12227208.webp?k=8b36b7d5bc748e5b15a1ed1193fea7deaf89ff662f3489eb3817bc6479e3ff26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/severn-valley-guest-house.html": {
+    "name": "Severn Valley Guest House",
+    "location": "Bewdley",
+    "score": "8.6",
+    "review_count": "456 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363076651.webp?k=0deda86cd1c16101b2a3fc107983ddb91962153f6a7b1277dada1c9f108ea3bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-west-barn.html": {
+    "name": "The West Barn",
+    "location": "Hanley Castle",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418254738.webp?k=c0571a4adf6194781bf8edfadad945b920136b46fda242b720265abcb17d9b76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/royal-forester-country-inn.html": {
+    "name": "Royal Forester Country Inn",
+    "location": "Bewdley",
+    "score": "8.5",
+    "review_count": "774 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144130554.webp?k=19b3ac21eb7255a310ec2b4e4825db123079954a09b670aeda11fe4788035d3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lakeside-lodge-lapwing.html": {
+    "name": "Lakeside Lodge- 'Lapwing'",
+    "location": "Bishampton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436322812.webp?k=ee7535c1d9f3a484fb59369592f64cf7a152b4226a44ab3c0f6ba8e061e3521d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-the-tontine.html": {
+    "name": "JJ's \"Gin Palace\" luxury riverside town house",
+    "location": "Stourport",
+    "score": "9.4",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181095111.webp?k=6929e6daea264037c2a8670346ea4c8be63540b317fbe6288868205997ce0807&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/copper-beech-house-great-malvern.html": {
+    "name": "Copper Beech House",
+    "location": "Great Malvern",
+    "score": "9.4",
+    "review_count": "163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244769398.webp?k=62ca861ea7ae7ad8d9cf730e119713f80b7c4513cfc29a09709b8b474c641c9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/romantic-amp-cosy-cottage-with-direct-access-to-the-hills.html": {
+    "name": "Romantic & Cosy Cottage with Direct Access to the Hills",
+    "location": "Malvern Wells",
+    "score": "7.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387002648.webp?k=a9f51595654ee8765c03cd5fe4d6cce9f966d0dea3f095cfe382611d137304c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lake-view-lineholt-near-stourport-on-severn.html": {
+    "name": "Lake View",
+    "location": "Shrawley",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418739089.webp?k=262ec6b5077f02132ea06a8f9a94d828ec17a735a4b54f4baaf2490204d177e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/period-house-in-the-heart-of-bewdley.html": {
+    "name": "Period 4 storey town house in the heart of Bewdley - Sleeps 6 - Free private parking for 1 car",
+    "location": "Bewdley",
+    "score": "9.4",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366768918.webp?k=fba500e8c5afce1025b1b8c0f11d5aaca5a43f5baf553be58d6dcf7203054d27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/primrose-lodge-offenham.html": {
+    "name": "Avonvale Holiday Lodges",
+    "location": "Evesham",
+    "score": "8.6",
+    "review_count": "407 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268250352.webp?k=982b8cb8991e6b631f1fdb54752a3483a7e189fa55fb6f2e984592da27b26ba4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/railway-retreat.html": {
+    "name": "Railway Retreat No4 Comberton Terrace",
+    "location": "Kidderminster",
+    "score": "9.5",
+    "review_count": "278 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/276679486.webp?k=3055011b3a4a57cf6051b910f00cc4472e06e42b04dd084bcde2fbecaa95de2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-chapel.html": {
+    "name": "Orchard Chapel",
+    "location": "Much Marcle",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418341545.webp?k=0f4621bd04c9627adb624279ea674a5eb19b5d8b9cd95f7bf8932a31f06909aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-3-bedroom-cottage-with-parking.html": {
+    "name": "Beautiful 3 Bedroom Cottage with Parking",
+    "location": "Upton Snodsbury",
+    "score": "9.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384247840.webp?k=5c4c7c950453115f61a7707ea0e387c8efaa2f22f41405eb8b00a0d62c1ef8ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/windrush-house.html": {
+    "name": "Windrush House",
+    "location": "Broadway",
+    "score": "9.4",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113874525.webp?k=adc11bb413c1b43c430f802e9037c2acf57a372551d269e65135b88fa2cfbc4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-barn-private-hot-tub-worcester-malvern-sleeps-8-with-parking.html": {
+    "name": "Stunning Barn private hot tub Worcester & Malvern Sleeps 6",
+    "location": "Worcester",
+    "score": "9.5",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242404150.webp?k=bde7a4bb18c57844b577108a93906b93efaabe72c94c7031c33b509aea868b3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rooms-at-the-quay.html": {
+    "name": "Boutique By Browns",
+    "location": "Worcester",
+    "score": "9.2",
+    "review_count": "1,268 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91451546.webp?k=6d7a44d3e1e010d30f1dbf200390750ab781a7e0678912a4819ecf2965476021&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/malvern-hillshotel.html": {
+    "name": "The Malvern Hills Hotel",
+    "location": "Great Malvern",
+    "score": "8.8",
+    "review_count": "945 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8656305.webp?k=04b9c3da3afe53fe97bd09c8bc8147b4a1c5d8bf7579053c3525e7c6ab5bf574&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/secret-island-yurt.html": {
+    "name": "Secret Island Yurt",
+    "location": "Beckford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344300839.webp?k=5413ea2cf0bfa9bf98dac0ad2ff33b407d676ec9fc0fd63810b6f58058d9ad5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-abbey.html": {
+    "name": "The Abbey",
+    "location": "Great Malvern",
+    "score": "7.9",
+    "review_count": "1,443 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47680821.webp?k=901f30f9cfb3ebb7fc83add27832fb25dbcff88f73eea62b2af95dfd1db7285d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/enjoy-your-stay-at-chorley-road.html": {
+    "name": "Enjoy your stay at Chorley Road",
+    "location": "Droitwich",
+    "score": "9.1",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371353827.webp?k=da6a62b9b0c2b8861d85f320fa3e738690daf7440970feae1fd303d2528142aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-vale-golf-amp-country-club.html": {
+    "name": "The Vale Golf & Country Club",
+    "location": "Bishampton",
+    "score": "8.7",
+    "review_count": "355 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303310907.webp?k=2b1b1edc1564eef2b545bf80a8736bec480bed46b28fdc647804e3d95e018f2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/severn-view.html": {
+    "name": "Severn View Hotel",
+    "location": "Worcester",
+    "score": "5.5",
+    "review_count": "775 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367371162.webp?k=a1ced6817f3c835130584c5874b4c7db6c3d27e1ca849f67f0939e2bbf7f36d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-floating-home-at-upton.html": {
+    "name": "The Floating Home at Upton",
+    "location": "Upton upon Severn",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391223841.webp?k=15fbb1604cd29db3c375d6430230bb771610103f7264a64df03495edf1626c16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corus-westmead-hotel.html": {
+    "name": "The Westmead Hotel",
+    "location": "Hopwood",
+    "score": "7.7",
+    "review_count": "619 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117472963.webp?k=c760364c5a4ff0df94419640c824fdb2210684829f92785dfe22e443f89d9634&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbots-grange.html": {
+    "name": "Abbots Grange Manor House",
+    "location": "Broadway",
+    "score": "9.4",
+    "review_count": "282 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310282735.webp?k=4e4ae03758f2e569ea29192f190156d8eaa57bd238eecf00b686f3b958daa705&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-at-broadway.html": {
+    "name": "The Lodge at Broadway",
+    "location": "Broadway",
+    "score": "8.9",
+    "review_count": "735 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159876593.webp?k=3b5825c836724f680480a70d4f5658e303a62777bfa8355a7280ee7476d459f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/diglis-house.html": {
+    "name": "Diglis House Hotel",
+    "location": "Worcester",
+    "score": "8.4",
+    "review_count": "1,048 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82334152.webp?k=49d373ea41820cd53d02201abc20c2d44888b6f4f5d427464f26424556882740&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-spacious-home-enclosed-garden-amp-parking.html": {
+    "name": "Bright spacious home, enclosed garden & parking",
+    "location": "Hindlip",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435671259.webp?k=0e5b7086471bf2336036511a10633012df7dace1dfb955d149efd2b2bca52fca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bulls-head-inkberrow.html": {
+    "name": "The Bulls Head Inkberrow",
+    "location": "Inkberrow",
+    "score": "7.1",
+    "review_count": "163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4721182.webp?k=8d6d647484bf4883d54f6128612cd1a94d0c37185508fad8b6673001bdcb7d36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lily-rose-cottage.html": {
+    "name": "Lily Rose Cottage",
+    "location": "Broadway",
+    "score": "9.7",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162291010.webp?k=cee142aff2c569d93ff19e8248b5cc467884d3532c46ebb3c5cfe780049adba2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-angel-inn-stourport.html": {
+    "name": "The Angel Inn Stourport",
+    "location": "Stourport",
+    "score": "7.9",
+    "review_count": "322 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127791523.webp?k=196fe8d2cf22fa6e5f34e0e487aede7cc1dae09c39768f6c32f0ee206f464c7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-at-orchard-cottage.html": {
+    "name": "The Lodge, at Orchard Cottage",
+    "location": "Much Marcle",
+    "score": "9.7",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165634908.webp?k=fffc02fa7590d1e7eea90246cdfa7ece5f43612ae10513bbb9f3c8ce328e73f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-anchor-studio-flat.html": {
+    "name": "The Anchor Inn",
+    "location": "Pershore",
+    "score": "9.1",
+    "review_count": "319 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373829771.webp?k=2f1511b4b41fff1295a169eb42d74441de914fd4f7f16c83690d9343f8115496&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/smallbrook-cottage.html": {
+    "name": "SmallBrook Cottage",
+    "location": "Broadway",
+    "score": "9.2",
+    "review_count": "94 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322729774.webp?k=c775f4ed66769522384930ca31a788b5930a611510bb598259ffcc5e3cc9ab36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wharf-stourport.html": {
+    "name": "The Wharf Stourport",
+    "location": "Stourport",
+    "score": "9.0",
+    "review_count": "306 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110180092.webp?k=595d78065925ebc6bf797ac06b38ba61f695e2f0831f4024277d13d9bf9603a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-lodge-apartments.html": {
+    "name": "City Lodge Serviced Apartments Worcester City Centre - Parking",
+    "location": "Worcester",
+    "score": "6.7",
+    "review_count": "230 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246077096.webp?k=706a2e923403223007176ddda13a97b2911a035458a380633c0687d907077b69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/farriers-arms.html": {
+    "name": "FARRIERS ARMS",
+    "location": "Worcester",
+    "score": "7.6",
+    "review_count": "227 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181991602.webp?k=fc595f3f953739d21145f6445c80fd27c9ae9e18a2fbca3108d3b62fd95609c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-infirmary.html": {
+    "name": "Old Infirmary",
+    "location": "Worcester",
+    "score": "8.4",
+    "review_count": "474 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216861341.webp?k=d55103490c195d4db1d4f0f18dfa0e78374bd8bf8154cbe1de471a2e7da46f9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lakeside-cabin-on-stilts-kingfisher.html": {
+    "name": "Lakeside Cabin on Stilts- 'Kingfisher'",
+    "location": "Rous Lench",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436346636.webp?k=416d15feef009954ebaa315273cb742c0c975b205947eeb2720ace3d5c724c7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bretforton-holiday-home.html": {
+    "name": "Bretforton Holiday Home",
+    "location": "Evesham",
+    "score": "9.8",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263476222.webp?k=077a94be5453c17cf9a7435c372b085fe8885a3e6259169db12df84c66e8f2a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-windermere.html": {
+    "name": "5 Windermere",
+    "location": "Stourport",
+    "score": "8.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125518857.webp?k=96f4f86430528ce96632adf4775f0a0928598df7891efaafca119698e6237104&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/halfwayhouseinn.html": {
+    "name": "Halfway House",
+    "location": "Great Malvern",
+    "score": "9.0",
+    "review_count": "389 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219927646.webp?k=6d91a7768c629341fd3a5185510b17602b95c4785e519a80e6bde0612a38e8d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bedroom-cottage-in-broadway-cotswolds.html": {
+    "name": "Lion Cottage, Broadway",
+    "location": "Broadway",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404869174.webp?k=da81826b63281c983da25b7aa87d1455a62c548d7ec3aa02b7bbe593c55b7c88&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/florence-villas.html": {
+    "name": "Florence Villas",
+    "location": "Worcester",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344522720.webp?k=4b9eebb39c53e1ffb53b76e0c6da1accb7f0abf85c3c9153dce270658753197f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/montana-log-cabin.html": {
+    "name": "Montana Log Cabin - Ockeridge Rural Retreats",
+    "location": "Wichenford",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371962127.webp?k=52ffb8f1b2dc60f40cf4f56d3157df831ab6bdd384a74aa2292f9e5015ec36ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kitts-cottage.html": {
+    "name": "Kitts Cottage",
+    "location": "Malvern Wells",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344279206.webp?k=eb28f8771f4ff0fff97df520fa0f24d79d2b497d2fb0d3b42e1bd2d1dab8107d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-view-malvern.html": {
+    "name": "Garden View, Malvern",
+    "location": "Great Malvern",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344443372.webp?k=4b900a6bd943b4c36f73740e6a7b9c29eceef4d9a4102bd6fea1184160558e8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bell-inn-worcestershire.html": {
+    "name": "The Bell Inn",
+    "location": "Worcester",
+    "score": "9.1",
+    "review_count": "612 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336421980.webp?k=275e77a2e83f01cf6a7737f1e828847c6a52b728e319fc64b6a40b69a5a1adc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-town-centre-apartment-with-stunning-views.html": {
+    "name": "Spacious town-centre apartment with stunning views",
+    "location": "Great Malvern",
+    "score": "8.6",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286213715.webp?k=6ed5a0e7cfa1f085569fc696d2cde2f6150606ff7b361ffefe9b14040e335e40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/7-mart-lane-stourport-on-severn.html": {
+    "name": "7 Mart Lane, Stourport-on-Severn",
+    "location": "Stourport",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181808118.webp?k=802503faaa9df9dd47b4c3c8f7c74468091c7a6074ee1123c35b1cf4a74f078b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-12-worcestershire.html": {
+    "name": "no 12 - Stunning Self Check-in Apartments in Worcester Centre",
+    "location": "Worcester",
+    "score": "9.2",
+    "review_count": "187 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336652759.webp?k=ad05b5985f12873f50c1af460f748b9efe9b6d10c2cbcae5fb8a03f7a12b140b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hanbury-turn.html": {
+    "name": "Hanbury Turn",
+    "location": "Stoke Prior",
+    "score": "8.9",
+    "review_count": "168 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273684046.webp?k=7b55301d1ceecba70ca564328d0cf01b82092ae0f116a96f069e05ebbe0c816e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-morgan-period-apartments.html": {
+    "name": "The Old Morgan Period Apartments",
+    "location": "Great Malvern",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382835179.webp?k=b9b9f61cb692b1dd6898d65f64847979baf4568e1ac59e8e7133731b489cf358&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stone-hill-farm-b.html": {
+    "name": "Stone Hill Farm B&B",
+    "location": "Shrawley",
+    "score": "9.3",
+    "review_count": "97 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5024942.webp?k=4555af2168cd864c5fc08522d5398ce6054df3df467290fc898823d909abedfa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-cottage-malvern-wells.html": {
+    "name": "Woodland Cottage, Malvern Wells",
+    "location": "Malvern Wells",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344561195.webp?k=c6ffb173f0186af95734b20d28a46c4b6dcf0760201cbf74a495ec2ac0b676d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-fox-cottage-evesham1.html": {
+    "name": "Old Fox Cottage",
+    "location": "Evesham",
+    "score": "9.8",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/171638272.webp?k=456c8e8a725caf7c0aa35187d3ff3a6dbc67a55aa219f60580fbf73e97043906&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottageinthewoodshotel.html": {
+    "name": "Cottage In The Wood",
+    "location": "Great Malvern",
+    "score": "8.4",
+    "review_count": "559 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255415476.webp?k=e9133b75996fed65a5f9d44b8678db3528ae5cde13f1888f98f8803fa195ee8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harrow-hayloft-rural-80m2-village-hideaway-retreat.html": {
+    "name": "Harrow Hayloft Rural 80m2 Village Hideaway Retreat",
+    "location": "Himbleton",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426372139.webp?k=4213dc2ace36d380450fb09df8623befd5ba0d52a3b25233b45a62dd74c58688&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bransford-farm-fishery-amp-holiday-let-b-amp-b.html": {
+    "name": "Bransford Farm Fishery & B & B",
+    "location": "Bransford",
+    "score": "9.2",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371339546.webp?k=0f98066160177ba34c763cae1747a0729a8d6f7e9ae36b60e72412900d35ec17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blue-inn.html": {
+    "name": "The Hotel Rafiya, Redditch",
+    "location": "Redditch",
+    "score": "5.1",
+    "review_count": "290 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294228521.webp?k=d6ac5fa07c92d5410b24e4d34d546819c577fe2a87276d46f5f30140e317055f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-green-dragon-inn-redditch.html": {
+    "name": "The Green Dragon Inn",
+    "location": "Redditch",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373336267.webp?k=bbe67d5c31cfa163458c54de69ca6b52067fcf779c1eb2da388bf11eb399a8af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-one-bedroom-apartment-st-johns.html": {
+    "name": "Beautiful One Bedroom Apartment - St Johns",
+    "location": "Worcester",
+    "score": "8.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273971721.webp?k=26bbc13a2b8068fc111244b5257a6b384d2f35448f61f45b6a80069c0f4b8995&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daisybank-malverns-magical-view.html": {
+    "name": "Daisybank, Malvern's Magical View",
+    "location": "Great Malvern",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377044409.webp?k=cc261599ad4d5b219a728bc496aa645834eeda0784513e6bccf605febc0163b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scandinavian-city-centre-apartment.html": {
+    "name": "Scandinavian City Centre Apartment",
+    "location": "Worcester",
+    "score": "8.2",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328471076.webp?k=4068a565f9d91644395b4b3e9dd62f76ae9ca96ba6319c5308a48b065365158e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hoden-view-evesham.html": {
+    "name": "Hoden View, Evesham",
+    "location": "Cleeve Prior",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240187439.webp?k=90af0efcf8f14c90c22445c46bd1b45c4f879b74064d095c9aa3f0835f2343fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burleigh-house-b-and-b-worcestershire.html": {
+    "name": "Burleigh House B and B",
+    "location": "Tenbury",
+    "score": "9.7",
+    "review_count": "192 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302323505.webp?k=d9a9ac62483b47fe24d4236d4dc769442046fba4513a4cc70af5587a9375dcb5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-defford-arms.html": {
+    "name": "The Defford Arms",
+    "location": "Pershore",
+    "score": "6.8",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345961337.webp?k=9f590294bf8a9ad6b5e2d28e07736a49d9996020b18461b36ab4b88fcb97a95e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stonemanorhotel.html": {
+    "name": "Hogarths Stone Manor",
+    "location": "Kidderminster",
+    "score": "8.7",
+    "review_count": "599 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423351134.webp?k=54d9c546b536606385cbdbe07ecc83200875edab4ff799d6cca525f740944b0c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/howards-end.html": {
+    "name": "Howards End",
+    "location": "Berrington",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418674102.webp?k=d15b65311fe833e4e82c7d3d145b71fc10722371b1028d8edb1899cf9f6d3d33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-swan-inn-hanley-swan.html": {
+    "name": "The Swan Inn",
+    "location": "Hanley Castle",
+    "score": "8.6",
+    "review_count": "249 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282544686.webp?k=13bc49c852c1e99e465e285023fec29fb8f666c4e0715e44d0137d2d3a032911&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-grade-2-listed-cottage-upton-upon-severn.html": {
+    "name": "Charming Grade 2 Listed cottage, Upton-upon-Severn",
+    "location": "Upton upon Severn",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427035587.webp?k=265c981cfe283f93566a7ffdbfb28aef0d81375bfb614c385109208316061c5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-albert-road-flat.html": {
+    "name": "The Albert Road Flat",
+    "location": "Worcester",
+    "score": "8.6",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323175580.webp?k=f898ab05c91c39c0e43bef41c10b63bbd0ebe9cb12111477bcca276bfe4919dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-lion-upton-upon-severn.html": {
+    "name": "The White Lion Hotel",
+    "location": "Upton upon Severn",
+    "score": "8.0",
+    "review_count": "377 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140881241.webp?k=0c6162093081612154c8fdfc8d6486a4c6e6b869620fcf5f5af9cf52d545862f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bridge-worcestershire12.html": {
+    "name": "The Bridge Hotel",
+    "location": "Tenbury",
+    "score": "8.9",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367139873.webp?k=05703af3b7a30df9494a38e40002e26036265ad3339cd9f87d5f939d3d76d404&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bed-city-apartment-sleeps-4-parking.html": {
+    "name": "Gorgeous 1-bed city apartment, sleeps 4, parking",
+    "location": "Worcester",
+    "score": "9.5",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384975375.webp?k=e20549eb96247cdf34e365d50af0051d37250ff162cafed2e973e0ac48d091fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mug-house-inn.html": {
+    "name": "The Mug House Inn",
+    "location": "Bewdley",
+    "score": "8.7",
+    "review_count": "385 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328239142.webp?k=670e0c1d8e667df5783eaed5668f908262e5972cbf73ccd5e961658d36915f41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-larches-bewdley.html": {
+    "name": "The Larches",
+    "location": "Bewdley",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390695511.webp?k=45f41e08c458d060468f1dcdafaad5fd0d10eca9821153db2cd43cc74631de07&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-house-in-worcester-with-parking.html": {
+    "name": "3 Bedroom House in Worcester with Parking",
+    "location": "Henwick",
+    "score": "7.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332299800.webp?k=87e353798346c7bc697b5363c2feefd294821b3494404127a67101bceba68bb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sandscroft-annex.html": {
+    "name": "Sandscroft Annex 5A",
+    "location": "Broadway",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435630860.webp?k=51c7b8b31882bd871da140e38433fe8af9762b8d16116b69112631d227a282c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-station-loft-city-centre-1-bed-apartment.html": {
+    "name": "The Station Loft City Centre 1-Bed Apartment",
+    "location": "Worcester",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424570436.webp?k=6771d539c9058ce2d53a3a25c68b929a1c5b98783d30314531d1f55d0097546d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grafton-mill.html": {
+    "name": "Grafton Mill",
+    "location": "Grafton Flyford",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240152408.webp?k=f5c3cd602b74cad0f89fd65fd7e752d310f74746af0aad89d9f5c4349b57eaf6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crabmill-glamping.html": {
+    "name": "Crabmill Glamping with hot tub",
+    "location": "Bewdley",
+    "score": "8.3",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410964281.webp?k=80cae87d18c908f617cf4e68a28222928638ac08c6f64292b49cbdcfaa2bd317&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haselor-farm-b-amp-b.html": {
+    "name": "Haselor Farm B & B",
+    "location": "Evesham",
+    "score": "8.8",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/122765752.webp?k=eb448b25a49fe7ff0c594bb8fc256521f220e0721df1d93f238c2a1c42d12ac9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-acorns-malvern.html": {
+    "name": "Little Acorns",
+    "location": "Great Malvern",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416834023.webp?k=ea064c72983e1a6ac801f53d77f40f26563015fdaa6419b4eaa723de7c056312&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morningside-cottage-tenbury-wells.html": {
+    "name": "Morningside Cottage",
+    "location": "Tenbury",
+    "score": "9.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384397574.webp?k=f54980b5a0fac1a037a38cfd73eff9d672665813b255a64405ef5c037039c4dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/valeview-cottage.html": {
+    "name": "Valeview Cottage",
+    "location": "Great Malvern",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418613677.webp?k=92ae077e4b552674b9d43034140c6b62f96b7f1cc01a78abc1fa7a6dd6e02bed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hopeend-holidays.html": {
+    "name": "Hopeend Holidays Cottage",
+    "location": "Great Malvern",
+    "score": "9.5",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/76889462.webp?k=bda6d1364609d2122d9e18f901d3086243d89f1e654243be40681b04f9356340&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/asha-court-apartment.html": {
+    "name": "Worcester Three Pears City Centre - Serviced One Bedroom Apartment",
+    "location": "Worcester",
+    "score": "6.1",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262044826.webp?k=09f6948dfb5884483df0d5c7bece3324bf64f4e5a170429f308f638d7bc7759c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-retreat-at-phillips-house.html": {
+    "name": "The Retreat at Phillips House",
+    "location": "Much Marcle",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419681790.webp?k=274a0e41c30dc58b5ca48e3fe3ef853c2eb21645bd0b8d454d41aa640556bf8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-house-broadway1234.html": {
+    "name": "Bay House",
+    "location": "Broadway",
+    "score": "8.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349440764.webp?k=cbc02ee713992997ebea92328f4f931fa4faabc8e71ee7e42a5175e67d6c41b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-apartment-no-wifi-until-17-08.html": {
+    "name": "2 Bedroom Apartment in Worcester City Centre",
+    "location": "Worcester",
+    "score": "8.5",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317116677.webp?k=81b74412ddbce50b74b304d209aeded9b6c85a8fde7765865e9680d3d78b72fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stubb-oak-malvern.html": {
+    "name": "Stubb Oak",
+    "location": "Malvern Wells",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363264428.webp?k=f97aecba6dd5bd3f93a4ce3888eb897f790fd2e991c8f138175002a4b2ef12d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-on-the-common.html": {
+    "name": "The Cottage On the Common",
+    "location": "Tenbury",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403757950.webp?k=825576ba3641e1e09c63d6e3200bf92be7bdf72eedc5c641ed7452883d982a92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-potting-shed-twyning.html": {
+    "name": "The Potting Shed",
+    "location": "Bredon",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400821118.webp?k=6b2ab763a117ca5efc4cf024e5bb18d83af4c11d0ead6be27780184240727037&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hobleys.html": {
+    "name": "Hobleys",
+    "location": "Broadway",
+    "score": "9.6",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213315119.webp?k=9eb165a906a50482321a778d4e018670befc18c92f9982e758c09f1d1ce180cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-kidderminster.html": {
+    "name": "The Coach House",
+    "location": "Kidderminster",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240320047.webp?k=8f3628904230b2a847f98e2a625ffc9fcefa7896231bdd719f53b434d94602ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sweet-pea-cabin.html": {
+    "name": "Sweet Pea Cabin",
+    "location": "Badsey",
+    "score": "9.6",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402359112.webp?k=8b75be0ec9d4ec976d3d8a13c66bde22605855932f966d4fbe5c56bd06b1f802&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cherry-tree-mews.html": {
+    "name": "WORCESTER Fabulous Cherry Tree Mews with off road parking near Royal Hospital and woodland walks",
+    "location": "Worcester",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434776512.webp?k=58f4d6859d78f04b32f41e342c082c19fdb380c79b8203f5bba1860efbb461fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-apartment-in-worcester-city-centre.html": {
+    "name": "Studio Apartment in Worcester City Centre!",
+    "location": "Worcester",
+    "score": "7.7",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305906541.webp?k=5e57b58f4a37dec44400675ab071e5cea11cc553b7745476d5d9334a8880e219&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-countryside-cottage.html": {
+    "name": "Beautiful Countryside Cottage.",
+    "location": "Great Malvern",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428758430.webp?k=9ad5e295b853479b03a64959091fc4258b7ee94016fd75a97c4cc9a70b440706&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-st-swithins-worcester.html": {
+    "name": "Cosy 2 Bed Apartment in Worcester City Centre",
+    "location": "Worcester",
+    "score": "8.1",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301399226.webp?k=dfceef9e037e08315571978a4577a8e8ed13cb7d34e0ae66a6ee5422190a9237&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/anchor-inn-kempsey.html": {
+    "name": "Anchor Inn",
+    "location": "Kempsey",
+    "score": "7.9",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339062086.webp?k=3d9aaace9701ff5e78c5ef1ba5206ab2cf37513a685516ecaec6526a3ca23aa8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/converted-chapel-in-cotswolds.html": {
+    "name": "Converted Chapel in Cotswolds",
+    "location": "Cow Honeybourne",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405265755.webp?k=71051935ff73e7f2bfc19bcaefab81ab3e713e029a1e8872a4aee4a9e8441bd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holdfast-cottage.html": {
+    "name": "Holdfast Cottage Hotel",
+    "location": "Great Malvern",
+    "score": "7.9",
+    "review_count": "150 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4313533.webp?k=d81ac27532a0ce3b053439b79db0153f354d4937751b7374e1393118686ad5b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashwood-shepherd-hut-ockeridge-rural-retreats.html": {
+    "name": "Ashwood Shepherd Hut -Ockeridge Rural Retreats",
+    "location": "Worcester",
+    "score": "9.3",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400141533.webp?k=2e893aa592adf21db6c5aeea027b1a849e95dc4a97edcea9f0c7dd28b2dc156a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heart-of-worcester.html": {
+    "name": "Worcester Homestay",
+    "location": "Worcester",
+    "score": "7.8",
+    "review_count": "232 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239324878.webp?k=9ec88173e46d54b3d3d4865001e0771863d904102abfc114ca36cf52d6e62825&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodstock-lodge-worcester.html": {
+    "name": "Woodstock Lodge, Worcester",
+    "location": "Broadwas",
+    "score": "8.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240203016.webp?k=7cbc60f70ad7ed0957dbba72fd1e4e48fcddf7d5c831f918c13192c2354afdcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-georgian-cottage-in-the-heart-of-bewdley-worcestershire.html": {
+    "name": "Cosy Georgian Cottage in the Heart of Bewdley, Worcestershire",
+    "location": "Bewdley",
+    "score": "8.6",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319040997.webp?k=8b371957772b01478f57c3519c0ae365fabcde05c0942057876c0b0a69f00c62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gwenelin-cottage-uk42751.html": {
+    "name": "Gwenelin Cottage-UK42751",
+    "location": "Bretforton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432985512.webp?k=aa891764d19a5e1f4d92894d39af0c92892b56bbd9f794a081de9487c5c726c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/refurbished-two-bedroom-house.html": {
+    "name": "Serviced Accommodation 2 bed house III",
+    "location": "Hindlip",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405950314.webp?k=81574719d8d7fc84128340769ac5ae4cf37906f3dd3bc146b4ae223446a7aa9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/treherne-house-amp-the-malvern-retreat.html": {
+    "name": "Treherne House & The Malvern Retreat",
+    "location": "Great Malvern",
+    "score": "9.8",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306781217.webp?k=a3612ad2af183f27501d62112815a7c969c9313983f32611257af79146f69bed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oak-inn-steakhouse-grill.html": {
+    "name": "Oak Inn",
+    "location": "Upton Snodsbury",
+    "score": "7.9",
+    "review_count": "126 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4229349.webp?k=9a350aff92229e10919c8d3415d44f3741af85c118481422e792821bac8dc4dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-goose-nest.html": {
+    "name": "The Goose Nest",
+    "location": "Worcester",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378398193.webp?k=fd6654ba4007bdda8dff6753583ed217c38ee50dfffe8f954a56e4c82f383061&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-1-bedroom-worcester-apartment-worcestershire.html": {
+    "name": "Central 1 Bedroom Worcester Apartment",
+    "location": "Worcester",
+    "score": "7.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388884873.webp?k=9df32861e2e43534eec7cf8737a8abeb315093254af47812590c52d0ecc92f58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blueberry-view.html": {
+    "name": "Blueberry View",
+    "location": "Worcester",
+    "score": "8.5",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404877205.webp?k=5d907641a61f92714aad8e65fc8049299817765d0f50eac4f004e51be6ae6792&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-view-worcester.html": {
+    "name": "Orchard View",
+    "location": "Worcester",
+    "score": "9.3",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150037383.webp?k=d1d4650e957999d879ed6bca5be7452bfb5ba8023e51c1fb9c27c4ff47abe6bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stagborough-cottages-with-hot-tub-3-bedroom.html": {
+    "name": "Stagborough Cottages with Hot Tub 3 bedroom",
+    "location": "Stourport",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432510507.webp?k=db81dd7bf107ef1e4159f8cbf1c65065913d4695e9703fbb6d6821cc92feea06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glamping-malvern-shepherd-hut-malvern-link.html": {
+    "name": "Glamping Malvern shepherd hut",
+    "location": "Malvern Link",
+    "score": "9.0",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/223888514.webp?k=e4fc6619bf952215acdfe1de1e15dda16e0e12d56668effc22658e3fbfae1826&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-coach-house-with-private-garden-bredon.html": {
+    "name": "Luxury Cottage with Swimming Pool",
+    "location": "Bredon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421601691.webp?k=0dd84791cf94e22b48fdacdd487a2d6b9168bf23ce5121b54522456a83e1cbef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-worcester-home-with-garden.html": {
+    "name": "3 bedroom Worcester Home with Garden",
+    "location": "Worcester",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403383690.webp?k=1d22095b28a842093955aac498072a649d35f07edadd9bf3d04edcd2f46affc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-spacious-apartment-kidderminster.html": {
+    "name": "Charming Spacious Apartment, Kidderminster",
+    "location": "Kidderminster",
+    "score": "9.0",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300056880.webp?k=63cf028371d07d4d1dabe165b50a57c35e4465a8223ff53f1302edb7c54f549b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unrivalled-location-five-star-worcester-apartment.html": {
+    "name": "UNRIVALLED LOCATION FIVE STAR WORCESTER APARTMENT",
+    "location": "Worcester",
+    "score": "9.8",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352406630.webp?k=1876ca91014ab928cbb9fa0cd27b080926429fe0cfe05f006102d694b54332d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/worralls-grove-farm-house-bed-amp-breakfast.html": {
+    "name": "Worralls Grove Guest Farm House",
+    "location": "Bewdley",
+    "score": "9.8",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373129255.webp?k=d38f27bd62db0c2e2bdbfd4a8c96e405ac032ebf179005a8a67ca8e72700cf43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadowfields-kidderminster.html": {
+    "name": "Meadowfields",
+    "location": "Kidderminster",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408111807.webp?k=004a9ba2802886abd848f436f70e4a4f24dbf22a0a2bcaf8e86f088056e363bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shepherds-hay-broadway.html": {
+    "name": "Shepherds Hay, BROADWAY",
+    "location": "Broadway",
+    "score": "8.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344455042.webp?k=5a6b479f9ef187b74aa74206de7b618334bbb6d61acc03239c36f1ac234dab8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swallows-nest-bromsgrove.html": {
+    "name": "Swallow's Nest",
+    "location": "Bromsgrove",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301597857.webp?k=33994d74db8541961ddee7079b9279051e5640628485d5607442f389dde253ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-4-62-hillbrook-house.html": {
+    "name": "Apartment 4 Hillbrook House, Malvern - Guest Homes",
+    "location": "Great Malvern",
+    "score": "7.9",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264987644.webp?k=6bc717b8a58fb8beffd3548c4afa170e5aa22679d4b626f0b60d45f5c13e523e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-9-the-old-surgery.html": {
+    "name": "The Old Surgery Flat 9",
+    "location": "Redditch",
+    "score": "9.4",
+    "review_count": "48 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348407692.webp?k=cbbdf5bc14999e79d4d8aee47a8e504471a26a0713443504e3a3ac676b3acf63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wyche-inn.html": {
+    "name": "The Wyche Inn",
+    "location": "Great Malvern",
+    "score": "8.9",
+    "review_count": "268 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268555475.webp?k=213ff8f3661fa35a0a33c72b75faadf2496e056e9f1c8ddbb4c3b630edc08d00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-cabin-worcestershire.html": {
+    "name": "Woodland Cabin",
+    "location": "Upton upon Severn",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299589309.webp?k=6c63b7f1fc854f89bd267f1c1d3827c8198db5b56414eaffcbb693b81fa675c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-hotel.html": {
+    "name": "Granary Villa",
+    "location": "Kidderminster",
+    "score": "6.8",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368387705.webp?k=a35c88a4b8a1f41021b7462418b5aba11ebb51e840b20b64f974a8e332a19baf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upstairs-33.html": {
+    "name": "Upstairs@33",
+    "location": "Worcester",
+    "score": "8.8",
+    "review_count": "226 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353124159.webp?k=5f6cabfb6a93d40c68b4b8bbbbdf1be46efe13ccd4f37dff8f408f7352e6b1e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rafters-at-the-manor-house.html": {
+    "name": "Rafters at The Manor House",
+    "location": "Broadway",
+    "score": "9.5",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147628913.webp?k=51324d17988e98e241da80f1ddca7cde2ca57dc17b9a5484883cab2b8bf1495a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pear-tree-inn-country.html": {
+    "name": "The Pear Tree Inn & Country Hotel",
+    "location": "Worcester",
+    "score": "7.0",
+    "review_count": "847 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/2999935.webp?k=1277aced7dad402a228f735ff6c2e4b3ba9fc8ee1c16f7149d5a0e7581ec820f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/buttercups-at-midway.html": {
+    "name": "Buttercups at Midway",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261231313.webp?k=2ad5477a3847f32152ae79af9ed2d5a59a44abdc6934f54480cb53a8f9af8d16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hill-view-cottage-snowshill.html": {
+    "name": "Hill View Cottage",
+    "location": "Snowshill",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418408208.webp?k=dd44c2eb355f22c88601c28f1d5fab981068aca12d0ec0b40b46d67e2bd0f765&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-elegant-country-home-in-picture-postcard-village.html": {
+    "name": "Pass the Keys Elegant Country Home in Picture Postcard Village",
+    "location": "Worcester",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415872956.webp?k=5cafdc3cbabf98070cfa10d3900f2507948e8488d1ad4f4d9e92f9a0a6ed413e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lowerfield-farm.html": {
+    "name": "Lowerfield Farm",
+    "location": "Broadway",
+    "score": "9.5",
+    "review_count": "144 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84913426.webp?k=8424581d47bd85f0d75af2ef6b3efd9cedc5e3ba600615e948cdfaae9823d1c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-corner-city-home-worcester.html": {
+    "name": "Beautiful Home Near Worcester Royal Hospital",
+    "location": "Hindlip",
+    "score": "6.8",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251593333.webp?k=bee1348b1395cac0c506bc0d87bc0d21b3a2a29549f1242e311684a63ce7615b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chadbury-house-annexe.html": {
+    "name": "Chadbury House Annexe",
+    "location": "Evesham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412826152.webp?k=2bf5c7b9c806d8ba71768dd27039c84f92c8a9febb1cd1c5081761107fbcad72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bedroom-basement-apartment.html": {
+    "name": "Lovely 1 Bedroom Basement Apartment",
+    "location": "Worcester",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380298437.webp?k=49e431f80abc2a1c2d201089dbdbedb096666fe733c0c239c5bc1a2669190b65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northfield-street-worcester-city-centre-guest-homes.html": {
+    "name": "Northfield Street, Worcester City Centre - Guest Homes",
+    "location": "Worcester",
+    "score": "7.6",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190552349.webp?k=e232bce3f3033d786d5689d58525372a9785433a4534096f304c97a5016a1271&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bull-inn-3-flats-in-boutique.html": {
+    "name": "The Bull Inn- 3 Double Rooms with En-Suite and Air Conditioning",
+    "location": "Worcester",
+    "score": "7.2",
+    "review_count": "128 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307627091.webp?k=ebde73ea31557cc41f38c7ba7dcf3069a7b0be3bd09c85e82f7a970d100aa4f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eckington-manor.html": {
+    "name": "Eckington Manor",
+    "location": "Pershore",
+    "score": "8.6",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/24581735.webp?k=a03ba92f8751ecdbed40fb97b72dce3d3506741e0777ff7f99c7c26078bb51f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-school-house-dumbleton.html": {
+    "name": "The Old School House",
+    "location": "Dumbleton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421223601.webp?k=f1f343a30f1f73d262d46a99df899350837772dac37e43b981c7b7fb07d0c654&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/court-farm-kidderminster.html": {
+    "name": "Court Farm",
+    "location": "Kidderminster",
+    "score": "9.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240306487.webp?k=f4294549dfce58814e64755a93670e9fa929732d8d1271a6741f5ef828f44404&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-rectory-redditch.html": {
+    "name": "Old Rectory House & Orangery Rooms",
+    "location": "Redditch",
+    "score": "7.0",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213143209.webp?k=3c1371e77f52106840899297db500ada0ddc9a540f2f3d28154d862ada4dbaf6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-tractor-shed-worcester.html": {
+    "name": "The Tractor Shed",
+    "location": "Worcester",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349441103.webp?k=7abf41e8989cc27d16029631ac3b60fbfdbaee327fbce304668e159e6744f321&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/box-cottage-broadway123.html": {
+    "name": "Box Cottage",
+    "location": "Broadway",
+    "score": "9.0",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118785146.webp?k=c16769baba500ccbb467a876f8768afc1335d0cd8042d44e2e9f45a4cb553764&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-room-nature-stay-alfrick-pound.html": {
+    "name": "The Garden Room - Nature Stay",
+    "location": "Suckley",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410858655.webp?k=0257c8b60eab03d783c918ebe413a07222a60bbf3f599a88d30d71f317282b4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alstroemeria-uk39732.html": {
+    "name": "Alstroemeria - UK39732",
+    "location": "Bretforton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396681113.webp?k=8ff79d5afbe19552dec30a76efd64e79bb162f4f9467a39773274164bc01e0da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bedroom-apartment-with-free-parking-worcester.html": {
+    "name": "Modern 2 Bedroom Apartment with Free Parking!",
+    "location": "Worcester",
+    "score": "8.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322019140.webp?k=f75351766606411e54cd7ac57fb2f61f9ac3b551eb96241698817f18afd2ad48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-5-bedroom-house.html": {
+    "name": "Spacious 5 Bedroom House",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427086148.webp?k=789c08628c92a15e5a1857ad1caa56800158063ebb0b5883550201f30eae023c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-3-bedroom-home-with-parking.html": {
+    "name": "Cosy 3 Bedroom Home with Parking",
+    "location": "Worcester",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356510096.webp?k=a8f4a7d712d9d1bf71c75a401c68e0b0056c1a3990f42ef2fb43e5b4248e543d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shire-cottage-broadway.html": {
+    "name": "Shire Cottage",
+    "location": "Broadway",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343123433.webp?k=7353b8290b49cfbdfaa0ca52ea4e0b29ff1a1aba89a1d71ce90e19a067f3355f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-elegant-georgian-home-in-picture-perfect-village.html": {
+    "name": "Pass the Keys Elegant Georgian Home in Picture Perfect Village",
+    "location": "Ombersley",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399852717.webp?k=1faa4033b8da2347fd25f05a9d13c0ed3708380610baf3abeb957d3cd11e6115&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-apartment-at-hillside-lodge.html": {
+    "name": "The Apartment at Hillside Lodge",
+    "location": "Broadway",
+    "score": "9.8",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/26507796.webp?k=86b8e5f290057109c74bd8a39574d29bb5fb7d8f407801978aa4417a7de67de5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-home-with-parking-in-worcester.html": {
+    "name": "3 Bedroom Home with Parking in Worcester",
+    "location": "Worcester",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383815608.webp?k=8a05d88f7d142ca3e1a43926e7175b071d218922b90ad3239b8605d8eb30376f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-1-bedroom-apartment-worcestershire.html": {
+    "name": "City Centre 1 Bedroom Apartment",
+    "location": "Worcester",
+    "score": "9.1",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349118931.webp?k=33f58282854fbe33c52dbc3aac6cce84fb7c170e15caef5149d03b1b43fe48b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-big-cosy-boudoir-bed-hot-tub.html": {
+    "name": "The Big Cosy Boudoir Bed + Hot tub",
+    "location": "Harvington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425128798.webp?k=f768db1b49553ff5f0b1dd030f55ce2d92c76a3efd993c3563836c7dd9ac9094&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-cider-press-broadway.html": {
+    "name": "The Old Cider Press, Broadway",
+    "location": "Broadway",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240222116.webp?k=f825cff40e85beb0f549a503c6b374919e12ae14fac54c6d4a1d5d4654d9edb2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cleeton-cottage.html": {
+    "name": "Cleeton Cottage",
+    "location": "Elmbridge",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316758445.webp?k=f5ef282f5cfb3e0207b044464009e56d30ad67f5b354ab0fbc072a4c39012831&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maple-cottage-broadway.html": {
+    "name": "Maple Cottage",
+    "location": "Broadway",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313537925.webp?k=16c94407bcc90fe53345be64f9d580cba3e8d3c5c9074571cfeb786c8c822a73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tumbledown-broadway.html": {
+    "name": "Tumbledown, BROADWAY",
+    "location": "Broadway",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251002857.webp?k=a8a23386505abd1f9c5fd4eb7ac6c84e8332ed04e50d91e3ae7d08c779f550b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ludlow.html": {
+    "name": "Worcester Home Stay",
+    "location": "Hindlip",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359706427.webp?k=60844e84be9ce55763c27e6392e3a4f0835603f0b5b93db756ad8068bb41bcc6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/guest-homes-city-centre-spacious-1-bedroom-apartment.html": {
+    "name": "New Street B- City Centre - Spacious 1 Bedroom Apartment",
+    "location": "Worcester",
+    "score": "7.6",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190714026.webp?k=d3357d1c7e02e7bf4b68e5bb298f5f3bdc32f15925e3683e74942f1b77cd9128&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/casa-safari-aparment.html": {
+    "name": "Casa West Midland Service Apartment",
+    "location": "Kidderminster",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378233344.webp?k=7019a01c0b5f2b15428a059f2b7ce44cefecfbd3123d1fcb002302662434e134&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-5-bedroom-victorian-home-with-hot-tub.html": {
+    "name": "Stunning 5 Bedroom Victorian home with optional hot tub",
+    "location": "Pershore",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345367500.webp?k=442931a401e5036b271db5faa232fad084a651b0ad438627a8945a65393074b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blossom-cottage-broadway.html": {
+    "name": "Blossom Cottage",
+    "location": "Broadway",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396727119.webp?k=3a9d5aa63fbd029c4f07e3a79b0ddbec36e43107a229698b386e7fe7841cc6c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-cottage-broadway.html": {
+    "name": "Meadow Cottage",
+    "location": "Broadway",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300025040.webp?k=3383676be9991dd07436314d0de817443747fcea2686e8145a236e2f7eac374d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yew-tree-cottage-malvern1.html": {
+    "name": "Yew Tree Cottage",
+    "location": "Great Malvern",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/200912718.webp?k=d8746fc400786db8085ab76b5c1a96e91907c429ca47064151d00383c978f45d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-4-bed-house-worcester-city-centre.html": {
+    "name": "Beautiful 4 Bed House Worcester City Centre",
+    "location": "Worcester",
+    "score": "8.2",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285555391.webp?k=1ae1c85d279ec1d01e84cc9fddb62df47acce33d97501433c3e61ac1766628ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pheasants-nest.html": {
+    "name": "The Pheasant's Nest",
+    "location": "Welland",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344416465.webp?k=29c6901bd8632ee80968caffc46013bf55c8d3d7199e3fd83061f1aa8e1b55d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fox-cottage-droitwich.html": {
+    "name": "Fox Cottage",
+    "location": "Droitwich",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221591221.webp?k=c5136ddf446596dff38d830d1a4145fffd0b793f6e5119f665cc3ffc7d8a4fc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ailsa-craig-worcester.html": {
+    "name": "Ailsa Craig",
+    "location": "Worcester",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384419527.webp?k=882697e6b240a6a08e7b0e782c560a0ba4a7b03ac8aa9fa7447a75cdfb5b550a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-packing-house-worcester-road.html": {
+    "name": "The Packing House",
+    "location": "Severn Stoke",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344424962.webp?k=ebff894afd5addbe25072a7fcf84acc7c84f0fcbc7d2f0ffa702ae76c38e044b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/redroofs.html": {
+    "name": "Redroofs",
+    "location": "Tenbury",
+    "score": "9.4",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/124278307.webp?k=c96b1f6b2abf7d3bdfd5f746bcfb55b4e0cdbe0f345ba45721531178e927ca53&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/6-cosy-studio-apartments.html": {
+    "name": "6 Cosy Studio Apartments",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432138056.webp?k=35c3a442b09546712f50585cf0240f407c93defd01b7df67077ab6f8de773c6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-1-bedroom-worcester-apartment.html": {
+    "name": "Central 2 Bedroom Worcester Apartment",
+    "location": "Worcester",
+    "score": "8.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332590746.webp?k=85ede7fa383e23c81a1a39184990eb6f4e1921de92f531388797326239c89dcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-uk36596.html": {
+    "name": "The Stables - UK36596",
+    "location": "Bromsgrove",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416795375.webp?k=a519692c9520311acfebb355764958b2707d9535c063c3de8f9ec036b448d615&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woltons-mill.html": {
+    "name": "Woltons Mill",
+    "location": "Much Marcle",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416803410.webp?k=4c602c31c2f5304bb1593a626ce8ce4b8c3db65613bd02206507a00ef90e95d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ivy-cottage-malvern.html": {
+    "name": "Ivy Cottage, Malvern",
+    "location": "Great Malvern",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344444815.webp?k=135c5dd6167eb35a9f5e7334c82c4b871d53fbc0356b5b6da65a6e0b7d0673f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-priest-hole-at-the-old-rectory-nr-malvern-malvern.html": {
+    "name": "The Priest Hole at The Old Rectory, nr Malvern",
+    "location": "Great Malvern",
+    "score": "8.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239088365.webp?k=bb2b1d277ce5aaeb2853578f5b6988c32c16bc82f213ad13761b9abea5aa28f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/berwyn-lodge.html": {
+    "name": "Berwyn Lodge",
+    "location": "Bengeworth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392899875.webp?k=b30c7bcbcbee2d32d23f4d1c67b8158dd55aedaa78d28902833ffcd8547cfeab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queens-head-inn-evesham1.html": {
+    "name": "Queens Head Inn",
+    "location": "Evesham",
+    "score": "6.9",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370544500.webp?k=92fe5b1c3a64beeac553e4cbf575cc7833b72797cd0788aec9119a70f4773bb2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honey-pod-farm.html": {
+    "name": "honey pod farm",
+    "location": "Upton upon Severn",
+    "score": "8.2",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240786516.webp?k=3bde2972a7b3c3ede5595a457c2a77015c56712506c24a5a61d758a627d2cd20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/all-saints-worcestershire.html": {
+    "name": "All Saints House",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414606522.webp?k=61ababe2f309b29abeb41c71523c4873e274a3a4a0ad32f810421e0e6a1aec14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/debonair-bnb-33-worcestershire.html": {
+    "name": "Debonair bnb @33",
+    "location": "Bromsgrove",
+    "score": "9.5",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257805267.webp?k=97d759a56e0ea39e11f30d8807340210bccfa0f057777d5d4edd98835fcde100&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blossom-vale-lodge.html": {
+    "name": "Blossom Vale Lodge",
+    "location": "Evesham",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343614625.webp?k=7448631ecfe7b112532125747280cc807baa0c3f691539091738aa6d5fde6ade&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gras-lodge.html": {
+    "name": "Gras Lodge",
+    "location": "Evesham",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376269116.webp?k=294cb632ebf6623ddab2379b45626dbcf3c1ce8c402ce73514e8df0fe3047123&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chestnut-5.html": {
+    "name": "Chestnut 5",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432020058.webp?k=fe87d126e833fdbfce3edb12acc0833d4c1f9d1250639f4331c599d55bb65aad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/buckland-manor.html": {
+    "name": "Buckland Manor - A Relais & Chateaux Hotel",
+    "location": "Broadway",
+    "score": "8.3",
+    "review_count": "160 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67321698.webp?k=53d34a8fe6a43b37403c909edc45674617821240a4b8b7ebf7c159f88457188b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yew-tree-cottage-malvern.html": {
+    "name": "Yew Tree Cottage, Malvern",
+    "location": "Great Malvern",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285511455.webp?k=f1490dfca364d81b35ed80bfb12e9ae28c4d8c4704d94e4097097a4f1e2e0604&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bens-hollow.html": {
+    "name": "Bens Hollow with hot tub",
+    "location": "Bredon",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412995582.webp?k=4cc4312d3daef5d0f1d90749975baf5a2a149d65e9ff984fdf260455edf55418&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wheelbarrow-cottage-wickhamford.html": {
+    "name": "Wheelbarrow Cottage",
+    "location": "Bengeworth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436034966.webp?k=c46477cb54e3f798307ece2e20044441fa355f02f39def84f33eef8cccb606f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gorgeous-countryside-hillview-annexe.html": {
+    "name": "Gorgeous Countryside Hillview Annexe",
+    "location": "Worcester",
+    "score": "8.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329082442.webp?k=adfd95c3d1c5f080ced4ccd16f1bd82518d4a616b42b155eb5e181b3d21b17f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elm-4.html": {
+    "name": "Elm 4",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432020088.webp?k=32318b997c19240a5974a987f1b2dfbf2484b964641bc029ec85d70326de5010&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swallows-rest-broadway.html": {
+    "name": "Swallows Rest",
+    "location": "Broadway",
+    "score": "8.9",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323498306.webp?k=576af22df9dc2104d65c9a638db13d4f2007d20544abadf3a9c9aee0f66c4272&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/may-cottage-broadway.html": {
+    "name": "May Cottage, Broadway",
+    "location": "Broadway",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253453856.webp?k=421d754dd51e3de4168644a5bd2caee6380da675fc9ea6a771cba1cdccffe548&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wigley-orchard.html": {
+    "name": "Wigley Orchard",
+    "location": "Clifton upon Teme",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427705573.webp?k=b1fa3412fb37592e9eaeae368c78e5f648b12c73d5a9562b00e653bad16bce0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gander-pod.html": {
+    "name": "Gander Pod",
+    "location": "Worcester",
+    "score": "7.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322142149.webp?k=9b97fbaf861bbb5656040f14caf926cf30019ccc192b00d0031673c4c9e5a78b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/club-chambers-malvern-guest-homes.html": {
+    "name": "Club Chambers, Malvern - Guest Homes",
+    "location": "Great Malvern",
+    "score": "7.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264971961.webp?k=6ffb5a23ea41653780698761e7310254969919e33bf6555666f49329ac242868&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blundells-cottage.html": {
+    "name": "Blundell's Cottage",
+    "location": "Broadway",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356935152.webp?k=41ae1640044609cd9296066110f66b4792ce9b9ea541ead115be553d2879de35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-2-bedroom-apartment-worcestershire.html": {
+    "name": "City Centre 2 bedroom Apartment",
+    "location": "Worcester",
+    "score": "7.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349266972.webp?k=e44ac58ab6d048dca3de683c09b55b77e255f14e12f60cce1b273d344f4cf228&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robins-cottage.html": {
+    "name": "Robins Cottage",
+    "location": "Evesham",
+    "score": "9.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322236714.webp?k=874b80d16a8cd3734892aa066e3afcdd52513a4b7a7e330c51db73fab1d37f89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-willow-cottage.html": {
+    "name": "1 Willow Cottage",
+    "location": "Upton upon Severn",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344541374.webp?k=9afa1466915093d14104f0d986f9c674d5874d7ffc7cb49e6c2b6cbde15c14c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mount-view-childswickham.html": {
+    "name": "Mount View",
+    "location": "Childs Wickham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331852616.webp?k=58ac522bfa9b3498433f9762715907340726d912389c4ce4fac6985fc2b69c5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corner-cottage-bretforton.html": {
+    "name": "Corner Cottage",
+    "location": "Bretforton",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331961405.webp?k=2d46d1b82f638bae99ca8b57869c646aa4a399693f59f6ddda636d821f00703a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/de-regency-style.html": {
+    "name": "De Regency Style Hotel",
+    "location": "Redditch",
+    "score": "8.6",
+    "review_count": "189 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309340168.webp?k=440b9af229859fd608f067e7973c4cc80c9c7bd3dc3c38f092df06ff3cf34234&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-hay.html": {
+    "name": "Mill Hay Country House",
+    "location": "Broadway",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27347422.webp?k=7c8b3a9a8f094a50811b365abf0eedbcb5a406954f8a8998db0411341fce88a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/star-yard.html": {
+    "name": "Star Yard",
+    "location": "Tenbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396111289.webp?k=3906fa2f905952d99de865e2fdadf20dfcf79dba0aaa08edab0306f7ada2b15c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/summerfield-view.html": {
+    "name": "Summerfield View",
+    "location": "Malvern Link",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420701386.webp?k=21d366316020e96aefe4ab32f57d909739c80e4cde101e1f01e206814dc5c58b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beesoni-lodge.html": {
+    "name": "Beesoni Lodge",
+    "location": "Castlemorton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263431151.webp?k=14c0c97e3f1707c1671715d1e0dc63701b96d406458fdfe440a6aee06a74391c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-cottage-worcester.html": {
+    "name": "Rose Cottage, Worcester",
+    "location": "Upton upon Severn",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343291152.webp?k=e6581d842363b4656702d88ba14f22d9b6a64ffc418186176c5da2a91da5c453&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bowbrook-lodges-pershore.html": {
+    "name": "Bowbrook Lodges",
+    "location": "Pershore",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412895746.webp?k=8a593c5d1cd87b7ba7dc0fbbbb1375d0902d4a7a075b88e721e5dd250fa035be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/traditional-house-near-worcester-city-centre.html": {
+    "name": "Traditional House Near Worcester City Centre",
+    "location": "Worcester",
+    "score": "8.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345435994.webp?k=2b46f7078b0fb6c3c596f1a7092d61e7a07a101802eec271854ef5a473ac851d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cobblers-cottage-worcester.html": {
+    "name": "Cobblers Cottage",
+    "location": "Worcester",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268750873.webp?k=e7b7188216cbea4938f2c6294af9b701cd5710783e462de4f0cb4c85f22572f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-pershore.html": {
+    "name": "The Cottage, Pershore",
+    "location": "Pershore",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344457502.webp?k=a06f6aad02be69182a225427b12fda6d75038d92e3752e4d6fe03e69871f33bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chancewell-broadway.html": {
+    "name": "Cotswolds Place - Chancewell",
+    "location": "Broadway",
+    "score": "8.9",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242440647.webp?k=c7c3e6c306f7823573d8fa84429c0042f4f113a059b16d1875011bd790ddf1b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayloft-kidderminster.html": {
+    "name": "The Hayloft",
+    "location": "Kidderminster",
+    "score": "9.5",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418941275.webp?k=322c5b01abc98ccd364e6990d1efeb7eb33ac73baba0e9b64b13f90937a137cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fairview-house-kidderminster.html": {
+    "name": "Fairview House",
+    "location": "Kidderminster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427325519.webp?k=c6c548ec25b56c9ab3e10d69ff22869e25c33e1e09983aa32c445acfcebf0db8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadowfall-at-shatterford-lakes.html": {
+    "name": "Meadowfall at Shatterford Lakes",
+    "location": "Bewdley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435638662.webp?k=7b50c4dc55b616503f7a48a80bf3370ed204eca6c903e5f86c041ea36cdd1e0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glencoe-cottage-collin-lane.html": {
+    "name": "Glencoe Cottage",
+    "location": "Broadway",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258233266.webp?k=d5a99a3a62bb544271adb8cc54ffd205dec64ffec2a9f0175f73ae76d96964a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-vines.html": {
+    "name": "Little Vines",
+    "location": "Kinnersley",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392486637.webp?k=f4c2bf2007f927b608d608382274763839c4cf299055dfe2b48c137bdf83d109&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-worcester-studio-apartment-worcestershire123456789101112131415161718.html": {
+    "name": "Stylish Worcester Studio Apartment",
+    "location": "Worcester",
+    "score": "8.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357435109.webp?k=12a711a6116b24a0fdf9beb267ef6792e0d9710ae732de31af4be7c840a66a9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cider-mill.html": {
+    "name": "Cider Mill",
+    "location": "Tenbury",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395566638.webp?k=9f3390f828985660ad53b3fa7a61a0b21d77f9205fae508f22752d50e2f37df7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-croft-malvern.html": {
+    "name": "The Croft",
+    "location": "Great Malvern",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353174925.webp?k=007b29b1d9895aef1e60c3e283d8eeeb931c953d1736fd7fc60048f00d4e097b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grafton-grove.html": {
+    "name": "Grafton Grove",
+    "location": "Berrington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418662789.webp?k=bf25c14991cc5d7c44a0e83fd6d88e37b1541d5486a071b696915167e770eb8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tamina.html": {
+    "name": "Tamina",
+    "location": "Worcester",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384392903.webp?k=0f3d36eae2be758eca1c71bd7bff3046507920f07abc762bf13ed8e186f4b8af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lena-s-lodge.html": {
+    "name": "Lena's Lodge",
+    "location": "Birtsmorton",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398878955.webp?k=6550bd5ae343b0afdc021d01f99aaeede0f9f8ab423b18c30dae1b1492966501&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-row.html": {
+    "name": "The Row",
+    "location": "Much Marcle",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418747385.webp?k=68ea28bea67314bd0539a48e683065894298c602e3f719880334843215d3cec6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lady-s-field-house.html": {
+    "name": "Lady'S Field House",
+    "location": "Pensax",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418068438.webp?k=f3f13a3870f02a840ea79877d3102cb82bf41b3e1e2345ad6b5d16bdc312882b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-bewdley-near-kidderminster.html": {
+    "name": "The Cottage",
+    "location": "Bewdley",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393988891.webp?k=bcdeeb4bcfedd39ba0ded718c7325d4c1237573a3f25d72dfcdb2efa0bbbbfe0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hakuna-matata-safari-glamping.html": {
+    "name": "Hakuna Matata Safari Lodge - Sublime, off-grid digital detox with hot tub",
+    "location": "Shelsley Walsh",
+    "score": "9.4",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301119243.webp?k=58d9ba0afd08053c83f7ed81a0a13d7f7117d14497d757a35d7876b7af41ac5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-log-cabin-tenbury-wells.html": {
+    "name": "The Log Cabin",
+    "location": "Tenbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366185186.webp?k=c350bf62cb22ac799dc22a960e059e5662ed5674c2b98d1e260c1529074f1320&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dodderhill-court.html": {
+    "name": "Dodderhill Court",
+    "location": "Elmbridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402231545.webp?k=aed0467c5d8c7a70837904307ed4c030d1c6cf8a12742609b5b7e04708dc1ec8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-beautiful-apartments-in-one-house.html": {
+    "name": "2 Beautiful Apartments in One House",
+    "location": "Kidderminster",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304128547.webp?k=21710880b3bbc40727f952f8e8397dd1c08087062f7c406f72fcffd7f37e95b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-cottage-cradley-malvern.html": {
+    "name": "Mill Cottage",
+    "location": "Great Malvern",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418462214.webp?k=0eddd6104d073c916b61aa9374e874422831bf65ddfdd0dcca5a11e6eff65699&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bell-inn-evesham.html": {
+    "name": "Bell Inn",
+    "location": "Evesham",
+    "score": "8.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238668975.webp?k=4b9f723a70f98e05d76f9aadfca47e9be2647db401b14f3f580a652cf7584648&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gable-lodge-malvern.html": {
+    "name": "Gable Lodge",
+    "location": "Great Malvern",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402730938.webp?k=185736f348793ffd9033ad5e0a4c0292a4afc143a26bc30f70996030e582d596&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nanny-goat-lodge.html": {
+    "name": "Nanny Goat Lodge",
+    "location": "Crossway Green",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416811506.webp?k=96ba127574dfcee17de15f152452ea6d27a5409c66a44dfbe87a575f0019fb07&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lea-farm-house.html": {
+    "name": "Lea Farm House",
+    "location": "Kidderminster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369775597.webp?k=82df8a4cd8f4847e40925e2b225bae249e4fdbd3eb998b320c1fdc57be788094&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cotswold-holiday-lodge.html": {
+    "name": "The Cotswold Holiday Lodge",
+    "location": "Evesham",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379444237.webp?k=ed045f47346f158613a792058d244f41883cdfc21970b0a8696137b8b21cbf78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lunnon-barn.html": {
+    "name": "Lunnon Barn",
+    "location": "Droitwich",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266523713.webp?k=a1324efb5414fbb4b914ba659e92e204be3addc172d4d0022ccbdd2dd847b885&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rye-court-cottage.html": {
+    "name": "Rye Court Cottage",
+    "location": "Malvern Wells",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418328431.webp?k=9baf1446e07b68a8bf45f0e83bc933f53e9d66338732d8c350ebf0d8dd7ab07f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/severn-bank-lodge.html": {
+    "name": "Severn Bank Lodge",
+    "location": "Shrawley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344280720.webp?k=23a17b6aa424365c9c47ad8115a45d71346c1eafe4d0638be1125e3ee9c43b99&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morris-road.html": {
+    "name": "Morris Road",
+    "location": "Broadway",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356119063.webp?k=bb4e720e934c206ef6223aea5b0c5edabc4fcbe269ede76dfe26b1debf800fc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-piggery-worcester.html": {
+    "name": "The Old Piggery",
+    "location": "Worcester",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354454292.webp?k=7ef94cbcc5900a6444f88e6c5f08cf3654c7ec4cba25d1f74397443e538abe59&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manor-farm-cottage-worcester.html": {
+    "name": "Manor Farm Cottage",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363348685.webp?k=5ad6d354433ccc5c9e696cff191e8d653dfc2aefd5947ceaa5187bfd552f58e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hunters-moon-tenbury-wells.html": {
+    "name": "Hunters Moon",
+    "location": "Tenbury",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312976161.webp?k=1f0bee342e1489fd11acb9b356ecadc7e07d3f6c9c99d128811c182ddb4ef13a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swallows-barn-upton-warren.html": {
+    "name": "Swallow's Barn",
+    "location": "Upton Warren",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365348900.webp?k=2d16b02cd2c034dfbf937b6f27ea212d847ac2e70d26622cf1c243955f028e65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northwick-cottage.html": {
+    "name": "Northwick Cottage",
+    "location": "Evesham",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378188875.webp?k=1e97a3146758b12ff0770570a7f75002bea1b0c1775de5d1aed2df8e8bc47530&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-redditch.html": {
+    "name": "The Barn",
+    "location": "Redditch",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264881870.webp?k=9f9db52e26aa09200b4420e6cc046a1b167a47d7b555f2b792b85d5d75f92294&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-magnolia-worcester.html": {
+    "name": "Little Magnolia",
+    "location": "Worcester",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365547440.webp?k=c22ee0d1c786cfbef6ad57ebafcda09902507bb01f6fcaea70acfc35a7d7946a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pavilion-malvern.html": {
+    "name": "The Pavilion",
+    "location": "Great Malvern",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394152897.webp?k=889b25416e4a5452cc137c6b7c176725214d127aadb008524bf3c8986c3d6b83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rookery-hall.html": {
+    "name": "Rookery Hall",
+    "location": "Broadway",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369349649.webp?k=79d0458d5ece2434e983e87cd608e0894b8b8a865c4bbfabc7f87c9a0f5b0804&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crews-hill-house.html": {
+    "name": "Crews Hill House",
+    "location": "Worcester",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339159195.webp?k=f883ecf301100d81c3f9563db3fac6dce64670cfec028154bcde34b06e2ba77b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elegant-country-retreat.html": {
+    "name": "Elegant Country Retreat",
+    "location": "Malvern Wells",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436886745.webp?k=681754785a776399a21d796da21eea5c1fa30ca22b705391dacdc1d735c47c24&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-stable-kidderminster.html": {
+    "name": "The Old Stable",
+    "location": "Kidderminster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355905915.webp?k=a0fcd07ac8f94c0ae46b96c3a6ae2ab9c1aa69f38fb04556a0518356c1ccb7e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gaol.html": {
+    "name": "The Gaol",
+    "location": "Bewdley",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289271851.webp?k=3551fe1f1b5842ab5f9e48732be984c734e8ae903d85918c4a2a89adaddae51b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clover-patch-cottage.html": {
+    "name": "Clover Patch Cottage",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419655416.webp?k=b7b1eca675ff6d386ecccc8b0b8f5bf6a4e74c34e681b7cd659ada52797e1df9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/phoenix-house-malvern.html": {
+    "name": "Phoenix House",
+    "location": "Castlemorton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363254542.webp?k=eead8a43788d41df68008e1aa43c89b9f4eee6c99209fbcd0b37df2d7918057b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-home-in-picture-perfect-village.html": {
+    "name": "Pass the Keys Beautiful Home in Picture Perfect Village",
+    "location": "Ombersley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399849499.webp?k=2c6fc748ea8d30c200c733ab10685d8eb0198380ded1e97eaacb68fc99e2d2f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bricket-house.html": {
+    "name": "Bricket House",
+    "location": "Great Malvern",
+    "score": "9.5",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321870791.webp?k=a66109fa9ff73723e4a438568b5f05f174f49b63ef8911d76670b20349fd4634&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-pershore-pershore.html": {
+    "name": "The Hideaway, Pershore",
+    "location": "Pershore",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344472727.webp?k=d8741ca239fa64f54fea1b2902a84890b7aa7b51632f3b5742a76f90a20d14c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-tallots.html": {
+    "name": "The Tallots",
+    "location": "Berrington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325880861.webp?k=84db060ca77c267014a80dc7b0fa765ddea20f2dfa897234a747ec73397b1cbb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-learpool-barn.html": {
+    "name": "The Learpool Barn",
+    "location": "Welland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437861557.webp?k=229e4cb3dce0c97cbb64f32dc11e08a62ab2623449cc6c2f89ec83a5cec13282&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-smithy-little-witley-near-worcestershire.html": {
+    "name": "The Smithy",
+    "location": "Little Witley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418330321.webp?k=6f0576b80f84f7d8cf99aca79ed96254ec94a5b960557a75db7a9b083cd0db2a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-tenbury-wells.html": {
+    "name": "Stable Cottage, Tenbury Wells",
+    "location": "Tenbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344439464.webp?k=e945fa907d4eb7a6f346ca3aa0654ce766ff316596a90ff23d0c9fa6211abcad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pheasants-nest-worcestershire.html": {
+    "name": "Pheasants Nest",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383642134.webp?k=74851c63ebcd1b0c4233ee4fcaad74a639d33fb3d426c58602c1a950db855dda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bothy-upper-welland-malvern.html": {
+    "name": "The Bothy",
+    "location": "Malvern Wells",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397937513.webp?k=2cdd47b9cac45ad066daf289de8a875a9d3573f0cf2a057c139bae2b7a79106b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-cottage-tenbury-wells.html": {
+    "name": "Mill Cottage, Tenbury Wells",
+    "location": "Tenbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344540654.webp?k=36fd76573a3b6893b95846f5f98c5cb126a7d0c4d692d45489ebc96603ee52d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/appletree-cottage-sykes.html": {
+    "name": "Appletree Cottage",
+    "location": "Bishampton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344258909.webp?k=ddb9ecba716af9819162a89877d41b1ecafdf2e66d212a021e840a41089f9989&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-1-bedroom-apartment-worcester.html": {
+    "name": "Modern 1 Bedroom Apartment.",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437213319.webp?k=550f8cb50b650716286c39949aa10acfaa6be3019686c0821d68e6f3ac20d324&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glebe-cottage-callow-end-worcester.html": {
+    "name": "Glebe Cottage",
+    "location": "Powick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418328955.webp?k=70950d436ba3c2fd1eca8fa63b4508f50be1b6c0490f43e5697b615793b6d3f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cotes.html": {
+    "name": "The Cotes",
+    "location": "Malvern Wells",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398114661.webp?k=19ad9a5455eb11cc21d799b0010c29bd6c2104512f6a9fcafb10ab886d5dca93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lakeside-eco-lodge-heron-bishampton1.html": {
+    "name": "Lakeside Eco Lodge- 'Heron'",
+    "location": "Bishampton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436341823.webp?k=45a7f0268c8d717a91cba5aa573f8c5f0d901644dbc45b4341b49113afb862fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shepherds-retreat-qu7438.html": {
+    "name": "Shepherds Retreat-QU7438",
+    "location": "Little Witley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401483229.webp?k=3e4bb9ab86945e77a6782bcc82af37bdfe310f9c4486887fd68c380dad6bf22f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-cottage-malvern.html": {
+    "name": "Bluebell Cottage, Malvern",
+    "location": "Great Malvern",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344301143.webp?k=bb85056dd9f7c17063c84584f615a220ecee6e6c831bb7606016592311dfc4d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/worcester-2-bedroom-flat-in-converted-barn-building.html": {
+    "name": "Worcester 2 Bedroom Flat in Converted Barn Building",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434391127.webp?k=a1a909264dac466e334fa629bb6dec64eeb6d464fae83652cf58cafa4aa2dd7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-29-malvern.html": {
+    "name": "Number 29",
+    "location": "Malvern Link",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399748001.webp?k=4283d362352b57a5fb943a2aae1fc44b336fc06e206f8ca08beb05e24c032126&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/equestrian-manor.html": {
+    "name": "Equestrian Manor",
+    "location": "Upton upon Severn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372245532.webp?k=3a4a53ed262839faf0b15d4021a389e7d18c222b73724305bcfa9ae40efe786b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-west.html": {
+    "name": "Lower West",
+    "location": "Newnham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394081809.webp?k=7dee7d1704c44a47c70189c82ff7cd67ed11370a63e51685dc2ac108c34c6956&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brookside-lodge-worcester.html": {
+    "name": "Brookside Lodge",
+    "location": "Worcester",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284523679.webp?k=415d76410250ba3dbda77b39887115f8bc4a56508024008bb0f03721ed1f6f90&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-spetchley.html": {
+    "name": "The Farmhouse",
+    "location": "Spetchley",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339428888.webp?k=ee2aac93c411ce3cd5cb694433d31dc12cfa2631bbf8812e8821706873803066&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-gable.html": {
+    "name": "Little Gable",
+    "location": "Berrington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418492568.webp?k=2e92451f34450bb691f405d89850df89fcc461ae3d102914cae322d6115713c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/island-yurt.html": {
+    "name": "Island Yurt",
+    "location": "Beckford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240131336.webp?k=7783765665fe9e000ba700452c75fcff5da61b37d60a47bac2482e45b7f658cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-cottage-broadway-broadway-worcestershire.html": {
+    "name": "Orchard Cottage, Broadway",
+    "location": "Broadway",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403111697.webp?k=8f77e08b69521f39314e65162a6ceee787c480a807f2c928d842ba92dfea4d90&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/15-muskoka.html": {
+    "name": "15 Muskoka",
+    "location": "Bewdley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398401712.webp?k=73ba09a922e5f28fee6251ececf74d0cd36287d0ee2a327ec963f4ca98d573a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/molton-house.html": {
+    "name": "Molton House",
+    "location": "Malvern Link",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416827613.webp?k=4ff2083a851ff27dca5ddf393078af2ec22996aa21aeb2aedc957994ee74a2a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hangout-hut.html": {
+    "name": "The Hangout Hut",
+    "location": "Little Witley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399132032.webp?k=8d65fd8f0bc3e04e5b07e94688096fa06e744d0829c32c4b853e48baf0c40fd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hay-bale-cottage.html": {
+    "name": "Hay Bale Cottage",
+    "location": "Little Witley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399130643.webp?k=82206a30d6e613fa79e794532e31aa0f0f9691e54bcbf746a415289b54051d26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dairy-barn-holt-heath.html": {
+    "name": "The Dairy Barn",
+    "location": "Little Witley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399131688.webp?k=e9935aef028a9c33ae706af19939dd57d8dad91657e120a55dab29487741775b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-flyford-worcester.html": {
+    "name": "The Flyford",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426514274.webp?k=d56d1c441bd5773b4634a46e291096ecfd4fbf029ec129c44ab906483553a80d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-farm-upton-upon-severn.html": {
+    "name": "Orchard Farm",
+    "location": "Upton upon Severn",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434793034.webp?k=c5c1f6691ef9ab0f7c7731f355ee2c34deefe328f16e456ef0c24338a874c12c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rowan-3-broadway.html": {
+    "name": "Rowan 3",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429538236.webp?k=a791a7c1199c56e7fccdd39ddfaf316a576d883d62fb9f54b3d4c58958ef981a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maple-1-broadway.html": {
+    "name": "Maple 1",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429537101.webp?k=7d07e9d7f8461b70e0ea8abb8190c6f973530f3529c94f8bf9574b9f09070298&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willow-2.html": {
+    "name": "Willow 2",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429534182.webp?k=14bb4aa486253b71992de44c6d658f9b4d652b1c1908b30113f3bb6dd2f549b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upside-down-house.html": {
+    "name": "Upside Down House",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432598074.webp?k=4aa88559449299d1ef36be0098be5225a7afb8cea33c5e7e7d2295bcf6e876f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rex-cottage.html": {
+    "name": "Rex Cottage",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409460027.webp?k=213bc5681a5bfa76c75a5d93b3895a7d2b7b2dcc47af4cf48ede28f0a6e8bc1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wow-what-a-house-book-for-xmas-hot-tub-bar-pool-table-parking-lovely-location.html": {
+    "name": "Moda Stays - Neville House",
+    "location": "Kidderminster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425081784.webp?k=06edcd44352efdffb0a2a34e5c16d08b025c6e9a0f5c5dbd1c6c1a0f877e2850&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-house-belbroughton.html": {
+    "name": "Woodland House",
+    "location": "Belbroughton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410649644.webp?k=24806f26ffb192f5b8a1d636df3a9d8f806420401deb18d2f469f51988f3ec37&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thornbury-malvern.html": {
+    "name": "Thornbury",
+    "location": "Great Malvern",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419950584.webp?k=16566cc3ee1ac736e66c5bf8d495997fb246fb4879fb6117a50623cc9dabc5d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deleur-house.html": {
+    "name": "DeLeur House",
+    "location": "Great Malvern",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413637805.webp?k=b6bbaee31caa7bd139cc620874e304b8f045f64ac3d425af0074b1b707a29e41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rosewaters-cottage.html": {
+    "name": "Rosewaters Cottage",
+    "location": "Shrawley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344398006.webp?k=3563d0ea3e273c40b22f005d5560ca3320e99c5d76302b63785e25282a80e7c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beau-cottage-bewdley.html": {
+    "name": "Beau Cottage",
+    "location": "Bewdley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361288967.webp?k=5b593670d204bf499ee4f685f0c46ba42c275024bd8f5f73a24a8c84f504e56f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-lodge-worcestershire.html": {
+    "name": "Bluebell Lodge",
+    "location": "Ribbesford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433251115.webp?k=24ee923fd712d971cd5c61931a7067e99623912891e5931a3e2e2e655dddb271&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apple-cottage-snowshill.html": {
+    "name": "Apple Cottage",
+    "location": "Snowshill",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372234371.webp?k=fd894e89edd3310b7e48f8f2a60c1f0ac4738a359d9ec97c2f8d87c09ae84336&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dairy-barn-pershore.html": {
+    "name": "Dairy Barn, Pershore",
+    "location": "Pershore",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352111645.webp?k=98b08de506e2c36f240a833c9cf597db882682d76ffa69a6b3c3de15c5f2e025&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pear-tree-cottage-wyre-forest.html": {
+    "name": "Pear Tree Cottage",
+    "location": "Bewdley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418631949.webp?k=d1e5d37be2b31da5b7f1afe2ae3a804078afa5499661a0605caa10ad33cbc918&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-little-beehive.html": {
+    "name": "The Little Beehive",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331069288.webp?k=8e971f16761f25ebbbf9fea3cfa191e84a56d782e396699a710b72fbb1db12cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brickbarns-farm-house.html": {
+    "name": "Brickbarns Farm House",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396726965.webp?k=d50a24065055f49767193b71d74d13a670de41924c4dffde77bca2d67aa2ab5a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/renchers-farmhouse.html": {
+    "name": "Renchers Farmhouse",
+    "location": "Crossway Green",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393880954.webp?k=8284e2823817e1989a80a97b4a4d501895606d415f32ac95e7c6e39ab3a2872e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daisy-cottage-tenbury-wells.html": {
+    "name": "Daisy Cottage",
+    "location": "Tenbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210957106.webp?k=2b434a891429ea11e7caff782dfb0ec5eaa710a01c7cd6fab12cf33000428729&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-orangery-worcester1.html": {
+    "name": "The Orangery",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428723447.webp?k=520b86517e21cefa3d64e732c97c465c28f5c1c419d4c549273abc5d18ba273c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-byre-worcester1.html": {
+    "name": "The Byre",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428722929.webp?k=2c3042def395eb187ad0f3f745e8b5e6916056f898fb8c228c3e9b981b513efe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/severn-manor-country-estate.html": {
+    "name": "Severn Manor Country Estate",
+    "location": "Astley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346665799.webp?k=f31b1277ada7a6990a29cd193139bc3b9f0a9c790892878d2b49e79156f3433d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cropvale-lodge.html": {
+    "name": "Cropvale Lodge",
+    "location": "Charlton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344288682.webp?k=80f7361936a1b2c8f25170479f0ccce3931b9a01104533a84bb9e90881507063&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fenn-house.html": {
+    "name": "Fenn House",
+    "location": "Alvechurch",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137674024.webp?k=52e133b89914e6ab50d229096245fb6016c2a203f3522294e98fceae3abfcd30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mortons-cottage.html": {
+    "name": "Mortons Cottage",
+    "location": "Castlemorton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360413160.webp?k=62f84284900731928513bd82ac38a05a7e8347dd10b3c28574ef60ced0f915ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crompton-cottage.html": {
+    "name": "Crompton Cottage",
+    "location": "Evesham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285076283.webp?k=ede44ce155d8d5222139d8ed5debbcf050b1d9c76c558d37eeb3ea7fd8ef0f4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parlour-barn.html": {
+    "name": "Parlour Barn",
+    "location": "Charlton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352098344.webp?k=c0fadb7932d119fed99ef3d858bf39a05308b8a6074951feccb60277b169490f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-the-brook-a-fresh-house-with-a-unique-outlook.html": {
+    "name": "Pass the Keys The Brook a fresh house with a unique outlook",
+    "location": "Worcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436294102.webp?k=138f5880cbd2b45196040930b7da64da73f65e6e283660ac9f9d5d4c4a49e652&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/severn-manor.html": {
+    "name": "Severn Manor",
+    "location": "Astley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373353046.webp?k=1643abbaa532e527731db381e7ee8cf2646caccebd80af18dfc4ed566e65aae6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cotsall-house.html": {
+    "name": "Cotsall House",
+    "location": "Broadway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334236400.webp?k=6f2412a096c6400fc936faeeafad4f9c00d0e87b03cce198ddd614c1c8eaa36b&o=&s=1"
+  }
+}

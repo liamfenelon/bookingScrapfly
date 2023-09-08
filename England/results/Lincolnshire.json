@@ -1,0 +1,58 @@
+{
+  "https://www.booking.com/hotel/us/home2-suites-by-hilton-lincolnshire-chicago.html": {
+    "name": "Home2 Suites By Hilton Lincolnshire Chicago",
+    "location": "Lincolnshire",
+    "score": "8.4",
+    "review_count": "134 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322636194.webp?k=8e56ca63a6df964cd73ff3dff5274d27e6290a34c05efdcecd3d5eda3ff8ee16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/homewood-suites-by-hilton-r-chicago-lincolnshire.html": {
+    "name": "Homewood Suites by Hilton Chicago-Lincolnshire",
+    "location": "Lincolnshire",
+    "score": "8.6",
+    "review_count": "218 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284188869.webp?k=7641bcc921392dde56fa31df5dc0b29618a62dd576822a739b3fa3d6b0ac07ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-suites-lincolnshire-il.html": {
+    "name": "Hampton Inn & Suites Lincolnshire",
+    "location": "Lincolnshire",
+    "score": "8.9",
+    "review_count": "110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252856573.webp?k=916e8451317095f642319239cda71632bdab2a4ca5b4dea5c82b6fa928ac8d62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/lincolnshire-marriott-resort.html": {
+    "name": "Lincolnshire Marriott Resort",
+    "location": "Lincolnshire",
+    "score": "8.0",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427863333.webp?k=bb907a89898db441145c0a7299910b57c632bd764050b38f605be20fc0a05f4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/staybridge-suites-by-holiday-inn-lincolnshire.html": {
+    "name": "Staybridge Suites Lincolnshire, an IHG Hotel",
+    "location": "Lincolnshire",
+    "score": "8.5",
+    "review_count": "373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234148402.webp?k=958bf688de4505a34dccf05d1c83f7436990a76b530cb5b92a5991f3156d9d92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/springhill-suites-chicago-lincolnshire.html": {
+    "name": "SpringHill Suites Chicago Lincolnshire",
+    "location": "Lincolnshire",
+    "score": "8.3",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/133579943.webp?k=02547ba2cb96ab4991844d6b0b4179d497e510756503b3c417cd984e57f2db3d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/courtyard-chicago-lincolnshire.html": {
+    "name": "Courtyard Chicago Lincolnshire",
+    "location": "Lincolnshire",
+    "score": "7.9",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322452397.webp?k=06c1db1bbe0fd24d8885c4e4306053c7d49d7292f9d1e2cc9460004833dd132c&o=&s=1"
+  }
+}

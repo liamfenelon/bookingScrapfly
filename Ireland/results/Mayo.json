@@ -1,0 +1,458 @@
+{
+  "https://www.booking.com/hotel/us/kahler-inn-suites.html": {
+    "name": "Kahler Inn and Suites",
+    "location": "Rochester",
+    "score": "7.0",
+    "review_count": "1,121 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/43922532.webp?k=842b7bb1b09c6309336ab877b04c43556e5d67b15ee05e4266a66fc72eaf5286&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/kahler-grand.html": {
+    "name": "Kahler Grand Hotel",
+    "location": "Rochester",
+    "score": "7.6",
+    "review_count": "765 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13239083.webp?k=75476701ccd7907effb652570d59efbbb55548d72fd5473569bab51010ae0485&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/broadway-residence-and-suites.html": {
+    "name": "Broadway Plaza, Trademark Collection by Wyndham",
+    "location": "Rochester",
+    "score": "9.2",
+    "review_count": "271 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/74161767.webp?k=25d0d1abebe112688017b0f385522620dc0c54a0ca106024c738eab7478eb76b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rochester-220-south-broadway-city-center.html": {
+    "name": "Hotel Indigo Rochester - Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "8.4",
+    "review_count": "344 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290992890.webp?k=e414e172cb8e45910670c8903d83705fb08945220b0d0ce4e7327f506536845a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hilton-garden-inn-rochester-downtown.html": {
+    "name": "Hilton Garden Inn Rochester Downtown",
+    "location": "Rochester",
+    "score": "8.7",
+    "review_count": "231 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/155989510.webp?k=e15daf86f8d7302f611b6c7dbb9db0b53bba7910b2153cb7d950d015e4ad5357&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/towneplace-suites-by-marriott-rochester-mayo-clinic-area.html": {
+    "name": "TownePlace Suites By Marriott Rochester Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "9.1",
+    "review_count": "95 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331267012.webp?k=cd4b7d235068d85121e3a2ab2c77428d661724462d36c63c565a751aaa84a19e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rochester-marriott-mayo-clinic-area.html": {
+    "name": "Rochester Marriott Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "7.4",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84718757.webp?k=17bada0a269d1db004d9f4ac86085d45081712b78fefbdb612d984b368b851ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/centerstone-plaza-hotel-soldiers-field.html": {
+    "name": "Centerstone Plaza Hotel Soldiers Field - Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "8.1",
+    "review_count": "371 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31242951.webp?k=e24bb50992c2d0f938b0764781ff85fa6edbda9e3e988807a30b23a54b9fd43f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hilton-rochester-mayo-clinic-area.html": {
+    "name": "Hilton Rochester Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "9.0",
+    "review_count": "180 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210819925.webp?k=b08b87c90a623c6f5b9e120ad4f3d211de0ce27b3a5bdf9c4c4eee9961555b94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hyatt-house-rochester-mayo-clinic.html": {
+    "name": "Hyatt House Rochester Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "8.3",
+    "review_count": "250 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366265090.webp?k=35d5aa4728432eac901d850f53210320a96019db24af30f21242b522775a76ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/courtyard-rochester-mayo-clinic-area-saint-marys.html": {
+    "name": "Courtyard Rochester Mayo Clinic Area/Saint Marys",
+    "location": "Rochester",
+    "score": "8.8",
+    "review_count": "117 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433368576.webp?k=74b99c5080d09e68f6493d454b2813b577db7d9286ac67845198576fa083aded&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/residence-inn-rochester-mayo-clinic-area.html": {
+    "name": "Residence Inn Rochester Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "8.3",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3221015.webp?k=e95b7d41c30ad6014790b9077a5d45c33353097a42db103ee95c36b5f247a878&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/international-rochester.html": {
+    "name": "The Towers at The Kahler Grand",
+    "location": "Rochester",
+    "score": "8.1",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307916897.webp?k=521cef496432eebdaf1b8a5ce8a560bc7603da6f2038d79c01fc55bb6231e869&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/elegant-home-with-deck-5-blocks-to-mayo-clinic.html": {
+    "name": "Elegant Home with Deck, 5 Blocks to Mayo Clinic",
+    "location": "Rochester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397819075.webp?k=a7a669f5ef40d6c1d788e0ca11e5fc619e602da3164818271d681fa207566dd7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/guesthouse-int-l-inn-rochester.html": {
+    "name": "GuestHouse Inn & Suites Rochester",
+    "location": "Rochester",
+    "score": "7.5",
+    "review_count": "810 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/28956086.webp?k=bd66c5fdcd22897dff45bf09bad587a2eab8d2a274a97911927675004c2a4156&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/microtel-inn-and-suites-rochester.html": {
+    "name": "Microtel Inn & Suites by Wyndham Rochester North Mayo Clinic",
+    "location": "Rochester",
+    "score": "7.5",
+    "review_count": "1,295 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132464924.webp?k=abc54166ba678ca07f2ca0de35412df43df21443b27211b74e5b6fef515ccc7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/microtel-inn-suites-by-wyndham-rochester-south.html": {
+    "name": "Microtel Inn & Suites by Wyndham Rochester South Mayo Clinic",
+    "location": "Rochester",
+    "score": "8.0",
+    "review_count": "317 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181375133.webp?k=8d87a71b86c490f2e42e1df8a1c33822577dc65fd85ac916c98ac851a98d747c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/country-inn-rochester.html": {
+    "name": "Country Inn & Suites by Radisson, Rochester South, MN",
+    "location": "Rochester",
+    "score": "8.2",
+    "review_count": "551 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232826650.webp?k=991b7663b141aafbce90fe8cf87012875ca0f15df07b3ea813fcfe4634f21b4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/relax-inn-stewartville.html": {
+    "name": "America's Stay Inn Stewartville",
+    "location": "Stewartville",
+    "score": "7.1",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378503675.webp?k=753525b45643bc6ae85da529d714df593d836a9f5160fd19f2b7a3fb50048741&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/kasson-301-8th-street-southeast-americinn-kasson.html": {
+    "name": "Baymont by Wyndham Kasson Rochester Area",
+    "location": "Kasson",
+    "score": "6.2",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134822265.webp?k=45bb834ae3cf76979a4ab36ccfae75780b45372df827ef2a3b7b1215910328a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfort-suites-rochester-rochester.html": {
+    "name": "Med City Hotel & Suites",
+    "location": "Rochester",
+    "score": "7.8",
+    "review_count": "285 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/169863794.webp?k=b8374f0ed8fa22216ab411be5d9f56d2054ff7243d81a1ebaf627cb86d8c747f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfort-inn-amp-suites-rochester.html": {
+    "name": "Comfort Inn & Suites West - Medical Center",
+    "location": "Rochester",
+    "score": "8.6",
+    "review_count": "219 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274321371.webp?k=902673e8ed43f5a10c9606cebaf1c85785bfba767b24b753e3e5655697674cbc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/home2-suites-by-hilton-rochester.html": {
+    "name": "Home2 Suites by Hilton Rochester Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "9.2",
+    "review_count": "348 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/141938571.webp?k=50cf52213f9d058dc28a56c9090ea06ddfe0d66b874485d531b8be4db2c40f4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/berkman.html": {
+    "name": "The Berkman",
+    "location": "Rochester",
+    "score": "9.2",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279390926.webp?k=d45f67558d5bdf21a2a6517e1a83ff74a81a1a1231b676800267f7d3916cc3e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/staybridge-suites-rochester-st-maryaeurtms-area.html": {
+    "name": "Staybridge Suites Rochester - Mayo Clinic Area, an IHG Hotel",
+    "location": "Rochester",
+    "score": "9.2",
+    "review_count": "354 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341940204.webp?k=c9e5fa5562a9c1ad800f8761425d4b0193a44eebf4cc210e861abf09d58ed58b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-suites-rochester-north.html": {
+    "name": "Hampton Inn & Suites Rochester-North",
+    "location": "Rochester",
+    "score": "8.3",
+    "review_count": "172 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291341866.webp?k=833de8ca8294de90fca4880e489ca02c71a6c28b797f6e61f5b17e0c2b2719b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/even-hotels-rochester-st-marys-area.html": {
+    "name": "EVEN Hotels Rochester - Mayo Clinic Area, an IHG Hotel",
+    "location": "Rochester",
+    "score": "9.0",
+    "review_count": "209 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309509452.webp?k=bd8763ecc21af3736494b8d1ad62342f6b2cc2a1b00a4841f090fcefe61cf232&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rochester-mayo-clinic-area-saint-marys.html": {
+    "name": "Fairfield Inn & Suites by Marriott Rochester Mayo Clinic Area/Saint Marys",
+    "location": "Rochester",
+    "score": "9.2",
+    "review_count": "399 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324945412.webp?k=d9a027ea73227e019e1cd36ff99063df42e9051f4de0e822cc36d135b42a4ed7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/residence-inn-by-marriott-rochester-mayo-clinic-area-south.html": {
+    "name": "Residence Inn Rochester Mayo Clinic Area South",
+    "location": "Rochester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421675015.webp?k=e18dbc9d645e68569e97ac346960cb79655528dabbc260af897ed2138408a7f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/staybridge-suites-rochester-rochester.html": {
+    "name": "Staybridge Suites Rochester, an IHG Hotel",
+    "location": "Rochester",
+    "score": "8.3",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230439946.webp?k=2a6470957a04ae3efe117ccb9106137e3c39b1c3f11ab94d03a3a50ce7cbb63e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/la-quinta-rochester.html": {
+    "name": "La Quinta by Wyndham Rochester Mayo Clinic Area South",
+    "location": "Rochester",
+    "score": "8.2",
+    "review_count": "345 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266455511.webp?k=dbb3c7f6c807bbc52e9315bc335f764f5c8f4654d584fba48baac4c4fa486286&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/springhill-suites-rochester-mayo-clinic-area-saint-marys.html": {
+    "name": "SpringHill Suites Rochester Mayo Clinic Area / Saint Marys",
+    "location": "Rochester",
+    "score": "8.4",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433345900.webp?k=a53af77c33cfd3463b8a3ce25ec438c51d76b6a42a05af56de233ddd9b632ea6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/super-8-motel-rochester-south-broadway.html": {
+    "name": "Super 8 by Wyndham Rochester Mayo Clinic Area",
+    "location": "Rochester",
+    "score": "7.5",
+    "review_count": "320 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156635580.webp?k=06b7b8373b8c66c121c7d75bb863aa294f251363927ffdc9d77209be1c307a95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/best-western-rochester-mayo-clinic-st-marys.html": {
+    "name": "Best Western Rochester Hotel Mayo Clinic Area/ St. Mary's",
+    "location": "Rochester",
+    "score": "7.7",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317226360.webp?k=c98af95fbd3fc0875f437a60764a6e157374a7a6e9849f3079f57df80f551bc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sleep-inn-rochester.html": {
+    "name": "Sleep Inn & Suites West-Near Medical Center",
+    "location": "Rochester",
+    "score": "8.6",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194771619.webp?k=82de2a5d1141e57837fe4c549cfabe3139be278a545cd254d6d86d3ad6fd3163&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-rochester-mn.html": {
+    "name": "Hampton Inn Rochester",
+    "location": "Rochester",
+    "score": "8.7",
+    "review_count": "48 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164224443.webp?k=c96e5e92f8a24109ea16d5d6ada6f956ed506223732ab83e05ffd91091be3d36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/motel-6-rochester.html": {
+    "name": "Motel 6-Rochester, MN",
+    "location": "Rochester",
+    "score": "5.9",
+    "review_count": "128 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81647390.webp?k=b865a1fc00338e5873a0161b272707fc1935f18945a9438cc2037ea4142e7cd2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/suites-mayo-clinic-in-rochester.html": {
+    "name": "Homewood Suites by Hilton Rochester Mayo Clinic-St. Marys Campus",
+    "location": "Rochester",
+    "score": "8.3",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279999566.webp?k=58571d74e65020bb467e3d3aea03e1780e2c36c76f9943e8be3ebd1c5f966567&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/quality-inn-near-medical-center.html": {
+    "name": "Quality Inn near Medical Center",
+    "location": "Rochester",
+    "score": "7.4",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401805336.webp?k=a6c78cd165d3988fedd04db72b0cfe7bfd3a6b0dd4a7e2e669e26912441d558e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/south-broadway-rochester.html": {
+    "name": "Rochester Inn",
+    "location": "Rochester",
+    "score": "7.4",
+    "review_count": "91 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251191200.webp?k=a45017b0326d048e68ca7b9cd4001a3971c1f1b9cda6651c3cd12a95abe13274&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/family-and-pet-friendly-home-near-mayo-campuses.html": {
+    "name": "Family and pet friendly home near Mayo campuses!",
+    "location": "Rochester",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417792969.webp?k=d5ace0bb472d103d881834d2e58bd62fe709016c42b481154b7cc9f24bc29bc5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/charming-rochester-home-3-mi-to-silver-lake.html": {
+    "name": "Charming Rochester Home 3 Mi to Silver Lake!",
+    "location": "Rochester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311752390.webp?k=35c916e80df771d8c71bef568e9a1701a706c2b6c2481bffbcfbf7ce6ca6f94a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hotel-forty-third-st-nw-rochester.html": {
+    "name": "Extended Stay America Suites - Rochester - North",
+    "location": "Rochester",
+    "score": "7.3",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91750271.webp?k=359673f20f71ac4b3a06ccbce3f7bf7b335bc0f36b3576fdf4efe17dbb8a28b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/poppys-paradise-a-dharma-dwellings-home.html": {
+    "name": "☆Poppy's Paradise: A Dharma Dwellings home☆",
+    "location": "Rochester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278685035.webp?k=10c216300fc288d94f0c4c17f2a215b1b82dca8adb37f34c05f05aa35d6a85af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/apartment-close-to-downtown-rochester.html": {
+    "name": "Apartment close to downtown Rochester",
+    "location": "Rochester",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419519108.webp?k=d5dac117145a2e16fc63efabc702bd93ecde1fc9ef62c15ab25d3d5a8c852fb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/quiet-amp-cozy-at-1111.html": {
+    "name": "Apartments at 1111",
+    "location": "Rochester",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405112047.webp?k=214dd63cb27a71883d79a80cc035b24408f0f2d2622d77b46031c00057d00f1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/park-side-home-1-mile-to-mayo-clinic-and-downtown.html": {
+    "name": "Park-side Home 1 Mile to Mayo Clinic and Downtown!",
+    "location": "Rochester",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300706824.webp?k=06da6425a8c21f27013dce371d5d73770fa832346bd0b6b59016615688295fbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/charming-rochester-home-4-mi-to-mayo-clinic.html": {
+    "name": "Charming Rochester Home, 4 Mi to Mayo Clinic!",
+    "location": "Rochester",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290923229.webp?k=4d79843f25f653cdb22d5b724df98b826bf71678a20a1dd0d08bc54afcc2da31&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/oakley-39-s-oasis-a-dharma-dwellings-designed-home.html": {
+    "name": "☆Oakley's Oasis: A Dharma Dwellings Designed Home☆",
+    "location": "Rochester",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277630386.webp?k=1742549c0d557c46dc20043d3c893d0faf2837edfc08d334355f7c8b9ff1bcb2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hotel-wood-lake-dr-se-rochester.html": {
+    "name": "Extended Stay America Suites - Rochester - South",
+    "location": "Rochester",
+    "score": "7.6",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91747540.webp?k=be937d727543f7819a3a04ef0d48b2c773250d4ab6ef67e6668f5db91816bdb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/luxury-treat.html": {
+    "name": "Luxury Treat",
+    "location": "Rochester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328379151.webp?k=9212c17fe9c879fdd9f523fb173d8a9366ca5410739e7acdb1a94cfc1ec2c700&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-2-bd-home-5-min-to-mayo-free-parking.html": {
+    "name": "Cozy 2 Bd Home - 5 min to Mayo - Free Parking",
+    "location": "Rochester",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403326587.webp?k=7e0eebbbfca34554d1e5d787f2f78c1737b12892422057cb4c6b0a348d04d3f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/dee-dees-den-a-dharma-dwellings-parent-company.html": {
+    "name": "☆Dee Dee's Den a Dharma Dwellings Parent Company☆",
+    "location": "Rochester",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419099926.webp?k=fe37b20a944a491db94514320592b604c3a7ebb83b872567b95ce21248ae9e89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cheerful-rochester-retreat-with-workout-room.html": {
+    "name": "Cheerful Rochester Retreat with Yard and Workout Room!",
+    "location": "Rochester",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281461687.webp?k=4b33f132e1f1caccaff8318df5abe8bf609122e7d8f9db0af951de021d2a593d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-rochester-retreat-about-3-mi-to-mayo-clinic.html": {
+    "name": "Cozy Rochester Retreat about 3 Mi to Mayo Clinic!",
+    "location": "Rochester",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336231187.webp?k=c68e000190fc5e3c196a21dbb0d06a2b0ed7f27074fcef93cdb97b34144748ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/suburban-gem-5-miles-from-downtown-rochester.html": {
+    "name": "Suburban Gem with Yard and Deck 5Mi from Dtwn Rochester!",
+    "location": "Rochester",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238007941.webp?k=85ef8c1ed827604fbc1b3068408cb66559bc840cdd36191a1dc7930a8b17ec9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-home-with-green-door-convenient-location.html": {
+    "name": "Cozy home with green door, convenient location",
+    "location": "Rochester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428307991.webp?k=e80ce1480b40aa1e87d62d4c6f1c310a3560c5a47948575f3240a36cab932cc4&o=&s=1"
+  }
+}

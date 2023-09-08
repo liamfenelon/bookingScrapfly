@@ -1,0 +1,1498 @@
+{
+  "https://www.booking.com/hotel/us/key-west-1320-simonton-street-blue-marlin-motel.html": {
+    "name": "Blue Marlin Motel",
+    "location": "Downtown Key West, Key West",
+    "score": "8.7",
+    "review_count": "3,397 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5659176.webp?k=2ee06b31b69c5d2d92c8cfab08f892697cd9f400de8497258f08a9de130072e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/leeward-isle.html": {
+    "name": "Leeward Isle",
+    "location": "Downtown Key West, Key West",
+    "score": "8.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217896436.webp?k=607b149a0ee0c5d2939cc1aac1c8327e4768015909f740b1a86efe6c1af56f7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/truman.html": {
+    "name": "Truman Hotel",
+    "location": "Downtown Key West, Key West",
+    "score": "8.9",
+    "review_count": "1,884 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/33404985.webp?k=f33d52a041e6d259ca0aead3c3dc2e86810768838311d90542283f9ed54f849b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-square-penthouse-key-west.html": {
+    "name": "Duval Square Penthouse R19",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422055940.webp?k=608d255d450d0ef4e434e25c59a6c98b62ff2969cb91870d5b099b916546c0ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/high-tide-at-key-west-1800-atlantic-condos.html": {
+    "name": "High Tide in Key West",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420417009.webp?k=19bb93a19a75db40801d6a4caeac5d991a2823d409d2072010d3e137b8348e82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/king-suite-at-curry-mansion-inn.html": {
+    "name": "King Suite at Curry Mansion Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425250226.webp?k=a34979a4e763f94656c21ed962d5180946f9781c623d0355a111619952994fc0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bahama-house-key-west1.html": {
+    "name": "Bahama House",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224952018.webp?k=e493cf82dd01a03a7bde8226e903c3ae09245e22ff98149ac88bc3703a005a96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/laureate.html": {
+    "name": "The Laureate Key West",
+    "location": "Key West",
+    "score": "8.9",
+    "review_count": "1,975 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164502508.webp?k=5d764c3809eee61a3daca6e18541e7ee6015f2c0e67a62aa42ad49f5e039a712&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/atlantic-oasis-penthouse-on-the-ocean-c420.html": {
+    "name": "Atlantic Oasis on the Ocean",
+    "location": "Key West",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320648694.webp?k=624715fa7cbbf19e0bcff404724f051b7ec884fe40a8bb328322d41f10d9ed28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-capitana-key-west.html": {
+    "name": "The Capitana Key West",
+    "location": "Key West",
+    "score": "9.2",
+    "review_count": "1,496 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346773504.webp?k=ba0ec8842ec7a0cd948108e29b0cfdd4f6d8ca07620c7d40a2a97cc68c28bacb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/key-lime-calypso-key-west.html": {
+    "name": "Key Lime Calypso",
+    "location": "Downtown Key West, Key West",
+    "score": "7.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217914062.webp?k=1e5d5e2d9712448fadcb5f881bfd02b4aea38580e8ce3215ab37573837410f78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/king-suite-balcony-at-james-house-curry-mansion.html": {
+    "name": "King Suite Balcony at James House & Curry Mansion",
+    "location": "Downtown Key West, Key West",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425249939.webp?k=384fd70befce479b8e7d92dd8538d4b80e9c352601d10be8caa1b8d83e3541a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/two-duval-street-suites-w-parking-and-pool.html": {
+    "name": "Two Duval Street Suites w parking and pool",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394767169.webp?k=284259869113098222f89bebfd8998817c3a7bb744385e7623eb5a3001de91d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/amelia-home-by-avantstay-in-historic-old-town-w-pool.html": {
+    "name": "Amelia Home by AvantStay In Historic Old Town w Pool",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393636400.webp?k=929c05c359c541abeeecd4353465204d8259f0b374a966f15397469960d689c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-cristbal-suite-balcony-parking-pool-411.html": {
+    "name": "NEW Cristbal Suite - Balcony Parking & Pool 411",
+    "location": "Key West",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419745265.webp?k=998571c60544d3df536bd434b038b87be0a3aa047dee4a5f6bc07f9cec5c6ef1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/courtney-s-place-historic-cottages-inns.html": {
+    "name": "Courtney's Place Historic Cottages & Inns",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "1,051 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/37457744.webp?k=c6163cbdd6aee4ac4c0319f58ac9750d92cbc5754764e06a38d85b5fb337be74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/saint-barts-suite-303-key-west.html": {
+    "name": "Sunrise Suites Saint Barts Suite #303",
+    "location": "Key West",
+    "score": "8.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230695346.webp?k=9fa7f46871284b8d948d538681342aa7f357c592ea0de669486b64fd7ac296cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/southernmost-point-guest-house.html": {
+    "name": "Southernmost Point Guest House",
+    "location": "Downtown Key West, Key West",
+    "score": "9.3",
+    "review_count": "1,163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/121983802.webp?k=c098fb2d1609a2dbb8c55761ba194af1027ab599ac164150cede0a9f10a6fe76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/westin-key-west-resort-marina.html": {
+    "name": "Opal Key Resort & Marina",
+    "location": "Downtown Key West, Key West",
+    "score": "8.5",
+    "review_count": "1,363 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282372752.webp?k=589bcf0d0bc99d38938a2ad08930caf0696bf88e05c691102c787891e2fb22f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/amelia-key-west.html": {
+    "name": "Douglas House",
+    "location": "Downtown Key West, Key West",
+    "score": "9.1",
+    "review_count": "1,887 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127218253.webp?k=c698541519b99045f3e314506719aaffe59d9c0d4d398e4b5d1090139d65d409&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/atlantic-ocean-view.html": {
+    "name": "Coconut Palms",
+    "location": "Key West",
+    "score": "8.5",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118088464.webp?k=723b909570f1f5bf1d173361578af362c7e519889769cf834b37b4633fe52e55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/key-west-harbor-inn.html": {
+    "name": "Key West Harbor Inn - Adults Only",
+    "location": "Downtown Key West, Key West",
+    "score": "9.3",
+    "review_count": "365 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134563285.webp?k=1a847cba6486b0fe97ec19614e791584ca3fa3d6563fd4eaaed3eb4ea1d4dc9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/four-flowers-guesthouse.html": {
+    "name": "Four Flowers Guesthouse",
+    "location": "Downtown Key West, Key West",
+    "score": "7.3",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/153762383.webp?k=1b2e69cc22f9532da3321861403e6de939e34b1112bc8720b272ccab7b659bc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/authors-key-west-guesthouse.html": {
+    "name": "Authors Key West Guesthouse",
+    "location": "Key West",
+    "score": "8.4",
+    "review_count": "827 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346602118.webp?k=ec186a808f39c263726b8656d434185cb33ed3b407f241ee78d6b0a4981d6879&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/eatonstreet-keywestfl.html": {
+    "name": "Old Town Manor",
+    "location": "Downtown Key West, Key West",
+    "score": "9.1",
+    "review_count": "708 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/18787981.webp?k=3ea4d49c66702d5b4e94d6f3ca9e2c16cf8ff308c5190a2d2bdb2932a653411b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/papaya-place-by-avantstay-great-location-w-balcony-outdoor-dining-shared-pool-ho.html": {
+    "name": "Papaya Place by AvantStay Great Location w Balcony Outdoor Dining Shared Pool Hot Tub",
+    "location": "Key West",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393626264.webp?k=2c48994d429e1e30f0106f4b1ee92a586467da6f6a35ef8a8a9692491d4275e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/catalina-suite-311.html": {
+    "name": "Sunrise Suites Catalina Suite #311",
+    "location": "Key West",
+    "score": "8.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118079192.webp?k=c86e94c8de1b8a86524cbedd0ba02ef60e94b6743ad7287632e91054e07502e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/aqua-lodges-at-hurricane-hole-marina.html": {
+    "name": "Aqua Lodges At Hurricane Hole Marina",
+    "location": "Key West",
+    "score": "7.3",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434185434.webp?k=31eb71ed27f9d57111cbe4285bedea77a3ea7ed59aeaf672d01ffa289da24368&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-key-west.html": {
+    "name": "Duval House",
+    "location": "Downtown Key West, Key West",
+    "score": "8.7",
+    "review_count": "627 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/123486982.webp?k=e665d41fb610be74c52fceb96b2025f93d23f8b79b6a19f6dfaca12201b37576&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/best-western-key-ambassador-resort-inn.html": {
+    "name": "Hampton Inn Key West FL",
+    "location": "Key West",
+    "score": "8.6",
+    "review_count": "1,432 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262986953.webp?k=7ecdfef8ad73d06b339315ff91b47d6145e4dc185af219ec85c0d8c161da42b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/dream-maker-on-the-ocean-at-1800-atlantic.html": {
+    "name": "Dream Maker on the Atlantic",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420419173.webp?k=2e50576aa0d7025db7898df8ecedf22f44d3e1646ae8eb291607dcdf61b4ae18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunrise-suites-cayo-coco-suite-208.html": {
+    "name": "Sunrise Suites Cayo Coco Suite #208",
+    "location": "Key West",
+    "score": "8.1",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118098654.webp?k=f106c4aaccdb62f5ab27cc712e1045a54a6cbeba83f5b935666e0befdb0f0fc0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/leaward-isle-island-retreat.html": {
+    "name": "Leaward Isle Island Retreat",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420428265.webp?k=eed08eabb28b0e301a4ade9a164d83d7b7449de956cf81439e7e20c00653bdc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/silver-palms-inn.html": {
+    "name": "Silver Palms Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "8.6",
+    "review_count": "2,324 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109664845.webp?k=66defae8a6842d103c56aac1c4156b097208cf25a73a5422f63dda0ad0e23f2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-inn.html": {
+    "name": "Duval Inn - Key West",
+    "location": "Downtown Key West, Key West",
+    "score": "8.2",
+    "review_count": "675 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219816217.webp?k=a824f1b7eee90459640d74f1a3a6ee055bab27f96364fcae4cf57e57f5a5396d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ambrosia-key-west.html": {
+    "name": "Ambrosia Key West",
+    "location": "Downtown Key West, Key West",
+    "score": "8.8",
+    "review_count": "635 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81419753.webp?k=ed798db7d238635dc058fc51d7086295652466ed52a246fa5033eb404c7fad63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/merlin-guest-house.html": {
+    "name": "Kimpton Ella's Cottages, an IHG Hotel",
+    "location": "Downtown Key West, Key West",
+    "score": "8.2",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368936692.webp?k=f0ca54986ab875d461a656d382c457dd77edd68215ba8b1c6231b33b11a23a9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-street-suite-with-pool.html": {
+    "name": "Duval Street Suite with pool",
+    "location": "Downtown Key West, Key West",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346257389.webp?k=b545b3268818ae04f1643135748a99253eabe95be8bdd549a1260d4b3005c7b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-key-west-at-duval-square-r-32.html": {
+    "name": "Casa Key West at Duval Square",
+    "location": "Downtown Key West, Key West",
+    "score": "8.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292073073.webp?k=a922b3c6fac52cfe69e322d6da3d016e2489db8c4d53864e648e2c4478980d9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-bartlum-key-west12.html": {
+    "name": "The Bartlum",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175250585.webp?k=f52a1c5aa64df5979d65590116d6de0491db295bc5bf20604f1b50cbd928055e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/almond-tree-inn.html": {
+    "name": "Almond Tree Inn - Adults Only",
+    "location": "Downtown Key West, Key West",
+    "score": "9.4",
+    "review_count": "254 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262671011.webp?k=0232f8189d2e536d0d80ae134206647aa0ac6fda9643e78afac91dede60067d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/courtyard-marriott-key-west.html": {
+    "name": "Courtyard by Marriott Key West Waterfront",
+    "location": "Key West",
+    "score": "8.0",
+    "review_count": "223 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433359114.webp?k=bda344538e0422289ffa01db17f3f8c6d44a473f23ea974e0411713b2087e429&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/orchid-key-inn.html": {
+    "name": "Orchid Key Inn - Adults Only",
+    "location": "Downtown Key West, Key West",
+    "score": "9.4",
+    "review_count": "227 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203456200.webp?k=6a0b29ed1fe77c4cc8d39ecc61182da1639ac9308b25cfb7fcf0724a43e0db40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/margarita-suite.html": {
+    "name": "Margarita Suite 305",
+    "location": "Key West",
+    "score": "7.8",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303520693.webp?k=91a519a98482e43076a618f9dd1690e26ef23d9d6a2bcf61218f7403bc3b468f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hyatt-sunset-harbor-resort.html": {
+    "name": "Hyatt Residence Club Key West, Sunset Harbor",
+    "location": "Downtown Key West, Key West",
+    "score": "8.2",
+    "review_count": "151 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180900088.webp?k=e2fb424def54d5af1f05fb5bb3149f5843f8e43d838979711e5bc18daa930aca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/eden-house.html": {
+    "name": "Eden House",
+    "location": "Downtown Key West, Key West",
+    "score": "8.2",
+    "review_count": "817 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35927558.webp?k=a2177c567ecd2b322bf2602d24c66e4989c28440b77da86fb53737a6ae4b981c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/marys-backyard-too-key-west.html": {
+    "name": "Mesa House Dos",
+    "location": "Downtown Key West, Key West",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351681290.webp?k=645267c6146e53ca7994f1b09efda96dc77e4e3fd38692e5caf328dde09f7743&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/travelers-palm-key-west.html": {
+    "name": "Traveler's Palm",
+    "location": "Downtown Key West, Key West",
+    "score": "8.1",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335813570.webp?k=aa8184116dbf17ac27fd930a74be3ad8fa44bac0472ff892a9ce19d3c9adafaa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-delight-key-west.html": {
+    "name": "Duval Delight",
+    "location": "Downtown Key West, Key West",
+    "score": "8.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313131882.webp?k=00f6024de025faff77bf73a588f6814241f181e1240415f234a672686cafac0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rose-lane-key-west.html": {
+    "name": "Rose Lane Villas",
+    "location": "Downtown Key West, Key West",
+    "score": "8.8",
+    "review_count": "180 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215226233.webp?k=d77089a8023d12ddd8a32e75d1711ae49e7eb858144b884a4ccbd7d8cc97d892&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/la-te-da.html": {
+    "name": "La Te Da - Adult Only, 21 or older",
+    "location": "Downtown Key West, Key West",
+    "score": "9.2",
+    "review_count": "144 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/101906169.webp?k=5089dbd2ce40d6baadb18513c5d5980a0fe186556ee858e163eeaca099252c57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sweet-caroline-key-west.html": {
+    "name": "Sweet Caroline",
+    "location": "Downtown Key West, Key West",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410448009.webp?k=f5811a28f87061ccb518360ec180ebb266408d66f865fcc257313352e197a4a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/904_duval.html": {
+    "name": "The Casablanca Hotel",
+    "location": "Downtown Key West, Key West",
+    "score": "8.8",
+    "review_count": "518 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188316118.webp?k=bede4bafe0a355cc3d9eefb257f19c132a8a4e7be04c1a3c7ce1ec8ab7dee343&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/panama-suite-310.html": {
+    "name": "Sunrise Suites Panama Suite #310",
+    "location": "Key West",
+    "score": "8.5",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167975803.webp?k=e7939833a7e4cfb3fb1107743c3218608487bb0f7f529258c9225d46079cfe30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/grand-cayman-suite.html": {
+    "name": "Grand Cayman Suite 309",
+    "location": "Key West",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293018009.webp?k=f7c76a4c9825d66f80c8571c0b9542e0001125b09bf3bbbe9c337f2a57fc9eac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/antigua-suite-312.html": {
+    "name": "Sunrise Suites Antigua Suite #312",
+    "location": "Key West",
+    "score": "9.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118079300.webp?k=cae97409cfc490d90486c93407739432876dcccd780525df05d09f92fb5c5eac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/coconut-mallory-resort-and-marina.html": {
+    "name": "Coconut Mallory Resort and Marina",
+    "location": "Key West",
+    "score": "8.3",
+    "review_count": "246 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175917160.webp?k=228a69ef6c1a3008e0a181f1b7da59cb6460ad427406ac4de49b2134ef81ddfa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/key-west-1004eaton-street-florida.html": {
+    "name": "Knowles House B&B - Adult Only",
+    "location": "Downtown Key West, Key West",
+    "score": "8.8",
+    "review_count": "387 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270872500.webp?k=3068756a8b1e60e0b4d4d379b1cfdb49ec3f112cb81e74ad52cbc35b0f0090c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sea-breeze-key-west1.html": {
+    "name": "Sea Breeze",
+    "location": "Downtown Key West, Key West",
+    "score": "5.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311607661.webp?k=d7f9dfcbef8268bcffe8dcffda4a0c833a4af9ee4a355d6c20197cb00f35c399&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-speakeasy-inn-and-rum-bar.html": {
+    "name": "The Speakeasy Inn and Rum Bar",
+    "location": "Downtown Key West, Key West",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407350495.webp?k=4ee9b514536d9265943c3aac108564d013829c2875852a822bf107b54b65b91f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pescado-penthouse-on-duval.html": {
+    "name": "Pescado Penthouse On Duval",
+    "location": "Downtown Key West, Key West",
+    "score": "7.8",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/153762381.webp?k=9bfc6433b579c76433bda4c7bea0a96e492f578c557290fd131e34297c7457e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/southernmost-sanctuary.html": {
+    "name": "Southernmost Sanctuary",
+    "location": "Downtown Key West, Key West",
+    "score": "7.7",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327189147.webp?k=a79881e065f81060856c6d58d28c3dc681ba7cf7082f53bae586c97947f60129&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sky-loft-in-key-west.html": {
+    "name": "Sky Loft in Key West",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267572589.webp?k=14e655b5e23f269bc32fffe154cd283d53dc226f88dbf7940e229a41eb09f535&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/artist-house.html": {
+    "name": "The Artist House",
+    "location": "Downtown Key West, Key West",
+    "score": "9.2",
+    "review_count": "111 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/145044886.webp?k=3d7f7a345bb6495eb1a11ee6dcf2d534fc1a156849466c9e12ad5bb68ad5b12a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/coastal-bliss-key-west.html": {
+    "name": "Coastal Bliss",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357101151.webp?k=5fcf8098505033d63e8f32e8f10ea815b8faab4eb28eca15ad432ee08dd5bc66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cayo-cruz-suite.html": {
+    "name": "Cayo Cruz Suite 308",
+    "location": "Key West",
+    "score": "8.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343791010.webp?k=77489de651f2ee3ba885a42e1a12de7cfafeb4cd448516123b2af45e81f76d4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/key-west-fl.html": {
+    "name": "Seascape Tropical Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "8.6",
+    "review_count": "335 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231216866.webp?k=1c65bba614f051606e5e9edd217eb2984cd57453eeac1b4f0f22d6916c941959&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/weatherstation-inn-circa-1911.html": {
+    "name": "Weatherstation Inn Circa 1911",
+    "location": "Downtown Key West, Key West",
+    "score": "8.3",
+    "review_count": "155 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91682963.webp?k=6f7d16e86d11b1be9bf412a6c07ce669596c628c3002a16b0421948ea5b272a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-grand-maloney-room-203.html": {
+    "name": "Yellow Room at The Grand Maloney",
+    "location": "Downtown Key West, Key West",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396256886.webp?k=bdb187a00100c627e6b123b3afd1c83bf014881f6515fc62bbab1fa24a005b45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/dominican-suite-110.html": {
+    "name": "Sunrise Suites Dominican Suite #110",
+    "location": "Key West",
+    "score": "8.2",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167975648.webp?k=444d5ac549fe75b97633e72755b4e6545c1bf0cc9df39a80d75970740be2c86f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/garden-house.html": {
+    "name": "The Garden House",
+    "location": "Downtown Key West, Key West",
+    "score": "8.9",
+    "review_count": "310 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265315931.webp?k=16b5a5337142506ec52aff27453f4c2643a091695c7012db5ab0122f52e84f3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-325.html": {
+    "name": "Casa 325 Guesthouse",
+    "location": "Downtown Key West, Key West",
+    "score": "8.7",
+    "review_count": "206 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164949255.webp?k=caf1db2fbf7f17737b3a9ff96b6af60915fb1b87c3c8452cf9dfe8d1f078ea2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/nautical-adventure-in-paradise-c126.html": {
+    "name": "Nautical Adventure in Paradise",
+    "location": "Key West",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320648851.webp?k=a07ae3f799ebf3160723c4616c7d70be475d46ae298215b479ead4b6e27d62b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/truman-duval.html": {
+    "name": "Truman",
+    "location": "Downtown Key West, Key West",
+    "score": "7.3",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217913905.webp?k=68fd92d019bad934af446b48e2ef17b983d0a49bbe86320a15367610b1d47f0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/banana-split-key-west.html": {
+    "name": "Banana Split",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431269450.webp?k=f7639c83342c2fc94cf82e8be151347c5cd1359a233ab1dde2d98ee91586da21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-marina-resort-the-waldorf-astoria-collection.html": {
+    "name": "Casa Marina Key West, Curio Collection by Hilton",
+    "location": "Downtown Key West, Key West",
+    "score": "5.9",
+    "review_count": "381 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227957493.webp?k=5924eb19d580cb213d1d7edbc6cf65b4a750f56e592ba18343b64ebb6fd61e13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-galleria-matisse-manor-5.html": {
+    "name": "Matisse Manor #5",
+    "location": "Downtown Key West, Key West",
+    "score": "5.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332711546.webp?k=30c538e96f01cbccd246f187e3bd5d0003de85c92e05ab25724aa806929539c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ocean-key-resort-spa-key-west-florida.html": {
+    "name": "Ocean Key Resort & Spa, a Noble House Resort",
+    "location": "Downtown Key West, Key West",
+    "score": "8.6",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/51425846.webp?k=28e30cbb8e6714688bc75435aa3d5e5aa6855e7a5519778655afea46153154e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-conch-house-heritage-inn.html": {
+    "name": "The Conch House Heritage Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "9.3",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/200407546.webp?k=e4da2c5bdde5d6d9b3e3cc026985ed3bc470e9f5b895d63a84ae45932a52ccf7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/trinidad-suite.html": {
+    "name": "Trinidad Suite 105",
+    "location": "Key West",
+    "score": "9.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302521087.webp?k=c7f921aab1ef5cfb893ffbbae38281bd5f5abb62ce364e44c71f8102023e47b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pierre-auguste-renoir-heated-pool-at-galleria-11.html": {
+    "name": "Pierre Auguste Renoir- Heated Pool at Galleria #11",
+    "location": "Downtown Key West, Key West",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399427519.webp?k=6d94aebb7ad38aae18d48d4fb4f27560070924fb3d93f9a70db90ae6e954716a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/key-west-key-west.html": {
+    "name": "The Perry Hotel & Marina Key West",
+    "location": "Key West",
+    "score": "8.8",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263692902.webp?k=e3d4b2d4a79f65bc75becf2439127f79682d6cae8204aba9126f8388cd5b6caa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/island-retreat-key-west.html": {
+    "name": "Tropical Vibes",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286446615.webp?k=213aa8fa27510ddbb6f69507fb43356affac24234bc9126d1e4ae3ca7ab5b761&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/barbados-suite-204-key-west.html": {
+    "name": "Sunrise Suites Barbados Suite #204",
+    "location": "Key West",
+    "score": "7.8",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167977351.webp?k=520e558dda68144c19e8021f8377a81cd13128c21c684640b239e2a130d9466c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozumel-suite-112.html": {
+    "name": "Sunrise Suites Cozumel Suite #112",
+    "location": "Key West",
+    "score": "7.8",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118097376.webp?k=9cf491df3663333402c0a1091bfa1416b1de7cdedb4cba78f283d3bbc54be331&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-grande-vista-c432.html": {
+    "name": "The Grande Vista",
+    "location": "Key West",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420422441.webp?k=03608fade71ad449a5dca3da2d4b8dfb5a178eb1c200337c76c906f1e9898867&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/nautical-splendor.html": {
+    "name": "Nautical Splendor",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357115593.webp?k=65192b72199c24b17d4ee15d403a23aa977ba201eb3652105b1908f2743dd37f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/modern-keys.html": {
+    "name": "Modern Keys",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357114931.webp?k=7afac47b5b0a52d78a5189c8dfc992a550ac44649f27208a355a86855a07fd2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/african-queen.html": {
+    "name": "African Queen",
+    "location": "Downtown Key West, Key West",
+    "score": "5.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375166436.webp?k=1d860bbdf3cc95e5907d2a8323e5ec371b46cc949eed4daa8e580bf08e84d346&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/martinique-suite.html": {
+    "name": "Martinique Suite 108",
+    "location": "Key West",
+    "score": "7.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310181448.webp?k=7a00ba4939bfb5e57ef8b448f3377eb8430c9556b88f0d322ee54bb39a85d61c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-galleria-andys-attic-12.html": {
+    "name": "Andy's Inn #12",
+    "location": "Downtown Key West, Key West",
+    "score": "3.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332714089.webp?k=46bb9037468e4766e348836edb8cb3c3766607aa8bbf76fbfa1b3d7b37525440&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/grinnell-street-getaway.html": {
+    "name": "Grinnell Street Getaway",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309691559.webp?k=448a042cb13d6f9c1de261f6e926e52b9397a8c2c0684f06a4442a6cde0ce377&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/castaway-cove-key-west.html": {
+    "name": "Castaway Cove 8",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278311334.webp?k=30d5d6da06f468ae54b0796295d7a31d4534c91ac365a2fc1d70a59f3093d22d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/st-kitts-suite.html": {
+    "name": "St Kitts Suite 412",
+    "location": "Key West",
+    "score": "5.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321703326.webp?k=0bac73b24821e8434c5a8a3d1bb97205e64c25e673796e16fd3ed00dbb113933&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/william-skelton-home-key-west.html": {
+    "name": "William Skelton Home",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275406296.webp?k=7cbe3b52ca8c59f71f04d3693e04db09736b568105402921ee8fdeb3135c8b47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/grand-turk-suite.html": {
+    "name": "Grand Turk Suite 404",
+    "location": "Key West",
+    "score": "8.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302301729.webp?k=d7470adf1c19b83024496a5c414c9e7034d2f17878457708c4bbd537a37b1969&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/flaglers-oasis-by-avantstay-private-pool-in-key-west.html": {
+    "name": "Flaglers Oasis by AvantStay Private Pool in Key West Month Long Stays Only",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378274302.webp?k=18d34cf7672d75680b89e4f039c71fb2fab62ede1288e275756450880184c857&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/tumis-time-out-by-avantstay-heart-of-old-town-w-shared-pool.html": {
+    "name": "Tumis Time Out by AvantStay Heart Of Old Town w Shared Pool Month Long Stays Only",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403747267.webp?k=965c290620b02c0e600d630593545632a5925330e3a952389e1cbd85df631a30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/suite-dreams-inn.html": {
+    "name": "Suite Dreams Inn by the Beach",
+    "location": "Downtown Key West, Key West",
+    "score": "8.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265258480.webp?k=44399571698bf0a0445ce6ee9d65272cd80b799b68932b58c1febc00c8dac1d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/key-west-marriott-beachside.html": {
+    "name": "Key West Marriott Beachside Hotel",
+    "location": "Key West",
+    "score": "7.6",
+    "review_count": "255 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426621553.webp?k=ad8451aac11156218d17721818968b8bd88b81ba726038e9269b1203da80b7c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-tranquility-key-west.html": {
+    "name": "Casa Tranquility",
+    "location": "Key West",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356276900.webp?k=85cdbceab88de8bede02aebb094ae1ffda55542bab58cf9af6bbcddc5b7fe42a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/finn-key-by-avantstay-w-covered-patio-shared-pool.html": {
+    "name": "Finn Key by AvantStay w Covered Patio Shared Pool Week Long Stays Only",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403749504.webp?k=fad0d90008be0a5f60a0b8879a47849586ac571f9aecc9f3ddac33037ffad5f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-sea-turtle-by-avantstay-great-location-close-to-shops-shared-pool.html": {
+    "name": "Duval Sea Turtle by AvantStay Great Location Close to Shops Shared Pool",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402811064.webp?k=66d1e83c2be295b49513d20caf7356a7ba1cdea4071c80a1d414e1693ef868bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-saint-hotel-key-west.html": {
+    "name": "The Saint Hotel Key West, Autograph Collection",
+    "location": "Downtown Key West, Key West",
+    "score": "8.5",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/49311113.webp?k=6f5555c43293388dce9f98f9635508223bcf7d5a73d70cb1a7c8dc45e7f7b9bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/spa-on-duval-key-west.html": {
+    "name": "Sea Esta Suite",
+    "location": "Downtown Key West, Key West",
+    "score": "7.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262375688.webp?k=2426a9fe44de1945b4ae3adde3cfca0fd48de5287b50268ce13228397131ff1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/marys-trio-key-west.html": {
+    "name": "The Mesa House",
+    "location": "Downtown Key West, Key West",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351682471.webp?k=f30ab987b66d85ed13a2ed38c8d9347f03b84bbb5439c423c0476791ffff26a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/curry-house-room-9-key-west.html": {
+    "name": "Curry House Room 9",
+    "location": "Downtown Key West, Key West",
+    "score": "6.1",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357098270.webp?k=c508fa046fe6e772f016757b62bfdc576928acba6bbbe04bb238572abcd4c5fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-hidden-oasis-waterfall-pool-close-to-beach.html": {
+    "name": "New Hidden Oasis - Waterfall Pool Close to Beach",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438374940.webp?k=98eb5b8fd51d2e6ddde1c2380281630fe22983d3e7bbf1923975f478d981906a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/green-mermaid.html": {
+    "name": "Green Mermaid",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325046977.webp?k=c090aa820308471df28df79f15687bf64508e0a12c1b00c0b1103ee85f610a7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/marys-backyard-key-west.html": {
+    "name": "Mesa House Uno",
+    "location": "Downtown Key West, Key West",
+    "score": "7.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351668670.webp?k=25d5af5961c53b648bf87436020a041ca206eaf9e06406aced0b2afe4858062e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-caribe-duval-square.html": {
+    "name": "Casa Caribe @ Duval Square",
+    "location": "Downtown Key West, Key West",
+    "score": "7.9",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217897326.webp?k=9fcff469d48869b99cfb4588eccfa28a08a517864ce499e9474e52fff8a4c43d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/caribbean-conch-at-1800-atlantic.html": {
+    "name": "Caribbean Vibes",
+    "location": "Key West",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420416479.webp?k=acdc34bcc55e8bca5e5ca57459c3bfd2781913d573dfaa5c54c2a90a440646db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/paradise-suite.html": {
+    "name": "Paradise Suite",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218062681.webp?k=958eb1fb6a12cabf35c57c0db86b5cbbfe3a6b125b7ead1c321ac9fc5f23a67c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/moonlight-paradise-c224.html": {
+    "name": "Moonlight Paradise",
+    "location": "Key West",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320650998.webp?k=9550e0151e9a421b89b25f703330a318773ede3277e4e9781d4e812a46f0868d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/oceana-suite.html": {
+    "name": "Oceana Suite",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118098905.webp?k=4407a1ceb734f0c5d6965d6ec7dcfc3fefab96ab3b4b64b28de3828da7d3563a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/conch-cottage-key-west1.html": {
+    "name": "Conch Cottage",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409424241.webp?k=7b7f42ca7a68fe0f4bc66d8fcb6d7c352adfe96d8e72d1b5c16241a3ac817cac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/kokomo-korner-key-west.html": {
+    "name": "Kokomo Korner",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396524721.webp?k=993129a9aacb05f2de07335d295a37c7baef98616b487aa0b326a42b4d8f30ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/gulf-getaway-key-west.html": {
+    "name": "Gulf Getaway",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281565212.webp?k=77b717ea1f0f651880a073468fdbbc0657bc79241e7bafabf0b02cc69e0e0529&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/poolside-palms-key-west.html": {
+    "name": "Poolside Palms",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396095544.webp?k=a8158121e2c8111b7f9232fdafddd2e02796cb5a4d6102a2448014cf50380d57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bohemian-breeze-key-west.html": {
+    "name": "Bohemian Breeze",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328022438.webp?k=7ca3bff6a7d4dde479f1a8e48ba408fc37c1a537b65b390f3b768d452b52efdf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bananas-foster-guesthouse-key-west.html": {
+    "name": "Bananas Foster Guesthouse",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356865538.webp?k=2b025cefba02b865ddd2035e0770d4ec9e24b9474a8c24c2f8e9e53040a93562&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/gecko-lane-hideaway.html": {
+    "name": "Gecko Lane Hideaway",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376477906.webp?k=7e8f6c5d6de37f562306daa20e6b3ee53507d148e7328c82ba4e546339c3ce5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/tropic-dream-key-west.html": {
+    "name": "Tropic Dream",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353944144.webp?k=fb72764fabbb3a180cacc3e312dc60dd416462a47e7a7db6e5cd9d96bccccdc5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/keys-please.html": {
+    "name": "Keys Please",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308851206.webp?k=267b19863f04dfe877a8e347841c9918c2b54ef59616f6964df4719b59899229&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/poolside-paradise-key-west12.html": {
+    "name": "Poolside Paradise",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357117820.webp?k=ee44a7ed254f80279aedcd5dfba5879cfe77f580db9a41a1586e3bdaa26e56fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/southernmost-view.html": {
+    "name": "Southernmost View",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375030685.webp?k=72ea63ee5fd3de4f1d737f9295405918810434365cc1f146e755fcacb79619d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/dancing-palms-key-west.html": {
+    "name": "Dancing Palms",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408802747.webp?k=ec7f8aab74d21f884a70b1c35e26d8488cb1b6ac617ae11973ca0439b48d1b07&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/lets-flamingo.html": {
+    "name": "Let's Flamingo",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376163315.webp?k=94c259b499b7c3c5b44d4a040516888f3baabcd23c60ab8b456271ca0e4a0b0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/litehouse-south.html": {
+    "name": "Lighthouse South",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356814480.webp?k=6704d8dbf7ac6708217e4245eca934249a0ce8714bbd6ef621da66c3bb7ed0bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/6-bedroom-6-bath-guesthouse-on-duval-street.html": {
+    "name": "6 Bedroom 6 Bath Guesthouse on Duval Street",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360313865.webp?k=a9f091eac89c067f0732d450d70eabe616ed3d0283b2824184910beda69b8a44&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/secret-garden-key-west.html": {
+    "name": "Secret Garden",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217896607.webp?k=66bbda6e777980f1eca9732cdbfc8864677fe6a6a4b62e73e13abac6501ee960&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cat-island-suite-205-key-west.html": {
+    "name": "Sunrise Suites Cat Island Suite #205",
+    "location": "Key West",
+    "score": "7.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167974677.webp?k=d74748cf08761b7403c85fe8514aec3de804c54a08b844c6a29b35be3c9bc0bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/harborwalk-hideaways.html": {
+    "name": "Harborwalk Hideaways",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361883558.webp?k=346dd5fc9418d57c03a49ff52a03842b5626f6cc749b3c4ba42eeb8066121489&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/porter-paradise.html": {
+    "name": "Porter Paradise",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383172592.webp?k=0e0c1cfb0ae3466d68afec1b9827370b21aecb47d9d14dbb4a0ac5e404eb8849&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/garden-of-roses-key-west.html": {
+    "name": "Garden of Roses",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293162219.webp?k=6c6c87cfbb1344d14821316b7067d3de0036c7a45629f87361b0440d653dd0e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/trumans-hideaway-by-avantstay-great-location-w-patio-outdoor-dining-bbq-shared-p.html": {
+    "name": "Trumans Hideaway by AvantStay Great Location w Patio Outdoor Dining BBQ Shared Pool Week Long Stays",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393637712.webp?k=f52ad7783c2cfadc0fef139c7ee8f8e7055eedfa3e2593a2747f15c1522762a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-eloise.html": {
+    "name": "Casa Eloise",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337607026.webp?k=e583572c50e7a83d41a151cb70ca98d14205bec01d9a18ed8937fd73454b30d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/olivia-street-retreat.html": {
+    "name": "Olivia Street Retreat",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218064697.webp?k=12f00e1df6acf9f7653249c6c102508cf5addbedf907bc31631c359a955190ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/baya-house.html": {
+    "name": "Baya House",
+    "location": "Downtown Key West, Key West",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269439196.webp?k=958bd774c7714a7e028c43ffed4f57363a914d0d1e0cc9454e8880e2eb9cf84a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bahamian-reed-by-avantstay-walk-to-everything-w-community-pool-week-long-stays-o.html": {
+    "name": "Bahamian Reed by AvantStay Walk to Everything w Community Pool Week Long Stays Only",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393638293.webp?k=ddffda7a527f48e27e28bea4b08f8e7db8d1f017a616f3db96b29097830627d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/shipyard-seaclusion.html": {
+    "name": "Shipyard Seaclusion",
+    "location": "Downtown Key West, Key West",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217932853.webp?k=829edf6e78edd37b90dad58b3b4870fbca5840f28ca5124b1eb15acb7cd4242e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/coconut-palm-key-west.html": {
+    "name": "Coconut Palm",
+    "location": "Downtown Key West, Key West",
+    "score": "5.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337543410.webp?k=e0af1dcb51b257a2905d2b639504bd9efeacb439d7071b22e5e09d0adc17497c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/historic-duval-street-loft.html": {
+    "name": "Duval Dream Loft",
+    "location": "Downtown Key West, Key West",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299784452.webp?k=eb5801d0d5941afa1af71f8f7914cc3cbc032acfa628059bbaf754db7ee78ed5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/honey-bun-hideaway-key-west.html": {
+    "name": "Honey Bun Hideaway",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403597008.webp?k=712b010a9eeef580ad5641e5eed6ecab51d8994b73e34f2f6189c5849533cfdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/commodore-compound.html": {
+    "name": "Commodore Compound",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356859734.webp?k=369fe65343777214aac4e81661d7fe45e43c878f7ccf5ca77a343d717bdec39d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/two-duval-street-condos-w-parking-and-pool.html": {
+    "name": "Two Duval Street Condos w parking and pool",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394947109.webp?k=a24a687e8515a3aa6120c1005cbc32b6241a96e38a7ab06b7df5d2023838c450&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-swell-time-waterfront-hot-tub-dock.html": {
+    "name": "NEW La Casita- Waterfront Hot Tub & Dock",
+    "location": "Key West",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399424883.webp?k=fd891f278242f578c48c080d584469eecc61c0fa1360280c16f9deec2abdd6a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/tranquility-by-avantstay-close-to-duval-st-w-bbq-shared-pool.html": {
+    "name": "Tranquility by AvantStay Close to Duval St w BBQ Shared Pool",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393630699.webp?k=dbb5eef0e4913e84e32c7377d81dea7f3ef0aeac34dd6b1198c098896c6b8298&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/brisa-del-mar-by-avantstay-communal-pool-gated-community-ocean-front.html": {
+    "name": "Brisa Del Mar by AvantStay Communal Pool Gated Community Ocean Front",
+    "location": "Key West",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393625834.webp?k=f6ac2215ec50886812cb733d8a0ce0c07c738b0252dab8ef4204612b66708982&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/seaport-suite-key-west.html": {
+    "name": "Seaport Suite",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356859901.webp?k=b0413d1458e4cf4265b6f97a8b9aa145e5cbd376a08ce78274071a1b8eae74d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunrise-suites-hispaniola-suite-101.html": {
+    "name": "Sunrise Suites - Sea Breeze Suite 101",
+    "location": "Key West",
+    "score": "8.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279328001.webp?k=edc62ea0df8ca798da40c6d6f7f1786fe8070d5378b3e3e5fb28e2fa89d6e93a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/curry-house-room-2-key-west.html": {
+    "name": "Curry House Room 2",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357093988.webp?k=d87d829a65fb728884ae67ede825628bf91d3fb277e598c9373bb8ed10ecb6b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/classic-king-balcony-at-curry-mansion-inn.html": {
+    "name": "Classic King Balcony at Curry Mansion Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425246668.webp?k=e8cbd4ea940c3ebfb269aff83e4ea950f3876eae0feb77909cf8fab68d8aa7ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-corner-key-west.html": {
+    "name": "Duval Corner",
+    "location": "Downtown Key West, Key West",
+    "score": "6.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383127391.webp?k=258e04a4502392c0fd1d121c21410674bbfaf288c1938774331395d6b5ec85a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-birds-of-a-feather-at-custom-house-inn.html": {
+    "name": "NEW Birds of a Feather at Custom House Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427165186.webp?k=b3b0c10044178f762120fce302739335a1a86ec2d7f0a757e565e9224ba39f09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/serenity-by-avantstay-guest-house-in-old-town-w-shared-pool-month-long-stays-onl.html": {
+    "name": "Serenity by AvantStay Guest House in Old Town w Shared Pool Month Long Stays Only",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393626975.webp?k=82d0f213d88f8e4472a98ec48a56a77f2bd7c3bf99d4a8fb5812618eada3593d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunrise-suites-tahiti-suite-104.html": {
+    "name": "Sunrise Suites Tahiti Suite #104",
+    "location": "Key West",
+    "score": "8.6",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/182607547.webp?k=883345ace6ccc726389d582d2ec852e2d691ea28eb3f782a3ed5808383282301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-street-retreat.html": {
+    "name": "Duval Street Retreat",
+    "location": "Downtown Key West, Key West",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217896742.webp?k=1691a875b09cb5805b3aa9de7954856fab5994f896e7aaf34ad92833d4cc4531&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-vangogh-studio-pool-balconies.html": {
+    "name": "NEW VanGogh Studio - Pool & Balconies",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402963742.webp?k=a0e5b4ae6f18d8bfec2c6003ddd3f2b72da2e5638371a747c82aa3f94dbe3348&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/curry-house-double-suite-rooms-3-and-4.html": {
+    "name": "Curry House Rooms 3 & 4",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357094203.webp?k=bd3649cac759c693ea5ff0a0294a9772429288f0777525dff20664319f001df3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/deluxe-queen-at-the-curry-mansion-inn.html": {
+    "name": "Deluxe Queen at the Curry Mansion Inn",
+    "location": "Downtown Key West, Key West",
+    "score": "3.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425248746.webp?k=692cc01a21b4ffa18e624cd98cc7a925db50b9e970e78eca2d1fd100a2b85597&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/paradise-escape-407.html": {
+    "name": "Sunrise Suites Paradise Escape #407",
+    "location": "Key West",
+    "score": "8.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167974653.webp?k=f0c86332c678add68a321f4ec7f4da81e825c31849be1e852df5211d4f15ff1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sophisticated-sunsets.html": {
+    "name": "Sophisticated Sunsets",
+    "location": "Key West",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357100482.webp?k=71b139a719b622e91361339ce462f304fbaa2f879ef98164ac29a14788d4d014&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/commodores-cove-key-west.html": {
+    "name": "Commodore's Cove",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356859442.webp?k=137fe10ad77339b2216d762719a4953e281ebd2af281a58ed94b4f549604e0c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sky-suites-retreat.html": {
+    "name": "Sky Suites Retreat",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375908015.webp?k=b3fba26029b245d2dee9404abc13a946ddd7cf023baac2b77116f84646cdb91d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/atocha-cottage.html": {
+    "name": "Atocha Cottage",
+    "location": "Downtown Key West, Key West",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372340648.webp?k=ad6ff3ab97084608e6a662657c74a8145063be69ed625ffb89c0035b365754cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/poolside-retreat-key-west1.html": {
+    "name": "Poolside Retreat",
+    "location": "Downtown Key West, Key West",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357117886.webp?k=6eb7b51ad64732280d769f4b792d474c2f451ae9ba6e36a65e07f040866ba211&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-chicken-run-colorful-on-duval.html": {
+    "name": "NEW Chicken Run - Colorful on Duval",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427145603.webp?k=c2d678bc098b71bf83f0818e6f5c44824f92529ff955a9f42b9414ac63a6e43a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/carriage-suite-at-the-grand-maloney.html": {
+    "name": "Carriage House at Grand Maloney",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399614253.webp?k=e89b9ad11c6efe9d31e2583ef3f4fe4ce1526971d2e92ad132547d7f7c71bc8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ocean-hideaway-on-the-atlantic-a206.html": {
+    "name": "Ocean Hideaway on the Atlantic",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320649797.webp?k=552a27ce2b0ec28ec8ca45ec1512350f3af6519fa56b78dece49776a8291ad3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/tranquility-by-the-beach-c129.html": {
+    "name": "Tranquility by the Beach",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420421414.webp?k=49ff76f50f71e74303c9adde4a33fd6108435bd20105129175933677eeb795dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/an-island-oasis.html": {
+    "name": "An Island Oasis",
+    "location": "Downtown Key West, Key West",
+    "score": "7.5",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279030639.webp?k=05bb6c3b56d0c0a97b944f077c8c28ce47dcf683f712c225aff30d1ddd9a4f89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-grand-maloney-room-102.html": {
+    "name": "Green Room at The Grand Maloney",
+    "location": "Downtown Key West, Key West",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399621916.webp?k=1acda59b1e5851d37124c7ddac2202de838c095497ff45ccd18bb042383f082d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-galleria-leonardo-da-vincis-lodge-7.html": {
+    "name": "Leo's Lodge #7",
+    "location": "Downtown Key West, Key West",
+    "score": "5.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332710486.webp?k=4b170af57c0b47a8fe442ab86c25f5b7c90addf8f9cc6ea9677749e7dbf41ded&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/saint-martin-suite.html": {
+    "name": "Saint Martin Suite 207",
+    "location": "Key West",
+    "score": "7.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293019319.webp?k=6f23397beb92ceac0fb2223f52b66f742af027e7f4551ddb6e62421190d21ec0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunrise-suites-by-to.html": {
+    "name": "Sunrise Suites by TO",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389553466.webp?k=31359e46bacdd8b18a2c42176f609e8a6f4e657caeabed710aab837e715c2f2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/royal-palm-key-west1.html": {
+    "name": "Royal Palm",
+    "location": "Downtown Key West, Key West",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267573038.webp?k=5bfed73760da948ce2cb5cd833b3b5fc7648aeb04923baded11f14774bb1fb23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/borrowed-time-key-west.html": {
+    "name": "Old Town Cottage",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185949154.webp?k=0e09a43b28b91693b90c7151ce4023347ddb965a0b86f90422473a27f89c24a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/curry-house-king-room-with-balcony.html": {
+    "name": "Curry House Room 8",
+    "location": "Downtown Key West, Key West",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357096423.webp?k=6cb4f2bbfd9a66e62b96be35fc6e5b8061cab010c5b8fddcde317a006b51505f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-grand-maloney-room-1.html": {
+    "name": "Bunk Room at The Grand Maloney",
+    "location": "Downtown Key West, Key West",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399621978.webp?k=0b7f7bec45d891d4d5e0185207f9196e7a1b4195654e26ebbbf52c0ec1a55aa8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-cubana-duval-square.html": {
+    "name": "Casa Cubana @ Duval Square R14",
+    "location": "Downtown Key West, Key West",
+    "score": "9.1",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230780322.webp?k=e237a3ea4863ae79261b09727e5a293a40246f846b1dfc5255d482295a241f93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/duval-duo.html": {
+    "name": "Duval Duo",
+    "location": "Downtown Key West, Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299818288.webp?k=3355bac2d178c1c746f18dd4e4f4da2d076558e74fd32c37c82b5b3b302a5d72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/salt-cay-suite-410-key-west.html": {
+    "name": "Salt Cay Suite 410",
+    "location": "Key West",
+    "score": "8.1",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287702517.webp?k=f1362185ab06efdc8d14b0cbddeb7578d40ba9157e4ff257aef3ea33490b1e2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunrise-suites-saint-lucia-suite-201.html": {
+    "name": "Sunrise Suites Saint Lucia Suite #201",
+    "location": "Key West",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118098573.webp?k=3f607b5767d14d590daf75fbded398304871cf3bd94dadf1202f685e6ad1d0db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hemingways-view.html": {
+    "name": "Hemingway's View",
+    "location": "Downtown Key West, Key West",
+    "score": "7.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217896525.webp?k=a7814e1dd44ddbca9037cad002fec9dd453c7ee2f6eb62f2aa0f280789698267&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-isabelle.html": {
+    "name": "Casa Isabelle",
+    "location": "Key West",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357090242.webp?k=ec6368a3c862161e0418a5c5e3974e9b0b9fb8736ea04839d953e729cd247dc0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-galleria-salvadors-suite-4.html": {
+    "name": "Salvador's Suite #4",
+    "location": "Downtown Key West, Key West",
+    "score": "6.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332855361.webp?k=ab3110f178481bcf66c6c6dd7f1afb5910afeeadeba4fb0f412aa0a3c4f469e5&o=&s=1"
+  }
+}

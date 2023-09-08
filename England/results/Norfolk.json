@@ -1,0 +1,546 @@
+{
+  "https://www.booking.com/hotel/us/best-western-plus-holiday-sands-inn.html": {
+    "name": "Best Western Plus Holiday Sands Inn & Suites",
+    "location": "Norfolk",
+    "score": "7.0",
+    "review_count": "1,171 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/160819595.webp?k=6b0a7d68905c078bab7720e45b8fb09112e4adb76e88b11e81b8b3de2e1c92e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/holiday-inn-express-suites-norfolk-airport.html": {
+    "name": "Holiday Inn Express Hotel & Suites Norfolk Airport, an IHG Hotel",
+    "location": "Norfolk",
+    "score": "8.5",
+    "review_count": "854 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294408950.webp?k=02533a6ca970d23133a66237be1d09ecde41614050e24b5f2461c4262fbc9879&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-waterside-marriott.html": {
+    "name": "Norfolk Waterside Marriott",
+    "location": "Norfolk",
+    "score": "8.4",
+    "review_count": "540 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252388924.webp?k=45a8403c38ebdffab07098cc56b84e5c119ac37cdfbfcfd33a090599788de534&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sheraton-norfolk-waterside.html": {
+    "name": "Sheraton Norfolk Waterside Hotel",
+    "location": "Norfolk",
+    "score": "7.7",
+    "review_count": "315 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327298937.webp?k=88eb66578b4342849400159468a6ca359588b05a3dd276c38280ae37bae4645d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-suites-norfolk-airport.html": {
+    "name": "Hampton Inn & Suites Norfolk-Airport",
+    "location": "Norfolk",
+    "score": "8.4",
+    "review_count": "911 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/77079025.webp?k=eb56aede2d6f65065e008ee49111a2240ceef3ce9b0a334a1c137b8e9d577bfa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-norfolk-naval-base.html": {
+    "name": "Hampton Inn Norfolk-Naval Base",
+    "location": "Norfolk",
+    "score": "8.0",
+    "review_count": "250 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/72795378.webp?k=2df665e248b2a34bf4ebafe53e6ff44c739b70c259cb26e689442f866d6e2c82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/home2-suites-by-hilton-norfolk-airport.html": {
+    "name": "Home2 Suites By Hilton Norfolk Airport",
+    "location": "Norfolk",
+    "score": "8.4",
+    "review_count": "148 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256952559.webp?k=a915c8c2d2d8cde43db9581fd6a0af99fc808ae9d5c8606eb8e23055a000303c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/residence-inn-norfolk-airport.html": {
+    "name": "Residence Inn by Marriott Norfolk Airport",
+    "location": "Norfolk",
+    "score": "7.5",
+    "review_count": "287 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434740637.webp?k=88c1ed231f057594cc48e42273e93476c56521433ddc82ec0e68456712d547ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/delta-hotels-by-marriott-norfolk-airport.html": {
+    "name": "Delta Hotels by Marriott Norfolk Airport",
+    "location": "Norfolk",
+    "score": "8.0",
+    "review_count": "541 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180619744.webp?k=396dd6f23281f16923e58a73a5e0932a01e75815a1d4012236c8fadfbb2d4132&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/candlewood-suites-norfolk-airport.html": {
+    "name": "Candlewood Suites Norfolk Airport, an IHG Hotel",
+    "location": "Norfolk",
+    "score": "7.3",
+    "review_count": "251 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305969687.webp?k=783713793693bab3103eb34d97dc9c69c66e57c0eb0b0c5ea53b9488be8babff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/downtown-norfolk-loft-norfolk.html": {
+    "name": "Downtown Norfolk Loft",
+    "location": "Norfolk",
+    "score": "9.6",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408702011.webp?k=a4c8b74c96c95c79fbf4ebfc422207460fd39355add8939d9be93c8c0e8fee30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/la-quinta-inn-and-suites-norfolk-airport.html": {
+    "name": "La Quinta by Wyndham Norfolk Airport",
+    "location": "Norfolk",
+    "score": "7.4",
+    "review_count": "1,525 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194579875.webp?k=d40129738a9ba36d52f6a2607febfdb7d34893436e65c5bbc25aa4faa4d9217c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hilton-norfolk-the-main.html": {
+    "name": "Hilton Norfolk The Main",
+    "location": "Norfolk",
+    "score": "8.7",
+    "review_count": "501 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/106757754.webp?k=ec820342b9f6dd74e38b9e65389343b69f7620eae2bec51320bc73cf5b646c3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/2bd-1ba-chesapeake-bay-condo-monthly-available.html": {
+    "name": "2Bd/1Ba Chesapeake Bay Condo: Monthly Available",
+    "location": "Norfolk",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419094371.webp?k=9be8db7f6434705395e9a4193827fc0d53d6cfc284cf55f9acfa48b750b520ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/glass-light-gallery-autograph-collection.html": {
+    "name": "Glass Light Hotel & Gallery, Autograph Collection",
+    "location": "Norfolk",
+    "score": "9.0",
+    "review_count": "470 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426579481.webp?k=c8891c0dfa1a4821737879370a1e8ee304dfe2635b0dcc74f09253e8c976bf6b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/residence-inn-by-marriott-norfolk-downtown.html": {
+    "name": "Residence Inn Norfolk Downtown",
+    "location": "Norfolk",
+    "score": "8.2",
+    "review_count": "204 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358117569.webp?k=b4e2cd3e2d3c92d13544199d66996818646dfb5262de94aebd56111975361793&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/harbor-delight-on-the-bay-private-sandy-beach-home.html": {
+    "name": "Harbor Delight On The Bay - Private Sandy Beach! Home",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215128317.webp?k=b8afc21699c9c10cf9e8fd0bbf7d3ddd1ebb8c32f18bf921aaa8edfde3001ad2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/springhill-suites-by-marriott-norfolk-old-dominion-university.html": {
+    "name": "SpringHill Suites Norfolk Old Dominion University",
+    "location": "Norfolk",
+    "score": "7.8",
+    "review_count": "237 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144622368.webp?k=05ac647532f38f6004a1db09fec61aa6f8e7c9f08309f08a5155b9593a906354&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-family-retreat-1-block-to-beach.html": {
+    "name": "Inviting Norfolk Family Retreat 1 Block to Beach!",
+    "location": "Norfolk",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386360979.webp?k=8bfde0bd5a1a20c503a8f79e2730a90de32aa27c1cb68135b5856f8df4c316d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/courtyard-by-marriott-norfolk-downtown.html": {
+    "name": "Courtyard by Marriott Norfolk Downtown",
+    "location": "Norfolk",
+    "score": "7.4",
+    "review_count": "390 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/74994612.webp?k=a87e8b14546720d7f283ba27eb1c5d6542b9187f8535b3de30267577e2c9b0eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-anchor-4br-beach-house-w-balcony-amp-king-bed.html": {
+    "name": "The Anchor 4BR Beach House w Balcony & King Bed",
+    "location": "Norfolk",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389003127.webp?k=bbcf05f54e03250d867c20a957a0152bfb42f74976d8541d5b8d2802c2bc35a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hilton-norfolk-airport.html": {
+    "name": "DoubleTree by Hilton Norfolk Airport",
+    "location": "Norfolk",
+    "score": "6.5",
+    "review_count": "352 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34814571.webp?k=533b0c7e532d60a95e75639b1bcb6ec69b1e70dec33d4fb86f7105716daec868&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/3-br-home-3-mins-to-airport-11-mins-to-beach.html": {
+    "name": "3-BR Home 3 mins to Airport + 11 mins to Beach",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374580432.webp?k=e35cfac20bd0465c34a7261aaa9066ea4fc757df41b3f9790f251a50bcad7039&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/big-blue-getaway-on-the-bay.html": {
+    "name": "Big Blue Getaway on the Bay",
+    "location": "Norfolk",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/381986722.webp?k=f0c4b68879bf86639770cc95d676ac570fa55b4a29a1c64f6e7d943dd1c59af5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/crown-plaza-norfolk.html": {
+    "name": "Wyndham Garden Norfolk Downtown",
+    "location": "Norfolk",
+    "score": "6.3",
+    "review_count": "180 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135281546.webp?k=fe9ed72f889307f829f81a32d3d076f2d76469d448366225cefd93daae532c62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/econo-lodge-near-norfolk-state-university.html": {
+    "name": "Econo Lodge at Military Circle",
+    "location": "Norfolk",
+    "score": "4.9",
+    "review_count": "499 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/169771303.webp?k=9a3af9dffbe3e0e885b36b2f64ae0a9d9f786bd1a282a1858ef327dd28d5509e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-mother-in-law-suite.html": {
+    "name": "Cozy Mother-in-Law Suite",
+    "location": "Norfolk",
+    "score": "9.0",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281188832.webp?k=eb3cc86595c1a49ca33701cd6e13f2c3eabb8bbfed8ce95e883eec2aeeca3a67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/quality-inn-norfolk-naval-base.html": {
+    "name": "Econo Lodge Naval Station Norfolk",
+    "location": "Norfolk",
+    "score": "5.9",
+    "review_count": "168 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298837967.webp?k=dab40d8541a82d3c2ce9e41f48dccb47d41d0241eb4c284cffb013f2ab9715f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/americas-best-value-inn-norfolk-norfolk.html": {
+    "name": "Rodeway Inn Norfolk",
+    "location": "Norfolk",
+    "score": "6.2",
+    "review_count": "261 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323475282.webp?k=0b6e88278a3694bc8deabdfd560e9c06d64da4080e308d50ede9a2994f23c898&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cheerful-5-bedroom-house-centreally-located.html": {
+    "name": "CHEERFUL 5 BEDROOM HOUSE CENTREALLY LOCATED .",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410824419.webp?k=da5046b18552de8d55e3ed68f42601aca81270fabc873f108b7afc65f0e4083a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-853-north-military-highway.html": {
+    "name": "Motel 6-Norfolk, VA",
+    "location": "Norfolk",
+    "score": "5.0",
+    "review_count": "1,819 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118597312.webp?k=2dfd54a776082d6913ca625f55b8697fb27765e50616186738596cf1299b1590&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ocean-view-inn-norfolk.html": {
+    "name": "Ocean View Inn",
+    "location": "Norfolk",
+    "score": "5.1",
+    "review_count": "292 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75738895.webp?k=05f1102d20a28a4de37c5fab6a763566db943239cc02d582b60f546cb83fecb2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-oasis.html": {
+    "name": "Norfolk Oasis",
+    "location": "Norfolk",
+    "score": "9.3",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390545333.webp?k=5f957eff3e7da75bf16a75784c52b3609bc4101484a18afbd1b1024f21a86ea9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/super-8-norfolk-va.html": {
+    "name": "Super 8 by Wyndham Norfolk/Chesapeake Bay",
+    "location": "Norfolk",
+    "score": "4.8",
+    "review_count": "467 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132457627.webp?k=1ba297fe30502a21a6f14f0d1806f906c6044f15fdeafab0e95c345b0901602a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ramada-limited-norfolk.html": {
+    "name": "Days Inn by Wyndham Norfolk Airport",
+    "location": "Norfolk",
+    "score": "5.5",
+    "review_count": "486 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261966439.webp?k=025c25662fb5dba52e273d31a9fe05450f0ce41d843bf5a0598a1c31964ae480&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/americas-best-value-inn-norfolk1.html": {
+    "name": "Motel 6-Norfolk, VA - Oceanview",
+    "location": "Norfolk",
+    "score": "4.2",
+    "review_count": "718 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156033589.webp?k=f9865f732046fa4231df2a45cb44b037ee63b2e44a2f89e262ec61fa5e44c058&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/catchnrelax.html": {
+    "name": "Catchnrelax",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371251401.webp?k=defb7e8c61eb9e92c7c1854efa1f68297fb9df3ecc69d7a31435f762a750c2e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/days-inn-norfolk.html": {
+    "name": "Days Inn by Wyndham Norfolk Military Circle",
+    "location": "Norfolk",
+    "score": "3.9",
+    "review_count": "832 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135444290.webp?k=ef3d90f60037c55944eb9f3a6dc7f32b54a4aa096784856ef25d6e69e9d364bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/captains-quarters-by-the-bay-cottage.html": {
+    "name": "Captains Quarters by the Bay cottage",
+    "location": "Norfolk",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358431360.webp?k=6c4ad6ca136fc5ba724165a8287b1fee4f8659ca449535454369236e17451211&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/zainabs-house.html": {
+    "name": "Zees Private Room",
+    "location": "Norfolk",
+    "score": "7.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385066290.webp?k=4db40994362b27300b43dbe0cd91357a03532ef276f234ef666aa03cb84a0462&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ode-to-brazil-7-minute-drive-to-the-beach.html": {
+    "name": "Ode To Brazil - 7 minute drive to the beach.",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407689170.webp?k=163ee7a1438ab5ac7d6c998cc9e1a5a36f1cfa02a936abc80c01f75c029593b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/water-front-delight-on-the-bay-home.html": {
+    "name": "Water Front Delight On The Bay Home",
+    "location": "Norfolk",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222443023.webp?k=4c71028be5ce4d526e9c774dc50383c6081c0660fd701893fb0175e31c031a71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/intown-suites-extended-stay-norfolk-va.html": {
+    "name": "InTown Suites Extended Stay Norfolk VA",
+    "location": "Norfolk",
+    "score": "3.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296968296.webp?k=ca32e80b77e83fedd5cecd9b6de6de5890f1c2a3ea7cde768cd59e71c9ecd9ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bright-norfolk-home-with-deck-less-than-3-mi-to-town.html": {
+    "name": "Bright Norfolk Home with Deck Less Than 3 Mi to Town!",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409042360.webp?k=a15408a4ccc8e272c8c45d1763e99db782a1032ca47bfa8adee0a5b30bfd921c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/vivid-home-with-porch-walk-to-ocean-view-beach.html": {
+    "name": "Vivid Home with Porch Walk to Ocean View Beach!",
+    "location": "Norfolk",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309322756.webp?k=cef037826fa9b4b56c031683a8b8dd9f541bb3671bb36bce279e4a6b63bc741f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/coastal-get-away-at-ocean-view-beach.html": {
+    "name": "Coastal Getaway At Ocean View Beach",
+    "location": "Norfolk",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339718268.webp?k=332450da927fec1182c4f0a53a1c29b8d5b236e6d6816ec5588739d502605427&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/charming-duplex-located-in-the-heart-of-ghent.html": {
+    "name": "Charming Duplex Located in the Heart of Ghent",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424171491.webp?k=f7adb069d40f3a2493eef87264247e937bba63c43e993eae15c77d3de221ef43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-beach-house-rental-with-private-pool.html": {
+    "name": "Norfolk Beach House Rental with Private Pool!",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434012803.webp?k=94aba4b8233ab52e33bca3bd2b65b503a25c5b14b7ff88f9ed9bae37224a9f62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-stately-norfolk-home-w-grill-walk-to-beach.html": {
+    "name": "Stately Norfolk Home with Yard and Grill Walk to Beach",
+    "location": "Norfolk",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/235553589.webp?k=b7e6272bf9d0b7c5fa1254d9b19f29bcee2bdca05f47c4e046a2fff44ae26600&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/historic-norfolk-home-walkable-location.html": {
+    "name": "Historic Norfolk Home Walkable Location",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425568250.webp?k=4f0c8ed044f7620f72121f1db342666beea7f3d042d2bd9fa5c51e04863492c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-downtown-house.html": {
+    "name": "Norfolk downtown house",
+    "location": "Norfolk",
+    "score": "2.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338940965.webp?k=0d75591974ec495710dabcd3db78ef1ecd084e6a2ccf7ac67d65c831157eb5e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sandy-feet-retreat-at-ocean-view-beach.html": {
+    "name": "Sandy Feet Retreat At Ocean View Beach",
+    "location": "Norfolk",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339713053.webp?k=46754faf9e0af715c23be660c63e8a26dc64bfe2b575e44253465a53489c6e85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/gorgeous-beach-house-steps-to-the-beach.html": {
+    "name": "Gorgeous Beach House Steps to the Beach",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398480243.webp?k=c6a22c6654b46944d5d4642acd277f8c7345882acbdcd4da51ce4ff3595514fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/willoughby-shores.html": {
+    "name": "Willoughby Shores",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396293673.webp?k=dd660117347fec8bf525db3cf830286af6d35adaf41afef6f4264502e6b8fe0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/premier-inn-suites.html": {
+    "name": "Economy 7 Inn",
+    "location": "Norfolk",
+    "score": "5.5",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216638348.webp?k=25b5d3d3d38c6c36a00ef6995741677130a7844fcc07ade6178909b543187fe8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/private-suite-beautiful-old-house-quiet-location.html": {
+    "name": "Private suite, beautiful old house, quiet location",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/229623384.webp?k=b10d60d8f46b6f7d235a205b731bcb62a503d44498e068d149f0d7c997c496af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/classic-chesapeake-beachside-cottage-with-porch.html": {
+    "name": "Classic Chesapeake Beachside Cottage with Porch!",
+    "location": "Norfolk",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281188604.webp?k=346b0414245d027c6bc8a1388313942959ece29335ac52c9ed4f0ca4134e6f8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/express-inn-norfolk.html": {
+    "name": "Express INN",
+    "location": "Norfolk",
+    "score": "5.5",
+    "review_count": "262 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67963168.webp?k=4486d99a02c083d0fa5d84ab390af4015cde1f62a51a31f3d64906a72eac4ea4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pet-friendly-norfolk-home-with-patio.html": {
+    "name": "Pet-Friendly Norfolk Home with Patio!",
+    "location": "Norfolk",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413896494.webp?k=89fae11d2ae0a84532ea02e53ffceb1987000fd0f65e5fd7dbadfe73718077e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunny-cottage-at-ocean-view-beach-norfolk.html": {
+    "name": "Sunny Cottage at Ocean View Beach Norfolk",
+    "location": "Norfolk",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339719566.webp?k=5cafb6d755f5ed8c2faa13fbc17796b5ffe95af50bfea22e102f1b0ac3ccde23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/relaxing-on-the-bay.html": {
+    "name": "Relaxing on the bay",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400838647.webp?k=c60f270d89688f1efca894cb697a4e97be3076aab11515d8f6aac10c825aced0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/norfolk-home-with-yard-about-4-mi-to-downtown.html": {
+    "name": "Norfolk Home with Yard about 4 Mi to Downtown!",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413892957.webp?k=6537e2836c3b9d27543a3d31d53a59dd3f57c144814cbc91ca7bc2843aafd1a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rustic-rooftop-delight-bay-front-apts.html": {
+    "name": "Rustic Rooftop Delight - Bay Front apts",
+    "location": "Norfolk",
+    "score": "6.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271813109.webp?k=9abc5194fcc5a95e4d7caf24b53d1643853ef595dd761837f014c6023bc6fa38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beach-front-on-the-bay-in-our-rustic-beach-cottage-cottage.html": {
+    "name": "Beach Front On The Bay In Our Rustic Beach Cottage Cottage",
+    "location": "Norfolk",
+    "score": "2.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216676368.webp?k=cccaa67eb8e3be39b18a5b1caf39a7dbcdf9698464dae98a5cd22d9a1cec5e20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/manor-and-mutts-1-cottage.html": {
+    "name": "Manor and Mutts #1 cottage",
+    "location": "Norfolk",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366947790.webp?k=6ab64b2f8d0f5f45ed3791679466adbd7dbe340834d2cf1adb0f86f485a1401e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/manor-and-mutts-2-cottage.html": {
+    "name": "Manor and Mutts #2 cottage",
+    "location": "Norfolk",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364122368.webp?k=daaf83257f7e9180b37b72678c544c7bdb3d0d6d867f0c4b178446efe6945168&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/charming-waterfront-cabin-cabin.html": {
+    "name": "Charming Waterfront Cabin Cabin",
+    "location": "Norfolk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215128643.webp?k=a192102dc189e153cb9a1c8cebd7a6cdbea30c90516525249442a6b2a10948db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ramada-ltd-norfolk.html": {
+    "name": "Ramada",
+    "location": "Norfolk",
+    "score": "4.8",
+    "review_count": "186 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/73286024.webp?k=091fbf5dd014df56b9fb4cd11f4d908c57f08fbd4d74bd4e74ad53b196a98f16&o=&s=1"
+  }
+}

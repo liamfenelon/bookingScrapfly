@@ -1,0 +1,1754 @@
+{
+  "https://www.booking.com/hotel/gb/coming-soon-luxury-3-bed-home.html": {
+    "name": "Brand New! - Luxury home from home!",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417530327.webp?k=c3cb556f4ce7b5d6fa5ef270a0c611c17f7fcf98f670782c74ed5fba55aa84a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dragonhotel.html": {
+    "name": "The Dragon Hotel",
+    "location": "Swansea",
+    "score": "6.8",
+    "review_count": "3,660 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/64296756.webp?k=7277e5261166cc3ee28ca4f871176f11910459b3ef77d65d0f02c95d2bd60c38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thegrandhotel.html": {
+    "name": "The Grand Hotel",
+    "location": "Swansea",
+    "score": "8.1",
+    "review_count": "2,606 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/20224795.webp?k=bd8009ada8553c2a8105cf3dc7c044d0811ed4b14b5755d905d6ac8a119173c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-duplex-apartment-with-woodland-views-swansea.html": {
+    "name": "Modern Duplex Apartment with Woodland Views",
+    "location": "Swansea",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424850086.webp?k=4da3b0e8b563ffa98954b2fcc55d16ddf2fcb5905c5a57176c12051f1e3f81c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/muji-style-two-bedroom-apt-swansea.html": {
+    "name": "Japanese Style MUJI Two-Bedroom Apt",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428322556.webp?k=174ce67a2f486fd08d76ded768b102d803ba791cbca23f76f02c46123194fd5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contemporary-3-bedroom-apartment-maritime-quarter.html": {
+    "name": "Contemporary 3 Bedroom Apartment Maritime Quarter",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424623236.webp?k=b33120dd687cf72a85f793bd9799734b3079cce39deb60c8b9daf65fbbd08dbc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morgans.html": {
+    "name": "Morgans Hotel",
+    "location": "Swansea",
+    "score": "8.1",
+    "review_count": "1,382 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430705239.webp?k=8f86778965d486cf1b237283d2ca47f9580f9f37e14e880a21a8f3ff66c5d6ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/king-eddies-place-tv-in-every-bedroom.html": {
+    "name": "King Eddie's Place -TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363011925.webp?k=00c9471a0f12cce96df07d915dd8c6e774e5a0c91d39662e72f29c69711292c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chesshyre-accommodation-tv-in-every-bedroom.html": {
+    "name": "Chesshyre Accommodation - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362486918.webp?k=2f9e993f3459affac2bf196053b3801407aba94c93231878c95ec3c819a7a333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-breeze-swansea1.html": {
+    "name": "swansea breeze",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404213153.webp?k=e6ac566b720026670f786ea056ec1bddf5267fe47534d4d5e1f6994fbfaa33d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ramadaswanseabay.html": {
+    "name": "ibis Swansea",
+    "location": "Swansea",
+    "score": "7.9",
+    "review_count": "1,719 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292479615.webp?k=336dee061efd69639ca51ae342a884f7e8df29799675396df633938e83c86974&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-marriott.html": {
+    "name": "Delta Hotels by Marriott Swansea",
+    "location": "Swansea",
+    "score": "7.6",
+    "review_count": "2,492 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250230015.webp?k=13655e155d5a386dc50128b946faee9c4a61b9769276d2b513e931d556964cac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gorgeous-newly-renovated-2-double-bed-flat-swansea.html": {
+    "name": "Gorgeous Newly Renovated 2 Double Bed Flat",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433597798.webp?k=7db70b8c5a7a6429ef97591bc7fdf320cbc6d72f1f7bb3223169796be9e0daa0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-charming-fishermans-cottage-with-stunning-sea-views.html": {
+    "name": "Pass the Keys Charming Fisherman's cottage with stunning sea views",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362653063.webp?k=78ee853c396749eb6567bb7e78537849b28b36cd4a4740f6824cbf82854822da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/urban-music-style-townhouse-in-swansea-city-center.html": {
+    "name": "Urban Music Style Townhouse in Swansea city center",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405577839.webp?k=235a4563195543e6a7ef45eb02a73f4aca54419f0bd6fa1e242401b4050508d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-ground-floor-2-bedroom-apartment.html": {
+    "name": "Stunning, 2 Bedroom, Ground Floor Apartment, Uplands, Swansea",
+    "location": "Swansea",
+    "score": "9.1",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170600811.webp?k=9a7bbc6fa9fe8677d3ad099f71d62691b51110513879811d6407eafd791d59d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/artistic-and-luxurious-apt-with-sea-view-beach-side.html": {
+    "name": "Artistic and luxurious APT with Sea view. Beach side",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388298680.webp?k=779a016320495e76dd9be4dac69974b6172a320e3ed927aae617c5962805810b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/homely-and-deceptively-large-city-house.html": {
+    "name": "Homely and Deceptively large city house",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407199402.webp?k=2c0efcdec7606475d7a7f22c4c279ee807996e2f602dbc9b7d365fc443b201c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-city-centre-townhouse.html": {
+    "name": "Swansea City Centre Townhouse",
+    "location": "Swansea",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312550283.webp?k=0a372b9ca40140b65d64e00452bbc229628f91146b1b446b9285c1a1736419f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/valley-house-plasmarl.html": {
+    "name": "Cwm Level Road",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432120435.webp?k=f22f0ec676d9c286c2e66b378347fdc00bf475bbeb18c3ae7d62470cd02e1eaa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-family-house-in-the-heart-of-swansea.html": {
+    "name": "Beautiful Family Home in the Heart of Swansea",
+    "location": "Swansea",
+    "score": "9.4",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374422051.webp?k=6cefb78e1497754a1713a1d92274528589f5f03dd3ffbd34c7c33f6660c7c04c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hael-farm-cottage.html": {
+    "name": "Hael Farm Cottage",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149852312.webp?k=e8bd5c78d1a5f72ed0aeb12b2f9fc719993d5289c9067eeb44c3f863bc212c0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/banfield-lodge.html": {
+    "name": "Banfield Lodge for Gower",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157147151.webp?k=67d352e873781598e3fb49a6cd511d570479a978f36b53d636686706a4f2d5c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-from-home-executive-style-house.html": {
+    "name": "4 Bed Executive Style House - Near City Centre",
+    "location": "Swansea",
+    "score": "7.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336592503.webp?k=24d72d1f9bd3c8d90df6d4f0e93c585d91cb6a950928fae96defa02732787395&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/knocking-on-gowers-door-swansea-swansea.html": {
+    "name": "Knocking on Gower's Door, Swansea",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383676959.webp?k=d830d033016f7f380eea20b238b44ecc8d1d19d9dff26865a04a99afbbd19452&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gower-swansea.html": {
+    "name": "The Gower Hotel",
+    "location": "Swansea",
+    "score": "8.4",
+    "review_count": "609 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388903577.webp?k=fc85277bed4892b04bd5cfcfe1795a4c110485bbd723e4c8f54ee039338bac0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-view-stays.html": {
+    "name": "Sea View Stays",
+    "location": "Swansea",
+    "score": "8.2",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329376275.webp?k=445a5dd5a97079479d98d5d1cf3fd4465a75b9c9dfa25d09a0195473823603d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dolphin-sa1.html": {
+    "name": "Dolphin SA1",
+    "location": "Swansea",
+    "score": "7.4",
+    "review_count": "2,173 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42834164.webp?k=63df1764661ecf0726a6a9777008baeceef8ccf341bcf5f646d4b82047e0772b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/village-leisure-club.html": {
+    "name": "Village Hotel Swansea",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "1,244 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31179406.webp?k=c76a25c8a3320d3efe01b22e9193a05173015458b38fb8885068819f9c11cc0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/exhiswansea.html": {
+    "name": "Holiday Inn Express Swansea East, an IHG Hotel",
+    "location": "Swansea",
+    "score": "8.2",
+    "review_count": "1,759 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260425413.webp?k=c760c8a551dc82a9a846062786f1fd2e14e22b584acf17c996604ecbe45d0160&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-luxury-bright-spacious-family-home-near-beaches.html": {
+    "name": "Pass the Keys Luxury Bright Spacious Family Home - Near Beaches",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361525162.webp?k=545b5685abb8a1a1ecb9f8285afad011cf4a150c4c92c2db19a59197d180445c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-fishermans-cottage-50m-from-the-beach.html": {
+    "name": "Pass The Keys Fisherman's Cottage - 50m from the beach",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332470353.webp?k=f9bcc34c185303ca91dccc0a5079daf8b53bf352a9b45e680212188d4961e887&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jarvis-swansea.html": {
+    "name": "Mercure Swansea Hotel",
+    "location": "Swansea",
+    "score": "7.3",
+    "review_count": "1,790 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252159025.webp?k=33ba86684073ddb155e9a9b0a8f19e65ce8718835293074fc2bb1feee07a3227&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/norton-house-and-restaurant.html": {
+    "name": "Norton House Hotel - Mumbles",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "1,292 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286414431.webp?k=2cf82ff1c02a5d87a38f0685224032058b18fb9a9ac0f4b529b13dc33e2e8a53&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bayview-house-by-mgroupsa.html": {
+    "name": "Bayview House By MGroupSA - Free Parking, On the sea front, Close to Marina",
+    "location": "Swansea",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357772225.webp?k=2ad2ecdecb4df27e39d0c5ac718c3494ec3ac18f7479efeedf45c70ba4350b84&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beach-front-with-stunning-sea-view-holiday-home.html": {
+    "name": "Beach front with Stunning Sea view Holiday Home",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331751584.webp?k=145e9a546690cf46bb966efca5b805417243f70e5a339f0d0f5527389382a1bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/livermore-loft.html": {
+    "name": "Livermore loft",
+    "location": "Swansea",
+    "score": "7.8",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238884597.webp?k=a5795662cd817f848daa9d0719dfc41c7ec1066942283aed32124a36f9d9c172&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedrooms-apartment-step-to-the-beach.html": {
+    "name": "Lovely 2-Bedrooms Apartment Step to The Beach",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347195255.webp?k=ccd62d6eeecb50b49cf0729c8b0a938928a781dfd39b2033df5ce3f997e783c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swan-bay-view-ltd.html": {
+    "name": "Swan-Bay-View Ltd",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435077085.webp?k=1c4d16fbd9b2391bf9507b30179c1fdf077cf0667dc575cb5b48552ea90772df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/liberty-view-apartment-swansea.html": {
+    "name": "Liberty View Apartment - Swansea",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/106548833.webp?k=5dd33b29efa85e16af0023be1d1d5d41e5ee3459fd85ac5cbcd8988c2dfbddf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/miradorguesthouse.html": {
+    "name": "The Mirador Boutique Town House",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "678 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/58022414.webp?k=092ae22475d5ddc2768ed6a0130937157d83c252fac7bb385415049d776f44df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-view-flat-near-mumbles.html": {
+    "name": "Sea-view flat near Mumbles.",
+    "location": "Swansea",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389429574.webp?k=d3d9b856676dc97de52ba57a9dbe2a34c7f49b4ab473fd636bbb4c122b20ac8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-2-robert-street.html": {
+    "name": "Flat 2, 3 bed New York inspired apartment-Swan F2",
+    "location": "Swansea",
+    "score": "7.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336588450.webp?k=94b61488c3bdab97515a5dc0989b2a7f29be495dc604ddad9da0c71e2513cffe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cilbrwyn.html": {
+    "name": "Cilbrwyn",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "176 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125783275.webp?k=cae29957baea3d89e0b251fd466a7673218b05b084576499caf359543ebbdbe8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwtsh-hostel.html": {
+    "name": "Cwtsh Hostel",
+    "location": "Swansea",
+    "score": "8.4",
+    "review_count": "625 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327109879.webp?k=ec93631ec42e5bf6997e3cebb5808e2933e26fa8ebdf0404597d1bf7fc15359f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-newly-renovated-quiet-rural-4-bed-holiday-home.html": {
+    "name": "Pass the Keys Newly Renovated Quiet Rural 4 Bed Holiday Home",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417382371.webp?k=ddf2aba3e3e8db54736ff35114220f99dcebfe58caf2bad77b8c728db12e0a76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/efail-y-garn.html": {
+    "name": "Efail Y Garn",
+    "location": "Swansea",
+    "score": "9.8",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372639841.webp?k=2b36b907dc3c810350634a2dfb0466efa90b7f72207eca28ad69e790fefabe5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/utopia-penthouse.html": {
+    "name": "Utopia Penthouse by M-GroupSA",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356257135.webp?k=c95729a2798033be7d0910d29866070ad918008ddf82ead180ccfab985b0c229&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/snow-whites-house.html": {
+    "name": "Snow Whites House - Farm Park Stay with Hot Tub",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "93 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299540834.webp?k=a6386e20395d7dafe239c52cb7be916f75bb118d0ca8688ed89bc16cdfb3cc8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-swansea-marina-apartment-perfect-for-relaxing.html": {
+    "name": "Pass the Keys Swansea Marina Apartment perfect for Relaxing",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407265036.webp?k=45b104ac8d7f0ae8a554fb7c9da63f3ed1d3cfd118e2d03f6b97994b4b11d708&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caswell-beach-chalet-located-in-gower-peninsula.html": {
+    "name": "Caswell Beach Chalet located in Gower Peninsula",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365116390.webp?k=81a48320b50c007e642e91fe512dde76e4282e1b0cae9a6be232e2fa9686b6f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhossilis-retreat-aonb-gower-rural-sleeps-up-to-6.html": {
+    "name": "Rhossili's Retreat - AONB - Gower Rural Sleeps up to 6",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419877132.webp?k=426580f5bb1b1d54d38e02415b65d017bfbf12da1e4700212a30a2b6b0bc5b8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-great-north-hill-swansea-city-centre.html": {
+    "name": "The Great North Hill - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363029803.webp?k=f4e6b67948f8e8d397cc213cca120a604666c3705d17d0b05e8a6ea3b3440b31&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-bakery-swansea12.html": {
+    "name": "The Old Bakery - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.3",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363006020.webp?k=8146e621d146ae3940d291ffec3df976071ee59a2411a485f5e6ee4474543310&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/groves-house-swansea-city-centre-pets-welcome.html": {
+    "name": "Grove’s House Swansea City Centre. Pets Welcome.",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400546856.webp?k=5637c0e65ff5da1e7667dd176b59ed7713be73686dac6916a4d0ef6541b751c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-5-9-sketty-rd.html": {
+    "name": "Modern, 2 Bedroom Apartment with Sofa Bed, Uplands, Swansea",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/166591157.webp?k=d6cced2b5f8ff7c3dd8e6a57d0fc1ccbc37702c4b1b44f624f49dec3f0723b47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-luxury-apt-with-film-style.html": {
+    "name": "Two Bedroom Luxury Apt with film style",
+    "location": "Swansea",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428144374.webp?k=7c6f30619d8282d9c7e4bb7fd99e8aeb92ab29f555e4d9d52c0324f0bac60aa6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bedroom-home-just-outside-the-city-centre.html": {
+    "name": "Pet Friendly - Three Bedroom Home in the City Centre",
+    "location": "Swansea",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414048901.webp?k=6392613c7621565adef530f15d9e04636c1f72820abb4f89fa6153aa0dda5046&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crymlyn-accommodation-tv-in-every-bedroom.html": {
+    "name": "Crymlyn Accommodation - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "7.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362503515.webp?k=39a008236cbedc62538f2c25fe1d174751adeed0fe06356b1e10c8943a6524e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryn-syfi-place-tv-in-every-bedroom.html": {
+    "name": "Bryn Syfi Place - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362477355.webp?k=737cf535461dc207fd14fb6209284898998cfabd4ba7dda7f10b6532ad4ce94f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/72-ysgol-street.html": {
+    "name": "The Nook - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363005620.webp?k=603bf02ea526c351cf29d115042c1227bae9de7cee42e64344a5ef3be0bc2d67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/utopia-apartment-2-by-mgroupsa.html": {
+    "name": "Utopia#2 Luxury City Centre Apartment by MGroupSA",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346995015.webp?k=c90a73e2cdbf378adc5f7f04e2157ad8570035d5eb1ade2b9c0cdd00830f0b82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-avenue-swansea-beach-by-tifa-stays.html": {
+    "name": "The Avenue - Swansea Beach - By TIFA Stays",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417023466.webp?k=578abf45675fb504138acc6a3a76a08a8d4b92987be049e99b1bb16ce9a6d797&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-marina-sleeps-4-underground-parking.html": {
+    "name": "Swansea Marina - Sleeps 4 - Underground parking",
+    "location": "Swansea",
+    "score": "8.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330863772.webp?k=132c8dfee76ddab32e111c98c3ba9f42fe55aaa362ad3a6c50727c0732466911&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mansel-house-by-tifa-stays.html": {
+    "name": "Mansel House - by TIFA Stays",
+    "location": "Swansea",
+    "score": "6.4",
+    "review_count": "348 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397721617.webp?k=0df34d607cfd957cf020b577d82e0e5c35ce5b8632cf967e1296b840a7516b21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rw10-serviced-apartment-for-family-close-to-the-beach.html": {
+    "name": "No10 Luxe Living Guest House-Sleeps 6-Private Parking-Free WIFI-Beach-City",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438329159.webp?k=1c9681d67021343decc65112155763941b62caa4865f2d93de33ce3c8a3df589&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/just-stay-wales-the-teify-deluxe-bungalow.html": {
+    "name": "Just Stay Wales - The Teify, Deluxe Bungalow",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339097453.webp?k=25347d046f360dcc7241586eb1d6127e1bd6c8a4730149eb1aaf726095019179&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-coastal-park-apartment.html": {
+    "name": "Coastal Apartments - Wales",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "185 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87738569.webp?k=88699bc54af4459db9d4520f4d88754d76209b783bd88f9f2b2ebe5d421b0b15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chalet-all-to-yourself-free-parking-dogs-welcome.html": {
+    "name": "Chalet all to yourself, free parking, dogs welcome",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368917643.webp?k=d64b077cd70138a6279d14f93443017bb03e69a21a15b72a8aafba22368462ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/black-valley-home-tv-in-every-room.html": {
+    "name": "Cosy 2 bed - with relaxing garden!",
+    "location": "Swansea",
+    "score": "7.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362503719.webp?k=c146b1126e888ec4e7da8bb0331e3c2d585941d5aa1171646f495de089558cba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/perfect-for-the-family-and-beaches-gower-cwtch.html": {
+    "name": "Perfect for the family and beaches - Gower Cwtch",
+    "location": "Swansea",
+    "score": "7.8",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319511132.webp?k=8e38d418009574471230bebefbb8d7ccc36a6c62395f8dcc479c3bbef7c18783&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meridian-tower-marina-amp-city-view-2-bed-apartment.html": {
+    "name": "Just Stay Wales - Meridian Tower Marina & City View - 2 Bed Apartment",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389687654.webp?k=2907ba8e85d541e2da9fc3c7d4230df0302617893f324c2971ad5e05a287dc61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-spacious-home-sleeps-7.html": {
+    "name": "The Swans",
+    "location": "Swansea",
+    "score": "6.8",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362473835.webp?k=b7f3c6227591f3ec7e4d60d11ec3166ec9e98c4601f9a41a83b0b25b43eaea2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willow-mews-swansea.html": {
+    "name": "Willow Mews",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135228636.webp?k=2c2919d995db9cc1d2e94fa2e57ae2ea2a1dee1f1d610b518410198a51bc27ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-music-fable.html": {
+    "name": "The Music Fable Hotel",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89705406.webp?k=0b0fed637b74189d509b018e7d82faf927fa9e9df4833e9c80eda0f394db4cf8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-four-bedroom-house-in-swansea.html": {
+    "name": "Beautiful Four Bedroom House in Swansea",
+    "location": "Swansea",
+    "score": "6.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301419902.webp?k=dd049e45906fd17746ee45aea6b758dc1449a317ddedfae432053a9bc135afd5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/immaculate-one-bedroom-home-with-private-parking.html": {
+    "name": "Immaculate one bedroom home with private parking",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308145854.webp?k=33ee65efecda42e3bbc2b467d003c23f77878091cb758a9b7f1fac30b2353a72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/somerfield-lodge.html": {
+    "name": "Somerfield Lodge",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "269 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/99209101.webp?k=597add0601c3797547988de1f6b3380c310780aa6fb106db6137f16a95a13559&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/f1-16-glanmor-cres.html": {
+    "name": "F1 16 Glanmor Cres",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402028304.webp?k=283a07e1ecd11d58538484907ba7e9cae00df111c1fb266f1ea9578088e4a6c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/singleton-house-swansea.html": {
+    "name": "Singleton House Parking & Garden-TV in Every Room!",
+    "location": "Swansea",
+    "score": "8.3",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362484880.webp?k=2009ce4902cf3154511ec218ae97776ea133e5923019630ac9b3a589aa0d3dad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-2-bedroom-apartment-manselton.html": {
+    "name": "Cosy 2 Bed Flat 1 in Swansea - Home away from Home",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351889053.webp?k=019f9913f5d7a8922fd309ad6d2e9d2178515001772a21f04d6efe539d82577c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-swansea1.html": {
+    "name": "The Granary",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256952075.webp?k=05454b6d7111c1de6cb7e57bbd05b6818214861eadf1a684984a868b35a1588d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/family-friendly-luxury-maritime-apartment.html": {
+    "name": "Family Friendly Maritime Apartment",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317698566.webp?k=24fe0ae4f7747890ea116b9f994267829d16d5b40e13404972cbb31ed8f0ce51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boom-stay-in-the-city.html": {
+    "name": "Stay in the Heart of Swansea- TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362470285.webp?k=9e3a834043630046bed054fb7607a20ec51204354840b476cedc83c7f826912f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rw11-family-guest-house-nearby-the-beach-city-centre.html": {
+    "name": "No11 Luxe Living Guest House-Sleeps 6-Family Friendly-Private Parking-Wifi-City-Beach",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "94 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438085987.webp?k=482fb59aa1dfb19c9954a3a88313beeb723bd7cc195558f721545d81a6728a96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-thomas-loft-views-sa1-by-stay-south-wales.html": {
+    "name": "St Thomas Loft Views, SA1, by Stay South Wales - Sleeps 4 - Free WiFi & Parking",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379478055.webp?k=07bee9b8408f2fd449e019f2063a1721c0756dde10d1acdf96e9976d0219b52d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-langland-bay-look-out.html": {
+    "name": "The Langland bay look out",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404858912.webp?k=81d02771a8f7fa56d103e90b753beb94789ad3557095525fe999646fb1995545&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skyline-carlton.html": {
+    "name": "Skyline carlton",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352455997.webp?k=e93b896b0e7930e5a5e7727706bb999b27f5165429e625447502950f82e6a633&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shed-a-cosy-peaceful-96-recycled-chalet.html": {
+    "name": "The Shed . A cosy, peaceful, 96% recycled, chalet.",
+    "location": "Swansea",
+    "score": "9.7",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399152761.webp?k=a374a4b1e565d4c449448cdd46a261b144eb16cd6e857b27a2825a2306287696&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-sydney.html": {
+    "name": "Spacious Sydney - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362501517.webp?k=2e9343b4eb8c4e286e99e6a03666e923620a6dd051e27f8dcaadc545a988f159&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coastal-city-rooms-uplands.html": {
+    "name": "Coastal City Rooms - Uplands",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264874171.webp?k=a44352b1928fdf83d20d7aef2c8ab3c20618df46810ed63291a95c892fc8b0ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-city-centre-home-close-to-the-beach.html": {
+    "name": "Swansea Cosy Stay",
+    "location": "Swansea",
+    "score": "7.9",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335872458.webp?k=e8ee029227f57421095ca5192ff6b33b01dc4b065985d37fbabc0da7d1c50abf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-brunswick-2-bed-flat-sleeps-4.html": {
+    "name": "1st Floor Cosy 2 bed Flat central",
+    "location": "Swansea",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410950422.webp?k=c2f5e65f09f021f5f793b60a84a0754da6f6af5a9aac035c2dcb4a4632f85d9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cozy-crib-1-bed-studio.html": {
+    "name": "Cozy Crib - 1 Bed Studio",
+    "location": "Swansea",
+    "score": "8.4",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368102349.webp?k=135f84cac450b984e2fe02b63a8faa7e22bcc31dca3ec6203ba943fd04c92675&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alexandra-cottage.html": {
+    "name": "Alexandra Cottage",
+    "location": "Swansea",
+    "score": "6.4",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363018196.webp?k=2c7ccff0a5640d022b91c5a9b5071e5e8966eeaaba39b5c5f604f413c0aeb11b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dillwyn-arms-swansea12.html": {
+    "name": "The Dillwyn arms",
+    "location": "Swansea",
+    "score": "8.1",
+    "review_count": "305 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301225363.webp?k=df239fec10017b4eb1e26d329bd43e4c97130f1f0cd930cbbe2e94401199f034&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansea-mysydd-sleeps-5.html": {
+    "name": "On top of The Liberty",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363004980.webp?k=f2d2316f1f3f1548faabce9c04e026e333930297846c38cce92de60c581a49b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ice-house-apartments.html": {
+    "name": "Ice House Apartments",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "350 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159048724.webp?k=7cf18120285ce7ff0a4d95b0bc602a6285fe54ef2fdc2d472e6bc4938cf018dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ortari-70.html": {
+    "name": "Ortari@70",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163210725.webp?k=c026dff3223dd68594ea4617d191fe8f0762fac58bbbfa728649cd942f42ed0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-haven-swansea.html": {
+    "name": "The Haven",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372981989.webp?k=506e80b7cdcc40a43dfc5814f3d20813fb1867a8b45be3d4a019066434a70978&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coastal-city-rooms-centre.html": {
+    "name": "Coastal City Rooms - Centre",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264973124.webp?k=21a27472efd195aaf65d7b16569083c91c2790f0b0137c99e810d83a9f8658d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garage-the-old-vicarage.html": {
+    "name": "The Garage @ The Old Vicarage",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "245 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236985881.webp?k=146e2c007b5af4cbe08997a81913f5ad09770cc7ffb31aa7cc578e0ccc0b0fbd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/neon-160.html": {
+    "name": "Neon 160",
+    "location": "Swansea",
+    "score": "6.6",
+    "review_count": "435 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318222948.webp?k=9f8f72074a4f936c3ce0b09bdd920fd3abceadd03633e41fb9945989f463c84b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stay-at-neptune-with-parking-space.html": {
+    "name": "Stay at Neptune with Parking Space - TV in every Bedroom!",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362487022.webp?k=dc5d820327d188c74980f27d21c7b4260b98625d74506312860dd0c53c68bf79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-3-a-friends-reunion-2-bedroom-apartment-in-swansea.html": {
+    "name": "Modern 2 Bedroom Flat in Robert st, Swansea - A Friends Reunion",
+    "location": "Swansea",
+    "score": "4.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371138093.webp?k=6dbf014575d148d98f17381e9336aba9e70c9f208f69dbb249aee3b62e00d693&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-studio-swansea.html": {
+    "name": "City Studio",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402028224.webp?k=84438c8ab30cba73d688099f7c299248920abc3fdb6431e1f7f6e794ad3ba5cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sail-view-apartment.html": {
+    "name": "Sail view apartment",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165312359.webp?k=5d1b622a374684b698526c15e7dbd26e530adc94630c96581adbca0b9f2a8ea7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rheolau-arms.html": {
+    "name": "Rheolau arms",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "254 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211711031.webp?k=e7668d1777e0e92850351f62112f27c4ce6fe151b6a467f04d9d68bb74f52539&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-swansea.html": {
+    "name": "The Farmhouse",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421711758.webp?k=4f71a57618d66481b9f571ebe5af1696724a94fbcb3255e8ed10cbf9ad6ee283&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rw25-cossy-2-bed-guest-house-sa1-great-location.html": {
+    "name": "No25-Luxe Living Guest House- 2 Bed-WIFI-Free Parking-City- Beach",
+    "location": "Swansea",
+    "score": "8.1",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427230027.webp?k=f2006d5285ac0e5f8f6dbd8fd30ebc82023d48b2b21d4c95b1674ca076897833&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/molehill-lodge-swansea.html": {
+    "name": "Molehill lodge",
+    "location": "Swansea",
+    "score": "9.8",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383919846.webp?k=d8955975169aa85c6998c40930f41855c978c430bb2dd68d8b0ab17b74dfd2b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillcrest-cottage-comfy-flat-trendy-uplands-area.html": {
+    "name": "Hillcrest Cottage, comfy flat, trendy Uplands area",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400650939.webp?k=4295f4b08be8220efa0715e078e7a641828913d0d9b724e79d20ace5fceb89f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wynberg-house.html": {
+    "name": "Wynberg House Bed & Breakfast",
+    "location": "Swansea",
+    "score": "9.1",
+    "review_count": "303 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/124925096.webp?k=602f0229bf15d140f1283d8487d0b79bad07847789ce6171a97e00c3feae77dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stop-stay-at-the-osterley.html": {
+    "name": "Stop Stay at The Osterley!",
+    "location": "Swansea",
+    "score": "5.9",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362504769.webp?k=151baf5b7d9fa848750a26929c5865beadf8c90fd1728c24553380a40195d914&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/perfect-base-to-stay-in-swansea.html": {
+    "name": "Perfect Base to Stay in Swansea - TV in every Bedroom!",
+    "location": "Swansea",
+    "score": "8.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362504635.webp?k=48e7551ad6b013e9daf1909367ef6b056945f51585ddbbf7f01e76ea516e933f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/uplands-view-richmond-tce-flat-1.html": {
+    "name": "Uplands View, Richmond Tce, Flat 1",
+    "location": "Swansea",
+    "score": "5.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402025835.webp?k=702f242736e69b6a297ed993b80e3461d67c109a2a769a6e8c4ce482adc744ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-1-bedroom-home-with-free-private-parking-swansea.html": {
+    "name": "Spacious 1-Bedroom Home with free private parking",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400193876.webp?k=ed6547630e96de2b3b42bd73f2b11851c4ba9d1f8bcde5ab89ec8121ad214b8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/patricks-boathouse.html": {
+    "name": "Patricks Boathouse",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336055980.webp?k=4e4ac01472fb86f4cb5e977dc921f33acb0d95949e7ac2b46a48902613eb21a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/basement-flat-40-carlton-tce.html": {
+    "name": "40 Carlton Tce F1",
+    "location": "Swansea",
+    "score": "7.9",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387556899.webp?k=627930123e8ee52827d8e800e5cf2c108a18bd0c87813e80d0f3d31bf9b72615&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-styling-2-br-flat-and-situated-overlooking-swansea-beach.html": {
+    "name": "The Observatory by Mia Living 2 bedroom apartment overlooking Swansea Beach with free parking",
+    "location": "Swansea",
+    "score": "6.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337496394.webp?k=db0a4c37771f67e1c2fefccb6df8b02621f080d2b84d0bd7af6c0733f605a567&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-snug-studio-apartment-in-mount-pleasant.html": {
+    "name": "The Snug - Studio Apartment in Mount Pleasant",
+    "location": "Swansea",
+    "score": "6.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377047032.webp?k=a78ecaced292e415fd2209054118c45a6dccfb6a0eebb5290923a1707ce76ad7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chic-city-centre-apartment-with-parking.html": {
+    "name": "Chic City Centre Apartment With Allocated Parking",
+    "location": "Swansea",
+    "score": "8.6",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300654024.webp?k=2c78d471ab54fee713d21962586a9b2ab2b13b97c324a3e67c036890fc2e12f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/16-glanmor-crescent-flat-2.html": {
+    "name": "16 Glanmor Crescent, Flat 2",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400648621.webp?k=5491b73ba294bf09abc261e5f82eea630c4c69f41daf0683a6941c8b445d6034&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walk-to-the-beach-flat-for-6-central-swansea.html": {
+    "name": "Walk to the beach! Flat-for-6 Central Swansea",
+    "location": "Swansea",
+    "score": "6.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409621594.webp?k=56c3fdbdc5455e12a707ae9ac9dfea093e23cbefe4b82402d10d8aa4337a89eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-caswell-bay-hide-out.html": {
+    "name": "The Caswell bay hide out",
+    "location": "Swansea",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404730422.webp?k=cc2db206784776ea1a5f04b4b4c0e8809cd8d14136971c1ada9f683d145cfe9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-3-bedroom-house-with-hot-tub.html": {
+    "name": "Bright 3 Bedroom house with Hot Tub",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360287889.webp?k=78c36f599e2413c80f512258c8dc8aef24c7690e64ef5d61d61fb97b5aa11714&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nest-with-parking.html": {
+    "name": "The Nest - with Parking!",
+    "location": "Swansea",
+    "score": "5.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363024742.webp?k=62493e25da5442978007e6bdb24c16174b4858a0b5366a93ebf12c373ec0fbd7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/topzy-turvy-1-bedroom-apartment.html": {
+    "name": "Topzy-Turvy - 1 Bedroom Apartment",
+    "location": "Swansea",
+    "score": "7.5",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411190190.webp?k=f34cf5072648b3d6604adfe8430699246506eeca2135d0c7072224cb7dbe276d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coynant-farm-park.html": {
+    "name": "Coynant Farm Guesthouse - Farm Park Stay",
+    "location": "Swansea",
+    "score": "7.7",
+    "review_count": "215 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170461396.webp?k=f89a03fcd671d58fe522786cadab46fddebfa11ac3bc2c9ccb93dfa0dd8510ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-quiet-coastal-retreat-inbetween-langland-caswell.html": {
+    "name": "Pass The Keys Quiet Coastal Retreat inbetween Langland & Caswell",
+    "location": "Swansea",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330878964.webp?k=47ff14b3257239bda29e542f1585c925097e1411d4253ccf46260654c206e25f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfy-stays-swansea-flat-3.html": {
+    "name": "Comfy Stays Swansea Flat 3",
+    "location": "Swansea",
+    "score": "5.6",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248837575.webp?k=bbb4146cc94c061b3102d6b4c2d77171c09681d6a792ddef262cd715574319ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-stables-swansea.html": {
+    "name": "The Old Stables",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299989394.webp?k=a6e277e623e5e730f8d11474b7602e423e456bec50f72fd6195b797f8a252ff0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/velvet-apartament-in-sa1.html": {
+    "name": "1 Bed House at Velvet Serviced Accommodation Swansea with Free Parking & WiFi - SA1",
+    "location": "Swansea",
+    "score": "8.9",
+    "review_count": "111 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294436171.webp?k=28118de6787e9bb2724401c49d5bd4e6efad8d8de05680bd8493301492de669f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-salt-cottage.html": {
+    "name": "2 Salt Cottage",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351607325.webp?k=2c94645df8dd1ab3879beb61ac02ff527f2136001ee54d1bd71f85bcb8e3a551&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barn-cottage-swansea.html": {
+    "name": "Barn Cottage - Farm Park Stay with Hot Tub",
+    "location": "Swansea",
+    "score": "8.6",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170472819.webp?k=2e4620b1f28d45cbf31241de8714f6aad29d0e3bfe90d230ba1601625ffcc0b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/utopia-apartment-by-mgroupsa.html": {
+    "name": "Utopia Apartment by MGroupSA",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340526593.webp?k=8bb6db82d6c47c2504d17c60901af8ce3287d61b6b1fa499c32b2581c2b32bda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ynyscedwyn-arms.html": {
+    "name": "The Ynyscedwyn Arms Hotel",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "364 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239221871.webp?k=a0ecfa22b60be3d654b23dab3848f96999c443f124925d562e667b49faeeadfd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seaview-richmond-terrace.html": {
+    "name": "Seaview Richmond Terrace",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402024257.webp?k=dfa6a412f98ef2032161a8453a6949556990967fde3719d646f918ebae57e7e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/panoramic-view-swansea.html": {
+    "name": "Panoramic View",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406842279.webp?k=abbe0b3fd5037157a276b59b95c08872736f18c2ed9c033e550da95ab7807ee5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-central-swansea-townhouse-4b-mins-from-everything.html": {
+    "name": "Pass the Keys Central Swansea townhouse 4B Mins from everything",
+    "location": "Swansea",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383836997.webp?k=c3e55bde4b877a6bd89e0b41c62201fb14e6bd6a8d3aa0cbcafbaa88c4c5bdec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapel-apartment-6-by-mgroupsa.html": {
+    "name": "Chapel Apartment 6 By MGroupSA",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415495918.webp?k=a1e735cb9fa810030fab1f151f99cb28d82b26cee129c7be36995b6b1cfda9d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-office-1-bed-studio.html": {
+    "name": "The Old Office - 1 Bed Studio",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335754922.webp?k=062d24dd5a6ce18542787568016f49a2acbc83fb46087694c25ba9299500e2f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-richmond-tce-flat-2.html": {
+    "name": "1 Richmond Tce, Flat 2",
+    "location": "Swansea",
+    "score": "7.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398833473.webp?k=7f12a575071986e0d3ea9147f649c0e7cb2f8054a09374683c25ae96bc43d9f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penthouse-apartment.html": {
+    "name": "SWANSEA MARINA VIEW mins to beach, Marina, Swansea Arena, City",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262729538.webp?k=5d37f822efc152412525089d1ff26bdd2e302d74f2f343d28364df2bd4ac61ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nefoedd-romantic-shepherds-hut.html": {
+    "name": "Nefoedd Romantic Shepherds Hut",
+    "location": "Swansea",
+    "score": "8.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382714594.webp?k=6c6f3325979cc2410522755a93533195d518f3347ba175286aa582b7413c06c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marina-view-apartments.html": {
+    "name": "Baystays Scenic View",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167689122.webp?k=e30cb2b62ed28f39f3a0bc527c218f7316952d061ee782121b4bcc3a12f5d118&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapel-apartment-5-by-mgroupsa.html": {
+    "name": "Chapel Apartment 5 By MGroupSA",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415494917.webp?k=d2e0079702e074aaf87e864ec17ed6fce9914b061dbe7ec67bd24c00e0d1b2c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-newly-renovated-bungalow-stunning-views-of-gower.html": {
+    "name": "Pass the Keys Newly Renovated Bungalow - Stunning views of Gower",
+    "location": "Swansea",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362657202.webp?k=baa6c7aa12823e71ecea9cb920f5799c08a4237bb3b21a4ac910503df5639424&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapel-apartment-4-by-mgroupsa.html": {
+    "name": "Chapel Apartment 4 By MGroupSA",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415489982.webp?k=b8a4c191eff107135b8e5c17db77fe5f3f6d4f13170cd8279ae647740f0fb3e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-pleasant-room-on-the-mount.html": {
+    "name": "Private room on Mount Pleasant Swansea",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402543600.webp?k=8a8f06cb4bfb030f9b383152a6a834b307eb3ce509115e98b23b49c20cd3eb1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-quay-harbour-view-by-tifa-stays.html": {
+    "name": "The Quay - Harbour View - By TIFA Stays",
+    "location": "Swansea",
+    "score": "7.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423949453.webp?k=9e4b38cdce5525df3d6755f24217b44d7c86cb76efd77e0840a604db47186446&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapel-apartment-2-by-mgroupsa.html": {
+    "name": "Chapel Apartment 2 By MGroupSA",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415485602.webp?k=4963237d491fdcae4313d13fc4e5d768911bc354ea449e2da42f5a9e690cff06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/147-bryn-road.html": {
+    "name": "Modern Apartment in Brynmill - 1&2 Bedroom apartments available",
+    "location": "Swansea",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399655674.webp?k=1d23cfbd052e7687545a814b784c996032b0eab988000ea43c41c37590f95f0c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nook-swansea.html": {
+    "name": "The Nook - Farm Park Stay with Hot Tub & Dome",
+    "location": "Swansea",
+    "score": "8.9",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319197832.webp?k=e2681358538c721dea917df9b3c9abc1a4fbf1cb36fb4b37a253da960945d16a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meridian-wharf-marina-view-2-bed-apartment.html": {
+    "name": "Just Stay Wales - Meridian Wharf, Marina View - 2 Bed Apartment",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402907161.webp?k=713db3b17408b03ede10c5b16efc7f0a124971ea1067739a6d96aa4ad24ad7a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-apartment-by-town-amp-beach.html": {
+    "name": "Beautiful Apartment by Town & Beach",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385454163.webp?k=5a57fce2bc8292af4e4e89e9ddec0e4997fbb4afbe35fcc19fa8a0f0a70648a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3br-flat-free-parking-wifi-workspace.html": {
+    "name": "Pit stop relax, unwind and rejuvenate 2 bedrooms apartment flat 1 in Swansea",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328763398.webp?k=f8b8537933ad9126c884deb6086075af6be5613161804ddfcfefae7efeac9060&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-place-to-yourself-swansea-city-centre.html": {
+    "name": "The Place to Yourself - Swansea City",
+    "location": "Swansea",
+    "score": "7.8",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362476173.webp?k=db719d279f08166982981b4e8a7a2d1fad018b312c335b79c61129b497cf3d51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wild-swan-meridian-tower-apartment-marina-swansea-city-center.html": {
+    "name": "Beach on the doorstep Meridian Tower Marina Swansea",
+    "location": "Swansea",
+    "score": "9.5",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321634216.webp?k=b798c14dd35454fc7d3a6462fbdeed90f2bd8dff90ab56dcf9150d58d3a69cf6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunnyside-at-scurlage-farm.html": {
+    "name": "Sunnyside at Scurlage Farm",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425525990.webp?k=6985a9c5dc426d3d0a1c54419392216cedb02dc105d91bbd1ac557698b056562&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-townhouse-close-to-the-beach-amp-restaurants.html": {
+    "name": "Modern townhouse close to the beach & restaurants",
+    "location": "Swansea",
+    "score": "6.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371108457.webp?k=e9be63561312c99c8d158ae8025f6937c977a3d56150d16b491402f257c5d87f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-quiet-home-close-to-marina-arena.html": {
+    "name": "City Centre Quiet Home - Close to Marina / Arena",
+    "location": "Swansea",
+    "score": "9.6",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428321580.webp?k=6fb241fcb82a567dac22936ba61a22e86c5e388cbb713bb83e1c61a55bc94bdc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-3-bed-apartment-in-swansea.html": {
+    "name": "Home from home 3 Bed spacious Apartment in Swansea",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330405846.webp?k=c3ddee6fa7e4a47bc175b92759d443735411c59f2a8474541f369a3c1f7fe5f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nineteen-kings-building-executive-apartments-swansea-dyzyn-living.html": {
+    "name": "Nineteen Kings Building - Executive Apartments - Swansea - DYZYN Living",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438433314.webp?k=420497ade3b73c2496ec4b3e016dc26a924eaaf547f11683643630d6b96a8e52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eighteen-kings-building-executive-apartments-swansea-dyzyn-living.html": {
+    "name": "Eighteen Kings Building - Executive Apartments - Swansea - DYZYN Living",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438432933.webp?k=bcc8d891aeaf73d536e631f52f3dbe7f0641d2830d5fd315e8855abcecfce01b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seventeen-kings-building-executive-apartments-swansea-dyzyn-living.html": {
+    "name": "Seventeen Kings Building - Executive Apartments - Swansea - DYZYN Living",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438432560.webp?k=51064214c22a5569327e6edab7bab9389c04d412eafb9305d416d8ebd4508a57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sixteen-kings-building-executive-apartments-swansea-dyzyn-living.html": {
+    "name": "Sixteen Kings Building - Executive Apartments - Swansea - DYZYN Living",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438432847.webp?k=199e9320aac7bb941926467e9bc439e0bf55714c704d5d683987033f4eb939ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fifteen-kings-building-executive-apartments.html": {
+    "name": "Fifteen Kings Building - Executive Apartments",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438432754.webp?k=d12fee17580b162d4e96ce75a82e129737a0d1212c290a36e0b67bd91c5ae839&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dragon-apartments.html": {
+    "name": "The Dragon Hotel Apartments",
+    "location": "Swansea",
+    "score": "7.2",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/200633397.webp?k=b366261d428beface492c52a1cfb54a086a58926fec8b71ae8f809fe9ac8659b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-bays-reach-stylish-2-bed-apartment-with-parking.html": {
+    "name": "Pass The Keys Bays Reach - Stylish 2 bed apartment with parking",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330039957.webp?k=f4a13a54b4f5f0f4949a016f9e93f21b54245f41a13f123c090e538f8fa7e8fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-and-spacious-swansea-centre-apartment.html": {
+    "name": "Modern and spacious Swansea centre apartment",
+    "location": "Swansea",
+    "score": "9.1",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320229989.webp?k=73789fdbd34de8f433d151ee2307643ee6a994b81f7e12f0b5b96dcc7c3bfc89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glamping-on-a-boat-in-swansea-marina.html": {
+    "name": "Glamping on a Boat in Swansea Marina!",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372886515.webp?k=ccb26d06f92f6dce37090309f5e0002d43b59ce60af5bbca6985dc29276f736d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-43-the-gower-holiday-village.html": {
+    "name": "Number 43 The Gower Holiday Village",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206005825.webp?k=08af864937a5d634d0cda737dc0d2d3ecf6e7d1d42d7d7c524b0a3b68b7127a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-globe-around-the-liberty.html": {
+    "name": "The Globe Around The Liberty",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362478221.webp?k=82e7778fe7668345f8b613da1702f0be33df3a48576568f08a39724132e846f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio114-apartment.html": {
+    "name": "Studio 114 Apartment",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238041114.webp?k=47efa3003c2aaa1788588f426cfeb37cdef5e44593f28c60c12828cb21da1ff3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cilfai-house-tv-in-every-bedroom.html": {
+    "name": "Spacious home with parking - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362501796.webp?k=20bb7b0b79917dd16c94f42023d01aca470ca3d6a53726b2c09dab613bf9fb50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/generous-house-near-the-liberty-stadium.html": {
+    "name": "Generous House near The Liberty Stadium",
+    "location": "Swansea",
+    "score": "6.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363015957.webp?k=e536ce3407bb763c8b15d4e5d5463f647180e17c1a65e562f94909b4ddad9665&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skyline-king-beautiful-1-bed-apartment-in-swansea.html": {
+    "name": "Skyline king Beautiful 1-Bed Apartment in Swansea",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435544397.webp?k=d05a8875ab4787fb60c37a422cdeefd7eda1d9b7cd3f0483ab4893d9c352c520&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skyline-hanover-203.html": {
+    "name": "skyline hanover 203",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437297660.webp?k=9894344170311995b1fea0da5e2167a128fced70b7238899e63d4285bfd71500&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dairy-swansea2.html": {
+    "name": "The Dairy",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376315195.webp?k=83f89fc099aa656bfaee1169ee7b8e6c2ce3a0b67db4e47e98c99e6e3ad27072&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wern-y-glais-2-bed-glais.html": {
+    "name": "Wern Y Glais - 2 Bed - Glais",
+    "location": "Swansea",
+    "score": "8.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374009890.webp?k=fb15e863f27bbeeeaf50b031ea3196567419fc84a0a1d078cfed8c8ec6d56c19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-swansea2.html": {
+    "name": "The Granary",
+    "location": "Swansea",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382811983.webp?k=6b694239c0846c3b09545cd17ecfb7bce78451e84333d487fab3d608c97ffdf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-cuddfan-gower.html": {
+    "name": "Y Cuddfan Gower",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426420806.webp?k=67f47b765362a2762d0059dcb7d6ed511ad5c879c239ddf72ece73f1f2a3b34d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cilhendre-holiday-cottages-the-old-cowshed.html": {
+    "name": "Cilhendre Holiday Cottages - The Old Cowshed",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/212071834.webp?k=da5b1c5c98d9e43beaa1e871ae65a095f8b18125b036e1df25f69d6508b60c85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-cieline.html": {
+    "name": "Holiday Home Cieline",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304009848.webp?k=e066df3a8ff74474852c2f7826983fe25193ba6297596e9f16ce029c3966793f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/king-edward-road-with-sea-view.html": {
+    "name": "King Edward road with sea view",
+    "location": "Swansea",
+    "score": "7.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369293413.webp?k=54d340f3c2c0045f0e77765f9c2cde9f80a5f4d08f873448a559a5fdd6b0beaa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-standard-bijou-1-bed-apartment-in-uplands.html": {
+    "name": "Pass The Keys Hotel standard, bijou 1 bed apartment in Uplands",
+    "location": "Swansea",
+    "score": "8.3",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330040868.webp?k=523a1f5c6be4c15f66c081543c4e72a80373efe8c834d697313c1bbef8031e14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/open-plan-3-bed-apartment-in-swansea.html": {
+    "name": "Home from home New York inspired 3 Bed Apartment",
+    "location": "Swansea",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332911341.webp?k=fb93c0b96db7987ebdf950b5edb08c202624d844f05baf7029a8082ce469c843&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rw15-one-bed-townhouse-city-centre.html": {
+    "name": "No15 Luxe Living Elegant City Home-1 Bed-Garden-Wifi-Private Parking-Beach-City",
+    "location": "Swansea",
+    "score": "9.4",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427235457.webp?k=b685d5b6fb2dd811667b9e062321f73f82a92bb240f0d143494e5d00e3b8fa48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bayview-bungalow.html": {
+    "name": "Bayview Bungalow",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330467379.webp?k=cc4f83433cae12e5c612ff988c75331e4d4159d3bb62a3340712c02b2511e647&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ravenhill-house.html": {
+    "name": "Spacious house in Swansea TV in every bedroom",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363017232.webp?k=76756e96a0564ff41fd6b6cbc9dd8081b84239fa32f47287be87bd1373b3c35c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-16.html": {
+    "name": "No 16 The Hub Abercrave",
+    "location": "Swansea",
+    "score": "9.2",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120262763.webp?k=4582e61a2607661f3b02a96bb1fb9e12666078cb329ecab105fd1f674bfa6ed0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/langland-road-1-bedroom-apartment-mumbles.html": {
+    "name": "Langland Road - 1 Bedroom Apartment - Mumbles",
+    "location": "Swansea",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411986021.webp?k=c7c5e94f863fc32ad45bc175bee493c4a58fdcea0e6e510af12cf820e27e9c8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-cottage-swansea.html": {
+    "name": "Riverside Cottage",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416814885.webp?k=5a801d6b4a1df8446ead4bec50114399cf5a023134a3f2705d1f3fd358ec21a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/80-dinas-street.html": {
+    "name": "The place to be - with off road parking!",
+    "location": "Swansea",
+    "score": "6.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363032430.webp?k=7e06bda9346c7f3b957e6d0adb61cd688aade71e18ade9778d0afc5734c5cc6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/welsh-valley-cottage.html": {
+    "name": "2-Bed Cottage in in Welsh Valley Nr Swansea",
+    "location": "Swansea",
+    "score": "8.1",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321825691.webp?k=c0df7cad3c141e16f32e3914416d3a5caa8f9fe569b068e79f23cf2593b522ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cerrig-glan-swansea.html": {
+    "name": "Cerrig Glan",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376287639.webp?k=b7e0939495aa36e4d4dcd6db3b763077833b31093d9512148f2b333990963a7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brynmill-flat.html": {
+    "name": "Brynmill Flat",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417681328.webp?k=00a05cc0f1d78a030685167ede4c9f0534cc5edbf04d4ab734be23098966e7ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/check-it-out-eatons-house.html": {
+    "name": "Check it out, Eaton's House",
+    "location": "Swansea",
+    "score": "6.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362490644.webp?k=2196a1f187a169dec7d7578c5d8114a29577e5503c68c90648175de651dbedfd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mansell-street-stay.html": {
+    "name": "3 Bed Flat Near Town Centre",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330567933.webp?k=4f4f7b27208176e0a2681345a5d29d210cc4c58264f4a7560b3ca3c99f17253f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glen-view-a-stones-throw-away-from-the-gower.html": {
+    "name": "Glen View a Stones Throw away from The Gower!",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363017138.webp?k=bdd337d53b1c9efb879cf2abd082197aff6cdee178d2d90ae737d48310ae0904&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/12-malthall.html": {
+    "name": "12 Malthall",
+    "location": "Swansea",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396700635.webp?k=04dacea5f1fa401947676093aa535c57ba9106409af47adb0893734aaa365770&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-location-swansea.html": {
+    "name": "The Location - TV in Every Bedroom!",
+    "location": "Swansea",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363017675.webp?k=24f8eb6b301aeacefb28c759cc4ba79e28acb8ef8fd1aad00311d6fe33f5837f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-summer-hill-3-bed-overlooking-caswell-bay.html": {
+    "name": "Pass the Keys Summer Hill 3 bed overlooking Caswell Bay",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356727715.webp?k=320118d2836c70b96884749a8751d93565fdbe68313f43381aac8fd80f5d5213&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glanmor-garden-apartment.html": {
+    "name": "Glanmor Garden Apartment",
+    "location": "Swansea",
+    "score": "9.3",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88950878.webp?k=1bbf99c8cf738fa889b1559393e0c788c11d318ef4a441a6575abff7fa10a798&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-friends-reunion-2-bed-apartment-in-swansea.html": {
+    "name": "A friends reunion 2-Bed Apartment in Swansea",
+    "location": "Swansea",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371419884.webp?k=939fc5c3838dd4a3e7fe2bc48cf08e2e05491681d083bc9c48afda0e66df5d3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-forge-swansea.html": {
+    "name": "The Forge",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379961171.webp?k=d1baba05226e2b284cce97700c372654b38116eb41076ca6b7cdfce491a6562e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meridian-tower-floor-7-marina.html": {
+    "name": "Meridian Tower, Floor 7, Marina",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193339166.webp?k=dc464660b15774fc6aa6a98b5c6683de90d6235393e70c59d0f8285463365254&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marina-villas-trawler-road-marina-swansea.html": {
+    "name": "Marina Villas, Trawler Road, Marina",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193335307.webp?k=e9fe653d71fe5cf851af087cfc995eaef69e3e1fe896b13abb9bc3bf1a587073&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maes-yr-haf-swansea1.html": {
+    "name": "Maes Yr Haf",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382809312.webp?k=1634ac4baf7b0b928129a3d43f6b8715fd7db5a77ea4d33cf75d23d45906b163&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fishermans-way-marina.html": {
+    "name": "Fisherman's Way, Marina",
+    "location": "Swansea",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193322760.webp?k=676224edf32c7f3b7d583cb3dc6d1f27885c73f3daddd2acdece0a5f8c73a40e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/edwardian-homestay-for-female-guets.html": {
+    "name": "Edwardian Homestay for Female Guests",
+    "location": "Swansea",
+    "score": "5.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318653519.webp?k=ac20ad313e3ac7864392ecace2fcfcad08867dd60b89f566ebc57cf57cda167c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stop-at-this-space-near-the-liberty.html": {
+    "name": "STOP at this space, near the Liberty",
+    "location": "Swansea",
+    "score": "8.9",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287683601.webp?k=bc2c6f5dc9e1e8dcbbe7d429af86b0e65ef76adb5bedd3e17c55efa1163e3a3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ynys-arms.html": {
+    "name": "YNYS ARMS",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377530877.webp?k=78d7925dc817150aa9047a673218da7494bb9c31e7fb8e304cd6242f34678713&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/high-kiln-bank-slade.html": {
+    "name": "High Kiln Bank, Slade",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193328949.webp?k=c772e992feadd56f25a54ae4af0a8317b6e1b4b49ce700ee41530c5e741820fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coynant-apartment.html": {
+    "name": "Coynant Apartment",
+    "location": "Swansea",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366882404.webp?k=c1065fdd83c4eb24a4b2ef64b2e07e3a97998259d34373fc6a5f3b70b9b01a61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-garden-ensuite-self-contained-ground-floor-space.html": {
+    "name": "Flat with Seaview/Garden",
+    "location": "Swansea",
+    "score": "8.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293944622.webp?k=099c96b1af0825d181326dc92919c221e4003f62085f7dba3e6d3e13953ac77b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-suite-in-dog-friendly-countryside-location.html": {
+    "name": "Luxury Suite in dog-friendly countryside location",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382919297.webp?k=5fd70a671297b2981c05a873bcd621f12a7e5f3f668e130608acc598c6d777ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/low-kiln-bank-slade.html": {
+    "name": "Low Kiln Bank, Slade",
+    "location": "Swansea",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193334867.webp?k=5edeb534f0c0f898bcf6f89155f19667de8af2cb9a5be8ba54243f2e7550ecd2&o=&s=1"
+  }
+}

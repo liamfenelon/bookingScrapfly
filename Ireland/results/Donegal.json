@@ -1,0 +1,498 @@
+{
+  "https://www.booking.com/hotel/ie/the-lodge-harvey-39-s-point.html": {
+    "name": "The Lodge @ Harvey's Point",
+    "location": "Donegal",
+    "score": "8.8",
+    "review_count": "312 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/70517341.webp?k=fd4e41e627acef7b90a71cfaad3759bebceb321809358cbf9643efe3c0319b78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/new-listing-fayes-place.html": {
+    "name": "NEW LISTING Faye’s Place",
+    "location": "Donegal",
+    "score": "8.8",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430349649.webp?k=7b1a0dc9db94934603f8ecf907581b6feee9620246c74133767190c122bfabb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-gateway-lodge.html": {
+    "name": "The Gateway Lodge",
+    "location": "Donegal",
+    "score": "8.9",
+    "review_count": "1,356 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100310417.webp?k=59b5b460a98b60452a7c17de271aa1b1af9833cf61dab8125f352681a4efe27f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/millparkhotel.html": {
+    "name": "Mill Park Hotel",
+    "location": "Donegal",
+    "score": "9.0",
+    "review_count": "2,156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434309267.webp?k=02bdb2ee0254b40ac1c474702bcd4633e681d012d84933114b0487839038aadf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lough-mardal-lodge-donegal.html": {
+    "name": "Lough Mardal Lodge",
+    "location": "Donegal",
+    "score": "9.4",
+    "review_count": "168 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302540097.webp?k=32b21ecd3e4bca6c0071525a0144202235e575cf8276931d3124d2d30717f039&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ros-dun.html": {
+    "name": "Ros Dún House",
+    "location": "Donegal",
+    "score": "9.4",
+    "review_count": "582 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310871398.webp?k=b98a86c2f1b81adbf36a10df0988484f42d8cd98a65fa4ebd21939f529967e5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/abbey-donegal.html": {
+    "name": "Abbey Hotel Donegal",
+    "location": "Donegal",
+    "score": "7.4",
+    "review_count": "1,763 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/26664860.webp?k=d88c9d9a87b9f2aeb215f8be3e603f3357eb54b0e76d6329ad6c57a0fdb6fd93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-gables-donegal.html": {
+    "name": "The-Gables",
+    "location": "Donegal",
+    "score": "9.2",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140386951.webp?k=38c629b6cdf98f98556c3f6b4bc550919f165dd0fb9773820b9e9d2dc6bc211a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/central-donegal.html": {
+    "name": "Central Hotel Donegal",
+    "location": "Donegal",
+    "score": "7.7",
+    "review_count": "1,899 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142062607.webp?k=bcd83babc8451aed1734a2e2db7d21f0a92ab7f6fbd53fbdcc32e0d5c02bdf75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gaplodge.html": {
+    "name": "The Gap Lodge B&B",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "405 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137951943.webp?k=59969cd2d16523262110f1e77809cc8fc30da841177bc3dd72e1ca864b48a5ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridge-inn-apartments.html": {
+    "name": "Bridge Inn Studio Apartments",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "198 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346146020.webp?k=35c6dcaad52f3a2de78f843e59cfa2734da01aa2267cae9d640c74d80fc77790&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rosswood-house.html": {
+    "name": "Rosswood House",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65696983.webp?k=83694df394c549b4c3c461a0acaf3896deadadc40d74d3e560b1e7720ea037f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/eas-dun-lodge.html": {
+    "name": "Eas Dun Lodge",
+    "location": "Donegal",
+    "score": "9.4",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34655550.webp?k=eda93f81395d601b31004a3cc4e8e0cbc72152e35309c35aeb78f53af9310297&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/heeneys-lodge-b-amp-b-donegal-town.html": {
+    "name": "Heeneys Lodge B&B",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "358 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/155811750.webp?k=49f29d05e50b76a55d74d4fd70e83a64a5bd3590eada81ea27b00ad03f9a3fcc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lough-eske-castle-en-gb.html": {
+    "name": "Lough Eske Castle",
+    "location": "Donegal",
+    "score": "8.8",
+    "review_count": "491 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339057059.webp?k=1fce5d662e02f1a437200e3a00d6617c5480fa83ecf2d073a6afe52a9bcf3532&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/donegalestuaryholidayhomes.html": {
+    "name": "Donegal Estuary Holiday Homes",
+    "location": "Donegal",
+    "score": "8.7",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27336018.webp?k=ff788b0e8c0295d5684fefc33caba3a37c1f1992ec5326bf743a58ad4268c981&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/farmleigh-house.html": {
+    "name": "Farmleigh House,",
+    "location": "Donegal",
+    "score": "8.4",
+    "review_count": "197 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205812146.webp?k=91dd506b86cfe670d12e0c6007da4921ee9bcbe8373b0804faac9e81b71e0254&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-bridges-bed-and-breakfast.html": {
+    "name": "The Bridges Bed and Breakfast",
+    "location": "Donegal",
+    "score": "8.4",
+    "review_count": "402 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117943086.webp?k=d91dce5ad51e7d9089d0b748bc425b5eaf906f965ca43385875cdb73c496ca0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/esker-house.html": {
+    "name": "Esker House",
+    "location": "Donegal",
+    "score": "9.0",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91777153.webp?k=610a339677e56588a8842b986130bf5746338860e594dc4f8677087d942ac762&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fintragh-beach-b-amp-b.html": {
+    "name": "Fintra Beach B&B",
+    "location": "Donegal",
+    "score": "9.4",
+    "review_count": "160 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366754445.webp?k=12535c72585def0c69a387f3ac502fe4167353260960f290cfc2b524e7cc429f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/haywoods-b-amp-b.html": {
+    "name": "Haywoods B&B",
+    "location": "Donegal",
+    "score": "8.9",
+    "review_count": "354 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35095725.webp?k=13e1f00282a4ac096a814440b20070c8369aab202add52df0c28db99ebac3f8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-suite-on-the-diamond-donegal.html": {
+    "name": "The Suite on The Diamond Donegal Town on the WAW",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279210853.webp?k=6b051c752ae6c38d8aa33cb9af7d623185782f69fe7918c27d509ce5581a93ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harvey-s-point-country.html": {
+    "name": "Harvey's Point",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "683 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375164081.webp?k=3c8b21428c66219a8b96351560e6d374bfa6369fc3bd3c3440e23063eaeb9d3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kings-cottage-donegal123.html": {
+    "name": "Kings Accommodation",
+    "location": "Donegal",
+    "score": "8.2",
+    "review_count": "125 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194847124.webp?k=5f6301330247e477506235f9202ce95844b7e4fb1c685a14fe854a9d686a73e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/atlantic-guest-house.html": {
+    "name": "Atlantic Guest House",
+    "location": "Donegal",
+    "score": "7.9",
+    "review_count": "692 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/26874912.webp?k=49e39bed119f853f54417cd7bf2e244dd0a01937e928834a91630735d12315de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bluestack-view-apartment.html": {
+    "name": "Bluestack View Apartment",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400553457.webp?k=5b478594c51a8d946a9a7e42864a9e25825a65beaac7ee4313000614ea848ca0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carrick-bridge-house.html": {
+    "name": "Carrick Bridge House",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421915735.webp?k=2dec6cce5fe419288f30e98c21e7e9ec91c70b526c6927341cc1fbc8aa22e013&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/robins-rest.html": {
+    "name": "Robins Rest",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437821279.webp?k=9c96b57ca54c83dfece6daaf5632bd84786f99adff72ec61fd5e0feb487cc304&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/arches-country-house.html": {
+    "name": "Arches Country House",
+    "location": "Donegal",
+    "score": "9.7",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/43495385.webp?k=5c46135acc5a107dab4fc06dc457428f78941fcf8f9e4c3b43ef657d4860aec6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rarooey-house.html": {
+    "name": "Rarooey House",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402864603.webp?k=79b5420702d680a02d7d00cbff864f0ff5d9f615639cb039c35c62bd07fa91bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/o-39-donnell-39-s-bar.html": {
+    "name": "O'Donnell's Of Donegal",
+    "location": "Donegal",
+    "score": "7.6",
+    "review_count": "280 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245950597.webp?k=2b56ede7adf5fb8e0355c2076a33495273bbd8c50ac9f24cad24e6687c2201f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashdoon-house.html": {
+    "name": "Ashdoon House",
+    "location": "Donegal",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414287917.webp?k=2524d4a5f18cabd5058db3eaa52a27de9d9f5b5b34ef1ca94eb14f88c01437a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/john-the-mills-cottage-spahot-tub-private-beach.html": {
+    "name": "John the mills cottage spaHot tub private beach",
+    "location": "Donegal",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402021914.webp?k=a847a6d8c11cb7085314d3cab938af919cf1035c58120f4b0c238611e9148325&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/reveller-lodgings.html": {
+    "name": "Reveller Lodgings",
+    "location": "Donegal",
+    "score": "9.2",
+    "review_count": "230 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261535855.webp?k=fd44379e759b56fc03d4c70f0033e5a99c57fb31460aa85d5dc9fc9e11327e92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bumblebee-cottage.html": {
+    "name": "Bumblebee Cottage",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420089493.webp?k=eba65f7d8ecf268a0d2faf4e4f587a8134437b70cce13f8073768dfcb22e2816&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tully-view-house.html": {
+    "name": "Tully View House",
+    "location": "Donegal",
+    "score": "9.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368395301.webp?k=2d2a81045e3cd7e321c726e31ad3a673650519d51350cae83ae99b349c7fcad6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dungloe-beach-bungalow.html": {
+    "name": "Dungloe Beach Bungalow",
+    "location": "Donegal",
+    "score": "9.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417083182.webp?k=1b1358725d78484e5966747b98420365b0445dbb3b72dc77c1fdf09e0eb5fb01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mill-park-doonin.html": {
+    "name": "Dunmill Apartment",
+    "location": "Donegal",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/160445693.webp?k=578c2466e584d2de9fa34fc7a4dd68d112666600767d1d9841ec0577ff3d1b64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/vista-mara.html": {
+    "name": "Vista Mara",
+    "location": "Donegal",
+    "score": "9.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404731985.webp?k=cc3930157464b59d7534e86faa43e0eeb361922af6fabf868a8bc43b50b572ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/3-waves-of-tory-donegal.html": {
+    "name": "3 waves of Tory donegal",
+    "location": "Donegal",
+    "score": "9.2",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134839863.webp?k=640ec25814bfe757bd424f010315e77174873d26864d130d2b456495cd4a69d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pine-view-self-catering-holiday-home-donegal.html": {
+    "name": "Pine View Self Catering Holiday Home",
+    "location": "Donegal",
+    "score": "8.9",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67539035.webp?k=4a8095fd1b034400dfc9581aeb4612b5492d18add2809bc5b8157ae9e0060e1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/teresas-cottage.html": {
+    "name": "Teresas Cottage",
+    "location": "Donegal",
+    "score": "9.1",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/187129244.webp?k=0e33209f829cf325d76f585ea2e7aa5b248146fabca9f2e9ab23f62703054af3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tirchonaill-townhouse.html": {
+    "name": "Tirchonaill Townhouse",
+    "location": "Donegal",
+    "score": "8.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311121212.webp?k=896f962c788bb83b32fc8a4ef4c7d34be9e836fff31c001ec314b28480d354d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/elmwood-house-luxury-seaview-accommodation.html": {
+    "name": "Elmwood House Luxury Seaview Accommodation",
+    "location": "Donegal",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389505870.webp?k=b623cc415f403d4a7ea2dd6e9e38a482972d8c553d58593769e34e2e1f7c1f0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sea-breeze-cabin-donegal.html": {
+    "name": "Sea Breeze cabin",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403117297.webp?k=75b3691c79c55d48b9f3f45fdb3da73927534d53a4bf76b4b6b631ea0b74bd45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/whitehorse-house-donegal.html": {
+    "name": "Whitehorse House",
+    "location": "Donegal",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366511996.webp?k=34995e953f9441eca2143b78717b6f84024e22b995f65557a9cf651c14eb8a27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/teach-traigheanach.html": {
+    "name": "Teach Tráighéanach",
+    "location": "Donegal",
+    "score": "9.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190750546.webp?k=5557e44b3b5c1721e09175a37a926136c4bbbad8a97da381361c5150cc7ce989&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/willies-cottage.html": {
+    "name": "Willies cottage",
+    "location": "Donegal",
+    "score": "9.6",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194458323.webp?k=f8359371a86d7d4a526ddbb9be691f060bb9a2c5fb3a65032b6a382c6502f627&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hilltop-hideaway.html": {
+    "name": "Hilltop Hideaway",
+    "location": "Donegal",
+    "score": "10",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368175011.webp?k=902d24c60d8619e08c9917abf6d451411fdccb2ebb67d3382d6c1e4532c94717&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/no-5-sandycove.html": {
+    "name": "No 5 sandycove",
+    "location": "Donegal",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189592361.webp?k=2fa181acdbd18a84f8415e21be8a19797001e3bf942371fd53ca486d0d68f6df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/atlantic-view-donegal.html": {
+    "name": "Atlantic View",
+    "location": "Donegal",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346340508.webp?k=2f5583116df7bf64de5116dc44b0dd47dae92944698e78a7b3fc8e9fd19e5952&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/loistin-teach-hiudai-beag-donegal.html": {
+    "name": "Lóistín Teach Hiudai Beag - Guesthouse Bunbeg",
+    "location": "Donegal",
+    "score": "7.7",
+    "review_count": "146 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269342682.webp?k=7b6b9b1f35cf4c9f6cb54e3c4fdefef8ddafce2c571c01101511ef1b3d4c5417&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dolmen-lodge-donegal.html": {
+    "name": "Dolmen Lodge.",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428476174.webp?k=1162eb9c08fe82b844036cb679f3e1ba5895305170d001339a0f8acd73c1ef17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/granny-dens.html": {
+    "name": "Granny Dens",
+    "location": "Donegal",
+    "score": "9.7",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256922745.webp?k=f8deb8c522fcd9cef53722b7338d6fc88db4377b2ff30f0db5ce660990b05e92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/eddies-cottage.html": {
+    "name": "Eddie's Cottage",
+    "location": "Donegal",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380076323.webp?k=8ba195ced42e8d1f92bd009649a4fb392fc67104521fc98fbcd552e263f186a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spacious-comfortable-amp-chic-15-minutes-walk-to-town.html": {
+    "name": "Living Waters Retreat",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432502759.webp?k=1041cba8082164597f8adc0487851f12f43a4ef4a99a12b735b95ef968a99271&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-bed-in-a-shed.html": {
+    "name": "The Bed in a Shed",
+    "location": "Donegal",
+    "score": "10",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363459307.webp?k=ef3ce8d246c827e846b8139fa53fe37856eb2242f374cc85404f5be1b4c6606f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ladybird-cottage.html": {
+    "name": "New Listing - Ladybird Cottage - Donegal - Wild Atlantic Way",
+    "location": "Donegal",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391613852.webp?k=af4638d2bef8410ffc263ddb87b1c70fd839143a17f403b4f55d28301f5ddfad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/leghowney-house.html": {
+    "name": "Leghowney House",
+    "location": "Donegal",
+    "score": "8.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148913815.webp?k=825bb734c116c9ccee55023195b0a787aa5abaf6772e20896ddbd1a3acaac14a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lignaul-cottage.html": {
+    "name": "Lignaul Cottage",
+    "location": "Donegal",
+    "score": "9.1",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/276083477.webp?k=e341d0bb4cfebfa1a708b44491852411b2b58576ba1fe00a86328415ee8ca37e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hillcrest-house-donegal.html": {
+    "name": "Hillcrest House Self Catering Apartments",
+    "location": "Donegal",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305856003.webp?k=cbea25fd85f2828f9b513c1cb4c4c645bbea2f5688f844c891c560621e54be4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/surfers-paradise.html": {
+    "name": "Surfers Paradise",
+    "location": "Donegal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421496888.webp?k=9168a84acf35d3378b179d0f55b79c70e2d215d9b89122c2922107cd22e6e4d2&o=&s=1"
+  }
+}

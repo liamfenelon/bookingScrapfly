@@ -1,0 +1,434 @@
+{
+  "https://www.booking.com/hotel/ie/imperial-dundalk.html": {
+    "name": "Hotel Imperial Dundalk",
+    "location": "Dundalk",
+    "score": "8.4",
+    "review_count": "1,467 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283329158.webp?k=aaae1cd61aa3f28618efaff4726d07f192213600e69e55de02c50710a1f953f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fairways-dundalk-dundalk.html": {
+    "name": "Fairways Hotel Dundalk",
+    "location": "Dundalk",
+    "score": "8.4",
+    "review_count": "1,219 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228714484.webp?k=b310a1cec222256cd5d32b60f6ac324ddba417ce9689fff43e671529141cfa66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-glenside.html": {
+    "name": "The Glenside Hotel",
+    "location": "Drogheda",
+    "score": "8.3",
+    "review_count": "391 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8500372.webp?k=1a534a1016defacecfbcd08c7d4c1bbed05dde216ae915001b5f41ee919cfd61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-waterside.html": {
+    "name": "Flynns of Termonfeckin Boutique Hotel",
+    "location": "Termonfeckin",
+    "score": "8.7",
+    "review_count": "768 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312784629.webp?k=9d416ef2323c10bb708c8112561f71553d13e0378365621abfedf13d0e24bce7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spoon-and-the-stars.html": {
+    "name": "Spoon and the Stars Hostel",
+    "location": "Drogheda",
+    "score": "7.4",
+    "review_count": "360 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279960403.webp?k=71402652ea426823dfdf3e8efb5e8c93b26eb6c755172989ecd754b612c77e41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-four-seasons-carlingford.html": {
+    "name": "Four Seasons Hotel, Spa & Leisure Club",
+    "location": "Carlingford",
+    "score": "8.3",
+    "review_count": "653 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125085981.webp?k=7f4fb9752c60beaa8b41fec8a107c598d293a22f60e52fcf8e8bda20057fe58a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mc-kevitts-village.html": {
+    "name": "Mc Kevitts Village Hotel",
+    "location": "Carlingford",
+    "score": "8.9",
+    "review_count": "735 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217611809.webp?k=18aac77dcc4a75a9fee9257bda63ba6893117eb5694e4fc49a15ab97497fd79c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/boyne-valley-and-country-club.html": {
+    "name": "Boyne Valley Hotel - Bed & Breakfast Only",
+    "location": "Drogheda",
+    "score": "7.8",
+    "review_count": "932 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210979109.webp?k=4d929a8ce3ddd32875da22f1281f57d888d2266658031406cd8bc58fe3c9f9fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shalom-carlingford-co-louth.html": {
+    "name": "Shalom",
+    "location": "Carlingford",
+    "score": "9.3",
+    "review_count": "692 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148470683.webp?k=c835f583cb6fb93577c538aa8f465123a1c50fa762d3b640ef298c182e069917&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/crowne-plaza-dundalk.html": {
+    "name": "Crowne Plaza Dundalk, an IHG Hotel",
+    "location": "Dundalk",
+    "score": "8.4",
+    "review_count": "1,020 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243003962.webp?k=414603660b33cee29b0a22ddfe836177a199a5f6f98843bce72d0dafc8519782&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/wildwood-lodge.html": {
+    "name": "Wildwood Lodge",
+    "location": "Carlingford",
+    "score": "8.8",
+    "review_count": "524 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134161223.webp?k=64c1a268fc2d11815a28f4f717ba94f60a5797de128c9cb1ee1d50d51ad0468c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carrickdale.html": {
+    "name": "Carrickdale Hotel & Spa",
+    "location": "Dundalk",
+    "score": "8.2",
+    "review_count": "727 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97158204.webp?k=4d0aaf66a303615f334f7d96532438fdc513b060b1f6f7a38853ceee9bb69c3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/aaron-vale-b-amp-b.html": {
+    "name": "Aaron Vale B&B",
+    "location": "Drogheda",
+    "score": "9.0",
+    "review_count": "312 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/19178696.webp?k=c92c0d01d700bb546dd7a5fa949b09fe42cdc073fe4465c2c5077cb13bea84d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballymascanlon-house.html": {
+    "name": "Ballymascanlon House Hotel",
+    "location": "Dundalk",
+    "score": "8.6",
+    "review_count": "611 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/40572546.webp?k=fb3e0b13da699d2aac8be379551ec4da5057a1c34aa2f9a66a85f9e4fb1378ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-oystercatcher-lodge.html": {
+    "name": "The Oystercatcher Lodge Guest House",
+    "location": "Carlingford",
+    "score": "8.5",
+    "review_count": "421 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248788423.webp?k=f4427099c66068e226682c4b220994aae33b1a9a0a096a50522f9b08a6939c80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dhotel.html": {
+    "name": "D Hotel",
+    "location": "Drogheda",
+    "score": "7.7",
+    "review_count": "1,056 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298148835.webp?k=1143d83f0e318a60b13d6d3ba9c56330e8ba4cb5e8dcb1db43ba42dbd507ce20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/arden-bungalow.html": {
+    "name": "Arden Bungalow",
+    "location": "Baltray",
+    "score": "9.5",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286302063.webp?k=a994205f2e8aabaeb04b12ff1d0cf84fa5435e2d82bf706953e511051f455835&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rosemount-b.html": {
+    "name": "Rosemount B&B",
+    "location": "Dundalk",
+    "score": "9.2",
+    "review_count": "204 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/7088396.webp?k=77a4e866d6536b98a55576598337cc9afbb41c3194854dd42a0b535730201f74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/scholars-townhouse.html": {
+    "name": "Scholars Townhouse Hotel",
+    "location": "Drogheda",
+    "score": "8.8",
+    "review_count": "510 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294241990.webp?k=2964bd450a7240158df5b894a161b2f43f839c319598f90c3d7daed9c579b990&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/belvedere-house-b.html": {
+    "name": "The Baytree Restaurant & Guesthouse",
+    "location": "Carlingford",
+    "score": "8.8",
+    "review_count": "262 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186623747.webp?k=a8efb4f44c975ba69fc9a7c769320356a595f59a8bb1d57ee8e8fe4b521d62b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/buvinda-drogheda.html": {
+    "name": "Buvinda",
+    "location": "Drogheda",
+    "score": "9.3",
+    "review_count": "240 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224172850.webp?k=4b2370e81531593b0e97e2d45aaf5faa237d6b2383bb11274d38945f84735b78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carlingford-marina-apartments-carlingford.html": {
+    "name": "Carlingford Marina Apartments",
+    "location": "Carlingford",
+    "score": "8.4",
+    "review_count": "497 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197592036.webp?k=2dbd1bdaf6b55e292d7c4b448f994113e14ff5867893d89c932e4ddbcc633779&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cheerful-3-bedroom-cottage-with-great-seaview.html": {
+    "name": "Cheerful 3 bedroom cottage with great seaview",
+    "location": "Drogheda",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426650106.webp?k=fc4ca72d1c0fff51cf240cb92f5fbe6b61843947467849075ec5b7f8d2c0bdd4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-old-boat-house.html": {
+    "name": "The Old Boat House",
+    "location": "Carlingford",
+    "score": "9.1",
+    "review_count": "164 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231896095.webp?k=5772d006623325d236e015317532a2248c7e88acdf75429a907afbb9c6672691&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/grove-house.html": {
+    "name": "Grove House Bed & Breakfast",
+    "location": "Carlingford",
+    "score": "9.5",
+    "review_count": "252 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14755991.webp?k=79e9009028cae50ee88813077d2c1804e7e85c04b8829f36517f9e5b0ab7441c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mourneview-b-b.html": {
+    "name": "Mourneview B & B",
+    "location": "Carlingford",
+    "score": "9.5",
+    "review_count": "148 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204347606.webp?k=aa9a97c284a47b4e352a65d99a6446dada8afc988796f010890ebdac0d8240a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carlingford-sea-cottage.html": {
+    "name": "Carlingford Sea Cottage",
+    "location": "Carlingford",
+    "score": "9.2",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/141875262.webp?k=220ae18225225c68165ecddebb1b0990c485d70b82e91c6856e2b86425b9c589&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-retreat.html": {
+    "name": "The Retreat",
+    "location": "Carlingford",
+    "score": "8.3",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79784192.webp?k=96c074622fa74a4f60565e5eade7905dab8933719fa23868edc4a6d8b3799ed7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clogherhead-louth-holiday-home-rental.html": {
+    "name": "Clogherhead, Louth - holiday home rental",
+    "location": "Clogherhead",
+    "score": "8.4",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270839378.webp?k=06b620055dbd94286693c5093c0acb2e2fb55e937af35ffc35000bec910606fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maplehouse-b-amp-b.html": {
+    "name": "MapleHouse B&B",
+    "location": "Drogheda",
+    "score": "9.2",
+    "review_count": "110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359025424.webp?k=2051bd6dfc274e76f5892026e9c10c181ca8643adcfec950c4f142ee25780afc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/deeside-manor.html": {
+    "name": "Deeside Manor",
+    "location": "Stabannan",
+    "score": "9.6",
+    "review_count": "240 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/54446680.webp?k=4e268ccb5cbacaa6e85ae0aa224fde94e7bfc9b4d33bf192d9faff4fe8b9a7f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/quarvue-farmhouse-unique-house-with-views-of-mournes-and-cooleys.html": {
+    "name": "Quarvue Farmhouse, Unique house with views of Mournes and Cooleys",
+    "location": "Ó Méith",
+    "score": "9.6",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271170814.webp?k=084d49d0dad6ef3982958607a7dea1b95bf1ab979561cf0ccf8176ca3a5387ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/holiday-apartment-carlingford-lough-omeath.html": {
+    "name": "Dolmen Apartment Carlingford Lough,Omeath",
+    "location": "Ó Méith",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404905825.webp?k=5c07d11aa528be029f32b91283d962134f02e16600838f53e860bf6fdd945f1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/riverside-lodge.html": {
+    "name": "Riverside Lodge",
+    "location": "Carlingford",
+    "score": "9.8",
+    "review_count": "341 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67861638.webp?k=4d581f310a07d31fcfd4ed2a095dce1d0e2d415f185bf629bfd794ac3265627d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glen-gat-house-dundalk-county-louth.html": {
+    "name": "Glen Gat House",
+    "location": "Dundalk",
+    "score": "8.7",
+    "review_count": "237 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245200865.webp?k=281bb13e95afe695634cdbb9efaa6a737014709ef11cb894596357b0098cbbe6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/almas-retreat.html": {
+    "name": "Alma’s retreat",
+    "location": "Drogheda",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433047608.webp?k=15b50c3b66667df2b59f0c216139bd13dfd359a46a9812a5513e24e7c95c713e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/highgrange-apartments.html": {
+    "name": "Highgrange Apartments",
+    "location": "Dundalk",
+    "score": "9.1",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374495546.webp?k=42c2a9ef1a1fe62ae0051b4f107158939eeac684f438122897cbd3beb59d3417&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/croi-beag-self-catering.html": {
+    "name": "Croí Beag Self Catering",
+    "location": "Dundalk",
+    "score": "9.9",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375150319.webp?k=35e2eee3484aa5b12224278491f0f94a34751b1680c462cd2d2fa0f17ead1460&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/an-bothan-cosy-cottage-in-the-cooley-mountains.html": {
+    "name": "An Bothán-Cosy Cottage in the Cooley Mountains",
+    "location": "Dundalk",
+    "score": "9.9",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353890532.webp?k=535792ea30fccbbe0637e73c659a9498ee68c89208a044f4b5fc814a135dbc2b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/quarvue-loft.html": {
+    "name": "Quarvue Loft",
+    "location": "Ó Méith",
+    "score": "8.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366908747.webp?k=485da1cb12643171a257baa8d6c7b0155f709950ba5d1e51b34c05ec03e2327f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/foye-view.html": {
+    "name": "FOYE VIEW",
+    "location": "Carlingford",
+    "score": "9.2",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310938277.webp?k=6a2bfa65c5fae9ad6359e2f3ddb351cdb6c44e3012eb3711245e171675ee94b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/collon-house.html": {
+    "name": "Collon House",
+    "location": "Collon",
+    "score": "9.5",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201067089.webp?k=e35ee7f77325178e806f5bd5865e36ccc559bba9afc184db8c038797fb58c1ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/village-lodge.html": {
+    "name": "Village Lodge - Carlingford",
+    "location": "Carlingford",
+    "score": "8.5",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107620476.webp?k=3725b3529ead48ba8f4974160868848b85225e5e654b0d7dc63aee49e67fb62b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beachfront-home-near-carlingford-louth.html": {
+    "name": "Beachfront home near Carlingford",
+    "location": "Lú",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424197666.webp?k=e3bd41f765512084c99a7a46bede5b4377c2e336c8ea5cfad99860806065631a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maggie-janes-cottage-carlingford-omealth.html": {
+    "name": "Maggie janes cottage Carlingford omealth",
+    "location": "Ó Méith",
+    "score": "9.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186201398.webp?k=1869ba010897f9e2939f1559ee0261d454b7a7b1848fd88a1cb53bd958c37761&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/chez-se.html": {
+    "name": "Chez Sé",
+    "location": "Drogheda",
+    "score": "9.0",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175232155.webp?k=d100eef16f3e67812f8c79b00029dd67e16dbb158f01947283ce96ae0be0c397&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-bunker-beautiful-spacious-riverside-cottage.html": {
+    "name": "The Bunker Cottage, Baltray",
+    "location": "Drogheda",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204525180.webp?k=6a996f65a0c950b778ef37ea64ed77fa53035aba1b9d206a8d6eac5d2eb77a01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/peggy-moores.html": {
+    "name": "Peggy Moores",
+    "location": "Drogheda",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430858158.webp?k=bbd4b1c784086d51e274107b00dea89d1d259988b3c2c5aef2d7a3a02269143a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/granda-39-s-house-a-home-from-home-near-carlingford.html": {
+    "name": "Granda's House - A Home from Home near Carlingford",
+    "location": "Carlingford",
+    "score": "9.7",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294998244.webp?k=9a262ed80a00f9d6c99fb6c5d4140f38050763a08a064cf1bc8aa890b5588a6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bellurgan-park-dundalk1.html": {
+    "name": "Bellurgan Park",
+    "location": "Dundalk",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434176477.webp?k=615468d18d2f6af9b5a5e8daa7f6f5e4819233578e272f33dab3f487f6fa4a19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mountain-house-omeath-near-carlingford.html": {
+    "name": "Mountain House Omeath near Carlingford",
+    "location": "Ó Méith",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389386381.webp?k=1afd17ed5edb36d5ae5095078a633be60b57e98b89ee95104b5ba44ade4eec61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/memory-lane-farmhouse-carlingford.html": {
+    "name": "Memory Lane Farmhouse Carlingford",
+    "location": "Lú",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437948194.webp?k=aa7bcd28cd3e1b16e754d26df6ec71207af7115f7753207939d01702e9027dea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/krakow-b-b.html": {
+    "name": "Krakow B&B",
+    "location": "Dundalk",
+    "score": "8.7",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110879081.webp?k=01885a23ff8e045e9ee2951e0c3422c2c7f84a603b1695ef8d42a1dc6530f07c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/orley-house.html": {
+    "name": "Orley House B&B",
+    "location": "Drogheda",
+    "score": "8.9",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/33850280.webp?k=124ca1ba297565ef3ed4da2d9e57d9368298930acfd6d05706b045622f0c427f&o=&s=1"
+  }
+}

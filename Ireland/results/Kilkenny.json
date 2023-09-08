@@ -1,0 +1,490 @@
+{
+  "https://www.booking.com/hotel/ie/kilmore-guesthouse.html": {
+    "name": "Kilmore Guesthouse",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "9.1",
+    "review_count": "859 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303628208.webp?k=7f3ce36d097d0028b6a8aeed410cb1321f8096b924aca299782a799fd43ab511&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/butler-house.html": {
+    "name": "Butler House",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "9.0",
+    "review_count": "1,240 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119466602.webp?k=d5853a3b3f01834f52db693110500640ef9bde4bb90380960de9c6b290858c2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkennyhibernian.html": {
+    "name": "Kilkenny Hibernian Hotel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.3",
+    "review_count": "879 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/69537737.webp?k=5bc061ffa3df5fca5c2d9c65e3d99e47299ffb4ff7c232bb0a0adb544b3d4803&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jbs-bar-amp-guest-accommodation.html": {
+    "name": "JBs Bar & Guest Accommodation",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.6",
+    "review_count": "887 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232566916.webp?k=95de013c505e1a2d8247fec0e18f720d1fa50ec0f460ce7289a5edd54dd37775&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/zuni.html": {
+    "name": "Zuni Hotel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.8",
+    "review_count": "617 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140595966.webp?k=90a09b73e8bf90da0e9851b55e12753b95d75a2587a3f3963a0eed9c44a6518a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kate-39-s-rest.html": {
+    "name": "Kate's Rest",
+    "location": "Kilkenny",
+    "score": "8.8",
+    "review_count": "221 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205956590.webp?k=80460e8de80b365edd5d1cef891c8036f4d6075aad569d629764f289926b4536&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkenny-rivercourt.html": {
+    "name": "Kilkenny River Court Hotel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.4",
+    "review_count": "1,892 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/152293826.webp?k=6da13cbb68bad072c507fdb614be33e1b9b82817a3e279785b472489f84c0cf7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/nore-view-house.html": {
+    "name": "Nore View House",
+    "location": "Kilkenny",
+    "score": "9.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258450718.webp?k=3107c8021963e1d63600eb70db3793e02e5b74f6c0c1c2386882e29aea04b480&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/breagagh-view-b-amp-b-kilkenny.html": {
+    "name": "Breagagh View B&B",
+    "location": "Kilkenny",
+    "score": "8.5",
+    "review_count": "228 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/98456578.webp?k=8d0bee13241e265c2b84b99668bf84cde44c3dc7a665a54f0ef0289ecc6b7e97&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/launard-house.html": {
+    "name": "Launard House",
+    "location": "Kilkenny",
+    "score": "8.1",
+    "review_count": "401 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242376188.webp?k=710f89ca2b750df29e72e187fd55c7db0516832248cf6605edb4694cb6a1334c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/club-house-kilkenny.html": {
+    "name": "Club House Hotel Kilkenny",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "7.5",
+    "review_count": "1,690 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31120862.webp?k=d4904ace93fe87ce59275525b94ab120351518162cf844fc45649519759849a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/langton-house.html": {
+    "name": "Langtons Hotel Kilkenny",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.2",
+    "review_count": "1,763 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62691182.webp?k=779342b81c7e462729013c7295c6432cf73fca80555482d342dbbcb9eaaa7383&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridge-view.html": {
+    "name": "Bridge View B&B",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "9.1",
+    "review_count": "896 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/172125657.webp?k=01394538453140ccab31fb80209c1eef413457614a3ab6f3cc3da6557a5c6e7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkenny-tourist-hostel.html": {
+    "name": "Kilkenny Tourist Hostel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.3",
+    "review_count": "677 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421085280.webp?k=722c65416e614da29dbfb1f5c4cae9fdfdf34d39605ba3547338d9af6bc30c38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fanad-house.html": {
+    "name": "Fanad House",
+    "location": "Kilkenny",
+    "score": "8.6",
+    "review_count": "843 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35419255.webp?k=326e43c1dd5a168c41ffb13f161f469b54d377eddda2a25805da851572e57b95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxurious-penthouse-apartment-1-city-centre.html": {
+    "name": "Luxurious Penthouse Apartment 1 , City Centre",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "9.4",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215926712.webp?k=2aa95add438edbb8d78c58a7bb6dfacc997413c0b2aefc71effbdac89225967a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/twin-oaks-bed-amp-breakfast.html": {
+    "name": "Twin Oaks Bed & Breakfast",
+    "location": "Kilkenny",
+    "score": "9.3",
+    "review_count": "335 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146790167.webp?k=5bd88d10740d6cc64b23ced2870c2ac0e61352f911e1d71b45c720c0f4e5b480&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/celtic-house-b-amp-b-kilkenny1.html": {
+    "name": "Celtic House B&B",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.6",
+    "review_count": "366 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104836749.webp?k=4ed71fa17698432846b7bc4991a1fa66b38a4248ae2652e5d7b3781a97187eb6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/newpark.html": {
+    "name": "Newpark Hotel",
+    "location": "Kilkenny",
+    "score": "8.6",
+    "review_count": "1,815 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423338071.webp?k=771bfa62335cfc8a0d43a7bb86687eeb58e0317507f16a3dfea351880d7bcf89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/caste-lodge-kilkenny.html": {
+    "name": "Castle Lodge Kilkenny",
+    "location": "Kilkenny",
+    "score": "8.9",
+    "review_count": "321 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/50436211.webp?k=1b431d8865875625b537ea9350f67ac1b9805b7e64278d45d03090ddf66d508c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dayskilkenny.html": {
+    "name": "The Hoban Hotel Kilkenny",
+    "location": "Kilkenny",
+    "score": "8.2",
+    "review_count": "1,197 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336830160.webp?k=e346a0547de2e91875c46d5d430a53193a01012dd50b51628a0e27ad4b134cca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkenny-pembroke.html": {
+    "name": "Kilkenny Pembroke Hotel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.6",
+    "review_count": "1,349 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/73094493.webp?k=80aed7667dc20e91b39d5692663a5949dbe686a4102ae37034e512ad2406c87d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tranquil-unit-close-to-kells.html": {
+    "name": "Tranquil unit close to Kells",
+    "location": "Kilkenny",
+    "score": "9.4",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303485273.webp?k=e21d0e4decb8e12e22f492d5957683e0d523020ea062f07238c08a1f1c7db3a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/grianan-kilkenny.html": {
+    "name": "Budget Double Room in City",
+    "location": "Kilkenny",
+    "score": "7.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417777485.webp?k=c96213a555afadbdc906ed171c613194afa1285fbc10cadbce38576eb3dde7dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkennyormonde.html": {
+    "name": "Kilkenny Ormonde Hotel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.0",
+    "review_count": "2,046 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283193267.webp?k=c43682988ccd19702ef85a4c213072ffa97f9e8a9fd2bbd84d3ec6d87d92e544&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lyrath-estate-and-spa.html": {
+    "name": "Lyrath Estate",
+    "location": "Kilkenny",
+    "score": "8.6",
+    "review_count": "2,150 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377523684.webp?k=b9f96b4f0807940a513a2bc4461488894126a9ed51bd446fef8231ff0784da98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkenny-house.html": {
+    "name": "Kilkenny House Boutique Hotel",
+    "location": "Kilkenny",
+    "score": "7.6",
+    "review_count": "933 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300581915.webp?k=3339d129b9733db18de9350b07561b6bb77f1f48c6e745553f1f548e8c81e480&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-rafter-dempsey-s.html": {
+    "name": "The 'Rafter's Gastropub",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "7.9",
+    "review_count": "599 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267978664.webp?k=2601031e70d0a4f3cd55d6723053e22b1a2fc1c6e4258ebf544a473180bfa45a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilkenny.html": {
+    "name": "Hotel Kilkenny",
+    "location": "Kilkenny",
+    "score": "7.9",
+    "review_count": "1,642 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/7097383.webp?k=d01b9e17c7ff889cb1ddc6cef5c236d7a5e50a42cfac2650a0e5d4cf56f81b4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kittys-cottage-kilkenny1.html": {
+    "name": "Kitty's Cottage",
+    "location": "Kilkenny",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426894549.webp?k=bf7fd1b5f64fd23ef127853b1ac5c3a7726563d8c3ca8377b7059d6eb21586ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/king-size-bed-private-parking-centrally-located.html": {
+    "name": "King Size Bed, Private Parking, Centrally Located",
+    "location": "Kilkenny",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420979504.webp?k=4a2cfe8d1c76d24deec724f7765701406f14f96d23638ca7cd318e2028469e8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lovers-lodge-kilkenny.html": {
+    "name": "Lovers' Lodge, Kilkenny",
+    "location": "Kilkenny",
+    "score": "8.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349642090.webp?k=8e638825a58f9e43631c160f1900cea48c0347d35c91a2eb8facde6aa3bb0273&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/knockreagh-farm.html": {
+    "name": "Knockreagh Farm Cottages, Callan, Kilkenny",
+    "location": "Kilkenny",
+    "score": "9.8",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417880453.webp?k=a6a6fe87b3d423a6593b70b8fb1ab71d440105ab60f063056e30ca33daaca7c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilford-arms.html": {
+    "name": "Kilford Arms",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "7.9",
+    "review_count": "726 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/49135825.webp?k=aa32da67f599baa0b8eee9b615c58ba077ea8d114f299a7b6693817f507b4546&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stonehaven-kilkenny.html": {
+    "name": "Stonehaven",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365015555.webp?k=70569a5365f91bdc6411cd8e963e8bc05441b01cd67abb9683f6d6fe98be1a26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/graisin.html": {
+    "name": "Gráisín",
+    "location": "Kilkenny",
+    "score": "9.8",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218381546.webp?k=095c3227e70ded225ffdc94f88eb1698d74c9645fe06565b4b40b3242bfa8d09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/billycan-guest-rooms.html": {
+    "name": "Billycan Guest Rooms",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "7.9",
+    "review_count": "282 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/191346865.webp?k=e025e89cc178d212dae256a0a944e3c7398d5bc046a08acdf0b73e2bfd5690ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/newlands-lodge.html": {
+    "name": "Newlands Lodge",
+    "location": "Kilkenny",
+    "score": "9.5",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96358563.webp?k=3f166625a8dbadda0d5f60ab6d232e56f92d98129bbddbbb1d5e503244acd0b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glendine-inn.html": {
+    "name": "Glendine Inn",
+    "location": "Kilkenny",
+    "score": "7.6",
+    "review_count": "395 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/23747878.webp?k=61742672a991278088c1bc2e17e108a0210e1f7b1dca513278080e33d9dbec56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tig-na-coille-country-house.html": {
+    "name": "Tig na Coille B&B Country House",
+    "location": "Kilkenny",
+    "score": "9.4",
+    "review_count": "93 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143213858.webp?k=4a4ea9f0be2422d167923368288338196327495e1fe0fc854ecf692391e3ee35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-attic.html": {
+    "name": "The Attic",
+    "location": "Kilkenny",
+    "score": "9.4",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364157137.webp?k=36bf5cdcc10f505225042df18288595081cbf9ac2e56fd4dd2e03bf7b3e3ea1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilbawn-country-house-kilkenny.html": {
+    "name": "Kilbawn Country House",
+    "location": "Kilkenny",
+    "score": "9.8",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314041687.webp?k=c5869eee7cc3e2c8b59c195041408f3013e5defa5ce3d8425650d409c2b8d1f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-metropole.html": {
+    "name": "The Metropole",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "5.6",
+    "review_count": "501 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318796933.webp?k=fc6d1ee14fb515e4da2d96247268796386a3e27da04037060e4da2e0178fe65f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballybur-lodge-apartment.html": {
+    "name": "Ballybur Lodge Mews 2",
+    "location": "Kilkenny",
+    "score": "9.3",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310718810.webp?k=bae6ca6443fc150e960cf60104ccd54f92de2908e8547eea949a696517f47f5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/paddys-farm-ballywalter-callan.html": {
+    "name": "Hally's Farm",
+    "location": "Kilkenny",
+    "score": "7.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405428227.webp?k=e213133fa18bd8887712e2823d3512027e05b2d5993af05b3e89a7a77db33aa9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glamping-at-treegrove.html": {
+    "name": "Glamping at Treegrove",
+    "location": "Kilkenny",
+    "score": "9.2",
+    "review_count": "461 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/116064965.webp?k=b32ffb42679618353087fb7cf153edea16d58fd77aacda8a81f38f374550536c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brophys.html": {
+    "name": "Brophy's",
+    "location": "Kilkenny",
+    "score": "8.3",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360233990.webp?k=e8462be9d0d69a2e4027ae7418e3843af0a6bd3e57d7ef5d4f06423797a01ed9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/knockreagh-farm-cottages-kilkenny.html": {
+    "name": "Knockreagh Farm 3 Bedroom Cottages Opening July 2023 Same standard as existing cottages",
+    "location": "Kilkenny",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428128056.webp?k=0bbd7bd9293c851c818865a5c9144417709e943d96cb60a0d5cb8c1b2aecf277&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/alder-cabin.html": {
+    "name": "Alder Cabin",
+    "location": "Kilkenny",
+    "score": "9.3",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203119458.webp?k=a5f046d2d30cae9bd3a2ae37052ef84b507918e5c7758fd2828306079c3eb601&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-nore-river-house.html": {
+    "name": "The Nore River House",
+    "location": "Kilkenny",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142854269.webp?k=6ba004765cd786fec935336836cb1ab36f3fb1ef7c21ceb3b2744393f0208928&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lanigan-39-s-hostel-kilkenny8.html": {
+    "name": "Lanigan's Accommodation",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "8.3",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309509678.webp?k=7424be249ce88a97df637e698789d371e8b63af5a9b2ac0af54f598a9e49f14a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/annamult-country-house-estate.html": {
+    "name": "Annamult Country House Estate",
+    "location": "Kilkenny",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358560961.webp?k=5e742ab0df6ef06eed441583f0427799016ef03636e8fa49582949fecd597204&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carrigeen-glamping.html": {
+    "name": "Carrigeen Glamping",
+    "location": "Kilkenny",
+    "score": "9.4",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386378208.webp?k=c9494d0cddb4ae0a0dd921de0a5a794ed882d59f39c9f910ac69b60de79b4a6b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cozy-countryside-log-cabin.html": {
+    "name": "Cosy Countryside Log Cabin",
+    "location": "Kilkenny",
+    "score": "9.5",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374661748.webp?k=46b76afe9b4ee5a7c2887f8ea5ffd1df85262125daa01f8fa5f9c4dd62422158&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mcclure-yurt-at-carrigeen-glamping.html": {
+    "name": "McClure Yurt at Carrigeen Glamping",
+    "location": "Kilkenny",
+    "score": "9.5",
+    "review_count": "85 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186279903.webp?k=47259e05cae076eefe0a3e9b72e2b1d6ee655d06e67e66ad6ec9c0627654347b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/roberts-yard-country-cottage.html": {
+    "name": "Roberts Yard Country Cottage",
+    "location": "Kilkenny",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368003802.webp?k=ba43acecb26b22bfbba84608058df32b79b7433bc5685186ca5e46150620c8f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rodini-b-b.html": {
+    "name": "Rodini B&B",
+    "location": "Kilkenny",
+    "score": "7.7",
+    "review_count": "318 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/23454250.webp?k=71d5d77728d5cb551f8b645a5affbaa4aef0485906ae20155f847b168cae4226&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/queenies-lodge.html": {
+    "name": "Queenies lodge",
+    "location": "Kilkenny",
+    "score": "9.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343730461.webp?k=b3511067ca9bd583b84ef05634372e403e361c01dfc0d3fee50e4d3ea89532c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/city-center-hostel.html": {
+    "name": "City Center Hostel",
+    "location": "Kilkenny City Centre, Kilkenny",
+    "score": "6.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331304069.webp?k=922067c91bacdf18919bdb80f11178059b3e47787f1c5dd0a07decded982b70e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballybur-lodge-apartments.html": {
+    "name": "Ballybur Lodge Mews 1",
+    "location": "Kilkenny",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361637855.webp?k=b22a4554fd2a537ebfd8199b38cd8d656d98345881f675ea71014b3cc609f578&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-caravan-at-carrigeen-glamping.html": {
+    "name": "Cosy Caravan at Carrigeen Glamping",
+    "location": "Kilkenny",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354925610.webp?k=91a06bec86d5f0927393f31c2355038e8ecddeb0c1f2e9389ce554571ac36a5b&o=&s=1"
+  }
+}

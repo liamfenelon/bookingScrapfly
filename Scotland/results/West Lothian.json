@@ -1,0 +1,546 @@
+{
+  "https://www.booking.com/hotel/gb/the-vu-snugs.html": {
+    "name": "The Vu snugs",
+    "location": "Bathgate",
+    "score": "9.5",
+    "review_count": "147 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349307944.webp?k=5786c76537147d3c9df4bca9d655f5f15452905c3b1e9d0713a76e7b6bb9ecdb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fairway-bathgate.html": {
+    "name": "Fairway Hotel",
+    "location": "Bathgate",
+    "score": "7.1",
+    "review_count": "658 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/179891776.webp?k=253f61fce749e9cfcfaa74a0cbd24da4e05c5c258c7b8a0309246ebd16feee7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chain-runner.html": {
+    "name": "Chain Runner, Livingston by Marston's Inns",
+    "location": "Livingston",
+    "score": "8.3",
+    "review_count": "1,324 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109504998.webp?k=879d6b9a03eefcdb127d61b098026ac8f87144225d89b36d4bc10611f32f99a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cairnhotel.html": {
+    "name": "Cairn Hotel",
+    "location": "Bathgate",
+    "score": "8.2",
+    "review_count": "1,548 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199894407.webp?k=b9add8aeaeab28978092f57041dc76ae2bae11d6ae209b9d81adec65818e83b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-apartment-linlithgow.html": {
+    "name": "Central Apartment Linlithgow",
+    "location": "Linlithgow",
+    "score": "9.5",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388449795.webp?k=89254ae795d7478c5ccf8e5afc4fa4668858e32d969283a23a00ae19fdc516ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/houstounhousehotel.html": {
+    "name": "Macdonald Houstoun House",
+    "location": "Livingston",
+    "score": "7.7",
+    "review_count": "1,295 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/50805786.webp?k=810f5cea4c4194836d629ea24ca9cd7adfacff87c28918457d10332669ac925f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tarrareoch-farm-b-amp-b.html": {
+    "name": "Rooms at Tarrareoch",
+    "location": "Bathgate",
+    "score": "8.7",
+    "review_count": "175 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394082098.webp?k=938cb72ecce336747c151fcd5b78edeea75302a6a3acef07c97b055792d554a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/best-western-glasgow-livingston-hilcroft-hotel-livingston.html": {
+    "name": "Best Western The Hilcroft Hotel West Lothian",
+    "location": "Whitburn",
+    "score": "8.4",
+    "review_count": "496 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311477731.webp?k=69c821354467d5876db029c8b4840d8168dccaf2f721541cfb03aea42a04aa86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pentland-farm-cottage-annex.html": {
+    "name": "Pentland Farm Cottage Annex",
+    "location": "Kirknewton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433559824.webp?k=322cd8a2d98069a825a42cb2f63216a6a2eec15ee5b64ba4972ee765cde392bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pentland-farm-house.html": {
+    "name": "Pentland Farm House",
+    "location": "Kirknewton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428774211.webp?k=a89786ffab7a775ed7086685e0dc9518aa226a92fe6a555ec2461df42126fb1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easter-bowhouse-farm-cottage.html": {
+    "name": "Easter Bowhouse Farm Cottage",
+    "location": "Linlithgow",
+    "score": "9.0",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35543762.webp?k=c1059cd03d0d0d7206da28da2bf7ce59da6f521b2a5e64d4af30be48833c0c01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lochview-linlithgow.html": {
+    "name": "Lochview, Linlithgow",
+    "location": "Linlithgow",
+    "score": "7.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181602333.webp?k=d658f9e637306f4bb4939bb32e0d32a8f9540384421804d608a30e85816662a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-port.html": {
+    "name": "West Port Hotel",
+    "location": "Linlithgow",
+    "score": "8.0",
+    "review_count": "526 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213306325.webp?k=a546365e53da1d87a59812270921045b2365b418bb463a67627865911437e31d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/badgers-den-linlithgow.html": {
+    "name": "Badgers Den",
+    "location": "Linlithgow",
+    "score": "9.9",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/108086354.webp?k=0384a58fc1e331ccf8369cab8da966b0b12d143c538df53d2bee93c1bd1a16b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oatridge.html": {
+    "name": "Oatridge hotel",
+    "location": "Uphall",
+    "score": "8.0",
+    "review_count": "395 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127557805.webp?k=f0d36f0387f5629a481ddedce728b7dbfedfd967fdbc3aec1e44c66d9d45640d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/premier-apartments-broxburn-apartment-c.html": {
+    "name": "Premier 2 bed Flat C",
+    "location": "Broxburn",
+    "score": "9.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318884445.webp?k=556d14f0e8086802ddc85a1c125568cd413a09fe75be44bb480539b5856168a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/highfield-cottage-kirknewton.html": {
+    "name": "Highfield Cottage",
+    "location": "Kirknewton",
+    "score": "9.2",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170201637.webp?k=a048921879332328bfd900f61183ae4b73fd7deb6e72e24dfeceaea7779468a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/livingston-lodge-hotel.html": {
+    "name": "Livingston Lodge Hotel",
+    "location": "Livingston",
+    "score": "6.8",
+    "review_count": "548 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270982364.webp?k=42471477da836e5dfbc8aeeae5f0d3174865a19dca1cb7af30d4b3172845b9db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ramadajarvislivingston.html": {
+    "name": "Mercure Livingston Hotel",
+    "location": "Livingston",
+    "score": "7.0",
+    "review_count": "740 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246316072.webp?k=79b2312e3a8538308fda315d3942e2c3458c4b19ccee686b5bfce9be1a5c0e0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bathgate-handy-house.html": {
+    "name": "Bathgate Handy House",
+    "location": "Bathgate",
+    "score": "8.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328695727.webp?k=d21aef6d966c21ed36d48aeffdb597566969f92c886b581f915ade8664ec50a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/premier-apartments-broxburn.html": {
+    "name": "Premier 3 Bed Flat D",
+    "location": "Broxburn",
+    "score": "9.1",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318885316.webp?k=cb74b275db20ea9f055ba75391c04a60052926b8f7f884503eddbff0e134773c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/court-residence1.html": {
+    "name": "Court Residence",
+    "location": "Linlithgow",
+    "score": "9.5",
+    "review_count": "739 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/80793421.webp?k=9f8af255bb589c6570e9a67e9bccfc0668895d7f1cbf020dc698268147c25f5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bankton-house.html": {
+    "name": "Bankton House",
+    "location": "Livingston",
+    "score": "7.5",
+    "review_count": "125 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14132332.webp?k=ca8789d16e0d26b73da037bb6428c1c8b9c25c40e135947fbe165b19b8adfe98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nest-west-lothian.html": {
+    "name": "The Nest, Livingston",
+    "location": "Livingston",
+    "score": "9.7",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423100340.webp?k=bf3962690989bedf8cd6945f023fa1522fe968c483c0da1fa71273e7283395bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peaceful-shepherds-hut-in-beautiful-countryside-linlithgow12.html": {
+    "name": "Peaceful Shepherd’s Hut in beautiful countryside.",
+    "location": "Linlithgow",
+    "score": "9.8",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345775215.webp?k=520567bce8de7c4fb8dfd3c928539f3210c7dfd1906e65a58750fd35bea69730&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beech-cottage-at-williamscraig-holiday-cottages-west-lothian.html": {
+    "name": "Beech Cottage at Williamscraig Holiday Cottages",
+    "location": "Linlithgow",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413766676.webp?k=79c13c43d7c497106c06ad22fb8659ace146f70373267c4ce3845aca4037882c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eilean-donan.html": {
+    "name": "Eilean Donan",
+    "location": "Kirknewton",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418515083.webp?k=40e92aa129dce3b9b7c7668a486740bf437b405e8584e5ee54c48ff572ea1cd7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/linlithgow-apartment.html": {
+    "name": "Linlithgow Apartment",
+    "location": "Linlithgow",
+    "score": "9.2",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335078420.webp?k=7fe99ae933889eec1e308287cc76ae567bb36520954c94045aecfd31f7813731&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-neuk-west-lothian.html": {
+    "name": "The Neuk",
+    "location": "Uphall",
+    "score": "9.6",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217468297.webp?k=a76168ae813384276b3d3bb0579efee3d5e6d8f0ab22f002b962bac5118fb1f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheerful-4-bedroom-3-bath-house-perfect-for-long-stays-and-groups.html": {
+    "name": "Cheerful Stays - Livingston - 4 Bedroom 3 Bath home",
+    "location": "Livingston",
+    "score": "8.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358899761.webp?k=6dc7e5e54f6cc7862ff4d175abce6dec6eb59714f669446a696185051ac8d62a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hedgehogs-nest.html": {
+    "name": "Hedgehog's Nest",
+    "location": "Bathgate",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435581461.webp?k=d21c168549cdec0b93e05f9d667a81bee8a3d8ccdefa56c7231925dce301fad8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-elegant-2bd-scandi-style-duplex.html": {
+    "name": "Beautiful Elegant 2BD Scandi Style Duplex",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433974315.webp?k=3d7e791a0c923203a43293c93c9c2c32eb93cc4b55d193c19ba5ba0623cd1af2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-3-bedroom-home-with-large-garden-35-mins-to-glasgow-edinburgh.html": {
+    "name": "Beautiful 3 bedroom home with large garden 35 mins to Glasgow & Edinburgh",
+    "location": "Whitburn",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386041487.webp?k=34943997d2079799dfe1ed61751df992259602093e702ec071908e511c96def2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arden-country-house.html": {
+    "name": "Arden Country House",
+    "location": "Linlithgow",
+    "score": "9.7",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/72961485.webp?k=9bb2ce61eecc3f4cf4a52b7f5030566f69afd5bc27653f5811bc157277400359&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-queens-view-luxury-b-amp-b.html": {
+    "name": "The Queens View Luxury B&B",
+    "location": "Linlithgow",
+    "score": "10",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/128659302.webp?k=d8eb51c12089d85073b5b390453c6235eeae7a0d86e37701d804df4cc51433a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/knightsridge-house-apartment.html": {
+    "name": "Knightsridge House Apartment",
+    "location": "Livingston",
+    "score": "8.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215764036.webp?k=86edcc34ce3427d483675289446758cce6b182abd71e9c68d79abd28dc5c4c5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wheelhouse-linlithgow.html": {
+    "name": "The Wheelhouse",
+    "location": "Linlithgow",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392211091.webp?k=08fdabfdfb65333477742da26f1da8b8264f729bda535a76106797475a34d516&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oldwood-place-townhouse.html": {
+    "name": "Oldwood Place Townhouse",
+    "location": "Livingston",
+    "score": "9.3",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194848855.webp?k=03a1537bd570a8d0430715af25d31f06541874af2a3a584d2806524ee2f226d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/badgers-sett-bathgate.html": {
+    "name": "Badger's Sett",
+    "location": "Bathgate",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434410142.webp?k=2082d816838596eceef36dbc3e6f608741cab9d76349e07cc8c0b87241479039&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/couston-lakes-resorts.html": {
+    "name": "Couston Lakes Resorts",
+    "location": "Bathgate",
+    "score": "9.5",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310143889.webp?k=19f4ddeb9ad630e62ea33f2957042412220bf9fbcbce002831443352d567a06c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/falconer-rise.html": {
+    "name": "Falconer Rise",
+    "location": "Livingston",
+    "score": "6.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180145230.webp?k=1058d5bdbccb257faaf2401c050ca8e7a05efb1f4bef733384ecc9acc03e485c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/williamscraig-holiday-cottages.html": {
+    "name": "Rose Cottage at Williamscraig Holiday Cottages",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412989912.webp?k=41baa42a889b3ae5f777494a1db56fb83112e10b642fe55449bade8575545341&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tunturi-cottage.html": {
+    "name": "Tunturi - cottage",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408153205.webp?k=2f90c40dc86cea17bcd9f5dce4f127953bc585ee354e9630e6720fc418b919bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-cottage-linlithgow.html": {
+    "name": "Garden Cottage",
+    "location": "Linlithgow",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418128210.webp?k=3081d40afd9785fb9757f9e000b515393e4b7875079d15ec7ad04096071902f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/handy-dale-house.html": {
+    "name": "Handy Dale House",
+    "location": "Bathgate",
+    "score": "8.4",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111785318.webp?k=39d0fa3bcd88703bed782fba41eb9632bd949c61d439c03a38584ec0a9552543&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kelpies-serviced-apartments-campbell.html": {
+    "name": "Kelpies Serviced Apartments- Campbell",
+    "location": "Pumpherston",
+    "score": "8.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271390322.webp?k=bfa58071d5c703298ef871596bbd6597def1fa7d3f8c3f9a029ce9395953e460&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/strathspey-linlithgow-near-edinburgh.html": {
+    "name": "Strathspey",
+    "location": "Grange",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419018480.webp?k=17ea128e26e0d703ea0a4a751fa2f41f73ce122144a6e011fadfa0824230ae99&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gate-lodge-west-calder.html": {
+    "name": "Gate Lodge",
+    "location": "West Calder",
+    "score": "8.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211013845.webp?k=5c2860e320617a06800ca791264752f6cb850f305de78b4b0aee7c19cd330044&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-at-cauldcoats.html": {
+    "name": "The Cottage At Cauldcoats",
+    "location": "Grange",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393417814.webp?k=96ada30c7d6a7d01e9c56f527bcb0529b09cb8500236b260540c9fa65b4798e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carribber-beech.html": {
+    "name": "Carribber Beech",
+    "location": "Torphichen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392230589.webp?k=db216c1d98994d619f0f91ca858d9f27507e8d55a241ec986f01053266719a48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/livingston-4-bedroom-townhouse.html": {
+    "name": "Livingston 4 bedroom townhouse",
+    "location": "Livingston",
+    "score": "9.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100098761.webp?k=b9cf6e0f02c1788266e8410517910434b6ab8a151bd393ba1549c73c730fd366&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodfield-house-luxury-property-with-indoor-pool.html": {
+    "name": "Woodfield House luxury property with indoor pool",
+    "location": "Bathgate",
+    "score": "2.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403255978.webp?k=5a16d8d3c596c8c153070dd6b4e9607b145ffc1e3fa02654281287de11802937&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gate-lodge-linlithgow.html": {
+    "name": "Gate Lodge",
+    "location": "Linlithgow",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379691579.webp?k=7f732bab06564b45281d57dee7d197d2529cbb1696e872a37beacb4e9a005c20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-linlithgow.html": {
+    "name": "The Lodge",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399890668.webp?k=ad74cc4a2a1cac37230f3916d8aa884d3ebc1d8d5a12a9d3a869ab4f3c915c87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodges-thevu.html": {
+    "name": "The Lodges @TheVu",
+    "location": "Bathgate",
+    "score": "9.8",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393263923.webp?k=954ed3f03f4138579ddf5fa1447755a43bf1be77357d3d58f1a4f94ea329c11e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kelpies-serviced-apartments-kavanagh.html": {
+    "name": "Kelpies Serviced Apartments Kavanagh- 5 Bedrooms",
+    "location": "Bathgate",
+    "score": "6.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231254637.webp?k=8690974da5d633e81042ba256936b39d54635cb5a1b286b85f8712ad55bc98b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lothian-glamping-bathgate.html": {
+    "name": "Fox's Den",
+    "location": "Bathgate",
+    "score": "9.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350637948.webp?k=9a6203269728a00788da58fd9fe934489b4e39b37f2db59c7d6d5660ea20fa88&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ledi-cottage.html": {
+    "name": "Ledi - Cottage",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408152598.webp?k=688bcb0d51d422774d398718a25d982fc79a472a60c0dbd7aa14518a241c4847&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeysuckle-cottage-at-williamscraig-holiday-cottages.html": {
+    "name": "Honeysuckle Cottage at Williamscraig Holiday Cottages",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413817756.webp?k=b72953fe90ea2bcf3bd45b45ac5e2ec2ef33c95d8eca16e05a92656aee5dda5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/laurel-cottage-at-williamscraig-holiday-cottages.html": {
+    "name": "Laurel Cottage at Williamscraig Holiday Cottages",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413768987.webp?k=aa896d4142a204ffe631b397e1e4334b9aaa6cc9e5fab709b6f711b63186d586&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hares-warren.html": {
+    "name": "Hare's Warren",
+    "location": "Bathgate",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435585628.webp?k=c38b28632fd9bcdd4a92b4f5eae8532ea087dbd5c11530e53c92e54b49b45202&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-eden-at-williamscraig-holiday-cottages.html": {
+    "name": "1 Eden at Williamscraig Holiday Cottages",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413811177.webp?k=d7c5e2df03c7aaa3f09166f350d1ff13304a0d88e6d09e6439bf5fc2c0165fa5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/petronella.html": {
+    "name": "Petronella",
+    "location": "Grange",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418933170.webp?k=f85618dc240376147927b57c5876827a6d228f055bcd746714205f03cb4c5f95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lingston-ideal-commuter-house.html": {
+    "name": "Livingston Ideal commuter House",
+    "location": "Livingston",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/68652696.webp?k=afa47c5c447434e8783e7443b019944066797ee9128cb3a70932939e7c95fb68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alban-linlithgow-near-edinburgh.html": {
+    "name": "Alban",
+    "location": "Linlithgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398126654.webp?k=a757eac4c4c90c8a6cdd38f0c80c5087f0e5f0e27ac99597e4b3476da0e9b66d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayloft-balerno-near-edinburgh.html": {
+    "name": "The Hayloft",
+    "location": "Blitterlees",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418589723.webp?k=a59410f83ebfb4161bc02c6b7d96396006e75b0d4cb51f9a17ad9b624ecc657e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/veleta.html": {
+    "name": "Veleta",
+    "location": "Grange",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419625297.webp?k=892c29aac5aa6fa2089e93ecc43275844271d8b5e458420152667346b6e6790e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-haymakers.html": {
+    "name": "The Haymakers",
+    "location": "Grange",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418191103.webp?k=744438603f09508940da1c389018a811fc6c0a91f418bc53192d06b50321823e&o=&s=1"
+  }
+}

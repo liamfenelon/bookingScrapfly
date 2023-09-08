@@ -1,0 +1,3402 @@
+{
+  "https://www.booking.com/hotel/gb/the-waterfront-anstruther.html": {
+    "name": "The Waterfront",
+    "location": "Anstruther",
+    "score": "9.0",
+    "review_count": "1,143 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427721629.webp?k=ca2f7517d36ee46619f9bb8946471e97cf16995c9fd3064982a8d1eef830c4b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-sound.html": {
+    "name": "Sea Sound",
+    "location": "Cellardyke",
+    "score": "9.4",
+    "review_count": "88 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148089591.webp?k=b90f886c22bb725eb3f6606d378596b23f3e2b6a6f7b43221bcf2ec40b05a8b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/adamson-hotel.html": {
+    "name": "Adamson Hotel",
+    "location": "Dunfermline",
+    "score": "8.1",
+    "review_count": "2,005 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91645491.webp?k=2bfedae9ef19f34ecc201b318a1cde077728ce107fa8093e4b3c9565ee62b7ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-arran-st-andrews.html": {
+    "name": "The Arran, St Andrews",
+    "location": "St. Andrews",
+    "score": "9.4",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372392139.webp?k=ed6c2e282261c11fc29910823332803af2f5f72e97c2fa08243cd035caffc1c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gilvenbank-glenrothes.html": {
+    "name": "The Gilvenbank Hotel",
+    "location": "Glenrothes",
+    "score": "7.7",
+    "review_count": "662 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402056874.webp?k=8c1119bf1bad153282ff0d824d49f7e9c8caad3918a59d7f7b7ecac476fe16c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-city.html": {
+    "name": "The City Hotel",
+    "location": "Dunfermline",
+    "score": "8.1",
+    "review_count": "959 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343059750.webp?k=0a0ff7536779cb2e866da83aeaecd13e3ad9b8606b5bcfb078a9eedb7b2fcfad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roomsatbrucestreet.html": {
+    "name": "Rooms at 1703",
+    "location": "Dunfermline",
+    "score": "7.7",
+    "review_count": "895 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297294662.webp?k=a0e5925935660d243fca0b01fd10027717b71828c79fc8c13454a3ce7dcf930f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-albany-st-andrews.html": {
+    "name": "The Albany St Andrews",
+    "location": "St. Andrews",
+    "score": "8.3",
+    "review_count": "1,013 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219756029.webp?k=7ca6a362e939e0b0574d25be3598551e9e1b498b06acea5fecbdaba9af83ed4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/auld-mill-house-bar-and-restaurant.html": {
+    "name": "Auld Mill House Hotel",
+    "location": "Dunfermline",
+    "score": "9.0",
+    "review_count": "697 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213734199.webp?k=d43e8b1d7e576fedab48d1b66bc5baef16c690343d97c5171b01c56bd2472640&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/russackshotel.html": {
+    "name": "Rusacks St Andrews",
+    "location": "St. Andrews",
+    "score": "9.0",
+    "review_count": "1,422 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319488603.webp?k=3085dbffe2fa6861ab48127cf3cc7001ccc34bb4faf2990763bf690af044137c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dreel-loft.html": {
+    "name": "The Dreel Loft",
+    "location": "Anstruther",
+    "score": "9.2",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/98948746.webp?k=39936339ccd1c916e5b15506faa34205d1a212809bc6b17d04c6285a48b57465&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/adamson-court-st-andrews-2-bed-apartment.html": {
+    "name": "Adamson Court, St Andrews - 2 bed apartment",
+    "location": "St. Andrews",
+    "score": "9.8",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342618623.webp?k=0d063f231386c056dc84a825b8d101343c8d263d942453168744dbf01f24e413&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookingscorushoteledinburghnorth.html": {
+    "name": "DoubleTree by Hilton Edinburgh - Queensferry Crossing",
+    "location": "North Queensferry",
+    "score": "8.7",
+    "review_count": "2,329 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/133392794.webp?k=0ab43d9c52607c705affc4631fb1e56b034244c2b2cff426135720216a23e300&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sweet-chestnut-by-marston-39-s-inns.html": {
+    "name": "Sweet Chestnut, Dunfermline by Marston's Inns",
+    "location": "Dunfermline",
+    "score": "8.2",
+    "review_count": "1,305 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303744148.webp?k=2bd2ad6bd1449a994013a1a82a2aa759e1b1c1b6dd6aea5c4a23e96829a9f365&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gables-crail.html": {
+    "name": "The Gables",
+    "location": "Crail",
+    "score": "9.1",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/182415451.webp?k=4c621f21fdd8e4eadba9ab3215ff480b3e0e20d52c1ad9bf5a8ea101d8d2b4d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/34-harbour-place.html": {
+    "name": "Boutique Coastal appt nr Edinburgh",
+    "location": "Saint Davids",
+    "score": "9.4",
+    "review_count": "141 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/184889161.webp?k=081bdd49b4b0e369d241685a4a90f5842ef664d094cdfd392be069789e8c9c7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-3-bedroom-house-by-the-sea.html": {
+    "name": "COASTAL COTTAGE ideal for golf, walking and cycling",
+    "location": "Kingsbarns",
+    "score": "9.5",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335003098.webp?k=341bfa2c6a533a6803712b8a9a93e7117f4a60b5c714d84ba927297ebb523555&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beach-house-walk.html": {
+    "name": "Beach House Walk - Home from Home",
+    "location": "Crail",
+    "score": "9.4",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95857992.webp?k=f38046632cf2b4cebcc5159686ffc0f49b1d87edd9be7e7234554ad4d0901883&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/expressbyholidayinndunfermline.html": {
+    "name": "Holiday Inn Express Dunfermline, an IHG Hotel",
+    "location": "Dunfermline",
+    "score": "8.3",
+    "review_count": "1,067 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234526373.webp?k=ac4291780311307db4d39f4c686d7ff2f30737cff08a84d03e148858b7c2da83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-upper-largo-amp-restaurant.html": {
+    "name": "The Upper Largo Hotel & Restaurant",
+    "location": "Lundin Links",
+    "score": "8.7",
+    "review_count": "545 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/72081846.webp?k=005b2abd592c05e3590ad777d56cb2818afc191d95b45ad0380906413d7a08de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tom-morris-drive.html": {
+    "name": "Tom Morris Drive",
+    "location": "Fife",
+    "score": "9.3",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207816430.webp?k=56223f14911fabf677c741eb32ff475df60f374c6021dc77638c7db68752c2c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ardgowan.html": {
+    "name": "Ardgowan Hotel",
+    "location": "St. Andrews",
+    "score": "8.0",
+    "review_count": "1,638 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/105399635.webp?k=f9e6f4a628e478bb80f74c54b066af7158ebaf5f42f55d5f44f8750772846c75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cairns-fife.html": {
+    "name": "The Cairns Leven Fife",
+    "location": "Fife",
+    "score": "8.8",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388793118.webp?k=bd9827c99c556f35aa5bf6227f0aecd00e5bafaa6b24308be5cb7a1a18e7352e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beveridge-park.html": {
+    "name": "Beveridge Park Hotel",
+    "location": "Kirkcaldy",
+    "score": "7.3",
+    "review_count": "876 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269590913.webp?k=61b1e0d7b6fcd595f4813abc7d53058222c4a973faba589ec06c5900def92e01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ogstons-on-north-street.html": {
+    "name": "Kinnettles Hotel & Spa",
+    "location": "St. Andrews",
+    "score": "8.1",
+    "review_count": "570 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283366279.webp?k=e6914adcc06343485808a7b4a9092fd47f262048061dc5f14de083c4e44406ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coal-house.html": {
+    "name": "The Coal House",
+    "location": "Townhill",
+    "score": "9.5",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210080196.webp?k=27978c21e9d024b328e8ffa2c1b8185914037e476c6594f844a58d12be5d7b92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-roundal.html": {
+    "name": "The Roundal",
+    "location": "Crail",
+    "score": "9.2",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356705006.webp?k=9582d8a4968c95c14f5e7b837dc8252905d9c37f049d918ebbd1059bdef1d935&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quaint-cosy-bolt-hole-in-cellardyke.html": {
+    "name": "Quaint, cosy bolt hole in Cellardyke",
+    "location": "Cellardyke",
+    "score": "8.3",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340599315.webp?k=c3743380364f1533a0577f1f066975a54b1f956407d64c5c148cb2edcf89ef1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cupar-burgh-chambers.html": {
+    "name": "Cupar Burgh Chambers",
+    "location": "Cupar",
+    "score": "9.1",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158325949.webp?k=bb6c0d73ea0b0352104f674f46c27e1001292ca80a4490ba927ed0aa0b1f5b57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/birrel-house.html": {
+    "name": "Carvetii - Borthwick House - Ground floor flat",
+    "location": "Kinghorn",
+    "score": "7.8",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217448310.webp?k=118192456db168a91f1489e507e4315e488667c3c043c50a1bd234fd4d34d893&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oldcourse.html": {
+    "name": "Old Course Hotel St Andrews",
+    "location": "St. Andrews",
+    "score": "8.8",
+    "review_count": "1,338 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417054816.webp?k=a49b8c7ba25662b8d806bfe88d584b9c15611e80d74e2fe0489a907f3339e713&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-covenanter.html": {
+    "name": "The Covenanter Hotel",
+    "location": "Falkland",
+    "score": "8.7",
+    "review_count": "399 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262320527.webp?k=d12f628ba4ad2a32cba24f96081bc6b7e145461b5fb8dd3d66b34057d1560376&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pitbauchlie-house.html": {
+    "name": "Pitbauchlie House Hotel - Sure Hotel Collection by Best Western",
+    "location": "Dunfermline",
+    "score": "8.5",
+    "review_count": "918 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352100380.webp?k=118985a5b4cc8521780bfe78a2406e3c6899827583eb5fadc910031ea7397058&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wee-neuk.html": {
+    "name": "WEE NEUK",
+    "location": "Cellardyke",
+    "score": "8.9",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224177118.webp?k=b3478c0b643fa7c8fa06b906a0bcf5f1978953e2e498c801f1bdbd55972ecf89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/22-school-park.html": {
+    "name": "The View, 22 School Park",
+    "location": "Kingsbarns",
+    "score": "9.7",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208337831.webp?k=c1a359bd1ba0b63b10ecbaa78ed025c0ab13ed8a3cf4b8760a0a6d2efc775506&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/at-the-bay.html": {
+    "name": "At The Bay",
+    "location": "St. Andrews",
+    "score": "9.1",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356852021.webp?k=fa3c0df6678bc0b28eb1e39643c78367e5edd3adaa4c02e871e1a4915de0d16a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/allardyce-kincardine.html": {
+    "name": "ALLARDYCE",
+    "location": "Kincardine",
+    "score": "9.5",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302124797.webp?k=c58eb955ed37a7e8fb0e2dbf0b3d1087e7b4b27ea685782ec4d2e656e32f90db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-studio-at-maspie-house.html": {
+    "name": "The Studio at Maspie House",
+    "location": "Falkland",
+    "score": "9.8",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253841648.webp?k=5ffd16fc57e8e6fe083868348284ef88feaa9e796a94e0d89c55b0265444b308&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-house-amp-garden-short-walk-to-town-amp-beach.html": {
+    "name": "Lovely house & garden, short walk to town & beach.",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427337402.webp?k=8e172c5f9782f4b494a2a979a7aa469d3db27e83381140169fe6bdd7a633870b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/braeside-4-beds-sleeps-7-garden.html": {
+    "name": "Braeside - 4 Beds - Sleeps 8 - Garden",
+    "location": "Fife",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419594916.webp?k=daacc97fad9c7ac669937d6dc24b1fc598f5d8da64c60d2932f215de5255aede&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-lovely-3-bedroom-house-in-centre-of-elie.html": {
+    "name": "Pass the Keys Lovely 3 Bedroom House in Centre of Elie",
+    "location": "Elie",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344315137.webp?k=2ab20d806b1e0fd17a00b365ebc48ab3c7f57c176f14055420d2311c9b3a1b08&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-esta-anstruther.html": {
+    "name": "Sea Esta",
+    "location": "Anstruther",
+    "score": "9.3",
+    "review_count": "113 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114130433.webp?k=64a2f6b2dfa625f9afa8f2a333841b24f6e21c0f59d28142978d3514c4a62c8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-breeze-anstruther.html": {
+    "name": "Sea Breeze",
+    "location": "Anstruther",
+    "score": "9.5",
+    "review_count": "85 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293064320.webp?k=34eb9961f7b5bac725dc1f146646c3b183431862ce80b5a8913632b05fe74438&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/banners-house-markinch.html": {
+    "name": "Banners House Hotel",
+    "location": "Markinch",
+    "score": "7.9",
+    "review_count": "486 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289693273.webp?k=275b3af11d0f7a45c7b9a39eef301c75b1cda7d1ce596aeb55ed8836dd2d444e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sandyhill-st-andrews.html": {
+    "name": "Sandyhill, St. Andrews",
+    "location": "Fife",
+    "score": "8.5",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258152663.webp?k=f74d0bf4267505888d810694f32eaea9a6c334e5e1373abeecd025ec08355774&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-station-guest-house.html": {
+    "name": "The Old Station Guest House",
+    "location": "St. Andrews",
+    "score": "9.1",
+    "review_count": "324 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/141662407.webp?k=53006681b70c51007f4dd57ffc4d215d7a27000af9fd4e859ea17c14951a1925&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-town-house-in-the-heart-of-st-andrews.html": {
+    "name": "Two bedroom town house in the heart of St Andrews",
+    "location": "St. Andrews",
+    "score": "8.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370765505.webp?k=8132244905a3f8e008246cd5e34c7f5cea3188435cd54c74516d9bcfe1ed6dce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daisybank-kingsbarns-beautiful-3-bedroom-cottage.html": {
+    "name": "Daisybank Kingsbarns - Beautiful 3 Bedroom Cottage",
+    "location": "Kingsbarns",
+    "score": "9.3",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417431701.webp?k=3a9ad0c246c2ff9e2be065f6a745917ecc1ad39fd6905919b90f3f02382cda76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-chandlery-pittenweem1.html": {
+    "name": "The Old Chandlery",
+    "location": "Pittenweem",
+    "score": "9.2",
+    "review_count": "79 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246169515.webp?k=12f37d6487d45a1d82ecee7442da159de2954710aa71eaccb6a156c748faf756&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ochill-8.html": {
+    "name": "Ochil 8",
+    "location": "Kelty",
+    "score": "8.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296681254.webp?k=e47cb720a079ece684fc29f98ab530b5b28f1415ba89e4e3cdaed47c913d1dac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-60-crail.html": {
+    "name": "Courtyard at Crail",
+    "location": "Crail",
+    "score": "9.6",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280223445.webp?k=c42c0acb2d3907610439cb4639c43ffab6f19d878c36293af1d296c1fab65f5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-andrews-bungalow.html": {
+    "name": "St Andrews Bungalow",
+    "location": "Fife",
+    "score": "9.0",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284394312.webp?k=891850749e652d9efe07f8c68bc8a2a8d99ff6c6dbb9b3d357e95ab45a7d2d89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greyfrairs.html": {
+    "name": "Greyfriars Inn by Greene King Inns",
+    "location": "St. Andrews",
+    "score": "8.4",
+    "review_count": "1,140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/153534830.webp?k=8c122fb61b1fbb8de4597d859698b1fe97d74e136a1a45c68e2eedfb63c8731d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-paint-shop-apartment.html": {
+    "name": "The Old Paint Shop Apartment - Centrally Situated",
+    "location": "Anstruther",
+    "score": "9.2",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306444076.webp?k=6480fbd93d5d5367cf78abc6ae68c04942e0f585f5e9fc5ee58b0e52023e1cdb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-merchants-house-pittenweem.html": {
+    "name": "The Merchants House",
+    "location": "Pittenweem",
+    "score": "9.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249521232.webp?k=4438fcde70bb77d1805247b16a25a20beb1b98e1fd1bb0eb7e4d6a2f65e41641&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-neuk-anstruther.html": {
+    "name": "The Neuk Anstruther Sleeps 6 Fantastic Location",
+    "location": "Anstruther",
+    "score": "9.1",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408096468.webp?k=fa462a0df57653de87d8c4e2eab064ed254bf4ce7fa6f0c7f856a947e1e0c8fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quirky-cottage-in-the-heart-of-st-andrews.html": {
+    "name": "Quirky Cottage in the Heart of St Andrews",
+    "location": "St. Andrews",
+    "score": "8.3",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424874185.webp?k=c0ca48ee8749689496a4c70fb3e01f40c79f9b7ab9b3aba15aa5ca3f9ec458f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-hollies.html": {
+    "name": "Sea Hollies",
+    "location": "Aberdour",
+    "score": "9.6",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330661989.webp?k=5d16645e18b57cee6befa007bd047f68dd1951162afb46d402215cfa3c922047&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coastal-cottage-cellardyke-anstruther.html": {
+    "name": "Coastal Cottage - Cellardyke Anstruther",
+    "location": "Anstruther",
+    "score": "9.4",
+    "review_count": "95 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275540685.webp?k=0ff52603915843e7e3a9f35b227afb9d2c748558ca08facf0db374ade1537b09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/david-russell-hall-campus-accommodation.html": {
+    "name": "David Russell Hall - Campus Accommodation",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79641965.webp?k=f31547e47e7be2d64d63af57b72e753248127ea13bb0372996f7e27be6dfb551&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/poppy-39-s-place.html": {
+    "name": "Poppy's Place Cupar",
+    "location": "Cupar",
+    "score": "8.6",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165125112.webp?k=2f4aca8b828c808f89c060950516b5edb004e8d1dc8e8fa73352c929edf25618&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-strathearn.html": {
+    "name": "The Strathearn",
+    "location": "Kirkcaldy",
+    "score": "8.2",
+    "review_count": "422 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112972616.webp?k=93b57038b5df3ca2b4eb294b625f5ba083f094ee2329931f6636cced1d740a05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-view-kinghorn.html": {
+    "name": "Sea View",
+    "location": "Kinghorn",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406393030.webp?k=001e6492e3238405f86b7ebafd71ff0aa0a7d6aa7d6619411c720daab85b6174&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/limekilns-and-bistro.html": {
+    "name": "Coorie",
+    "location": "Dunfermline",
+    "score": "9.2",
+    "review_count": "670 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268545512.webp?k=3c7cfbf7fb46f68c6d70d01194e61135b75ef29ec06838396bb170d92d8c2c1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flemings-yard-fantastic-town-house-in-anstruther.html": {
+    "name": "Flemings Yard - Fantastic Town House in Anstruther",
+    "location": "Anstruther",
+    "score": "9.4",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344316725.webp?k=dbd95f891b0d4a5dca6b532f320ad509051b8f6bf742a91f527c0e4fa1d9ab30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cutty-sark-cottage.html": {
+    "name": "Cutty Sark Cottage",
+    "location": "Kirkton of Largo",
+    "score": "9.6",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177199416.webp?k=bdaeef3728af34c1aba1832282310cade802075e78fbdeb57df9daea26f4f5cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bay-and-bridge.html": {
+    "name": "Bay and Bridge",
+    "location": "Dunfermline",
+    "score": "9.6",
+    "review_count": "195 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158798846.webp?k=2d2cd5e6c53142b5fbbe9fc10d1f4eb170a2b42b282ab2759c70464881366526&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-apartment-at-ravenscraig-castle-and-park.html": {
+    "name": "Faodail, 1 Bed Studio apartment at Ravenscraig Castle and Park",
+    "location": "Fife",
+    "score": "9.5",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305300124.webp?k=cbdffe0ac7deaed17cd6cb2d92f706d76758ae2a2c8bcfaa43a5cc6814912476&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-5-bellyeoman.html": {
+    "name": "'No.5' Bellyeoman",
+    "location": "Fife",
+    "score": "9.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314657482.webp?k=02aa918ee59bd06afe4fdff45425afcc2f1994740000fdf76ff3960b60143185&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-the-old-stables-the-loan-anstruther.html": {
+    "name": "Pass the Keys The Old Stables, The Loan, Anstruther",
+    "location": "Anstruther",
+    "score": "8.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344314956.webp?k=a02bf6588bff6777c9dadd1a2bfb40d919fee701522cd561f4d1640f4cba97b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-love-shack-ceres.html": {
+    "name": "The Love Shack nr Elie & St Andrews",
+    "location": "Ceres",
+    "score": "8.8",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146924013.webp?k=99a7b15e18716ffc7ea52106f6a4bc995e736208fc26e9b6bbfdc6f589b05b89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-doocot-colinsburgh.html": {
+    "name": "The Doocot",
+    "location": "Colinsburgh",
+    "score": "9.6",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140351026.webp?k=41328f03b1e57afc31a8e6bb5076d9ab6e1eee0c5a508d4e58f1e9643d715e0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-property-in-a-fantastic-location.html": {
+    "name": "Beautiful Property In A Fantastic Location",
+    "location": "St. Andrews",
+    "score": "9.5",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213231001.webp?k=8c2f681b637b724d036bc1da19154f483b8ea1fd791fd0d1edbe1b998cb69a72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/remarkable-2-bed-loft-apartment-in-anstruther.html": {
+    "name": "The Loft - Remarkable 2-Bed Anstruther Apartment",
+    "location": "Anstruther",
+    "score": "9.6",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351198998.webp?k=77a9e3c6ca7d07a88c47178fadc14819be33eab3f713ae1e41aceaaca4e1fb23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seascape.html": {
+    "name": "Seascape",
+    "location": "Lundin Links",
+    "score": "9.5",
+    "review_count": "276 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15072043.webp?k=a3666c8f0cd3cbde9b6fbd504fa42447459943e1d7e0b86c6c82313c781f531b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-cottage-by-the-sea-in-the-middle-of-crail.html": {
+    "name": "Charming cottage by the sea in the middle of Crail",
+    "location": "Crail",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348924055.webp?k=40d5cb1fb0e4dd1844144203c6192b624548f35f99b46448be91c29b1fd2846d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/radernie-place-3-bedroom-house-sleeps-6.html": {
+    "name": "Radernie Place - 3 Bedroom House - Sleeps 6",
+    "location": "Fife",
+    "score": "8.3",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417491775.webp?k=bf2d4890d56d78a46aa915fd01a0fbcdc4376a4c8a10900af433d01f3e87e85f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pitlessie-inn-and-pantry.html": {
+    "name": "Pitlessie Inn and Pantry",
+    "location": "Pitlessie",
+    "score": "9.2",
+    "review_count": "320 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264407769.webp?k=166c93e9e4084fa202049bff45244dcb8d3960045793801a98b2631e983f7ec4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/towerwell.html": {
+    "name": "Towerwell",
+    "location": "Newburgh",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378417455.webp?k=4738df4dd7f4ab47a44c815cc13b14da5d18d8b51fb8cb147df79f794ac35e19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wee-room-stay-where-all-st-andrews-is-on-the-doorstep.html": {
+    "name": "The Wee Room -Stay Where All St Andrews is on the Doorstep!",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435797128.webp?k=881a8f23c0a2e9b5559445f94a87320eb5a0b091d70bad7ef4fa22528f173f49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/b-amp-b-at-37.html": {
+    "name": "B&B at 37",
+    "location": "Anstruther",
+    "score": "9.8",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154191486.webp?k=21312710a257ffdd1710e696082f8f4f5c743e99622e332db68fddb8428cb1c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-luxury-newly-refurbished-3-bed-house-in-st-andrews.html": {
+    "name": "Pass the Keys Luxury Newly Refurbished 3 Bed House in St Andrews",
+    "location": "St. Andrews",
+    "score": "8.6",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277595942.webp?k=01670b4cd7e31a19ddfe5fff130bde423a9e1af3a1a1b786b441ca5169368422&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-inn-at-kingsbarns.html": {
+    "name": "The Inn At Kingsbarns",
+    "location": "St. Andrews",
+    "score": "9.2",
+    "review_count": "239 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348479786.webp?k=387e3efaa3cb5ff1a04032a22c8d13dbd452c9d036f7275225a080e279a5713f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-howff-stunning-2-bed-apartment-in-anstruther.html": {
+    "name": "The Howff - Lovely 2-Bed Apartment in Anstruther",
+    "location": "Anstruther",
+    "score": "9.7",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331958980.webp?k=d9c34ad01617a18cbe412230101db6f9b35b16f0af285c316109894eb9c1d8fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-weebothy-by-cupar.html": {
+    "name": "Redlands Country Lodge Log Cabin Apartments & WeeBothy",
+    "location": "Ladybank",
+    "score": "9.7",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249140813.webp?k=1017bc3cc58dc902b6057dbdbf030647c58df1aba568bc727848be084fa2e789&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/at-anchor-with-a-harbour-view.html": {
+    "name": "At Anchor (with a Harbour View)",
+    "location": "Fife",
+    "score": "8.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415485532.webp?k=9c2c5eb14b8ddb469e5832fe0fa309a8c8025784d077c5885a2e2ff6196c8729&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kate-kennedy-apartment.html": {
+    "name": "Central St Andrews 2 Bed Apartment - Free Parking",
+    "location": "St. Andrews",
+    "score": "8.1",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197391775.webp?k=3cdef6355ab9f7cafc7a24c5dfdd04e6f4543de639e3680bd753aa16e5a933ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-spindle-b-amp-b.html": {
+    "name": "The Spindle Guest Rooms",
+    "location": "St. Andrews",
+    "score": "9.3",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96496480.webp?k=988aad4fdc92f6d11442d101280703bf9089651dd6da2af32dafddf7eb608d0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mchoppity-house-crail-sleeps-7-free-parking.html": {
+    "name": "McHoppity House Crail, Sleeps 6, Free Parking",
+    "location": "Crail",
+    "score": "8.1",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194565567.webp?k=b9c48df2ff5f100c659e481ab194915169bc70be30da32c9adf58fb08697e187&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kilconquhar-castle-esate.html": {
+    "name": "Kilconquhar Castle Estate",
+    "location": "Kilconquhar",
+    "score": "8.1",
+    "review_count": "1,367 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59472367.webp?k=f111048954473f7e86180e589e69f2614a1ba955c2a74324d02ab91ce56f8ce7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-view-apt-stunning-river-tay-views.html": {
+    "name": "Bridge View Apt - stunning River Tay views",
+    "location": "Fife",
+    "score": "9.3",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221194847.webp?k=cd87dea6dea78b6eafc81be9cea6d6f0d45213e9948941e9ce6de5832b2cad34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-new-inn-fife.html": {
+    "name": "The New Inn",
+    "location": "Fife",
+    "score": "7.7",
+    "review_count": "143 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300213512.webp?k=2d4e4372649cbedfc3c4b1a8d17896becae8ca418af1bb2f9973f846a19ce141&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lorimer-house.html": {
+    "name": "Lorimer House",
+    "location": "St. Andrews",
+    "score": "9.4",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294672032.webp?k=f114dd52657402313cbb120010da8f441d34400a6ac1277fbb5386e4e5bfb68c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ochil-10.html": {
+    "name": "Ochil 10",
+    "location": "Kelty",
+    "score": "8.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237300071.webp?k=e24832c6c572630a51b5a4c256158aeea41d289f4800e4db76abc84a9d48ceb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/converted-steading.html": {
+    "name": "Converted steading",
+    "location": "Kingsbarns",
+    "score": "8.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373332135.webp?k=d52e20752a3bd9f53ecbfb58289b1ce758c2e221898ec60427a7445f5397a80d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-place-elie-perfect-for-the-beach.html": {
+    "name": "Park Place Elie, Perfect for the beach",
+    "location": "Elie",
+    "score": "8.6",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417407331.webp?k=82347ef3456de42f5f29aae9d47cfd91048eec95e229da8be9bc2c43dbeba2b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/helena-cottage.html": {
+    "name": "Helena Cottage",
+    "location": "Elie",
+    "score": "9.6",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360510674.webp?k=ada0ca1dc68bacc54380cd48f2b8f206143797cbff32cd928d316f32f7ec9b39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ruin-at-maspie-house-gallery.html": {
+    "name": "The Ruin at Maspie House",
+    "location": "Falkland",
+    "score": "9.7",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253839391.webp?k=052eead9fc6b4e51ee2ace1b9e0cf8d8526b3d993de78135d076607f66dbb45d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jaymar-fife.html": {
+    "name": "Jaymar",
+    "location": "Fife",
+    "score": "9.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387293404.webp?k=66913893857eeac7650448c820e3e05fc187e575f5c61acd923d832137e5dc4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mini-cooperage-1-bed-1bath-near-harbour.html": {
+    "name": "The Cooperage Garden Apartment - 1 bed-1 bath - near harbour",
+    "location": "Crail",
+    "score": "8.8",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417423665.webp?k=2cad10b0567e5b240c59a95c99ee342bcee0e132d94194da6f4fd73b2a21fc36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/balcomie-links.html": {
+    "name": "Balcomie Links Hotel",
+    "location": "Anstruther",
+    "score": "8.7",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389132138.webp?k=18783bf8d385223a6e0cd8ac326a0ab4b45e5150ba17f72690aa04c96d0f6388&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gibson-place-15-secs-to-the-old-course-parking-nearby.html": {
+    "name": "Gibson Place - 15 Secs to The Old Course: Parking Nearby",
+    "location": "Fife",
+    "score": "9.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354255171.webp?k=5cde81aa51ff42cd83e57ccf8283a3657c2a76f2726f6cdf48d2f0bc9cad6ef1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lookout-cellardyke.html": {
+    "name": "The Lookout",
+    "location": "Cellardyke",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361890923.webp?k=b2a5d3a982ed91ef6c29f3e4591baa5b097216b7b2d7e006185e52ef03d8eab3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-guest-house.html": {
+    "name": "Lomond Guest House",
+    "location": "Leven",
+    "score": "9.3",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150930732.webp?k=a64a62b938705e15d07ff48e92942f0e3953dd35d20f20d3a782ec84593967a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/helens-lea.html": {
+    "name": "Helens Lea",
+    "location": "St. Andrews",
+    "score": "8.9",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418980424.webp?k=e586f455e22fcd735d4e41522dd127af4c6590947a3410c51bff52a5dcc64f5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-smiddy.html": {
+    "name": "Castle Smiddy - 27900",
+    "location": "Ceres",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418483599.webp?k=6d9ab0e28e25662721ce4d8c64ea608a5dcac83ccb700567a17f5d5fce051551&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-guildhall-and-lininen-exchange.html": {
+    "name": "The Guildhall and Linen Exchange Wetherspoon",
+    "location": "Dunfermline",
+    "score": "8.1",
+    "review_count": "1,064 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/61986869.webp?k=10a87c45095e10aa3bbb7c33733db2b90f91f166ab92f461aeb4523ecf209b51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-apartment-st-andrews.html": {
+    "name": "The Garden Apartment",
+    "location": "Dunino",
+    "score": "8.3",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185416773.webp?k=4c6f04dc6689c47a0ea5d7bbae50ccf3fa1bbdf17e551ab23ff013d72bcbf50b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-house-pittenweem.html": {
+    "name": "The White House",
+    "location": "Pittenweem",
+    "score": "9.0",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189299604.webp?k=8464187487b80bdca3262b32e8951f9981ff7db7d2b0d93d221a098889bd7efd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-1-bed-apartment-in-newburgh-scotland.html": {
+    "name": "Stunning Apartment in Newburgh Scotland sleeps 4",
+    "location": "Cupar",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393863056.webp?k=333da83c94e4d95ab44ec94d11e2c469ca07566546d48b9b3ecc975522e9e7ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cantrip-cottage.html": {
+    "name": "Cantrip Cottage",
+    "location": "Cupar",
+    "score": "9.7",
+    "review_count": "250 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82189229.webp?k=63e7378e887a1116801fdc1d88df1569e1aa636a14ad808370b99f9499163fc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beech-walk.html": {
+    "name": "Beech Walk",
+    "location": "Crail",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416828954.webp?k=96be282e33e4ad72c3eb371c2ba48e651ad78bc2caf09a538c8f06c9e4afd8e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-124.html": {
+    "name": "Apartment 124",
+    "location": "Fife",
+    "score": "9.3",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327331535.webp?k=1684a5b00ed125ac068ddb40273444adc659ff04b95d23987b66d4eaf6fd3bd4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dean-park.html": {
+    "name": "Dean Park Hotel",
+    "location": "Kirkcaldy",
+    "score": "8.9",
+    "review_count": "398 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274190418.webp?k=00c911180a42356213f6c22c8aebcaba4d22323b3cc3da8d47a1550a1db41225&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crail-maltings.html": {
+    "name": "The Crail Maltings",
+    "location": "Crail",
+    "score": "9.3",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412837999.webp?k=1d62a147bdc2098069b5a017ee77c27b404c81b83fc6e6971609e61733dc83c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/murray-library-hostel.html": {
+    "name": "Murray Library Hostel",
+    "location": "Anstruther",
+    "score": "8.8",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65458293.webp?k=d1081784fecf9e36ecf8b42247f5ffd224a590fce14f2d4f1b9d83b91167f0a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-sailmakers-loft.html": {
+    "name": "The Sailmakers Loft",
+    "location": "Anstruther",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392546973.webp?k=8b95f99c0d605124c86ba36068f8200f23353fb59e8f19f232a19c723083377f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/david-russell-apartments.html": {
+    "name": "David Russell Apartments - Campus Accommodation",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27256632.webp?k=d7105843e9b4642bf46ab040b313b41a3d1abe160453e58e0a48536d5e7eed93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/anstruther-bedrooms-2-sleeps-6.html": {
+    "name": "Tucked Away - Seaside Home in Anstruther Sleeps 6",
+    "location": "Anstruther",
+    "score": "9.0",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332303172.webp?k=cf5cdbb30c3fce04807e3e27cbb05aa1594a53875f197f57f962181a0c99f79d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-16-guesthouse.html": {
+    "name": "The Coastal Inn",
+    "location": "Cellardyke",
+    "score": "9.7",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417055214.webp?k=51c78f2d93245df834ef59557af49688b56a8412741302b6d2c2156dec4d78f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pittenweem-harbour-may-view-pittenweem.html": {
+    "name": "Pittenweem Harbour Location - Sea Views",
+    "location": "Pittenweem",
+    "score": "8.7",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415253104.webp?k=debef3c4744cca74b20e54a7e29b6abc80cdb6f0cbaf9ed4fcb723aea876501a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-captain-39-s-lookout-cosy-house-with-sea-views.html": {
+    "name": "The Captain's Lookout - Cosy House with Sea Views",
+    "location": "Anstruther",
+    "score": "8.6",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415255785.webp?k=c4d61375a853afa7bf17ef92e64cf525078b39333bb577b5df744e98737c294b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westview-house-3-bedrooms-central-parking.html": {
+    "name": "Westview House - 3 Bedrooms - Central - Parking",
+    "location": "St. Andrews",
+    "score": "8.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417428882.webp?k=1a21a00818b19172f8d64bd8e81dd92a93db3c99b42b63ca8108df1597b2bea8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-holliday-villa-cellardyke.html": {
+    "name": "New Holliday Villa",
+    "location": "Cellardyke",
+    "score": "9.0",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290117334.webp?k=11891aea2376386500e671e8d3eb5abe2f3fe68d2643d2968577323956194efc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberdourhotel.html": {
+    "name": "Aberdour Hotel, Stables Rooms & Beer Garden",
+    "location": "Aberdour",
+    "score": "8.3",
+    "review_count": "514 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3349636.webp?k=0f047a4eeb0356c54430b2a5334d810be7e53b87f21ce3276d97b0083154cbe0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardinals-folly.html": {
+    "name": "Cardinals Folly",
+    "location": "Kinghorn",
+    "score": "9.6",
+    "review_count": "208 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/105502160.webp?k=0bfccf99f48666ac4217126aeec50a98bbedba5a000818686a52c1514d050b40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inviting-2-bed-apartment-in-anstruther.html": {
+    "name": "Little Acorn - 2-Bed Anstruther Apartment",
+    "location": "Anstruther",
+    "score": "9.5",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328319890.webp?k=412ccaf776221c895295c4926a15983e46a3ee4aa588b98228f15a6fb1698c20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/altido-greenknowes-farmhouse-retreat-7-bed-with-hot-tub-and-bar.html": {
+    "name": "ALTIDO Greenknowes Estate - Retreat With Garden, Parking and Hot Tub",
+    "location": "Kelty",
+    "score": "9.4",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300866028.webp?k=279e7b96ca65f0e8024957780c3fba87893af82707fcbddcf73fb9a7e2a5ecef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bank.html": {
+    "name": "The Bank",
+    "location": "Anstruther",
+    "score": "8.6",
+    "review_count": "413 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119928620.webp?k=dcd8c386506631be7b3bae463750376c9aa14fac38bc98dd462ffd6d69c2e146&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fantastic-three-bedroom-property.html": {
+    "name": "Fantastic three bedroom property",
+    "location": "Cellardyke",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370811371.webp?k=b1228d2e901ac70a3b6f12f562c5e1859ac4945da6415beefa67f75247678101&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-lodge-st-andrews.html": {
+    "name": "Garden Studio Apartment St Andrews - Free Parking",
+    "location": "St. Andrews",
+    "score": "8.2",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189907680.webp?k=910af91908066cc884d878726a38ddf7eccc05ce37ac087619394e015d1a6574&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cross-keys-market-street-apartment-sleeps-6.html": {
+    "name": "The Cross Keys Market Street Apartment - Sleeps 6",
+    "location": "Fife",
+    "score": "9.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419590041.webp?k=49ddc58f6754843527924b3425a12f237a59f9a042c44220da16d15db20a7913&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-converted-bungalow.html": {
+    "name": "Beautiful Converted Bungalow",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423676482.webp?k=20227b0052f7a5a5ef4bba61e8c86102d66c275b4afb8705f897189b0c0d5f3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garvock-house.html": {
+    "name": "Garvock House Hotel",
+    "location": "Dunfermline",
+    "score": "9.2",
+    "review_count": "586 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92642497.webp?k=4010c2ea1f1dda789322c51239b51d1896120a3ec3638ed858004ec0bbe266c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-road-holiday-home.html": {
+    "name": "Park Road Holiday Home",
+    "location": "Rosyth",
+    "score": "8.2",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/191296750.webp?k=4b7d897925fad7bc9000e4bcf30b060ef8f860f6b88983b4b7fa3071897b2f84&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/susies-place.html": {
+    "name": "Susie's Place",
+    "location": "Elie",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372013127.webp?k=10f6732d7dc733c7988a430d7eb95178e5030acd9d48afccfbcd9c8a48bc6057&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/troustrie-house-b-amp-b.html": {
+    "name": "Troustrie House B&B, By Crail",
+    "location": "Crail",
+    "score": "9.6",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300752144.webp?k=09f7bc10b673c794d4d3398464919434fdad4f3361aa8dbb0847a187ddd5aefe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chilowen.html": {
+    "name": "Chilowen",
+    "location": "Inverkeithing",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436847819.webp?k=ee3a24fa340d80ee13870b5ba2ac00bc7c0267d321e8eeb3027bdec62586d184&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brae-cottage-dairsie1.html": {
+    "name": "Brae Cottage",
+    "location": "Dairsie",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343525429.webp?k=c9192106cc62fdc0a7c2043674cca05ec0032691fbb56ecb0df5acbd0e4f81df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-loft-2-bed-central-close-to-castle.html": {
+    "name": "Castle Loft - 2 Bed - Central - Close to castle",
+    "location": "Fife",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417424814.webp?k=4c0b42e1fe99da82b04ef685b04cff6f494aac1f80d270e59a86cdce887f9d43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-vinery.html": {
+    "name": "The Old Vinery",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382416167.webp?k=ac80ed2dc48de5b604b605a6aaef6b365ef926900c9e90a348f2daadc79ec212&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pinewood-country-house.html": {
+    "name": "Pinewood Country House",
+    "location": "Leuchars",
+    "score": "9.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383826852.webp?k=12629d871a4c1cffb8100265387d6693c85e70fca49d96d5f262d92bfe8672ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/keavilhousehotel.html": {
+    "name": "Best Western Plus Dunfermline Crossford Keavil House Hotel",
+    "location": "Dunfermline",
+    "score": "8.2",
+    "review_count": "1,105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338323906.webp?k=7b88aff53bacdb3e332961d52c64442f55159d7a17fd31db56d66a4da7f64217&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pipeland-loft-central-parking.html": {
+    "name": "Pipeland Loft, Central, Parking",
+    "location": "St. Andrews",
+    "score": "9.1",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417425651.webp?k=58a74b3ccde4d7b416e6622364d2b730949c9a27b1530ed3fc72b099a420ce83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-superb-3-bedroom-cottage-with-sea-views.html": {
+    "name": "Pass the Keys Superb 3 Bedroom Cottage with Sea Views",
+    "location": "Anstruther",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347635250.webp?k=0a3418dd9abfd360a0a9845e9866e8601c6105f04dcc11ab4a03fcacf90f0b2b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/11-rodger-street.html": {
+    "name": "Smugglers Loft",
+    "location": "Anstruther",
+    "score": "9.3",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386559622.webp?k=8a8314c64bc40d9f106d5261afb358c2273774b247ac82655de4621f770acee2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-st-andrews-apartment-5-mins-to-old-course.html": {
+    "name": "Luxury St Andrews Apartment - 5 mins to Old Course",
+    "location": "St. Andrews",
+    "score": "7.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419592527.webp?k=543f0e89dc3d2dad850edad9ab0c540bc50ba121e7321e6d2b13b04f152f679f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no12-bed-and-breakfast-st-andrews.html": {
+    "name": "No12 Bed and Breakfast, St Andrews",
+    "location": "St. Andrews",
+    "score": "9.2",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207999884.webp?k=441afa1bb542f7413c6846afd73cab7df39071729e044a1b1724b30616c43848&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-balcony-apartment-in-st-andrews-parking.html": {
+    "name": "Luxury Balcony Apartment in St Andrews - Parking",
+    "location": "St. Andrews",
+    "score": "8.7",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419639943.webp?k=66b3a4b6b55ee4867c50bf71cf63d059a4678268eb4ca316fde62283a07ff973&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-andrews-town-apartment.html": {
+    "name": "St Andrews Town Apartment",
+    "location": "St. Andrews",
+    "score": "7.3",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291258651.webp?k=38b3c51b16b27d18258c8306e4029125a5c273917683d399f4b7cf3610d73bbe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wee-hauf.html": {
+    "name": "Wee Hauf",
+    "location": "Crossgates",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/68729443.webp?k=cf783064d7d645e5efaeafce860273454723c703bdc46067a1b8c9e527710212&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/windsor-gardens.html": {
+    "name": "Windsor Gardens",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382416503.webp?k=1af13c5000644c8127c0cbd84635416a9788add19b2524000877216f33b1b15a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/madeira-in-fife.html": {
+    "name": "Madeira In Fife",
+    "location": "Pittenweem",
+    "score": "8.5",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307715022.webp?k=a6cff3b48236b68f7d6cbe3001df7d001a2695c7ef6d00054d7c55f0f04117ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-west-port.html": {
+    "name": "Rooms at the Saint",
+    "location": "St. Andrews",
+    "score": "9.1",
+    "review_count": "369 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151806752.webp?k=38d3891b95e14c657554ed30fa06df012ddddf4a51f5fda02e50f1041fca7d01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glenrothes-central-apartment.html": {
+    "name": "Glenrothes Central Apartment",
+    "location": "Glenrothes",
+    "score": "7.8",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/93007943.webp?k=fb4b2e2ce3bb9becc3ff8cf7db940a71e840a87c9301325f7fdd662d0e534a50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/anchor-house-pittenweem1.html": {
+    "name": "Anchor House",
+    "location": "Pittenweem",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377879086.webp?k=c87b64d24cf9c64bb2d8edbfd49b95cb65a961a619ba6b2a2c67c095e4bc9106&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/6-bedroom-home-newton-manor-house.html": {
+    "name": "6 Bedroom Home - Newton Manor House",
+    "location": "Fife",
+    "score": "9.4",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279218971.webp?k=92af22375fdfe7c9fb75565aeb20328f2c11efdc4bef8282c5a9b3d18f5b92b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/44-argyle-street-fife1.html": {
+    "name": "44 Argyle Street - 2 Bed-1 Bath - Central",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417412119.webp?k=e24b2adb8040e7fbfcbbf4f7ae31c52b93e088bc8a1ff124f1260d0eab19de4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seascape-cottage-crail-near-st-andrews.html": {
+    "name": "Seascape Cottage",
+    "location": "Crail",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419016834.webp?k=ced1d0aa85c91c7b438025107f77689b0f16c5ca1f9da589742bda490edb40c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sharps-close-2.html": {
+    "name": "Stunning Shore Front house in historic Cellardyke",
+    "location": "Anstruther",
+    "score": "8.7",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312832048.webp?k=e8c0a916b84a341e82ab57ad146dca723b9393349adf41e185bdb66dafb04cfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/anastasias-secret-cupar-swiss-alpine-style-apartment.html": {
+    "name": "Anastasia's Secret! Cupar Swiss Alpine Style Apartment",
+    "location": "Cupar",
+    "score": "9.0",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363692090.webp?k=915477e5fb2596b5a8f0ffbff77392d524bfa11d6679df9b5a730adb580740a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewarts-resort-lodge-31.html": {
+    "name": "Stewarts Resort Lodge 31",
+    "location": "St. Andrews",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387976790.webp?k=eb92d662529b94f07dd614f17083c4f273a2bcb54e54f5d7e95b7de46af5485e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seahorses-crail.html": {
+    "name": "Seahorses Crail",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430887593.webp?k=0222b7c312842a7cf8d3a4e3334eeea855a63663d084864623db3659fd6b7b0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chalet-loch-leven-lodge.html": {
+    "name": "Chalet Loch Leven Lodge",
+    "location": "Ballingry",
+    "score": "8.9",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337487600.webp?k=7010b04d0165662d13ebc45b84d73ffa71252091acdaebd3f9aa1b26f528c13e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/21b-melbourne-place-apartment.html": {
+    "name": "21 Melbourne Place Studios",
+    "location": "St. Andrews",
+    "score": "7.8",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208073428.webp?k=d94fd3ec8cd5e4cc59f0cfaa97a9ad5b22a817f0f9f4baa50f70fe706f60d1cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horseshoe-cottage-freuchie-near-cupar.html": {
+    "name": "Horseshoe Cottage",
+    "location": "Fife",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416813790.webp?k=92d458714c3378ccc642ef7130fe69e95b5bac80458bab9aacb151bffb6abf0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/off-grid-travel-at-cambo-estate.html": {
+    "name": "Off Grid Travel at Cambo Estate",
+    "location": "St. Andrews",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404212442.webp?k=767f96f3ca1f3599f19a595061f135e8adbdd31b49cfed657ef3fb0fa9ce2769&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bothy-st-andrews1.html": {
+    "name": "The Bothy - An Oasis 5 Mins to St Andrews",
+    "location": "St. Andrews",
+    "score": "8.6",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419636685.webp?k=abbf287e5ead1e4701ff0daeca1219b71bd58d8517f1ba81314d30aad97787af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-3.html": {
+    "name": "Lomond 3",
+    "location": "Kelty",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237309801.webp?k=3ef78b949ae3b55e0806f7ee38557e95c0ccd44e4f7ced3415c2aa0fb7c16d05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/altido-the-south-lodge-at-balcarres.html": {
+    "name": "ALTIDO The South Lodge at Balcarres",
+    "location": "Colinsburgh",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357396273.webp?k=a77eb06ac1d0adf3d817697ff912b1a687d3e2dae82a933ace9eb7d767cbfee2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burntisland-garden-apartment-fife-40-mins-to-edinburgh.html": {
+    "name": "Burntisland Garden Apartment, Fife - 40 mins to Edinburgh",
+    "location": "Burntisland",
+    "score": "9.4",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302032349.webp?k=b63054e9e0c2ce49d1b68f7c34c498567e18b5098b4da648af5d4a70ce8f20ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carvetii-edward-house-b-2-dbl-bed-1st-floor-flat.html": {
+    "name": "Carvetii - Edward House B - 2 Dbl bed 1st floor flat",
+    "location": "Dunfermline",
+    "score": "8.6",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234821421.webp?k=a32fed1f194ba84dc390a880fafadc0886f6492b54941b1c6407b3835fbd38de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pilmour-place-30-seconds-to-the-old-course.html": {
+    "name": "Pilmour Place - 30 Seconds to the Old Course!",
+    "location": "St. Andrews",
+    "score": "8.3",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415251376.webp?k=59336b78b9ac5f22bca2adb2565bb118aa13ef3981b4e2038527dca371cf4a46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/annsmuir-park-the-oakley.html": {
+    "name": "Annsmuir Park-The Oakley",
+    "location": "Ladybank",
+    "score": "9.6",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305722271.webp?k=d75049c610be58c8e723e4fd6dac057eb5ce503f1b46d7477e608a459b99f4e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-view-coastal-apartment-newport-on-tay.html": {
+    "name": "Apartment 'Invertay' Newport on Tay, 15 Minute Drive to St Andrews Golf",
+    "location": "Fife",
+    "score": "9.3",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295813867.webp?k=1fb3e64efba278dd7c387506e4185dc95c2e7d496c1893b2426b4e4d6369a102&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-1-apartments-st-andrews-st-marys-place.html": {
+    "name": "No1 St Andrews - St Mary's Place",
+    "location": "St. Andrews",
+    "score": "9.2",
+    "review_count": "617 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300980655.webp?k=9d429c663783f40b2f7fb23bb57c4b50240a8c908a3d6b8670d07558a495d086&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/achaniar-cottage.html": {
+    "name": "Achaniar Cottage",
+    "location": "St. Andrews",
+    "score": "8.7",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415251416.webp?k=c5cdc5c54bf445120c578ec7796c57d751f7c429cfd4619504c7f57600f3efa1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mandela-house-apartments-kircauldy-fife.html": {
+    "name": "Mandela House Apartments",
+    "location": "Kirkcaldy",
+    "score": "9.0",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299324867.webp?k=ec4f35a6a0c3e2dfc186afb5f5bc8a56f22574fc2714615692e7de38041c78c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ugly-duckling-fife.html": {
+    "name": "Ugly Duckling",
+    "location": "Fife",
+    "score": "8.5",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363404768.webp?k=9e48f3abc3f5ef7c4d86828330e9f7ef48395266cd7596067aeebd56d1dfb49d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-greyfriars-apartment.html": {
+    "name": "The Greyfriars Apartment",
+    "location": "St. Andrews",
+    "score": "9.6",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107536233.webp?k=da2c95ff3c5aaf2144e419616b4f21cd00eef9df6712fdc7b72ce621d9ac9a6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/guardbridge-2-bedroom-apartment.html": {
+    "name": "The Eden Mill Residence",
+    "location": "St. Andrews",
+    "score": "8.0",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247839590.webp?k=41a666ac35dd0d1ece1caf5459d5b992f109b5c2739eade8383de04a29158ca6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-house-amazon-m90-dunfermline-edinburgh.html": {
+    "name": "3 bedroom house Amazon M90 Dunfermline Edinburgh",
+    "location": "Fife",
+    "score": "8.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343967414.webp?k=67625951ea6a78c5589f47170c5eb1c2811473e20132b28dbbd66b960cac993f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oswald-house-kirkcaldy.html": {
+    "name": "Oswald House Hotel",
+    "location": "Kirkcaldy",
+    "score": "7.7",
+    "review_count": "247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227430109.webp?k=91fc69e159c0de3fd4eba70395cddad4503c00f59b533173782acb8fe4dced66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/letham-3-bedroom-house-sleeps-6-log-burner.html": {
+    "name": "Letham Place - 3 Bedroom House - Sleeps 5 - Log Burner",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407426675.webp?k=270c1847f0f5a0ce3515b36381edaca4e2b7bf5868f92f6201e80920a269eb9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/key-house.html": {
+    "name": "Key House",
+    "location": "Falkland",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393604069.webp?k=7d35aa0c1b067fac1d06fa54a9bedd9585fd1d25733294e49a06343a75034eda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greyfriars.html": {
+    "name": "22 Greyfriars Grove",
+    "location": "St. Andrews",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368649129.webp?k=5875008fd9afabd22e07a47573f7277bef7c22a11f1164e34b003e91cb9d0b76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-view-apartment.html": {
+    "name": "Lomond View Apartment",
+    "location": "Ladybank",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397287154.webp?k=d6aa3c9c4c2a9809f8fcd59d5a5e8bcfa39f895cd5de84c1db5d99b68767b257&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/balmungo-cottage.html": {
+    "name": "Balmungo Cottage B&B",
+    "location": "St. Andrews",
+    "score": "9.9",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255574439.webp?k=95aedf954b4a354ce95aac1b7e15068ca97dbdd315da1a0738a7ae7c8aac0e2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easter-kincaple-farmhouse-sleeps-16-st-andrews.html": {
+    "name": "Easter Kincaple Farmhouse, Sleeps 16, St Andrews",
+    "location": "St. Andrews",
+    "score": "9.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417408160.webp?k=2e1dcccd0973bbac97188d1d4f20dd47fa13a976cada639aa669fd3108fd394e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-house-free-parking-central.html": {
+    "name": "The Garden House, Free Parking, Central",
+    "location": "St. Andrews",
+    "score": "8.9",
+    "review_count": "74 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415251348.webp?k=94ed5b47da963e26211376af497f2711167318bea377fd6311756132b5470406&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maisie-cottage.html": {
+    "name": "Maisie Cottage",
+    "location": "Fife",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416800568.webp?k=87e4f9676b4048fc1f9fa2b9e35da44683265bccde974588e6b8c9847301d762&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burntisland-sands.html": {
+    "name": "Burntisland Sands Hotel",
+    "location": "Burntisland",
+    "score": "7.9",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142398523.webp?k=0b19526424ffc496f46c8db3de26cf38f57a8b58700f6c0f79d3b386c04d5fdc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunfermline-larch-house.html": {
+    "name": "Dunfermline - Luxury 3 bedroom 2 bathroom detached house with garden",
+    "location": "Dunfermline",
+    "score": "9.3",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205769071.webp?k=f22bc41fb8c30ecf78000ed51f05bec9dee8f2c40e20f6b51f6054c88c10daf7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-bedroom-house-in-the-heart-of-st-andrews.html": {
+    "name": "4 Bedroom House in the Heart of St Andrews",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365348157.webp?k=bd6bb3997e050a5e15466f6fb071980996ab64e2f478174fe87da56f3d9d439b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burnside-st-andrews.html": {
+    "name": "Burnside",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418899468.webp?k=10d5e8f0c2a226f8601cdeed51bb63e3adfb0ac56d88ee9f07daa68529d12646&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/neuk-hoose-crail.html": {
+    "name": "Neuk Hoose, Crail",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421015723.webp?k=bfacf944a32de5920dff567d42ce66a2d1388603cd820f400bb667ae6ad5b058&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lawhead-house-5-bedrooms-47-2-bathrooms-garden.html": {
+    "name": "Greentiles - Spacious House - Extensive Garden - Convenient Location",
+    "location": "St. Andrews",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417427608.webp?k=bf95778887e07368c02c7a1904be51a0ada644eac71426e676e485ac6cccf27c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilton-wynd-apartment.html": {
+    "name": "Hilton Wynd Apartment",
+    "location": "Rosyth",
+    "score": "8.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267569012.webp?k=7617adaa370ab60c667063209b852eda04f08cb88784044ce0c322aab2ec8786&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-elbow-room.html": {
+    "name": "The Elbow Room",
+    "location": "Kirkcaldy",
+    "score": "8.9",
+    "review_count": "331 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/64407745.webp?k=4d7fd8c985bc3d8c66ea8019e960af09d8b60d2195b463af8a0415e3b0255a76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-kate-kennedy-apartment.html": {
+    "name": "The Kate Kennedy Apartment",
+    "location": "St. Andrews",
+    "score": "8.6",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344420780.webp?k=1ff9ee498b0718e04f397ab167dddb5c6318e91d12c352844662ce521dd52a19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-golf-crail.html": {
+    "name": "The Golf Hotel",
+    "location": "Crail",
+    "score": "7.6",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/58009662.webp?k=36e940b955b1d5d6b882bc46842b5f1639a5c106ae08b757140f4d73b905edf4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/golfers-dream-100-yards-to-old-course-parking.html": {
+    "name": "Golfers Dream, 100 yards to Old Course, Parking",
+    "location": "St. Andrews",
+    "score": "8.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415255377.webp?k=4e4dbd78225aaad674f0d8aced34c27924837e5ad6512b4d84291a156adf538a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-sands-neuk.html": {
+    "name": "East Sands Neuk",
+    "location": "St. Andrews",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399790192.webp?k=b0cd5b0faf28ce28b2ce0e389d44abd5871cd789da2fef8accf3ef29341cd064&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-doctors-den.html": {
+    "name": "The Doctor's House Central with Street Parking",
+    "location": "Fife",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415089127.webp?k=59849d64a389fbb884f7116ba677d0edf6f383ac2fd5ecb5f38a3ed37d966d15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/isimi-scotland-apartments.html": {
+    "name": "`isimi- Modern 2 bed Flat- Free Parking",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426192455.webp?k=bb47adaa8a46573771ba55fda68558afb8037cb12b72efa2b03f03569b0dda81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fox-house-dunfermline.html": {
+    "name": "Carvetii - Fox House - 1st floor flat sleeps up to 8",
+    "location": "Dunfermline",
+    "score": "7.5",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264887569.webp?k=6dae4b8be207a4bbac1201a1051964b8dde22e595825c81e3e9f31a1e5519519&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heritage-quarter.html": {
+    "name": "Heritage Quarter",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424932650.webp?k=49043ccb9cc1944a6fb2c20cb1387fbac4815f96d25b92149f1584604b951c50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pittenweem-harbour-apartments-may-view.html": {
+    "name": "Pittenweem Harbour Apartments - May View",
+    "location": "Pittenweem",
+    "score": "9.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415252919.webp?k=a815bc302594b33c3e44e1158ff0e8e3905568b568d2a4c452458d74eb2e66df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-elie-beach-house-south-st-with-sea-view.html": {
+    "name": "Beautiful Elie Beach house,South St with Sea view",
+    "location": "Elie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419888630.webp?k=b937b4a4ea67c68ea18bdbd1928ced214e2e149918383f75629938c27ff89a3f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wellpark-corner.html": {
+    "name": "Wellpark Corner",
+    "location": "Markinch",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428330091.webp?k=c674804c285a6963d98e04b6b2df7c4ffa4ab600fb85fa17d1aed09ad76185f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/balmungo-house-garden-apartment.html": {
+    "name": "Balmungo House; Garden Apartment",
+    "location": "St. Andrews",
+    "score": "9.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372193861.webp?k=38b681e33f26ed48776ae53e481663052695d662ca7af47148ccbed3356805ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-shepherds-cottage.html": {
+    "name": "The Old Shepherd's Cottage",
+    "location": "Pitlessie",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436646236.webp?k=6621f81479e44b0b5d6ca3fdcbd1f1901201e1ddbd2e59b2df4e67db134200c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/muir-park-cottage-5-mins-to-st-andrews-parking.html": {
+    "name": "Muir Park Cottage , 5 Mins to St Andrews , Parking",
+    "location": "St. Andrews",
+    "score": "9.1",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415250324.webp?k=17ef8a9f09cf3c676e71206f0469d6ba7a5ec453bf61e957dd07916cbf55f1c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kittocks-corner.html": {
+    "name": "Kittocks Corner",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382415674.webp?k=6c20a6b599465589cf6eaeddf46b1f58302d8303c9e4508f6fe67caf00230b4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cradle-cottage.html": {
+    "name": "Cradle Cottage",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382418544.webp?k=16635b20b995b981ae2c8db7cdfe3a73b197c4c28f6f4c49abb8ac015d32663a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/20-south-castle-street-2-bed-1-bath-central.html": {
+    "name": "20 South Castle Street - 2 Bed/1 Bath - Central",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419593163.webp?k=88b0d229b3f75551abc43c737d804074de62fcde2880ee28493264d3730ce4d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-6.html": {
+    "name": "Lomond 6",
+    "location": "Kelty",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237473560.webp?k=dd357e0552b3ccdfc3a1517aed99b571bc2e979514ef3c714a57c8123a0868d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedroom-apartment-in-fife.html": {
+    "name": "Lovely 2 bedroom apartment in Fife",
+    "location": "Fife",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424448326.webp?k=4be04e4d69b26b4cfb961fd4a0d0a0be25639805c1d2862e51519b22565d4b72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/self-contained-luxurious-feel-apartment.html": {
+    "name": "Self-contained luxurious feel apartment",
+    "location": "Dunfermline",
+    "score": "8.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327318840.webp?k=886cfad6ed18178f0faca7400935f64ec75c69b19687214a426a01e4f0f69930&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/low-tide-cellardyke-near-anstruther.html": {
+    "name": "Low Tide",
+    "location": "Cellardyke",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419043279.webp?k=0d02bf96a325e3b06dad46c753ea52bded34bb855528a2e7c094aa2dfe1f8f5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/edenwoodend-cottage.html": {
+    "name": "Edenwoodend Cottage",
+    "location": "Cupar",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418412188.webp?k=df9f15e9efdac1cc9c94a9fd34e228eff7e7c06c4ec17d06f805feb02e98c9ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-southgait-hall-central-2-bed-apt-with-parking-st-andrews.html": {
+    "name": "2 Southgait Hall - Central 2 Bed Apt with Parking",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384326675.webp?k=00202ee0d243934ef8a5acff38605bee37dbeb2539c79dddc8a535ce15277514&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-garden-sea-view.html": {
+    "name": "The Cooperage - 2 Bedroom, 2 Bathroom with Garden",
+    "location": "Crail",
+    "score": "8.3",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417429555.webp?k=5f0bb64b2e1a5f7df07bb7886b817421d61292e884e401a1bf3a3c890dfddad9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/prime-commuter-executive-apartment-dunfermline.html": {
+    "name": "Prime Commuter Executive Apartment Dunfermline",
+    "location": "Dunfermline",
+    "score": "9.0",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156750407.webp?k=9a0e41889994c9171769c5e11195308a81d92af7e388c2dd2552d7a8ea2badce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-bridges-waterfront.html": {
+    "name": "Three Bridges Waterfront",
+    "location": "North Queensferry",
+    "score": "7.9",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370445134.webp?k=7f1d79ff7fbe000f47f70620af5fca6b984dbfa42e068abd119bce0b17b0d08b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kilrymont-crescent.html": {
+    "name": "Kilrymont Crescent",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382419229.webp?k=5c7791ae58a0238fefa6ea2ee29039eaf751f90221ee44148f2212ab2f653830&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/captivating-2-bed-apartment-in-kirkcaldy-kirkcaldy1.html": {
+    "name": "Captivating 2-Bed Apartment in Kirkcaldy",
+    "location": "Kirkcaldy",
+    "score": "8.4",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284622318.webp?k=bad73a43b64ce023ac3014e4cef6d8cf594d95c3d1d476dd1d5fd9ffbfba2071&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/52a-north-street.html": {
+    "name": "52a North Street",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382415389.webp?k=d7aebb31f3dd2647455fd56b96431ee04becc6a53440fab231eb9db076ce82e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtyard-apartments.html": {
+    "name": "Courtyard Holiday Apartments",
+    "location": "Inverkeithing",
+    "score": "8.2",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337253102.webp?k=8cf35b2a308faa203cac928c1972ca8379b4e4ba4e752138afd93d1b7e5390fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-inn-at-charlestown.html": {
+    "name": "The Inn At Charlestown",
+    "location": "Dunfermline",
+    "score": "8.7",
+    "review_count": "561 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274583520.webp?k=2882d09b33baf5658f7325cfdc93545587a64e9558d8037829a366632595e1a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterfront-luxury-apartment.html": {
+    "name": "Waterfront luxury apartment",
+    "location": "Kinghorn",
+    "score": "8.1",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316594915.webp?k=3c21ff4bbda573ff7bc428cc57de7bbe31fa3648507e23d50b837d369ee17ab0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/denbrae-cottage-west.html": {
+    "name": "Denbrae Cottage West",
+    "location": "St. Andrews",
+    "score": "9.3",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/172350274.webp?k=f61ee9bc927d4539cc5fe6e37d81192a626cb6b84bcf2ef0733a53f70f78af80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/montague-guest-house.html": {
+    "name": "Montague Guest House",
+    "location": "St. Andrews",
+    "score": "8.8",
+    "review_count": "241 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368608639.webp?k=79418d0d0dea88f31a6ddd0ea0aa3dda7e983968638992483d72309e541bf04c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-boiler-room.html": {
+    "name": "The Boiler Room",
+    "location": "Cupar",
+    "score": "10",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407967142.webp?k=82eb4887b6d651ab2d1c6cddc2a41771f01b81c0b75e15fabadbd52eeaba6cca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crow-39-s-nest-pittenweem.html": {
+    "name": "The Crow's Nest",
+    "location": "Pittenweem",
+    "score": "9.4",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240182987.webp?k=400d31da90a4d7dcae661459ca8d4089cb9fc94d56a15b06e7297ff958f70aac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/buckthorns-house.html": {
+    "name": "Buckthorns House",
+    "location": "Leven",
+    "score": "9.0",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190053830.webp?k=bddea6942c596900cce879dc692c8dd3db4df1cd763a2deaf1311d96c793d25d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-farm-steading-5-mins-to-st-andrews.html": {
+    "name": "Stunning Farm Steading - 5 Mins to St Andrews",
+    "location": "St. Andrews",
+    "score": "8.3",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415252404.webp?k=405b335e639954bd30cf17a367f68ef302e2f51fd1d956cdfe7ea1a1f06e775a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bedroom-home-a-perfect-base-for-golfers.html": {
+    "name": "Modern 3 Bedroom home. A perfect base for Golfers",
+    "location": "Ladybank",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421404419.webp?k=4099f59ebd61bce27bdfaa06ad219ad56cdf499a7b35170da8b81eddb8cc0248&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/magnolia-near-the-old-course-sleeps-4.html": {
+    "name": "Magnolia - Near The Old Course - Sleeps 4",
+    "location": "St. Andrews",
+    "score": "8.6",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419593032.webp?k=e1f6f862ee9d569f649f89d3fc99682766c1dfc3c686c00a5b400745ed191e16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caledonia-house.html": {
+    "name": "Caledonia House",
+    "location": "Rosyth",
+    "score": "8.8",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377048556.webp?k=e898a875938b0c97aa2b8c8f0cc4dce2745587508c7d8d2cf27805085d7fa462&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhum-cottage.html": {
+    "name": "Rhum Cottage",
+    "location": "Cupar",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280944769.webp?k=27fded1709839500dad759e356ea165a4d294535ca35c8b46a5eccb89a26b347&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-studio-apartment-dalgety-bay.html": {
+    "name": "Dalgety Bay Luxury Studio Apartment",
+    "location": "Saint Davids",
+    "score": "9.8",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268370076.webp?k=995c4c612c58d6d9267ef40968a1898b7f960abf3c0da11a7a8591b662be82fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shore-view-fife1.html": {
+    "name": "Shore View",
+    "location": "Fife",
+    "score": "9.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370252852.webp?k=7cfdb5e9ef77f02e12cc852bff945fa8e3b6463d33bb133732f7881e82f48e4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-200-year-old-listed-cottage-near-to-st-andrews.html": {
+    "name": "Cosy 200 Year Old Listed Cottage Near to St Andrews",
+    "location": "Markinch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416468588.webp?k=abed2f4874310f2aa1224618faf726b3a39680b3c04920a34ad2e911e6556866&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-rest-st-andrews.html": {
+    "name": "The Rest",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419679842.webp?k=a9aa2e52a267c09753657da93b5e5d430810a8b7525a8c1e2d0d819d130ef5e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skye-sands-central-apartment-near-the-old-course.html": {
+    "name": "Skye Sands - Central Apartment near The Old Course",
+    "location": "Fife",
+    "score": "7.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417435315.webp?k=9ee56b646da561066adb6ed67b3a674daf7a3b46ff9ae3571458e863fb298bb9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/balcarres-north-lodge.html": {
+    "name": "The North Lodge at Balcarres",
+    "location": "Colinsburgh",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325944802.webp?k=460b31a63ce489d93f0bba45226073db093353e97c31338f5b281ce1b235b171&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/struan-house-inverkeithing.html": {
+    "name": "Struan House",
+    "location": "Inverkeithing",
+    "score": "8.8",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221587524.webp?k=92938c046ec2b6ca59684c5069f66ee45a4351d93b213b1f4a5398abd35975ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunfermline-central-apartments-10.html": {
+    "name": "No 10 - by StayDunfermline",
+    "location": "Dunfermline",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/196005840.webp?k=faf1ef26a503d2d1930614e9adc66deec6349207f81592f511a8dc6cbcdcbf77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunfermline-holiday-homes-no-1.html": {
+    "name": "The Steadings - by StayDunfermline",
+    "location": "Dunfermline",
+    "score": "9.1",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226683233.webp?k=20c0146f44d50664126ec7c17c1ee88d18019f4c66bb2ef1f81ab9ac0f1e1f52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fife-coastal-apartment-with-stunning-views.html": {
+    "name": "Fife Coastal apartment with stunning views",
+    "location": "Saint Davids",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431722990.webp?k=b466ba8f4285de751b9931fcd2a8145f86eb2c23e782af4ea431e64b88a00dc5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burntisland-house.html": {
+    "name": "Burntisland House",
+    "location": "Burntisland",
+    "score": "6.4",
+    "review_count": "439 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147801481.webp?k=f1c853ab2fc8d5acb67cf6063a903c2c43a415e0c2b9cb41ce4b000973df3146&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/odin-holdings-apartments-kirkcaldy.html": {
+    "name": "Haig Apartments",
+    "location": "Kirkcaldy",
+    "score": "8.7",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217302195.webp?k=4ce8bdfcdc4e2f40f41e9a06e45a6ab688439418a4cdfdd79124eddb9b6d4754&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-bridges-bed.html": {
+    "name": "Three Bridges Bed & Breakfast",
+    "location": "Rosyth",
+    "score": "9.2",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8012086.webp?k=59af9bc0649dd5d5f6a1fc3d660503e5fb80b5b6d0122cb071487267cb3bde1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/museum-loft-scotlands-wee-hat-museum.html": {
+    "name": "‘Museum Loft’ Scotland’s Wee Hat Museum",
+    "location": "Newburgh",
+    "score": "9.0",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375621470.webp?k=0a2e21c6c72c7d90f6b29a93933426f23c5dd20bc538674fbf82c95fdfaab16b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heywood-cottage.html": {
+    "name": "Heywood Cottage",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382417988.webp?k=324a1875d1352df4337d041ebadc7e20a55ad151517d081cd7781647005c8c29&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fisher-gallery.html": {
+    "name": "Fisher Gallery",
+    "location": "Pittenweem",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421567961.webp?k=2a44c4c6f16f4410220e13ad47889bf0ba49f8e6a9c47c920f960423c95c8783&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westport-bed-amp-breakfast.html": {
+    "name": "Westport",
+    "location": "Cupar",
+    "score": "8.1",
+    "review_count": "117 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194477648.webp?k=1555424b65bf76c03974d06d3f9c2701f560ee415527cc57ec3584f6b5e45c64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-cottage-wood-burning-hot-tub-garden.html": {
+    "name": "East Cottage * Wood Burning Hot Tub * Garden",
+    "location": "St. Andrews",
+    "score": "8.2",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406374314.webp?k=2f8dca276779c1dcefc41904e0777fdfb8be41f960ef6568fd5fe32eb41bec43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4b-millhill-street.html": {
+    "name": "4B Millhill Street",
+    "location": "Dunfermline",
+    "score": "7.9",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389178811.webp?k=1a6bf68b005f95e57ef826e73b436defbe535d3ad716a35ea242a3de6c34d3fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-mill-cottage-10-mins-to-st-andrews.html": {
+    "name": "The Old Mill Cottage - 10 Mins to St Andrews",
+    "location": "St. Andrews",
+    "score": "8.3",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415251986.webp?k=5220690cb641f558d1abc8e49668ae92398deea57049dcdef10f9775d2285921&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/forth-apartments-fife.html": {
+    "name": "Forth Apartments",
+    "location": "Kirkcaldy",
+    "score": "8.3",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/276981690.webp?k=f0760addc8cbbebe255def4d7586474ee5c8278e2f0e5449bfad9435c0944392&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pinewood-cabin.html": {
+    "name": "Pinewood Cabin",
+    "location": "Dunfermline",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395343642.webp?k=2cae1e5d5d8a6feb6c75b7c6c6fb8a17a9dac578f8e10fbaeb0d6b1737a5f242&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-doctors-hoose-central-street-parking.html": {
+    "name": "The Doctors Hoose, Central, Street Parking",
+    "location": "St. Andrews",
+    "score": "6.2",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250445559.webp?k=6b65cae4cc019247cf24d6db8b6e89f5b2e8e92d713ba32af3da0cffd49916aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nether-cottage.html": {
+    "name": "Nether Cottage",
+    "location": "Saline",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418554122.webp?k=4f41a109a938f1b1b3b9c4d22f65d7b895eecf4a7f102a2edc75a2b53c276646&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-4.html": {
+    "name": "Lomond 4",
+    "location": "Kelty",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237449080.webp?k=9ee92b564e565a01e76cb9fcf632b49d6af4b4727aa28788b4234a5ba50e9b5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morris-guest-house.html": {
+    "name": "Scooniehill Farm House B&B",
+    "location": "St. Andrews",
+    "score": "9.6",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207414842.webp?k=afed99712b04c61ad0626ed7333b4ba30da6c3bf845fed82fce81408bb85897d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-cottage-cosy-amp-quaint-cottage-10-mins-from-st-andrews.html": {
+    "name": "Mill Cottage - Cosy & Quaint Cottage - 10 mins from St Andrews",
+    "location": "Boarhills",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419597589.webp?k=e080596d883fef1a34a6fa470f3ca2f2a51a6be6bab86ff87f39220ef437b7e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cozy-cottage-close-to-beach-amp-woodland-walks.html": {
+    "name": "Cozy Cottage. Close to beach & woodland walks",
+    "location": "Colinsburgh",
+    "score": "7.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351721766.webp?k=649c9b35f9cb94189981aecda6abe000dd84605881f6ab37fade663351b9ff31&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/impeccable-3-bed-house-in-kirkcaldy-scotland.html": {
+    "name": "Impeccable 3- Bedroom House in Kirkcaldy",
+    "location": "Kirkcaldy",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424862752.webp?k=e40a8e878f927636c1c30e2cd1158ff03e58f5673dd83717ea15d56f2ac94c0c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/monksholm-house-sleeps-10-5-mins-from-st-andrews.html": {
+    "name": "Monksholm House - Sleeps 10 - 5 Mins from St Andrews",
+    "location": "St. Andrews",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417412955.webp?k=abf313fd536bbed0ebb8018fda44e214b9c49dea0bad0f4a07089715a76bd830&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-net-store-cosy-anstruther-studio-flat.html": {
+    "name": "The Old Net Store - Cosy Anstruther Studio Flat",
+    "location": "Cellardyke",
+    "score": "9.0",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415251738.webp?k=b1bf05b5075a87a3b058f8211610ddce49841ae9b2a151c92870d9315c064943&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-view-lochgelly.html": {
+    "name": "Meadow View",
+    "location": "Lochgelly",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394039103.webp?k=a93d4c635c8006022d9310ccfe512d67cd6e7a32f5a62c6f2fc783612f5a7364&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-superb-one-bedroom-getaway-in-dysart-kirkcaldy.html": {
+    "name": "NEW Superb One Bedroom Getaway in Dysart Kirkcaldy",
+    "location": "Kirkcaldy",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346565856.webp?k=ca796a81d3b5c041140b7372f59cd9366a3f875df969149a5ca9b67e2a38dedc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-5.html": {
+    "name": "Lomond 5",
+    "location": "Kelty",
+    "score": "7.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237451552.webp?k=456e109b994199c60afdb3550b0ccf01cc0ddf3a1d74d11461483a889507b431&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ruddon-grange.html": {
+    "name": "Ruddon Grange",
+    "location": "Elie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396063759.webp?k=2fdb8e88d42e99b88a6993a3507da9310b68a1cf88ff50d4013d59bce61593c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-liddell-place-2-bed.html": {
+    "name": "The Loft on the Lane - 2 Beds - Garden - 5 mins to harbour",
+    "location": "Crail",
+    "score": "7.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417419297.webp?k=148edab38a16d390af57eb70e47dd91a62e00677d2089ecb43acbb76a455113c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/katmoget-cottage.html": {
+    "name": "Katmoget Cottage",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416831249.webp?k=658bc2e7e7716d6e7e44f2794169a958c3e2ee93c51357237fdafe97621babeb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/neuk-hoose-crail-near-st-andrews.html": {
+    "name": "Neuk Hoose",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405718028.webp?k=3f86ffe8ab310175f7e2a8d9a75a0b7be140adaa12709587803203fd210c5695&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-spindrift-guest-house.html": {
+    "name": "The Spindrift Guest House",
+    "location": "Anstruther",
+    "score": "9.4",
+    "review_count": "213 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177581121.webp?k=7b919aab790b7291d8b085453774609229d0f3ad4cea8c577e425ca02fd2f84e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whinstone-holiday-home.html": {
+    "name": "Whinstone Holiday Home in Falkland",
+    "location": "Falkland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428778989.webp?k=67a759b633a92b3d9b08281773f143c23ea014487d59e3279d5282d5ec6cdfe3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lomond-2.html": {
+    "name": "Lomond 2",
+    "location": "Kelty",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237306876.webp?k=733c01332033985e10bac9d395e72abd43e3776e2460620e9e3725e42a4c0a34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-anstruther1.html": {
+    "name": "The Hideaway",
+    "location": "Anstruther",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431790186.webp?k=933de5754d7c93c8dac7999941ee219875f6b9e9ab5026aa2f4bee5633415c3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-windsor-kirkcaldy.html": {
+    "name": "The Windsor Hotel and Bar",
+    "location": "Kirkcaldy",
+    "score": "7.8",
+    "review_count": "106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150863208.webp?k=b75c06d0cff2faa1f6ac95830cfe9b3438e130e30e257d8ce9bfe6d138aa5738&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-murray-square.html": {
+    "name": "2 Murray Square",
+    "location": "Anstruther",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358667958.webp?k=8d2d4acfc561ccc5a1875500e92f1cdf3929841df542903e1ff32946f266a1fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-haven-ceres.html": {
+    "name": "The Haven",
+    "location": "Ceres",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416828389.webp?k=80a7246cfdd0ab9817f9b9025d24100fc51520f80c6f36d385c16f466eb6e8e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-smithy-largoward.html": {
+    "name": "The Smithy",
+    "location": "Largoward",
+    "score": "9.8",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/130400027.webp?k=688e6b5816896c7200d0bae00467e9225d39cb2a9de12975c0f91e17a95caef5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haar-with-rooms-st-andrews.html": {
+    "name": "Haar with Rooms 5 stars",
+    "location": "St. Andrews",
+    "score": "9.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370846752.webp?k=2621034bc28af61d3535741c67a1365b30bd85909e85bfd629ec8569013e5c1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-dunfermline.html": {
+    "name": "Holiday Apartment Dunfermline",
+    "location": "Dunfermline",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320850706.webp?k=83ebc150968318dbf254e10bb48a1ad3888cc3abf5877939f92a3e18a8365381&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-cosy-modern-flat-business-holidays.html": {
+    "name": "ENTIRE Cosy MODERN Flat Business Holidays",
+    "location": "Fife",
+    "score": "6.8",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360241311.webp?k=530f8a921a05688ee752c47fba16b196b0930ca47bd25c91a41b2e6ba2127d9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lairdsgate.html": {
+    "name": "Lairdsgate",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382682219.webp?k=6a7122c5635751b833e4fe90d8077e5e7adb94349b00b337e87d36f1043bb696&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-cottage-st-andrews.html": {
+    "name": "Orchard Cottage",
+    "location": "St. Andrews",
+    "score": "9.8",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181019698.webp?k=a814050eea607c2356db18eabfb2f282151e7e3180e7157043a458f1016a38d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewart-resort-lodge-2.html": {
+    "name": "Stewarts Resort Lodge 2",
+    "location": "St. Andrews",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387949734.webp?k=3d13d37b7fabbc3ba0390406ac55ee426e05f25b488f8bd0281f55265d919785&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/southview-cottage-cupar.html": {
+    "name": "Southview Cottage",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395479589.webp?k=8018e131f87c961882210f990eb57651b458d1475fabdb150d34095255a943a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/denburn-cottage.html": {
+    "name": "Denburn Cottage",
+    "location": "Colinsburgh",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434854759.webp?k=885df677bc614632444f31b154206171d87a040668f8459ac321198714bfa6f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodmill-arches-designer-barn-conversion-for-two.html": {
+    "name": "Woodmill Arches - Designer Barn Conversion for Two",
+    "location": "Lindores",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351650289.webp?k=bb99961c56fb8f7d5a18f482c1d725589ab9f6b1b54d150e4ef03cbcc4a12ce8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pee-wee-cottage.html": {
+    "name": "Pee Wee Cottage",
+    "location": "Anstruther",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416805976.webp?k=6ef15d4f5f1fb4197deb21b2fdd912301871b985446c65daf07a809e56a182da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-cottage-freuchie-nr-cupar.html": {
+    "name": "West Cottage",
+    "location": "Fife",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416795441.webp?k=a0c9ee80d662733ed75d9e9b76a16a9f594d1d103b36942d8fb84d96d952ebfc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-4-bed-townhouse-near-edinburgh.html": {
+    "name": "Spacious 4-bed townhouse near Edinburgh",
+    "location": "Inverkeithing",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378223153.webp?k=22ca6452c2b1c343eee5b8bfb27c4b32ac95c9c0c7467614eef29ae9c8445e77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inzievar.html": {
+    "name": "Inzievar",
+    "location": "Oakley",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418494030.webp?k=6ef7953bbd1085f4e5e3cbee154de5bca4ad6e2ef2d4478cfc5ae90ebf5bebf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/54-buchanan-gardens.html": {
+    "name": "54 Buchanan Gardens",
+    "location": "St. Andrews",
+    "score": "9.3",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115873659.webp?k=8c5b6ee78562e41d0abb24770fa7a20edd8bede7cf839c4f0fce0c1332d7d393&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ochil-9.html": {
+    "name": "Ochil 9",
+    "location": "Kelty",
+    "score": "7.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237295245.webp?k=39703794a4c9708f73573ed43d447ef7ef73003a168f0813d70176ef7ecc4980&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-1-bedroom-house-in-quiet-residential-area.html": {
+    "name": "Pitcorthie House",
+    "location": "Dunfermline",
+    "score": "9.9",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333631807.webp?k=2ba8d390df9b9214341bee8263a341eba545a67d7c3eca36c31f9c858fdd05ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coachmans-cottage-falkland.html": {
+    "name": "Coachman's Cottage",
+    "location": "Falkland",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419695991.webp?k=c98b53280b526d33a7f4ec7e67175a865a023f36ef31e92260b77168dd3d977d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/6-leys-park-road.html": {
+    "name": "Leys Park Executive Apartments",
+    "location": "Dunfermline",
+    "score": "9.6",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148237615.webp?k=1e65f9429cce4cd8e4820aa06cdad741e056741fcc6d929f1d59916f21878d62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/15-sidlaws-rest-st-andrews-holiday-park.html": {
+    "name": "15 Sidlaws Rest st Andrews Holiday park",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354279574.webp?k=4ca273c8f26445232d4807acd4fbe17feb275da45e91c6a3cc30c04c583478d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scotchacre-kingsbarns-walk-to-beach-amp-golf-club.html": {
+    "name": "Scotchacre Kingsbarns - Walk to Beach & Golf Club",
+    "location": "Kingsbarns",
+    "score": "8.9",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344155499.webp?k=b2e24e1b184bfb708a48a1bad006c573b7b5e3f48b8443bcb2d6a9e7253268d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/golfers-dream-self-contained-suite-amp-golf-studio.html": {
+    "name": "Golfers dream! Self contained suite with up to three hours use of luxury golf studio included",
+    "location": "Strathkinness",
+    "score": "9.7",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372464078.webp?k=3e502b774af5cae3f950f9eee6e945655f449c0b88397e502da910a0a0bf5c11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewarts-resort-lodge-8.html": {
+    "name": "Stewarts Resort Lodge 8",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388150177.webp?k=0568217ed238f40ffff66de5676632d769ae8c7f109111f8207c839952d0e42e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-2-bedroomed-holiday-home-on-st-andrews-holiday-park.html": {
+    "name": "New 2 bedroomed holiday home on St Andrews Holiday Park",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352207202.webp?k=68aa40386f3da4e14ed9a477cd5ee919fba37bcd196658e5af0c4a709ec09aab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wonderland-cottage-cupar.html": {
+    "name": "Wonderland Cottage",
+    "location": "Cupar",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410787916.webp?k=4d193b5702827a0d56f803dd69d29a464b4e35c110ee73e6c69c5fe1371484c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-andrews-golf-and-holiday-home.html": {
+    "name": "St Andrews Golf and holiday home",
+    "location": "St. Andrews",
+    "score": "7.2",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366224135.webp?k=5bf65324e62359ca26890ccfff341e54e4abfccd2a1cd761589e4a806cb2fae8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollybank-cupar.html": {
+    "name": "Hollybank",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416838450.webp?k=6aecd9ad44c1e8fea16792d2483d85f46f32b739070732c7ca02d24787fbde4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-margarets-loft-apartment.html": {
+    "name": "St Margarets Loft Apartment",
+    "location": "Dunfermline",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415192750.webp?k=a6b78d2cf41ea246ad960bb8cb26e667e434ab14017142a51cdefcf62c83bcee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-hall-cottages.html": {
+    "name": "Mill Hall Cottages",
+    "location": "Newburgh",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416807741.webp?k=26293a24bbb38ebf111499911c38031cad2adee8411522dc6c7ab593fbf40754&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burgher-chapel.html": {
+    "name": "Gallery Flat",
+    "location": "Newburgh",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371332350.webp?k=8bbaa727bf0b8605fc0f3a69afcd7f70e71734368c6215745fdad02b4c5b8360&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-beautiful-house-near-edinburgh-and-st-andrew-39-s.html": {
+    "name": "Cosy house near Edinburgh and St Andrew's",
+    "location": "Kirkcaldy",
+    "score": "7.7",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203658010.webp?k=af0f2007bf0b903fea2505c4ac8a73aa2d35903c90160a4b161fcc91fa74a11c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carvetii-lincoln-house.html": {
+    "name": "Carvetii - Mayhaven House",
+    "location": "Dunfermline",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338231014.webp?k=e24d34bed23e51a21820036bae4f7f980f37e93b65c43ce5b2a40250881b6607&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-holiday-home-outdoor-dining-seating.html": {
+    "name": "2- Bedroom Holiday Home + Outdoor dining/seating",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355637104.webp?k=5299f413de3b7a09d041b8a4aa9c7802bcfd2a05b64f4eaa750997f83f52966a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-refurbished-self-contained-apartment.html": {
+    "name": "Beautiful refurbished, self-contained apartment",
+    "location": "Fife",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405879015.webp?k=89edd8e31d40ab41b556ea3defaa7291ce42266c4e0330de7d50e7a69b2c5b89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pure-apartments-dunfermline-east-dalgety-bay.html": {
+    "name": "Pure Apartments Dunfermline East - Dalgety Bay",
+    "location": "Saint Davids",
+    "score": "9.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373768049.webp?k=e9ae4912fec0f154eb5de92ece5c38bc0f1be6c0c75d53e71c4929d712ed8333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewarts-resort-lodge-4.html": {
+    "name": "Stewarts Resort Lodge 4",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409997292.webp?k=cf7da0e42f4784f9576dbd7e3752c55de862d6d461fb74d4a615af2074619302&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/8b-howard-place.html": {
+    "name": "8b Howard Place",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383854202.webp?k=d4af125d83ee31630ab80b813d859614fd4a197ee303d45037c941c9984c25ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/number-6-st-andrews.html": {
+    "name": "Number 6",
+    "location": "St. Andrews",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308026724.webp?k=71a7c2e08f77c25332475b8713881cc156563466ce73db1fb5a534dadc90808f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cromwell-cottage-burntisland.html": {
+    "name": "Cromwell Cottage",
+    "location": "Burntisland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436590491.webp?k=dc3dd10f8dfa5bc944667b182b351f5d0d2c01841b5320fd859ab3bc0811bea8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harbourside-apartment-anstruther.html": {
+    "name": "Harbourside Apartment",
+    "location": "Anstruther",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419734712.webp?k=8010cabc41d6edbe279c8292e564ab886f017e6e65a51d4ee988accd8cfecb30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bankhead-farm-cottage.html": {
+    "name": "Bankhead Farm Cottage",
+    "location": "Aberdour",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419647629.webp?k=4cbf777d5efe2b9c76fc1ee2c4e35e84cc71ba7361a5bc3f02992c4dcb488be2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kestrel-way-dunfermline.html": {
+    "name": "Dunfermline - Premium Two Bedroom Apartment - KW",
+    "location": "Dunfermline",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/130467429.webp?k=7ef5165b0b5279e958c5f97acefde55c21707df1b88c3618a7ad4e1b513444b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-entire-flat-luxury-facilities-with-affordable-price-self-checkin-out.html": {
+    "name": "3 Bedroom Entire Flat, Luxury facilities with Affordable price, Self Checkin/out",
+    "location": "Fife",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402527475.webp?k=02d7a7463cf5f8ce9d7bdf7d6ab6667f7499fca6d382d38cb6254bbd81fcae92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ben-the-hoose.html": {
+    "name": "Ben The Hoose",
+    "location": "Anstruther",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422141426.webp?k=24769577b2dbca9e341e9f6304a1013e1722ba89fb51a804b3ae93984a6a20ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roof-tops-anstruther.html": {
+    "name": "Roof Tops",
+    "location": "Anstruther",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395353626.webp?k=4fd5efebfd641e0d1307e3eb9cd10d893c3a72e773b3f22d10d8e14a9269bb36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dookit-markinch.html": {
+    "name": "Cosy Log Cabin - The Dookit - Fife",
+    "location": "Markinch",
+    "score": "9.4",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271562171.webp?k=534e3373edcc0c1674c8312231d34513420b307e08b0b0ed4c8aeeccb20a870a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nautilus-cottage.html": {
+    "name": "Nautilus Cottage",
+    "location": "Cellardyke",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418552036.webp?k=a122327152ef88cca48e7e5f9e29bd21ca6ebcccab2ef47090292072932a79ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/benarty-11.html": {
+    "name": "Benarty 11",
+    "location": "Kelty",
+    "score": "7.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236959615.webp?k=7f57073956c5869b6b71c720903abbbc29db7ad2a897f214610cd9eec443de70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stoney-creek-cottage.html": {
+    "name": "Stoney Creek Cottage",
+    "location": "Crail",
+    "score": "7.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368954602.webp?k=60039b5a21be7a89222328531c336227ce22416f2fd27e3600a86d8c56e7cca8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ardvar.html": {
+    "name": "Ardvar",
+    "location": "Crail",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395699387.webp?k=8130512cafec8f94474827bd013707aea25552856ee4696770a567c3e72128b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-coastal-cottage-in-st-monans-scotland.html": {
+    "name": "Beautiful Coastal Cottage in St Monans Scotland",
+    "location": "Anstruther",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406191454.webp?k=3b9dd3b5b3716c3c3cacbc8ab5694529398354af48296768dbd0a0d781965240&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-at-lochnagar.html": {
+    "name": "The Lodge at Lochnagar",
+    "location": "Peat Inn ",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392842207.webp?k=2e40dc71dadcb0e45448a1787acc01f08b16c8a539d2b0592d3db44094b4214c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-york-cottage-19-bridge-street.html": {
+    "name": "New York Cottage, 19 Bridge Street",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382415870.webp?k=b4e19d9ee3b8c17bdba3f5a5d1ba9a28b94b7ea0cb33924f9063554f00937a03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/links-townhouse.html": {
+    "name": "Links Townhouse",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431086608.webp?k=c9cb551cc2091463a801dd97ac9d7b5fdca1a5037b2127151f48139ee17a39ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/09-old-course-drive-st-andrews.html": {
+    "name": "09 Old Course Drive, St Andrews Holiday Park",
+    "location": "St. Andrews",
+    "score": "9.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346585897.webp?k=3b0f52c97f6d54b1f8e17d3e114cacd2918fdb1a6dab7f989f988cdacd7b87c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tweed-bank.html": {
+    "name": "Tweed Bank",
+    "location": "Lundin Links",
+    "score": "8.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306943364.webp?k=c88015a09efe12ca3e4a12dcd976a34da559e61127b3278def98a4b1024b81ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-gem-kirkcaldy.html": {
+    "name": "Little Gem",
+    "location": "Kirkcaldy",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394923676.webp?k=0dd74eb3f1e8c0778d2e4a30d92102f4c800880143ef7043896658eb28efbfd4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/16-westgate-south.html": {
+    "name": "16 Westgate South",
+    "location": "Anstruther",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360253540.webp?k=e7b8f70d45f98346387aae082d185d6467129404d158d5343639a8757a2f4026&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pure-apartments-fife-dunfermline-pitcorthie.html": {
+    "name": "Pure Apartments Fife - Dunfermline - Pitcorthie",
+    "location": "Dunfermline",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372584796.webp?k=6405c2d6f7f1e0137d3427b77cae6b889ded94bea246133f396fd382403f2c77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/links-view-golf-place.html": {
+    "name": "Links View, Golf Place",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382682501.webp?k=f063afbf95d27f4c40f9a82e23637f63b73bf11ef88a0ae22023d7094c098317&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-denburn-place.html": {
+    "name": "1 Denburn Place",
+    "location": "Crail",
+    "score": "9.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322478495.webp?k=7cd0b19000ad600d11b65273290d1c871353d5486a36cf93e8c7cb77356c929e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cleish-7.html": {
+    "name": "Cleish 7",
+    "location": "Kelty",
+    "score": "8.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236962288.webp?k=b7354204502ede06ca7d690881b7ac900d7e26e0fb0c82556eb7848d96c8f7b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunfermline-2-bedroom-home-with-free-parking.html": {
+    "name": "Dunfermline, 2 bedroom home with free parking",
+    "location": "Fife",
+    "score": "7.9",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371782134.webp?k=f5b135d0ab4ce001713011f6735dd1eb409cc5950c3ea3eb2548dbd0b9d96628&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/250-yards-from-the-old-course-and-the-town-centre.html": {
+    "name": "250 yards from the Old Course and the town centre",
+    "location": "St. Andrews",
+    "score": "7.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339575486.webp?k=d892fa14654f9a2a6b0c2a281c1e7cf1b971c3fb18b6d747dcb11fdd449446ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gate-house-markinch-near-glenrothes.html": {
+    "name": "The Gate House",
+    "location": "Markinch",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419996566.webp?k=cdd1378139bed9add6fd72f9217f55ee596aa026c76da753d2dccd54da83c11b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-home-inverkeithing.html": {
+    "name": "3 bedroom home-inverkeithing",
+    "location": "Fife",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403295659.webp?k=d1eea19c4bbc46a00f75a10d6a83261d444ddd49c84621f450f49fbd1b207bf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/14-south-street.html": {
+    "name": "14 South Street",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382415443.webp?k=cfd83375957063c308b51fec38cdf63c8663234ae964a1118af7b6cef2217778&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fishermans-loft.html": {
+    "name": "The Fisherman's Loft",
+    "location": "Cellardyke",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425670248.webp?k=8b8f4b1e602a08f9aecb2195e959b9eda9921e25e601949c8c5d635c7463127f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/duloch-apartments-tp.html": {
+    "name": "Dunfermline - Luxury Two Bedroom Apartment - TP",
+    "location": "Dunfermline",
+    "score": "9.5",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/122056320.webp?k=720637b77fe6a2aca54b2798112defc8811a5fa649b25f8f6190d9b96e9ccf4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2bd-flat-in-picturesque-limekilns-fife.html": {
+    "name": "Lovely 2BD Flat in picturesque Limekilns Fife",
+    "location": "Limekilns",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423371201.webp?k=30ef00e3ac6c014033714bf9a88f1fb5da4d641682d223468e6830d8272e8779&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-beyond-forth-bridges-3bed-free-parking.html": {
+    "name": "Apartment beyond forth Bridges - 3bed free parking",
+    "location": "Inverkeithing",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389174006.webp?k=954e4bad7342a211c12d1e139d329985dc04d579fce094ddd33b416fc7b31003&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewarts-resort-lodge-54.html": {
+    "name": "Stewarts Resort Lodge 54",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387991181.webp?k=4cd0b0075f54df9089506dd22c3e1f8e3d1b85cab3f00bdba61f057c144e0d42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beachcomber-apartment.html": {
+    "name": "Beachcomber Apartment",
+    "location": "Leven",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395904975.webp?k=1b39e29489caf80c03b69a16043660e1d80b05ceeab92b210015418a22096dbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewart-resort-lodge-25.html": {
+    "name": "Stewart Resort Lodge 25",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427185925.webp?k=aa7bfa216f81dd977d5b8c41d4ea1f5ac0217c4c4ad994c8bb20b7e114605670&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/51-milton-crescent.html": {
+    "name": "51 Milton Crescent",
+    "location": "Anstruther",
+    "score": "9.3",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331703014.webp?k=2ad2b5aae16d8d6110f5fdf939f2a18dc741260cadff13ade1162136804c32ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-outside-room.html": {
+    "name": "The Outside Room",
+    "location": "Monimail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419698677.webp?k=b1ac30fce679b880272db5dad14d52c4d009c1cfaa64283dd34cf211ffa936ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-pond-view-ceres-near-cupar.html": {
+    "name": "Mill Pond View",
+    "location": "Ceres",
+    "score": "5.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416824151.webp?k=f6d69126f65870dde4a784bd9b36730a33fb0c24b4534fef7439dc1a310dcfe3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lucklaw-steading-cottage.html": {
+    "name": "Lucklaw Steading Cottage",
+    "location": "Logie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393179298.webp?k=b98f97da2e1695382265c9536511ed9f27239fcf856e069b2abfde1d6f2094f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/super-prime-duloch-dunfermline-2-bed-executive-apartment.html": {
+    "name": "Super Prime Duloch - Dunfermline - 2 Bed Executive Apartment",
+    "location": "Dunfermline",
+    "score": "9.1",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188710691.webp?k=a8a74013241bc87f0e22a9164eaed0b92b44ff7f5c17a470fe4903f513c3fdd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carvetii-laurel-house-2-bed-house-sleeps-up-to-8.html": {
+    "name": "Carvetii - Laurel House - 2 bed House sleeps up to 8",
+    "location": "Milton of Balgonie",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385985513.webp?k=8b704275563435c1df8a39d34b49069ccc3e158212b3c6a071f14844c3722cb3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/32-high-street-burntisland.html": {
+    "name": "32 High Street",
+    "location": "Burntisland",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363145884.webp?k=c4ab5fdd09409a7f61fe3b83996a45f5a6ff86786bc1b7f8bf19351e6a9fa3e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunfermline-gf-flat-5-min-walk-to-train-st-and-high-st.html": {
+    "name": "Dunfermline GF flat, 5 min walk to Train St. and High St.",
+    "location": "Dunfermline",
+    "score": "9.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228775043.webp?k=ddc3efd3c1e5e3a9a6a25fdecac6046512f0f932ff7a737244fa5fe39a65e687&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wee-hideaway.html": {
+    "name": "The Wee Hideaway",
+    "location": "Cupar",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369879172.webp?k=02d2d8b3077aaa66ac1de43ee7f67eac6a3c7243d12a496dfe6fab69bc48389e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/romantic-break-for-2-with-hot-tub.html": {
+    "name": "Romantic Break for 2 with Hot Tub",
+    "location": "Kirkcaldy",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224835292.webp?k=1b369d878ce353b1e73ebcc97f0dae1c83ac6a4274d56b2341ad93ff9e823b1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewart-resort-lodge-27.html": {
+    "name": "Stewarts Resort Lodge 27",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422724214.webp?k=551ab7837ed1159075ec901541d0465d4b4ef53077ab4d5aeb72c29193e4f02b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morrice-house.html": {
+    "name": "Morrice House",
+    "location": "Ceres",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416803855.webp?k=a12adc52a87c33e6aff586937f1f2d09fc0c778a35705d67740a646078459e8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-entire-flat-luxury-but-affordable-next-to-m90.html": {
+    "name": "Two Bedroom Entire Flat, Luxury but Affordable Next to M90",
+    "location": "Fife",
+    "score": "7.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399689241.webp?k=59861fccbe656701733dfd18f6eb0ab09515214c9e68f960c6bf14e36e5ebae5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fernwoodlea.html": {
+    "name": "Fernwoodlea",
+    "location": "Blairhall",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418796046.webp?k=e86b66d52b3de9584e4e17f9fae40aeed1172965847736a704a0d7ab1bc4ce56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-view-cottage-newport-on-tay.html": {
+    "name": "Bay View Cottage",
+    "location": "Newport-On-Tay",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210978065.webp?k=6f87c5bb4c5ff01fcf8d9860a5049c9bc5dd41376422d0b0a6429ca37494c9d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/may-isle.html": {
+    "name": "May Isle",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382415891.webp?k=476048c43b901e8c002c919defffa241f17f8923432fd552012b1b1dc7317047&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bed-cottage-in-kelty-with-hottub.html": {
+    "name": "Lovely 1-Bed Cottage in Kelty with Hot Tub",
+    "location": "Kelty",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320521979.webp?k=5fd0c6d4d0634079b4d141232318516a14ba03290b4f59738268ca4d548ed690&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-penthouse-apartment-on-south-street.html": {
+    "name": "Luxury Penthouse Apartment on South Street",
+    "location": "Fife",
+    "score": "8.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419592887.webp?k=5cc30d9d918e49d9e9f22a660107c840d7a255d2fa8620e042782b23f2d50dd4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bonnygate.html": {
+    "name": "Bonnygate",
+    "location": "Fife",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367456718.webp?k=5fd866709125dbb6fc3df7b01aefb61c355ee7145d1849d658c1072699975c2a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunira.html": {
+    "name": "Dunira",
+    "location": "Cupar",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344482071.webp?k=c15257db383048185330e62d2297b7c61206bccc2074cd80bc57001ca36de9ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lyndale-lodge-cameron-near-st-andrews.html": {
+    "name": "Lyndale Lodge",
+    "location": "Cameron",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416835250.webp?k=0e07d499cc384853cdf39a77e67b89382dd655584476c69506fc7510fcf4bc5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carvetii-walter-house-first-floor-flat-sleeps-6.html": {
+    "name": "Carvetii - Walter House - First floor flat sleeps 6",
+    "location": "Leslie",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369468140.webp?k=ed17753291136b4b466f8e8023e2cfa7652518daba8146a4f2e057614c6a5873&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-holiday-home-in-the-east-neuk-of-fife.html": {
+    "name": "Lovely Holiday Home In The East Neuk Of Fife",
+    "location": "Anstruther",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369175239.webp?k=b5a0a1e540038da6b831be4e27e8bb0d0922b0b286477652f41d88d58ef4f047&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-woodside-aberdour-exclusive-use.html": {
+    "name": "The Woodside Hotel Aberdour Exclusive Use",
+    "location": "Aberdour",
+    "score": "9.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282344192.webp?k=afdbc5ee0f3cdb5b3455257234701f86defce0a93759bbe2e0fe6ac361b8f3ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bramble-cottage-leven12.html": {
+    "name": "Bramble Cottage",
+    "location": "Leven",
+    "score": "5.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419998353.webp?k=1f91b30115efd30d7c0843a62526adc38e6ef380de1587334cec2a19644f4116&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upper-west-wing-flat.html": {
+    "name": "Upper West Wing Flat",
+    "location": "Cupar",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279986267.webp?k=169e6847b35b9fb30094f44f5751bee67eb7f3b32843bd016796039d012b1e90&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willow-cottage-north-street.html": {
+    "name": "Willow Cottage, North Street",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382418409.webp?k=69ae400fe53de2bc64811dda0cefe167076291241dad3c215e62debb02f59f1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moonzie-eco-lodge-cupar.html": {
+    "name": "Moonzie Eco Lodge",
+    "location": "Cupar",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278638665.webp?k=2048554b81a475a2a281748775d80f74c673341b659c72ad69ad3ee0fd649ac2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-ingas-cottage.html": {
+    "name": "Little Inga's Cottage",
+    "location": "Strathmiglo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416832564.webp?k=ee6017cc63dbd1a681a1a84d8835db26a844fb30a6052c9b0d5af3e04bcbdb85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/silver-birch-lodge-with-hot-tub.html": {
+    "name": "Silver Birch Lodge with Hot Tub",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437139324.webp?k=0bc82ce45fd14dc12cffd4b3b7ef22beb33c7894746725511addf06e3e82d74d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heron-house-north-queensferry.html": {
+    "name": "Heron House",
+    "location": "North Queensferry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398538930.webp?k=8703c368120aea7e1d92510c7228d141f96f17218021ae83953ed8a178e638da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/andrean-house.html": {
+    "name": "Andrean House, St Andrews",
+    "location": "St. Andrews",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355271416.webp?k=b7f470b854ee71150e133a04ee590c1e7f33c4594cd18050f72daf643bdee8e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kittocks-muir.html": {
+    "name": "Kittocks Muir",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382416288.webp?k=441a718e4a4eb57e48e855541f9cd6f044d0dc6ef012a18a6a80b52d6aa93153&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horsemill-uk10794.html": {
+    "name": "Horsemill - UK10794",
+    "location": "Ballingry",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392582593.webp?k=eff728f944510d494df5335390fe29e9d7e8f0037dc4477462c95b4fa86609c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-cottage-at-parbroath-farm.html": {
+    "name": "East Cottage at Parbroath Farm",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434397575.webp?k=6f582cc8aa98e2b618f97bdfa51f0902af1a392a674c8621349f8be9b577e3ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rivendale-lodge-st-andrews.html": {
+    "name": "Rivendale Lodge",
+    "location": "St. Andrews",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396472187.webp?k=f9145db1ef3c5a4f2cb36ebb5be047744817acd31dbf63ea258badc861f611dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pitcorthie-house-in-dunfermline-with-free-parking.html": {
+    "name": "Pitcorthie house in Dunfermline with FREE Parking",
+    "location": "Dunfermline",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408381893.webp?k=2f41bd77923a4f6e3197e19530f04df053245a7cf9dc5f3246600df561d062ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mountain-ash-lodge-with-hot-tub.html": {
+    "name": "Mountain Ash Lodge with Hot Tub",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436893313.webp?k=cc9440f0a97bff61fcad76df0da621aa02417b1508a2dbcc0de1f6a0f951f461&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cherry-blossom-cottage-cupar2.html": {
+    "name": "Cherry Blossom Cottage",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434331520.webp?k=dbca301374508dd3a4e655b2bc3b7600442123462946b01055e8d9cd0af76786&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maple-cottage-with-hot-tub.html": {
+    "name": "Maple Cottage with Hot Tub",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434206953.webp?k=9381ce209b5a0f435f4c8b4a9beb04936a29af644ce2169d6f2ae30cbc5585c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/balmeadowside-farmhouse-with-hot-tub.html": {
+    "name": "Balmeadowside Farmhouse with Hot Tub",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429519274.webp?k=98f89aa582dec1b54badcfb2b859ca2bf94a9a2daf729cf01eb029c591ce0633&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victorias-haven.html": {
+    "name": "Victorias Haven",
+    "location": "Kirkcaldy",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436811509.webp?k=cfc7b7c825fde4a79718330e27169ea7ab823ab804ea805c5091557208d83432&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/19-shoregate.html": {
+    "name": "19 Shoregate",
+    "location": "Crail",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382418115.webp?k=3e220d4c8c428fdba15e2b21c3b1ea681c6880f526f26c0ef9bceba7f24acfc4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/20-golf-place.html": {
+    "name": "20 Golf Place",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404212912.webp?k=7766aa5616b00e9791bebf384b9f5cc39bf18ee5824e27b005728c9471949f2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carvetii-zelda-house-4-bedroom-house-sleeps-8.html": {
+    "name": "Carvetii - Zelda House - 4 bedroom house, sleeps 8",
+    "location": "Oakley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369832364.webp?k=ec7862402f870dd4b9635e4fc6cb85ae3b28c6cd909535a754bceda05aa73c93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shades-house-3-bedroom-house-15-minutes-from-st-andrews.html": {
+    "name": "Shades House - 3 bedroom house 15 minutes from St Andrews",
+    "location": "St. Andrews",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369239812.webp?k=ba7232bcf6819daa349805a58b04b4ee4184fb1b6a333e9ffeca6966583caffb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/forth-reflections.html": {
+    "name": "Forth Reflections",
+    "location": "North Queensferry",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393464012.webp?k=90dd895c584362a0ef77d6d22d34fafa12d4775afe3588bba3a3628a2bd801d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cypress-house.html": {
+    "name": "Cypress House with hot tub",
+    "location": "Fife",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333607030.webp?k=450df5e42a9943c6174458f3961f42be3334d35069cbd47a5d9d20e151e764be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rowan-tree-cottage-with-hot-tub.html": {
+    "name": "Rowan Tree Cottage with Hot Tub",
+    "location": "Cupar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434385378.webp?k=c89bbd9c645de8a2f060c7788515b49b2299b6fcd7e2cf35bb7b3368621813ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westview-st-andrews.html": {
+    "name": "Westview",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382416692.webp?k=2d7dacb7a8099031e187d41ad0d89747c57cbdd5c62eb0757bdb769af2bbee65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/linne-foirthe.html": {
+    "name": "Linne Foirthe",
+    "location": "Dysart",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416826673.webp?k=9324efbbe6a48c867eef96a5efc7d39641107f935d574fdbd7e97750d8e69b63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-golf-flat-westburn-lane.html": {
+    "name": "The Golf Flat, Westburn Lane",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382418365.webp?k=1dd415763cac52a3c6ff99149ad51979362e1b3b402c548c8017c1e6e387927b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-bay-uk38587.html": {
+    "name": "Sea Bay - UK38587",
+    "location": "Inverkeithing",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352251106.webp?k=5f00f16a30008314fb9bc7c1650ae5490bd37de9973d99bd8728dc8af50b996a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/9-park-street.html": {
+    "name": "9 Park Street",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382416453.webp?k=852531d1a0e4561b7d3fb6f8260ab2783d6738a4c50a2bcd2803977eff6c45e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/11-ladebraes.html": {
+    "name": "11 Ladebraes",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382415365.webp?k=53d98d89f0025c8a6aed8aa521ad621a3c15ed5ecdb33cbe9a2ce326328c1620&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/38-the-scores.html": {
+    "name": "38 The Scores",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382417451.webp?k=3e51774bd118d1029a3890310b5084662abc4388274c5e5d529c7b09090e6740&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/double-green-house-playfair-terrace.html": {
+    "name": "Double Green House, Playfair Terrace",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422255911.webp?k=49fdce03729393387ec29c6b49566baffb31bf0f4a2dd16791cdd523f3bed30d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-howard-place.html": {
+    "name": "1 Howard Place",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/381818824.webp?k=4531575171504f434b45264d821b6d77d70de7a9240b93a6085243f91de3d996&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rosebank-st-andrews.html": {
+    "name": "Rosebank",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382416384.webp?k=a98b2bdc6bdcae8d5b23fb4437c33cd3217326f535e9dc9116d307704d4f0b4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/invermay-anstruther.html": {
+    "name": "Invermay",
+    "location": "Anstruther",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310877437.webp?k=fbc542b6b0ba03e26a0361ec25db5a1b98cbf9a5fe42fd511b046c25a91c4a81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stewarts-resort-lodge-47.html": {
+    "name": "Stewarts Resort Lodge 47",
+    "location": "St. Andrews",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388195899.webp?k=3d479f4d1bd129d0624efef8f8d3e6277c6583f8bf7ec4a59505eb45e3b319ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/liquorstane-uk40568.html": {
+    "name": "Liquorstane - UK40568",
+    "location": "Falkland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418064537.webp?k=6a129f8cf860daa0b17bd43cee84e389ffe4ff321dedeacd227ede430e571e3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/invergyle-uk40566.html": {
+    "name": "Invergyle - UK40566",
+    "location": "Falkland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418054624.webp?k=bdee5a3792fc09e0fce6b8d2bdbe9eeb8e17e2da6c0c1112501d213365b5fbf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/palace-view-uk40569.html": {
+    "name": "Palace View - UK40569",
+    "location": "Falkland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419703003.webp?k=080da0a89f3f872212220e1bcf3c94e654643408e70abef169a081b39da5dfc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mangle-cottage-pittenweem-near-anstruther.html": {
+    "name": "Mangle Cottage",
+    "location": "Pittenweem",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415189683.webp?k=da392324bde9220bd979d38040eca929dcf8013981e699495dd8bb42cc889ab2&o=&s=1"
+  }
+}

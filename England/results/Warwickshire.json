@@ -1,0 +1,2922 @@
+{
+  "https://www.booking.com/hotel/gb/chesfordgrange.html": {
+    "name": "Chesford Grange Hotel",
+    "location": "Kenilworth",
+    "score": "7.8",
+    "review_count": "2,083 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403372474.webp?k=b10bc2dc388552647ab466a39f7d2cef99dcd003098b0f1cdadf450ae6b0a61f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stratfordmoathouse.html": {
+    "name": "Crowne Plaza Stratford-upon-Avon, an IHG Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "8.2",
+    "review_count": "6,921 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295657502.webp?k=8cc85532398a63da6f50767e96f61ea403fda01e285019416990cd78ce3cac2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-swan-stratford-upon-avon.html": {
+    "name": "The White Swan Hotel",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "3,999 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162192729.webp?k=457760c7938d5d558d74ed29827d72c2c359a7cd5bcad9fb41d6071013e17ae9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/warwickexpressbyholidayinn.html": {
+    "name": "Holiday Inn Express Warwick - Stratford-upon-Avon, an IHG Hotel",
+    "location": "Warwick",
+    "score": "7.8",
+    "review_count": "2,842 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260410608.webp?k=b0e7e791eceada41ab515242e0b9bd0bb121c2f7301ed6baba9b731752ed4bda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-warwickshire-hotel-and-country-club.html": {
+    "name": "The Warwickshire Hotel and Country Club",
+    "location": "Warwick",
+    "score": "8.2",
+    "review_count": "1,958 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240170256.webp?k=0af7602725e3b14497201094f765e99313eae66e961343b32eff94b0c9654998&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daysinnnuneaton.html": {
+    "name": "Holiday Inn Express Nuneaton, an IHG Hotel",
+    "location": "Nuneaton",
+    "score": "7.9",
+    "review_count": "1,511 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230573989.webp?k=1ced322af4e6b2582d270b19eb82af46ee6a635d0854f6771b9af3e0b4fdfd86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-fourpenny.html": {
+    "name": "The Old Fourpenny Hotel",
+    "location": "Warwick",
+    "score": "9.0",
+    "review_count": "754 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281162330.webp?k=58e4294dbbe05a1c09a26aa8e63e1102f1af90b355fe69b9c9d45c5cb82eb0bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swansnest.html": {
+    "name": "Swan's Nest Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "8.4",
+    "review_count": "4,584 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/40970351.webp?k=3a3588d6a532652a2402868e44374930cb6cdb045b8db147f763409a2aaf770e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peacockhotel.html": {
+    "name": "The Peacock Townhouse Hotel Kenilworth - Warwick",
+    "location": "Kenilworth",
+    "score": "7.5",
+    "review_count": "1,226 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84415910.webp?k=cdd85a64370a612e8db5f1f3861bffc1918ba5b79c3f1545386bbf7611df6dae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-rose-and-crown-warwick.html": {
+    "name": "The Rose and Crown",
+    "location": "Warwick",
+    "score": "8.5",
+    "review_count": "848 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/18493359.webp?k=42aacd6cec90c2af15c690305f2f8021c8f35e5c9e7c84c5f833ae3b21f53486&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-oak-birmingham.html": {
+    "name": "Hockley House",
+    "location": "Hockley Heath",
+    "score": "7.4",
+    "review_count": "1,986 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420809909.webp?k=f504b7ee2208b524b3d6569edadebd3ea3a8f635cac4526c6a972a5f05c2eb7e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/catthorpe-manor-estate.html": {
+    "name": "Catthorpe Manor Estate",
+    "location": "Rugby",
+    "score": "8.7",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62491775.webp?k=653f7205b785e050503d6d0e0c8725c1f1f56ee5b9d7fedf3347ec60ab550f4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hallmark-the-welcombe.html": {
+    "name": "The Welcombe Golf & Spa Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "7.3",
+    "review_count": "1,678 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258079146.webp?k=79d0d5f7eba13470e616c22bd765d96105bcfc8e913a7fa6f7c09ac386156560&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-warwick-arms.html": {
+    "name": "The Warwick Arms Hotel",
+    "location": "Warwick",
+    "score": "7.6",
+    "review_count": "1,258 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425833931.webp?k=f1564e7bc517079fe5a6c59ec79d18bb353a465aa738eb63dfe6d8c41314c335&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashorne-hill.html": {
+    "name": "Ashorne Hill",
+    "location": "Leamington Spa",
+    "score": "7.7",
+    "review_count": "138 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42932523.webp?k=7bbb5a604cfeea36c328596982b637355819b05336424a444e12bf1e37792f65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grimscote-manor.html": {
+    "name": "Grimscote Manor Hotel",
+    "location": "Coleshill",
+    "score": "8.7",
+    "review_count": "525 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137600466.webp?k=d111368766889f9f98b90093f9db1161b84952be5bc840de07fe0b359ba5a9b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theshakespearehotel.html": {
+    "name": "Mercure Stratford Upon Avon Shakespeare Hotel",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "7.4",
+    "review_count": "3,515 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97525645.webp?k=5eaa4e9c6d26b3057ef4c554ee6eeb1dfb716a55b8fafe1485fb928ee8a3402c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-grange-nuneaton.html": {
+    "name": "Abbey Grange Hotel",
+    "location": "Nuneaton",
+    "score": "8.9",
+    "review_count": "409 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15425069.webp?k=cd2f7a7f12ff7b79b731be45140da4894af95eb87102c1bd1fb9a6eee1fa5b9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/delta-warwick.html": {
+    "name": "Delta Hotels by Marriott Warwick",
+    "location": "Warwick",
+    "score": "7.6",
+    "review_count": "868 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326890003.webp?k=eac777898007d4485873a1e4a4b842df62546858bd1aade9bc67f66dcedf23b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/demontfordhotel.html": {
+    "name": "Holiday Inn Kenilworth - Warwick, an IHG Hotel",
+    "location": "Kenilworth",
+    "score": "7.8",
+    "review_count": "905 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329190094.webp?k=d6543e804854db7112e8b511de6331d0410191f0bef2e2a0c0c42258ba9afc34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtyardleamingtonspa.html": {
+    "name": "Holiday Inn Leamington Spa - Warwick, an IHG Hotel",
+    "location": "Leamington Spa",
+    "score": "7.7",
+    "review_count": "1,177 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423449400.webp?k=897d6579a243a7fbd882e52c944dc96c95b10a416eb93ae2bfc55362b03a81c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whitchurch-farm-b-b.html": {
+    "name": "Whitchurch Farm Guesthouse",
+    "location": "Alderminster",
+    "score": "9.1",
+    "review_count": "235 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14126545.webp?k=915775b99a753077fd225c371cf5ffde36cae57c5310636fb901f7f6a22e0608&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-angel-leamington-spa.html": {
+    "name": "The Angel Hotel",
+    "location": "Leamington Spa",
+    "score": "8.3",
+    "review_count": "1,208 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27424865.webp?k=399ad9052d40a83792a9e13eeff4abb15683f11ec9e212a7d71fd3e4bf70632a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ardencote.html": {
+    "name": "Ardencote",
+    "location": "Henley in Arden",
+    "score": "7.6",
+    "review_count": "238 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/26781564.webp?k=3c74147c5341d19323da9e8f802d47008b2936632d847d55bbd7142b8251512a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mallory-court.html": {
+    "name": "Mallory Court Country House Hotel & Spa",
+    "location": "Leamington Spa",
+    "score": "8.5",
+    "review_count": "574 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/123080803.webp?k=82a06a925d762cfcab01621a8c721418f39fb290d34c37fb7d6b600c44dfc861&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-swan-henley-in-arden.html": {
+    "name": "The White Swan Hotel Bar & Restaurant",
+    "location": "Henley in Arden",
+    "score": "8.9",
+    "review_count": "551 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395390362.webp?k=45f7c8af3e6690acc27e2498ed8bea8f9b72f4eb8321a73d8c3a39ee739cea21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-horse-shipston-on-stour.html": {
+    "name": "The Lazy Pug",
+    "location": "Shipston-on-Stour",
+    "score": "8.7",
+    "review_count": "301 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307865954.webp?k=06822fc1a5ccbbe34325ab9d866b015a923a82a5a4face0bdabc1ec1db482514&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-charlecote-pheasant-hotel.html": {
+    "name": "The Charlecote Pheasant",
+    "location": "Stratford-upon-Avon",
+    "score": "7.5",
+    "review_count": "1,662 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143975666.webp?k=03864e15f1f93b83f74841706ef577ebf8c4e695106e9a60d308b77b74326f09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leamington-spa-chestnut-court-contemporary-apartments.html": {
+    "name": "Chestnut Court Holiday Apartments in Royal Leamington Spa",
+    "location": "Leamington Spa",
+    "score": "8.1",
+    "review_count": "122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279617379.webp?k=fe09e7f4b729a09cb3b749c53ea7fef83b355ff5771c2596373b26d69630e3d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wroxall-abbey-amp-spa.html": {
+    "name": "Wroxall Abbey Hotel",
+    "location": "Warwick",
+    "score": "7.7",
+    "review_count": "1,363 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318334213.webp?k=bdc13670acd7c480ae9e27d33cf85abea87711d5b67e38b351be4ae6989b62b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leamington-spa-regent-place-luxury-serviced-apartment-leamington-spa.html": {
+    "name": "Leamington Spa Regent Place Luxury Serviced Apartment",
+    "location": "Leamington Spa",
+    "score": "8.2",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176383778.webp?k=83c96f63eeba42183f9330fc2b4f66dbd244c4e03a99d66f80093dec90201f24&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/granary-cottage-mickleton.html": {
+    "name": "Granary Cottage",
+    "location": "Mickleton",
+    "score": "9.3",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245026460.webp?k=9f7182940990aceec3b6bc600a37bd0e25ba5563b83120c8b81661c5a9554cd8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/billesleymanor.html": {
+    "name": "The Billesley Manor Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "8.3",
+    "review_count": "1,055 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/137199132.webp?k=815a6bed29025a35c08cd73af302fbcef3cf0bde09d1d1f2baeb72d1a1c7e472&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broom-hall-inn.html": {
+    "name": "Broom Hall Inn",
+    "location": "Stratford-upon-Avon",
+    "score": "9.1",
+    "review_count": "1,230 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311275067.webp?k=78bdd57342b43e8a980765734c9582a59c3bd6a97aabd45ee3c597479c3847c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brownsover-hall-hotel.html": {
+    "name": "Brownsover Hall",
+    "location": "Rugby",
+    "score": "7.0",
+    "review_count": "833 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15019983.webp?k=855c90df4e62b729e404f984f0e82d2f5016463629cf2c81681895226067821f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashgrove-house-stratford-upon-avon.html": {
+    "name": "Ashgrove House",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.9",
+    "review_count": "659 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176237563.webp?k=3d6e58bb2bdc4068be05f46219bbc9b8e8361e7834641ff5bbcc24f2a915d2b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hotel-indigo-stratford-upon-avon.html": {
+    "name": "Hotel Indigo - Stratford Upon Avon, an IHG Hotel",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "2,733 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288660755.webp?k=5964f3fe78d8249d35a060f55f3cda0e311cb7c681e5f5ee392a267471390b9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cotswolds-camping-at-holycombe.html": {
+    "name": "Cotswolds Camping at Holycombe",
+    "location": "Shipston-on-Stour",
+    "score": "9.1",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159337901.webp?k=b08b099dff437eb89f17d3eb22a0d312c8ed65bbf0d07b457274ad52ca595384&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stratfordmanorhotel.html": {
+    "name": "Stratford Manor Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "6.9",
+    "review_count": "1,279 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389121499.webp?k=994af8f76df1791b9b7a3e3f6bcbb764ba1a40cce556d33f866878febf2f97b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pod-luxury-glamping-holiday-lodge.html": {
+    "name": "The Pod - Luxury Glamping Holiday Lodge",
+    "location": "Arley",
+    "score": "9.9",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403118270.webp?k=1183bf7f43bd1f243d17d501170b09ea7160bdb41ef2b9948257771872d3bd20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/47-wetherby-way.html": {
+    "name": "Whole house, easy walk to town centre, Parking, Self Catering, Great View, 3 bedrooms, sleeps 6",
+    "location": "Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "138 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375857638.webp?k=374831cdcde9b5f1fe4da18738546151601455c4980feec350e259b75588a48d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thevictoriaparkhotel.html": {
+    "name": "Victoria Park Lodge",
+    "location": "Leamington Spa",
+    "score": "8.5",
+    "review_count": "1,595 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161005062.webp?k=97fb374728ea684fc87dbcdfeebe930b35e7da9212b115df9d228cd9a76a4826&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-clayton-guest-house.html": {
+    "name": "The Clayton Guest House",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159162705.webp?k=69dd62092c4ddcfbe00cf9cf2a6e89e7c3f5ad7cb3693713a1c229a7b57e6c3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newinn.html": {
+    "name": "The New Inn Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "8.6",
+    "review_count": "995 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360555890.webp?k=82f0497ccb443ac3b1aa8c167132a8b52b0da33c444709a2e5243956f112c944&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-atherstone-red-lion.html": {
+    "name": "The Atherstone Red Lion Hotel",
+    "location": "Atherstone",
+    "score": "7.3",
+    "review_count": "1,179 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/48844777.webp?k=6b0d94451ce0723ef34a76729b3a0a19b66356f795fece21824504da7120c5db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bell-brunning-and-price.html": {
+    "name": "The Bell - Brunning and Price",
+    "location": "Alderminster",
+    "score": "9.3",
+    "review_count": "526 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244628900.webp?k=2b99e982ea9c6cb27d2811b0e6ee1a811dd3825462b9f73398d4d447d08917ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brandonhallhotel.html": {
+    "name": "Brandon Hall Hotel & Spa Warwickshire",
+    "location": "Brandon",
+    "score": "7.3",
+    "review_count": "552 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205932398.webp?k=d97a2dd6275c62c419695218b163f25d3176873345a1ec9d63094cb8cf5dc5bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/loch-fyne-hotel-and-restaurant-kenilworth.html": {
+    "name": "Abbey Fields By Chef & Brewer Collection",
+    "location": "Kenilworth",
+    "score": "8.1",
+    "review_count": "1,176 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201018823.webp?k=7dc63fb662ae101710d6a93ef40380fcb488ac8d9881aad1809c57db035d6683&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottage-5-minutes-walk-to-river-and-town-centre.html": {
+    "name": "Cottage 5 minutes walk to river and town centre",
+    "location": "Stratford-upon-Avon",
+    "score": "8.7",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431231913.webp?k=e1f3f14adf6cbcdbcc2812106b9452cda5043b66f3423a18bf046b2fbd03a4da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodland-grange.html": {
+    "name": "Woodland Grange",
+    "location": "Leamington Spa",
+    "score": "7.9",
+    "review_count": "1,791 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89400687.webp?k=fcb944b536900fd07a8fc5efc2c98c8dc2979890f140959849fb937f7ff4f05b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/innkeeper-s-lodge-birmingham-nec-coleshill.html": {
+    "name": "Innkeeper's Lodge Birmingham - NEC , Coleshill",
+    "location": "Coleshill",
+    "score": "7.8",
+    "review_count": "1,403 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/129622897.webp?k=03e6717c8e59aad94a3c10ecb90c5dbedee4c0c3add20ea61fec407db16d1487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baker-39-s-dozen.html": {
+    "name": "Baker's Dozen",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161477325.webp?k=2a86412b33c24448042d32d02d76f34c9e7a47668c3ce4c3be011b426b6cfd0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-blue-boar.html": {
+    "name": "The Blue Boar",
+    "location": "Alcester",
+    "score": "7.9",
+    "review_count": "479 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220221119.webp?k=e0c2197afe140d51eb8a54d34a0ab4df3e37019241e6eb7a61140aafe54feecd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hood-lane-farm.html": {
+    "name": "Hood Lane Farm B&B",
+    "location": "Arley",
+    "score": "9.9",
+    "review_count": "100 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317141731.webp?k=73e59a1cb1608776ab8d8d70c336a04d9c1723c77a07e51816aaea60d78c889b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/innkeeper-s-lodge-rugby-dunchurch.html": {
+    "name": "Innkeeper's Lodge Rugby, Dunchurch",
+    "location": "Rugby",
+    "score": "8.5",
+    "review_count": "786 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117462331.webp?k=3b926dc59ca7739fb27ce7115ac53d15c45741c8e8167ca40497339cdd888785&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/doubletreestratford.html": {
+    "name": "DoubleTree by Hilton Stratford-upon-Avon, United Kingdom",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.0",
+    "review_count": "2,021 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87584135.webp?k=42ffdede0e6fbfd3fa97a25ef3ec148d1223f662c0ec728a79a567f6d88be06e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-george-townhouse.html": {
+    "name": "The George Townhouse",
+    "location": "Shipston-on-Stour",
+    "score": "8.7",
+    "review_count": "768 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67266320.webp?k=e45f19fc8e0d75de7e40cad3608060bf204bbcc354ce358494a69e5e4d246ff3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alcester-inn.html": {
+    "name": "Alcester Inn",
+    "location": "Alcester",
+    "score": "7.5",
+    "review_count": "1,150 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350857581.webp?k=af860bf141e4c2df35d07c60a6f97bd3aa89b151194ace75aab071b19fe4b4b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baraset-barn.html": {
+    "name": "Baraset Barn Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "9.4",
+    "review_count": "1,285 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/183048133.webp?k=e06f0d94b1d641ea54c8e85d60cf6145c62ed08786b35979c46785f0ac62fa4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-arden-stratford.html": {
+    "name": "The Arden Hotel Stratford - Eden Hotel Collection",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.4",
+    "review_count": "696 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42613591.webp?k=116cae2e1e24acd2f3352a5316978200eb925965dde944d316f19a25524f1394&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-central-chambers-stratford-upon-avon.html": {
+    "name": "1 Central Chambers",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.7",
+    "review_count": "130 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316403588.webp?k=94f906f8435c803b3c02bcca36d2eb0ba943085218e6ca9f4c10663a93e5afa9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/green-haven-guest-house.html": {
+    "name": "Green Haven Guest House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "425 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190761881.webp?k=c7e90b5039e07fe44f483a1ca88931a79622ecce6e55f0a430057c330774d88c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daysinnwarwick.html": {
+    "name": "Days Inn Warwick Northbound M40",
+    "location": "Warwick",
+    "score": "7.8",
+    "review_count": "600 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380642642.webp?k=bd435a8f41db19473fe544df5eda5fd8fa338729ec3388185eb5c7b85b7e3fd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cotswold-thatched-cottage.html": {
+    "name": "Cotswold Thatched Cottage",
+    "location": "Mickleton",
+    "score": "9.6",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266136293.webp?k=15229f6ed5f084c87965ee08ccccc5f070b8470e30787539d53ff526a0f8d38b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-house-with-parking-in-rugby.html": {
+    "name": "ENTIRE HOUSE WITH PARKING IN RUGBY",
+    "location": "Rugby",
+    "score": "8.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288464040.webp?k=81894c432c2538b23679a9f5d7e8a3a90f12322d1a79a2aa6dc02297d6ba144c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookingsbestwesternfalstaffhotel.html": {
+    "name": "The Jephson Hotel; BW Signature Collection",
+    "location": "Leamington Spa",
+    "score": "7.2",
+    "review_count": "1,574 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316707970.webp?k=47762170a1d3747e11be86c3206252d12ba4f8854f1975d522863b5d65c9850e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/longshoot.html": {
+    "name": "The Longshoot",
+    "location": "Nuneaton",
+    "score": "8.4",
+    "review_count": "224 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387473570.webp?k=d8a0cd44bbc6cd6cae6bd8ede8f4940c7c4a6e1636b913b98dea0e4edd918389&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/draycotehotel.html": {
+    "name": "Draycote Hotel And Whitefields Golf Course",
+    "location": "Rugby",
+    "score": "7.5",
+    "review_count": "623 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427359199.webp?k=1f2c53bed2317a5cdc84401081b8eb65e7bf074fe200ce697c31e8d04bf6f456&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chase.html": {
+    "name": "Chase Inn By Greene King Inns",
+    "location": "Nuneaton",
+    "score": "8.0",
+    "review_count": "849 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246919212.webp?k=c717eacbaadfec98699f7c586e4f1143ce42094d9407c2cb084654565591de2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/magna.html": {
+    "name": "Magna",
+    "location": "Shilton",
+    "score": "8.3",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125586934.webp?k=6c0f33c8bdab9619f582f3a03e17035528019d94e4cadc6063219cf0e373fe6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brookleys.html": {
+    "name": "Brookleys",
+    "location": "Bidford",
+    "score": "8.7",
+    "review_count": "153 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31201357.webp?k=246ebe5c869fae9d3ad8fe5e64e97bee4255310f9e75d1a6b16264249c070500&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wheatsheaf-inn-atherstone12.html": {
+    "name": "The Wheatsheaf Inn",
+    "location": "Atherstone",
+    "score": "8.6",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341348496.webp?k=8f5af6a10526339d8223f90ae4b0af8c36797e1cc3afb67c95e031aa5097c8d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thomas-james.html": {
+    "name": "Thomas James Hotel",
+    "location": "Leamington Spa",
+    "score": "6.3",
+    "review_count": "815 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15923729.webp?k=126eb8c71ae8e7b8ff238f9e39fa733ff1c39393088ad406b598e30c55977b49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-boathouse-stratford-upon-avon.html": {
+    "name": "The Boathouse",
+    "location": "Stratford-upon-Avon",
+    "score": "9.7",
+    "review_count": "178 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308610030.webp?k=877eee6857684c22a17c30926cd50dfa1203dfee4966848ea5fba063f5fb7c79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hedley-villa-guest-house.html": {
+    "name": "Hedley Villa Guest House",
+    "location": "Leamington Spa",
+    "score": "9.2",
+    "review_count": "236 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14071774.webp?k=4f1f673a3d41a492ac72505e7d9725c2cdc4b0b1ddf868ab6537d075f93c7ee0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/du-vin-stratford.html": {
+    "name": "Hotel Du Vin Stratford",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.9",
+    "review_count": "1,673 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/141094513.webp?k=eca4c71f07f6b6ab1bdfe3aa4ffc5aa732be0cbb4a1bf18870b59b006eb8982f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westonhallhotel.html": {
+    "name": "Weston Hall Hotel Sure Hotel Collection by Best Western",
+    "location": "Bulkington",
+    "score": "8.0",
+    "review_count": "602 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/11245035.webp?k=fc622048a18a1f6535bc57cfc7f34763f671cf37bb3082e196349ecd608496b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-apartment-1-clarendon-place-leamington-spa.html": {
+    "name": "The Apartment, Lower Ground Floor,1 Clarendon Place",
+    "location": "Leamington Spa",
+    "score": "9.4",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161355971.webp?k=5974556ef7253b183f8f6c6a9c05d27f3da94047b411dfdc76d203ef3dc88abc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-laurel-farm.html": {
+    "name": "The Barn @ Laurel Farm",
+    "location": "Shotteswell",
+    "score": "9.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384762964.webp?k=86a1915d31111c5a12d8dd81c703505da1fa734393e58f64e4e82c29f00dc172&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/christmas-hill-barn.html": {
+    "name": "Christmas Hill Farm",
+    "location": "Gaydon",
+    "score": "9.2",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231203901.webp?k=eb2a9d369d5dd8b1d12caca985b8a470c391fb41a355021b433a491bf6ccba9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-snug-entire-home-sleeps-2-stratford-upon-avon.html": {
+    "name": "The Snug Entire home Sleeps 2, Stratford upon Avon",
+    "location": "Shottery",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410378732.webp?k=93b18e5c1805b47977e65f0ef4c03c4407522f38fb0496fd472f24fb11ba73a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marvel-apartments.html": {
+    "name": "Marvel Apartments Leamington Spa",
+    "location": "Leamington Spa",
+    "score": "8.4",
+    "review_count": "222 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248221378.webp?k=05b05752930446bc13f2dd43b3f0695840fc00a0d951e65872bd8eeb6fe54c17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-bank-beautiful-cotswold-house-with-huge-garden.html": {
+    "name": "The Old Bank Beautiful Cotswold House with Huge Garden",
+    "location": "Mickleton",
+    "score": "9.5",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303303876.webp?k=7df58e0b561974813816ef605c502c20f1d3f18abcd9e435fa5dca59442b87a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kenilworth-cosy-garden-view-apartment.html": {
+    "name": "Kenilworth Cosy Garden View Apartment",
+    "location": "Kenilworth",
+    "score": "8.1",
+    "review_count": "97 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139867507.webp?k=75e13b9efb0969c59908e98606d5e861bb6f2e2d3f0c5fd720b2c831b6dac0ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-studio-apartment.html": {
+    "name": "The Coach House Studio Apartment",
+    "location": "Leamington Spa",
+    "score": "9.5",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319107040.webp?k=21f92712cba8668758a81a6e97fa973f49af2eacaf852e12e63bda779376bfa5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mercure-warwickshire-walton-hall-hotel-and-spa.html": {
+    "name": "Mercure Warwickshire Walton Hall Hotel & Spa",
+    "location": "Wellesbourne Hastings",
+    "score": "6.7",
+    "review_count": "843 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149375140.webp?k=6a66ee24f0227702aa75620f59b22ba267e38dfeb1b9c7ebd2f490adc4784abc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-queens-head-stratford-upon-avon.html": {
+    "name": "The Queens Head",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "7.3",
+    "review_count": "485 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209516706.webp?k=0d685767481fdda37fbbfbcdeca776722b413e81f388713834fe79de0e477c65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thekenilworth.html": {
+    "name": "61 Warwick Road",
+    "location": "Kenilworth",
+    "score": "8.2",
+    "review_count": "348 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4016258.webp?k=76311d53a2202c1b31b0ab7cf0f61efae13399e30e377c9ed0fa2adfb1d57e3f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dassett-view.html": {
+    "name": "Dassett View",
+    "location": "Gaydon",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419786753.webp?k=e83163783d895de791fac2278e2ff979c93fe39aceafa1cb703b03f512ad804e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arden-cottage-stratford-upon-avon.html": {
+    "name": "Arden Holiday Lettings",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.4",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345066253.webp?k=e4128b52c8bb6dddcece0fac18f1a61d403b73d601229649f14eb10653286be8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shakespeare-house-warwickshire.html": {
+    "name": "Shakespeare House Town Centre FREE Parking",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367472382.webp?k=2859196b72fbf5f99c35f9c443b795a688382d592143b80cfe33e86cf67ed69c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thecroftguesthouse.html": {
+    "name": "The Croft Guest House",
+    "location": "Stratford-upon-Avon",
+    "score": "8.4",
+    "review_count": "252 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62544500.webp?k=14e82e8fde5d888c3e31cded976526e90005f4e680592ed24f767d7cb9e31979&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-3-central-chambers.html": {
+    "name": "No 3 Central Chambers",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.7",
+    "review_count": "116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/116989045.webp?k=fb783a995f27d0fb432fd746838b11dbd92d8f14c0687afccf693388aedf070c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-falcon-hatton1.html": {
+    "name": "The Falcon At Hatton",
+    "location": "Hatton",
+    "score": "8.6",
+    "review_count": "453 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164017098.webp?k=4d056d6ae5523f27a9c6d1e3398c147032b3e56877ffbb26107e5f912a37f33c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtland.html": {
+    "name": "Courtland",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.6",
+    "review_count": "218 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/12618439.webp?k=c209893ff77552900d52bc0a39040b0b00636f8658df13406ebcb91be7177485&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/throckmorton-arms.html": {
+    "name": "The Throckmorton",
+    "location": "Alcester",
+    "score": "8.5",
+    "review_count": "541 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/200799880.webp?k=1df663166e8fec5b1552ba8d1f31f0854d465c2cb3eabeafbd552392b36e6a6b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carlton-rugby1.html": {
+    "name": "The Carlton",
+    "location": "Rugby",
+    "score": "6.3",
+    "review_count": "385 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4154349.webp?k=215b76abd539ee80f7615bf0142156e2b1edc317c7bcbbc28f3955bd442ecdb1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leamington-spa-warwick-place-apartments.html": {
+    "name": "Leamington Spa Warwick Place Apartments",
+    "location": "Leamington Spa",
+    "score": "8.5",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345361402.webp?k=1263de88f2348cb09d04c3b04e6d0fcf028cf1f31a05c4fa05b884305bae9820&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/17-aspen-road.html": {
+    "name": "17 Aspen Road",
+    "location": "Rugby",
+    "score": "9.2",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283692938.webp?k=c2420fb6391dd65f72ccd893a379fa58b519b5c32781031c0941bee6ee61a055&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/golden-key-serviced-apartments.html": {
+    "name": "Golden Key Apartments",
+    "location": "Lillington",
+    "score": "7.4",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268697141.webp?k=148bf56addb30eb8ea5cdcb8caf4e8f32581b9ed6060eff1ede77547e93be487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-railway-view.html": {
+    "name": "The Railway View",
+    "location": "Rugby",
+    "score": "8.0",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304414810.webp?k=7790967a4ca8313974109ab8d9fdabaa159c570f76314f183a85eae053fee90a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-limes.html": {
+    "name": "Castle Limes Hotel",
+    "location": "Warwick",
+    "score": "8.1",
+    "review_count": "864 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/16514873.webp?k=3a5b342012261b5a82ee659aa1244824ee63ff8da4455dee86f8180769d8adc3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-church-street-townhouse.html": {
+    "name": "The Townhouse",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.9",
+    "review_count": "766 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92026685.webp?k=110d1c3424e696d2650e022f86c9dcb1f905ac80cd2896feacb91dec97a208a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-masons-court.html": {
+    "name": "4 Masons Court",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344422425.webp?k=026bf6add1b0496e618220f9326f121aca5a8efb2288cbbe55944352ab699c93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-caravan-at-lower-fields-farm.html": {
+    "name": "Tadpole Retreat at Lower Fields Farm",
+    "location": "Napton on the Hill",
+    "score": "8.6",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328121481.webp?k=28a08ce70877a399dd7e6f08a64a25d8844f35ccb1b83e81d87598fb262c2b4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coleshill.html": {
+    "name": "The Coleshill by Greene King Inns",
+    "location": "Coleshill",
+    "score": "8.0",
+    "review_count": "382 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110702322.webp?k=04b39eb4d62321563220a1de755322cf8053889634ceb6427a5280cb44341a85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-apartment-royal-leamington-spa.html": {
+    "name": "The Garden Apartment",
+    "location": "Leamington Spa",
+    "score": "8.7",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139450776.webp?k=422f308f48965cdf38418352aef034634e8620a1eb9752445594e6bd569be765&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arrow-mill-restaurant.html": {
+    "name": "Arrow Mill- Brunning and Price",
+    "location": "Alcester",
+    "score": "9.1",
+    "review_count": "363 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162333380.webp?k=d4ec72560c88308f38003f3b49146648609347291cd38438de1de775fcb190ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moonraker-house.html": {
+    "name": "Moonraker House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "287 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8179218.webp?k=a69537f7f13a9ee92670c8d5c89bdb9e9e42505384fec66d01609888e3298cd2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arden-park-hotel.html": {
+    "name": "Arden Park Ensuite Rooms",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.2",
+    "review_count": "243 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222268754.webp?k=33181b62839a20321d6bbfca03fbeb006513fc511996d4fd21e2da12df1aabfa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-refurbed-2-bed-2-bathroom-flat.html": {
+    "name": "Stylish 2 bed 2 bathroom apartment for up to 5",
+    "location": "Warwick",
+    "score": "8.7",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310501822.webp?k=84216ab121d4a9ce3e361475d2f96cfe85d0dc9f915b7b8cf40f39fcf7cf5dca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pen-and-parchment.html": {
+    "name": "Pen and Parchment by Greene King Inns",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.0",
+    "review_count": "661 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248847208.webp?k=d46656f96ec55d32071d8e3a20839bd467288d4fdb39a697f6b254bdd4aaa9ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-poplars-stratford-on-avon.html": {
+    "name": "The Poplars",
+    "location": "Newbold on Stour",
+    "score": "9.6",
+    "review_count": "116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/166943781.webp?k=cdec2696758aad557a510fd9d3bbfabbef519b9cbe2de4868bad46d04ecc6ffe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/george-birmingham.html": {
+    "name": "George & Dragon",
+    "location": "Coleshill",
+    "score": "7.5",
+    "review_count": "273 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/7056650.webp?k=49399b0fc4def9086b4d409b38a8be0493836c8d4dd67ce00cd6836cb718bcd2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-halford-bridge-inn.html": {
+    "name": "The Halford Bridge Inn",
+    "location": "Shipston-on-Stour",
+    "score": "8.0",
+    "review_count": "157 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352380845.webp?k=df35f60c6f271aff14e05d979ec8e018417f82d531a0a73d88e01bbfdf6ab0d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingsheadinn.html": {
+    "name": "Kings Head Inn, Warwick",
+    "location": "Warwick",
+    "score": "8.3",
+    "review_count": "838 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164629230.webp?k=63ebe57670ab48b11bda188e444fdc463e4e217ffc3a04bf1d444f29c8f84841&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-contemporary-home-leamington-town-centre-hosted-by-hutch-lifestyle.html": {
+    "name": "Luxury, Contemporary Home, Leamington Town Centre. Hosted by Hutch Lifestyle",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434019534.webp?k=2303c947191afd9b08acbbd1474a9ce632e711333654192ee71d602c8a54b761&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/white-hall-farm.html": {
+    "name": "White Hall Farm",
+    "location": "Leamington Spa",
+    "score": "9.6",
+    "review_count": "183 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112311672.webp?k=b74346776c993b36bc939ca528319485b0582f2e1c6bf64f5382f1d9e0863ace&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-apartment-in-leamington-spa-city-centre.html": {
+    "name": "Modern apartment in Leamington Spa City Centre",
+    "location": "Leamington Spa",
+    "score": "9.5",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310925732.webp?k=5a35305f7c6ec50bb18088ba050532438f2adf0cc4c35263333a43333c8ff8ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-cottage.html": {
+    "name": "Park Cottage",
+    "location": "Warwick",
+    "score": "9.5",
+    "review_count": "474 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/130927418.webp?k=0aa1d042260c5130738640adb9a5e5cdeaed6a7e465323f08aebe706808886a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tunlaw-cottage.html": {
+    "name": "Tunlaw Cottage",
+    "location": "Kineton",
+    "score": "9.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331129490.webp?k=f71bd772791aa1b4760e14b289792d25d6ecf48ce8acc52c5bdb912202e34253&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/morden-spacious-outdoor-dining-area-sleeps-16-parking-wifi.html": {
+    "name": "Modern Spacious House - Sleeps 16, Free Parking, Sun Terrace",
+    "location": "Attleborough",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327954806.webp?k=19c77b8d9c96c063acc5d9e911c66c458818092a52bb0a207b5056483b9d548e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bard-39-s-retreat.html": {
+    "name": "The Bard's Retreat",
+    "location": "Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185666361.webp?k=f415d7b701e1ddec00f50022f9f843017ac91b329d867aea1631283b5a4783bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/middle-cottage-moreton-morrell.html": {
+    "name": "Middle Cottage",
+    "location": "Ashorne",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395556732.webp?k=7f6fe3723c75ff1e3aa8621f9420601da0dea20760928debb1cc025dc148810b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-modern-town-centre-2-beds-free-parking.html": {
+    "name": "GS - Luxury, modern town centre, 2 beds, free parking for one vehicle",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326957098.webp?k=510f7c3346d971e405fcb5349d6cf5700c363f9385a034d31d0a2eff976b3187&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/one-abbey-lane.html": {
+    "name": "One Abbey Lane",
+    "location": "Southam",
+    "score": "9.6",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334204460.webp?k=061fd95909f70b91d0f9f0a14b12a59a3442f70793cdabd903c0851f18da7e35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carlton-guesthouse.html": {
+    "name": "Carlton Guest House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.1",
+    "review_count": "325 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267547832.webp?k=1d2ecc3cc1437e98af7ea80b5ca2598b783240c6c7437ff17b6341b0c3b63b72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-malt-barn-loft.html": {
+    "name": "The Loft in the Malt Barn",
+    "location": "Mickleton",
+    "score": "10",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354563011.webp?k=6b5fc031dc4b3da4e0cff6c19f4b13f96423402b283ff180e53014bf2ae8399c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-bear-shipston-on-stour1.html": {
+    "name": "The White Bear",
+    "location": "Shipston-on-Stour",
+    "score": "7.7",
+    "review_count": "370 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205324543.webp?k=5859d89d97ee3b8854289d08409bb68b7b0894f23b33bd294c8ac0ead6d69a59&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/virginia-lodge.html": {
+    "name": "Virginia Lodge",
+    "location": "Stratford-upon-Avon",
+    "score": "8.7",
+    "review_count": "396 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175876300.webp?k=953584bdfed3bbb7d4fffe95c8bb9d6f1de45b836c8a3d4f245afb3a9c9974a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-fields-farm.html": {
+    "name": "Idyllic Suite at Lower Fields Farm",
+    "location": "Napton on the Hill",
+    "score": "9.1",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319265430.webp?k=ca9b1ca3c7669c4474e85c16de05c0113a98f4ec6948ae87a61aed4c80579909&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stoneleighparklodgehotel.html": {
+    "name": "Stoneleigh Park Lodge",
+    "location": "Leamington Spa",
+    "score": "7.4",
+    "review_count": "359 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158492151.webp?k=8f96fb29e5fbb0bc55ccf30a50a134dea4b88df5cf123ec641d356a1c23c5b30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stratford-upon-avon-entire-snug-parking-sofa-bed.html": {
+    "name": "Stratford-Upon-Avon Luxury Snug with Free Parking",
+    "location": "Stratford-upon-Avon",
+    "score": "8.8",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329652901.webp?k=3a218c83735160a0cfeacaeca4617abcde7ae124fde1204bf41ee09a992761a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeysuckle-cottage-mickleton.html": {
+    "name": "Honeysuckle Cottage, Mickleton",
+    "location": "Mickleton",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410125038.webp?k=73b70419e5ebeb62e0b486391f2910d7a8be1714b600c512c1106314f21a9312&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salfordhallhotel.html": {
+    "name": "Karma Salford Hall Hotel",
+    "location": "Bidford",
+    "score": "8.4",
+    "review_count": "204 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246461842.webp?k=7d2d4dff4a5fbad5ecf395d8f2886657dda1fb55d3b39d3ec35306c0f5b636e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bower-house-restaurant-amp-rooms.html": {
+    "name": "The Bower House, Restaurant & Rooms",
+    "location": "Shipston-on-Stour",
+    "score": "9.4",
+    "review_count": "284 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104582818.webp?k=9e53ed664bb67ed1babec1a217611b5f81bcee5592fe347bc2a40128832365e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broadlands-guest-house-warwickshire.html": {
+    "name": "Broadlands Guest House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195672400.webp?k=2888c6a0e1ef838d4b580fe13e8075749aae54f50026c695560f09679fdb38d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sawadee-apartments.html": {
+    "name": "Sawadee Apartments",
+    "location": "Warwick",
+    "score": "7.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/57466094.webp?k=397f6949c89330c194be4591fd20b1ed7a95739e3f7c50b80cc1e37da745d681&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampton-lodge.html": {
+    "name": "Hampton Lodge En-Suite Rooms with Free Parking",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "268 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140743790.webp?k=408b55951eac269bcb09146075fb6540557507544dc215f73d986aa912ceef8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingscourt.html": {
+    "name": "Kings Court Hotel",
+    "location": "Alcester",
+    "score": "8.1",
+    "review_count": "720 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/187265594.webp?k=d4f005bd1edf09fa194cac5fd0ad550ed585db40c01cccbceb791d484860b77e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kenilworth-studio-ground-floor-parking.html": {
+    "name": "KENILWORTH STUDIO * GROUND FLOOR * PARKING",
+    "location": "Kenilworth",
+    "score": "8.7",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361717053.webp?k=641b23d63b3cf7ab3fdd3f72e2ac2766a3b7efb29ccb54615b20a05e7fb7b21b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/superb-apartment-in-stratford-upon-avon-with-free-parking-wi-fi.html": {
+    "name": "Superb Apartment in Stratford upon Avon with Free Parking & Wi-Fi",
+    "location": "Stratford-upon-Avon",
+    "score": "8.8",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436909587.webp?k=b9e3b426d5fd1f9deae48d0babb8f571eb92c52bdc3bbf35bdde3ad64a0531ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-stratford-upon-avon.html": {
+    "name": "The Hideaway",
+    "location": "Stratford-upon-Avon",
+    "score": "9.8",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305088386.webp?k=ad5b846146f66c533fa7d3e88dfaa245549175bb11b02a8740b92dc1a0bc3372&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-studio-apartments-in-stratford-upon-avon.html": {
+    "name": "Central Studio Apartments in Stratford upon Avon",
+    "location": "Shottery",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436906231.webp?k=1e4729ea589945b2d16846953c8118c662d770ab792c5d1e1cfa5056bdf1684a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goldenlionhotel.html": {
+    "name": "Golden Lion Hotel",
+    "location": "Rugby",
+    "score": "8.1",
+    "review_count": "167 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112774338.webp?k=c9806e5c9b15ce4589a078c0d9a7e151470082ff4ee289f71b0dda3c0642ecf6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quaint-townhouse-cottage-in-town-center.html": {
+    "name": "Townhouse cottage in town center",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319632572.webp?k=554548756253a19dcff4d437a6906225d67d0541e25b3053b4d91c8b452e8036&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rare-find-14thcent-grade-2-listed-unique-building.html": {
+    "name": "The Armadas Rest",
+    "location": "Coleshill",
+    "score": "9.3",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311167660.webp?k=49f77e916ddac50508426cf284d336e458f86828194454386b305f288f513689&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/well-presented-2-bedroom-house-sleeps-four.html": {
+    "name": "Well presented 2 bedroom house - sleeps four",
+    "location": "Leamington Spa",
+    "score": "7.4",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/179367001.webp?k=46b863de81e003b7af8d22431f7b3b16f6f6f13dcd87f727c11aec0056fd807e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bend-in-the-river-lodge-stratford-upon-avon.html": {
+    "name": "Bend in the River Lodge",
+    "location": "Stratford-upon-Avon",
+    "score": "9.4",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270312306.webp?k=8d67828f0eeb02ff5bacfbb91ba0c88bbe29f6346d4c18e8fb60ee60bcf1187b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burnside-stratford-upin-avon.html": {
+    "name": "Burnside Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "8.7",
+    "review_count": "461 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310899695.webp?k=8249f2bf63663901157d0638e3ca485fd406687aee45debb35de7b0acad5aaf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trinity-cottage-stratford-upon-avon1.html": {
+    "name": "Trinity Cottage",
+    "location": "Shottery",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429446580.webp?k=16e782f958cc7e21aceb5a613c16d9ff38cc592cf1333098aa536c855e7ddca3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gopsall-tipis.html": {
+    "name": "Gopsall Hall Farm",
+    "location": "Atherstone",
+    "score": "9.5",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435797059.webp?k=362139653d46fcdd0ae3354c92e6eab9bf150270bc1790693f309a6462a9ac77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bourton-house.html": {
+    "name": "Bourton House",
+    "location": "Rugby",
+    "score": "8.8",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207841588.webp?k=702a6fd4e14e41eb606a7cf2e2720ca0cbfd142570ed05b37ce2f713a564ba51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chocolate-nest.html": {
+    "name": "Chocolate Nest",
+    "location": "Leamington Spa",
+    "score": "8.8",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206571069.webp?k=0b5b71fbb8fae0991c12719967e83f7518cbd8faa3dbcf83f0fda8ece1d3bca9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blue-boar-inn-atherstone.html": {
+    "name": "Blue Boar Inn",
+    "location": "Atherstone",
+    "score": "7.5",
+    "review_count": "211 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162471977.webp?k=05395e04f8121f84b99fe348d1ea9be88a5603426f76d8859bd5f773156d0308&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yeoldestationguesthouse.html": {
+    "name": "Ye Olde Station Guest House Birmingham, Shustoke",
+    "location": "Shustoke",
+    "score": "8.7",
+    "review_count": "182 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/454910.webp?k=167c4cea41c7be1fccecbe205858fc6ebe3f45d69be235129ebf43945d477598&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/25-shakespeare-street-stratford-upon-avon.html": {
+    "name": "25 Shakespeare Street, Stratford-upon-Avon",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151759152.webp?k=a3d56a29275f700df6a825acfa4b59b7474d61f5a29d93a9b92224ef4e486048&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-house-in-stratford-upon-avon-with-private-parking-free-wifi-amp-netflix.html": {
+    "name": "Modern House with FREE Private Parking, WIFI & Netflix",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436910338.webp?k=ccb2a11ba5ec3dfe2487459946d60aafd5039c42799555944569269a2dfc37d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shires-warwickshire12.html": {
+    "name": "The Shires",
+    "location": "Nuneaton",
+    "score": "9.5",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296775574.webp?k=b58979014199d45588b88fcad9c37b37cbe7236e0a7cc0cdc88c14ef276adcff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-house-3-mins-drive-george-eliot-hospital.html": {
+    "name": "JRR Stays - Nuneaton - Spacious 3 Bed House",
+    "location": "Stockingford",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411790613.webp?k=37f5197a55cb32c9e6dbe2c82693f84f3caedfdd5346096192cc7af03caa2cc5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/linhill-guest-house-stratford-upon-avon.html": {
+    "name": "Linhill Guest House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.4",
+    "review_count": "328 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311441296.webp?k=7b5f4f9681c26a4a5ab4c0250e6664927e8266f27ed0f2d62b27f561f7341783&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-manor-house-halford.html": {
+    "name": "The Old Manor House",
+    "location": "Halford",
+    "score": "9.4",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/93460875.webp?k=5501d2aff0da2768d2772b4050d2d770d9f3040116eaa328eb17c44460f916d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hollybush-inn.html": {
+    "name": "The Hollybush Inn and B&B",
+    "location": "Priors Marston",
+    "score": "7.9",
+    "review_count": "166 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325922321.webp?k=ecef35a7b0b1b1eb49f2008c9b5934bffbac4ae764b870d29148a2f4566fd384&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-potting-shed-warwick.html": {
+    "name": "The Potting Shed",
+    "location": "Warwick",
+    "score": "9.8",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/128276995.webp?k=831b9d0f9c6d07631f51e7d1afe5be4113aec18490d3ad5be3143b3686f8dd8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-apartment-leamington-spa.html": {
+    "name": "Beautiful Apartment - Leamington Spa - FREE Wi-FI - Netflix",
+    "location": "Leamington Spa",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436905468.webp?k=42562dc5ce1fa315533ecccc88379b82b89f646c383bbddbbe7884fc0e10b639&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-top-floor-modern-town-centre-parking.html": {
+    "name": "AB - Top floor 2 bed modern town centre apartment with parking for one vehicle",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "102 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201437792.webp?k=ee173ce0de6ac1bce85a4c8fc83fa96a5871cbaf621cfd1648db18aca42f7a52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/juliet-cottage-hot-tub-sleeps-3-singles-or-double.html": {
+    "name": "Juliet Cottage HOT TUB Sleeps 3 Singles or Double",
+    "location": "Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220845909.webp?k=7d5000ee9164436199c25ed890f82006ca3a05305b42a0b3ad7ea98e2db3399f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fosbroke-house.html": {
+    "name": "Fosbroke Cottage",
+    "location": "Bidford",
+    "score": "9.3",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/44773680.webp?k=58d914c97aac77ca9824c4439649390957bcd8daa4e3f48913e898c61f8bed03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/granary-oosland-farm.html": {
+    "name": "Granary, Oosland Farm",
+    "location": "Bidford",
+    "score": "7.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285231461.webp?k=802835411f60f88ee77ead3dffdc0afb091b8d401194194958e23cc68c3d000e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/offa-hideaway.html": {
+    "name": "Offa Hideaway",
+    "location": "Leamington Spa",
+    "score": "8.6",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268846804.webp?k=3d8a9d10cbca123158f581b76fba092bc6e205704e03dd70e9726382abd87713&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stratford-limes.html": {
+    "name": "Stratford Limes Hotel",
+    "location": "Stratford-upon-Avon",
+    "score": "8.1",
+    "review_count": "678 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321649104.webp?k=3ad74559e9b0af1a7d21ac0d080bc01ed89cb3540ad7ef627787bee822328696&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-art-studio-henley-in-arden1.html": {
+    "name": "The Art Studio",
+    "location": "Henley in Arden",
+    "score": "9.5",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228827179.webp?k=4007f9aa480999adc0569283bb8caf46a36c2a4940e3078973d3d6bd185414b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hamlet-cottage-sleeps-3-4-stratford-upon-avon.html": {
+    "name": "Hamlet Cottage sleeps 3-4 Stratford upon Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "8.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221133549.webp?k=472218ad0bd4d25804c53d8a3195842337b2d637651a7ef6b3eee53435622307&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-george-inn-lower-brailes.html": {
+    "name": "The George Inn",
+    "location": "Lower Brailes",
+    "score": "8.7",
+    "review_count": "162 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266757507.webp?k=6a8cbbb081bc028a4bf9358247dbacbb6d434b473b057647b643b74bb4749afb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greenhill-farm-barn-b-amp-b.html": {
+    "name": "Greenhill Farm Barn B&B",
+    "location": "Sutton under Brailes",
+    "score": "9.5",
+    "review_count": "189 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/101451065.webp?k=5bb85830cfdd8dfe2418fbc81efe678c21995e2a8d8d52756048f83288777503&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kerns-cottage-stratford-upon-avon.html": {
+    "name": "Kerns Cottage Stratford-upon-Avon",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329333885.webp?k=8a710a09aa1b2c678e1fdc4972e21400a1978a1b174cc6e6616eb393b9fdc436&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/macbeth-cottage-sleeps-up-to-7-hot-tub.html": {
+    "name": "Macbeth Cottage - Sleeps up to 5 - NEW HOT TUB",
+    "location": "Stratford-upon-Avon",
+    "score": "8.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221156305.webp?k=4e2114814451d151eed9f14cc684d2c276e13f47d39bd90734e004a1ad689358&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pinecote-stratford-upon-avon.html": {
+    "name": "Pinecote, Stratford-upon-Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240198348.webp?k=64676c9defb35f2710074fd509aff1f70a7a27636e3030deb2f7462ae0c655a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-room-47-bathroom-47-entrance-near-warwick-town-centre.html": {
+    "name": "Private room and bathroom with private entrance near Warwick town centre",
+    "location": "Warwick",
+    "score": "9.0",
+    "review_count": "167 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361342189.webp?k=29abe4646fea7a02680e4061b6ac3abd9175a326a189076b758d61fa49a16800&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/character-cottage-with-hot-tub-new.html": {
+    "name": "Character cottage with hot tub - NEW",
+    "location": "Snitterfield",
+    "score": "7.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349178255.webp?k=9e2c68219166c9c3525919525c2366a5d064acb593215986eb9a35adc26c2bdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-ways-farmhouse-b-amp-b.html": {
+    "name": "Three Ways Farmhouse B&B",
+    "location": "Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "145 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111022095.webp?k=425793b6833dfcbcaed0e941a7f429defc45bd9c60a0cbbc2f0ca2e0587aeaa2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contemporary-hutch-lifestyle-apartments-24.html": {
+    "name": "Contemporary 'Hutch Lifestyle Apartments' (24)",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433659337.webp?k=83ff85b4e97595c73d73aa16b10ac3e8e49b1c65386ba0b7b041eefabc98b9f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/warwick-st-studios.html": {
+    "name": "Warwick St Studios",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438067132.webp?k=443412ed20674716537a5217e71c321fb46fda0c942d0d630229a75b7076b9d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-waters-edge-guest-house.html": {
+    "name": "The Waters Edge Guest House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "235 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311277152.webp?k=468c936438ce82281868eb0a26152d17e4bec043407c84a1a270f2f5a66019e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/data-house-holiday-apartment.html": {
+    "name": "Data House Holiday Apartment",
+    "location": "Atherstone",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423984119.webp?k=8da155348973852948a3bde82ebebe54592e6ff0247c08ff30787c1afbd616d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-rectory-coleshill.html": {
+    "name": "The Old Rectory",
+    "location": "Coleshill",
+    "score": "8.3",
+    "review_count": "100 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294083902.webp?k=a9e04307cdea8a9d7d9e13f7c8b2be50d6b8bbaaa0680d4cad9c17c53cb879cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/avonpark-house.html": {
+    "name": "Avonpark House",
+    "location": "Stratford-upon-Avon",
+    "score": "8.9",
+    "review_count": "373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/39475039.webp?k=ab39b6c9c480df9aba90206316edafced3c060e9407dddf59bd3a5bf9bddc02c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oakleigh-1-bed-garden-view-appartment.html": {
+    "name": "Oakleigh 1 bed ground floor garden view apartment FREE ONSITE PARKING",
+    "location": "Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "108 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432051921.webp?k=8403337606a0701c44bd3e88812c70c206c38b4df2466c1e4f4249026a3990d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/regents-nest-by-spa-town-property-stylish-3-bedroom-apartment-on-2-floors-centra.html": {
+    "name": "Regency Nest by Spa Town Property - Stylish 3 Bedroom Apartment on 2 Floors, Central Leamington Spa",
+    "location": "Leamington Spa",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422988540.webp?k=a2272953eb416a5b638a9ca719fd2ae83238a91781bf45f01fe17945c99df376&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/toad-hall-self-catering-sleeps-four.html": {
+    "name": "Toad Hall, Self Catering, Sleeps Four",
+    "location": "Southam",
+    "score": "7.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326785637.webp?k=480031d1abc9a08e40e8259977fac650f64b3b82bc826a726a6449fbe58c4f38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leila.html": {
+    "name": "Leila",
+    "location": "Stratford-upon-Avon",
+    "score": "9.1",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114177603.webp?k=166c4d40f1f231a1d83535554c1366f84155685c0f5a9437539b45acc4e51bd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-3-bed-apartment-in-southam-sleeps-6.html": {
+    "name": "Cosy 3 bed apartment in Southam, sleeps 6",
+    "location": "Southam",
+    "score": "8.7",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366657631.webp?k=0909a36a85a6a24ad96087e262c482c8923bb59904c976aacd0437cc6893c64a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/megs-cottage-tiddington.html": {
+    "name": "Megs Cottage, Tiddington",
+    "location": "Alveston",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344473249.webp?k=3fc06ad65d73807212213530c7427a154b653eb4a9a4951424cc3c24706590d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-howard-arms-ilmington.html": {
+    "name": "The Howard Arms",
+    "location": "Ilmington",
+    "score": "9.2",
+    "review_count": "215 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/69269404.webp?k=4aa6dd04d806e56a72c46de55fb36cae6c2e1a34c17732e5e1c88dbf809ea31c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/valentines-cottage-stratford-upon-avon.html": {
+    "name": "Valentines Cottage",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.1",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247451477.webp?k=24df2eccfada393b5e442f9c048e7975513f9a3b69a75fea759af7887547ce91&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/globe-cottage-stratford-upon-avon.html": {
+    "name": "Globe Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299921791.webp?k=5dde40a5d788c8fef0ee2661c147433acaab73ecf1463ef42d1fc98a09b28941&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-warwick-apartment-sleeps-3-claverdon-house.html": {
+    "name": "Modern Warwick Apartment, Sleeps 3, Claverdon House",
+    "location": "Warwick",
+    "score": "9.0",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334308944.webp?k=300e6b561c1588199d480a71e45c78eabca5b410a0ec1f6833dd89233b151f8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cider-house-oosland-farm.html": {
+    "name": "Cider House, Oosland Farm",
+    "location": "Bidford",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285240925.webp?k=a76dfae8acf922fbd580b736cfab2cbab07ef2820523fe069c70b4324be10bee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wits-end-log-cabin-warwickshire.html": {
+    "name": "Wits End Log Cabin",
+    "location": "Warwick",
+    "score": "9.3",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295886250.webp?k=97086f27f420de106f549570ee924bb11e64a6b06307a6c7edfcf8ff29d3a8ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stratford-house-stratford-upon-avon.html": {
+    "name": "Stratford House",
+    "location": "Stratford-upon-Avon",
+    "score": "8.0",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/106643101.webp?k=c52eed8b08dde68c4bb9dabb5c2a86d3cfaba3949660488674987e3378b164e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jersey-villa-guest-house.html": {
+    "name": "Jersey Villa Guest House",
+    "location": "Warwick",
+    "score": "8.3",
+    "review_count": "181 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356481723.webp?k=4fd9761614ddcaad1e133f5179bdf5ad82a42e9c4bfa62812a93692e0f80e18c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-2-bedroom-serviced-accommodation.html": {
+    "name": "Riverside 2 Bedroom Serviced Accommodation",
+    "location": "Leek Wootton",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415753508.webp?k=2c980989ca165218d238564824646e0fe026150d553f0335c0c1619352bfb806&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/regency-apartment-in-the-heart-of-leamington-spa.html": {
+    "name": "Regency Apartment in the heart of Leamington Spa",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426514966.webp?k=64cb3a3400fa3a74d80a2d61327d4ea051d3efd130e01f35c12be049f21d03a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-townhouse-apartment-in-stratford-upon-avon-with-wifi-amp-netflix.html": {
+    "name": "Modern Townhouse Apartment with FREE Parking, Wifi & Netflix",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.8",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436910119.webp?k=888190a010c893396a1cacb48081e819a29179f4d2bde50ae30208d51a057162&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wayside-house-b-amp-b.html": {
+    "name": "Wayside House B&B",
+    "location": "Whichford",
+    "score": "9.4",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262806182.webp?k=a4d118c01b0234ea5e9e95c7d04828e08204b0cce468b29f9636ccf681c0af6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-lodge-barn.html": {
+    "name": "Lower Lodge Barn",
+    "location": "Alcester",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295886981.webp?k=6787c578c4b4d0eaafc9d8049e6344d2904b925dc853d58728ff8240c6c98baa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fabulous-2-bed-character-property-close-to-town.html": {
+    "name": "SL - Fabulous 2 bed character property close to town",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348985115.webp?k=72e00d54d0cb6a4d540354df4b6c5e0cab53fade21bee3b79b43c984d663b9ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-ground-floor-studio-apartment.html": {
+    "name": "NEW MODERN STUDIO APARTMENT, PARKING, Netflix",
+    "location": "Kenilworth",
+    "score": "9.4",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321131824.webp?k=87ff69ed962259a54d414cdde832c5affdb1582613ab4ac266d617bcb036846d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-gem-of-leamington-spa-by-purestay.html": {
+    "name": "Central Gem of Leamington Spa - Sleeps 5",
+    "location": "Leamington Spa",
+    "score": "8.3",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290158708.webp?k=b28d8816c996a5a408e2ce3ba62761d54bc61d38f96a515242e559d9eff8e2bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeysuckle-cottage-brailes.html": {
+    "name": "Honeysuckle Cottage Brailes",
+    "location": "Sutton under Brailes",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331854509.webp?k=09b1b951fd2426cdd78ce0d0a46b8bc5238946c13d88196b7d56c2c4b3f9cfd8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/granary-at-rectory-farm.html": {
+    "name": "Granary at Rectory Farm",
+    "location": "Wolford",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331970320.webp?k=7156b9789f83f8b511e56c76d016028904854c34116e8603b62bf4c09429e12d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wren-cottage-stratford-upon-avon.html": {
+    "name": "Wren Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411316369.webp?k=a3d4d28b827b982d3f256deeb71609de931ff10fdeb453962276acad95abd215&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-apartment-bedworth-nuneaton-coventry.html": {
+    "name": "1 Bedroom Apartment - Bedworth Nuneaton Coventry",
+    "location": "Attleborough",
+    "score": "7.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372482749.webp?k=e56e2be57c05ccc22c10752363d52c112f34ae3b45b623258032fc0981679523&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-old-cottage.html": {
+    "name": "Lovely old cottage",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.7",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234231513.webp?k=64b808c41c4ea4bc5bea3250eec337e024545138508bac3f40dd68572d74c0fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/warwick-market-place.html": {
+    "name": "Warwick Market Place Apartment",
+    "location": "Warwick",
+    "score": "9.7",
+    "review_count": "48 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140211353.webp?k=3b1eb8c7ab4f8cad499700f906fb6a7c3755318a4287c47375b997ff3ccd333b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-aston-cantlow.html": {
+    "name": "The Coach House",
+    "location": "Aston Cantlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418503909.webp?k=b27b1675b032e49fccc87e29014cb2913b5a6c16ed134e9e8d6d5ae505db6bce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-apartment-in-stratford-upon-avon.html": {
+    "name": "Central Apartment in Stratford upon Avon",
+    "location": "Shottery",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436906954.webp?k=3874443d48f034b1f18ec03fbda036ba3cc50ec7b6236ef473801f1d957feaf4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-central-apartment-sleeps-6-w-parking.html": {
+    "name": "Stunning Central Apartment Sleeps 6 w/Parking",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.3",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346735508.webp?k=65062840457cf4b687a3785a10a823ba6f42d5435096111a9261fba8f784a731&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-albany-road-stratford-upon-avon.html": {
+    "name": "5 Albany Road, Stratford-upon-Avon",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409616287.webp?k=882ed936558441350aa146ebef7f1f193da99e4927e4fa2a1cc61dfab801821d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-room-in-town-centre-with-parking.html": {
+    "name": "Private Room & lounge in Town Centre with parking",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433352885.webp?k=75b675057df46f66258e2de35520255353d64b88429eabf835847b3df7b15a9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inigonmanor.html": {
+    "name": "The Stratford Park Hotel & Golf Club",
+    "location": "Stratford-upon-Avon",
+    "score": "7.9",
+    "review_count": "414 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207391581.webp?k=07265cf86f5d02d3f6a55d7078eab1bf23810d00645a0307e593aac2bf1d78c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dakota-baginton.html": {
+    "name": "Dakota Guesthouse",
+    "location": "Baginton",
+    "score": "8.2",
+    "review_count": "165 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306810493.webp?k=7fa8b8a9e760063fa00515f1f35b3523d42a756df86c33183c7681342c8a4255&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-leamington-spa-3-bed-house-free-netflix.html": {
+    "name": "Central Leamington Spa House with Free Parking, Fast Wifi, Smart TV with Free Netflix and Garden by Yoko Property",
+    "location": "Leamington Spa",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301843586.webp?k=35022a8ef070e6d46559c2909a078687c027da32f4464070e400ecd9de58dc4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lovely-old-cottage.html": {
+    "name": "The Lovely Old Cottage",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417841054.webp?k=d4faeac62e08bfe467dfff1f766db6591dcbc4f037f982d45680390589a19e76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-beams-bed-amp-breakfast.html": {
+    "name": "Old Beams Bed & Breakfast",
+    "location": "Alcester",
+    "score": "9.5",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/155645394.webp?k=711167f229c97f94bf291cd3e46144866195a7dc6a5f9711fb665c6c82ff3528&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tudor-cottage-by-spa-town-property-historic-charm-in-warwick-town-c-warwickshire.html": {
+    "name": "Tudor Cottage by Spa Town Property - Historic Charm in Warwick Town Centre",
+    "location": "Warwick",
+    "score": "8.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331909040.webp?k=5dc1586ba2d42d599700430bedb9dc2edf8bcc7f3754ff95bca3439953003dda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newly-refurbished-luxury-2-bed-flat-with-parking.html": {
+    "name": "Newly refurbished luxury 2 bed flat with parking",
+    "location": "Stockingford",
+    "score": "8.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389690393.webp?k=80dfc6617417675ffbfc366b1d6a5680dd72547a9d3a464f1d9d8023bc084aa7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hock-tide-cottage.html": {
+    "name": "Hock-tide Cottage",
+    "location": "Kenilworth",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375099873.webp?k=e2449990373754bf2c38240c7b74b5b83046ef86e52a7e55c2022fcb84897050&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/twelfthnight-guesthouse.html": {
+    "name": "Twelfth Night Guesthouse",
+    "location": "Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "320 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402625781.webp?k=afe4b3cc684a852a3ab2b3a18422c375ead123b55596c90fc5f9ce568132949e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-spinney-leamington-spa.html": {
+    "name": "The spinney home stay",
+    "location": "Leamington Spa",
+    "score": "9.6",
+    "review_count": "210 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239513772.webp?k=6a1e6ee8d18827b42ca2bcebf0e2a987762c52dc8414138fe089ded5a557db7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/midsummer-house.html": {
+    "name": "Midsummer House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.8",
+    "review_count": "61 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131745487.webp?k=64f29382aaa0d1094f303646dd494497428ccc018b406b87cd56ea38ba8e7f0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victoriana-apartament.html": {
+    "name": "Victoriana Apartment - Private Balcony",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.6",
+    "review_count": "124 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326585694.webp?k=73aef8af544d8dacc6a80b07abeff24a5f418021d7ddec902e66a33f27d70ef7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/buck-cottage-disabled-adapted-3-bed-cottage.html": {
+    "name": "Buck Cottage disabled adapted 3 bed cottage",
+    "location": "Alcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387498308.webp?k=089cc0b2aaf7680aadf5c105691ebf15d9914bd0ebc05ee576960a95ce95b91f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-royal-leamington-house-garden-sleeps-10-royal-leamington-spa.html": {
+    "name": "Large Royal Leamington House Garden - Sleeps 10",
+    "location": "Leamington Spa",
+    "score": "6.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416780654.webp?k=c2b925a4d817f67c65bda01fa20173d29c29c95df0aaae788a49a597a4dfea1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stratford-studios.html": {
+    "name": "Stratford Studios",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.1",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147349348.webp?k=9ed543e8573795a214c0aec0c054590436b1d72169a7c1cfe8dc700d1fc3a0c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rio-stratford-upon-avon.html": {
+    "name": "Rio Stratford-Upon-Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "8.0",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240625826.webp?k=070442b5c6ab5c9e5a735d574eba7bec30fc62d609fae4195d65f5813accf1a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/11-victoria-cottages.html": {
+    "name": "11 Victoria Cottages",
+    "location": "Stratford-upon-Avon",
+    "score": "8.3",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344420455.webp?k=d89e63b8d5f2dcf2ce57477924fb4a6dbaee34fa5f2b125ddb7c125ff3d794c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grange-stables-ratley.html": {
+    "name": "Grange Stables",
+    "location": "Ratley",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415522697.webp?k=7e93c2307425e256a22be88da827cfca98e049804f5776667963aa90e903d112&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeypot-cottage-warwickshire.html": {
+    "name": "Capulet at Laburnum Cottages",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "8.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413534417.webp?k=27d49c326b5b1908784e58d51e21a151045c659df7655179dea2cdccd1a2c53d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ricoh-arena-luxury-house.html": {
+    "name": "Coventry Luxury House",
+    "location": "Bedworth",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431740751.webp?k=0485f92561620bd07289dbf3f9cee6e2cec9bb87fac819db328378fedb8648d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/weston-lawns-lodges.html": {
+    "name": "Weston Lawns Lodges",
+    "location": "Bulkington",
+    "score": "7.8",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327307332.webp?k=3348b778c7627d565964b55e9973a8465aba6865f739c48094ac7bbcab729dd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/warwick-castle-resort.html": {
+    "name": "Warwick Castle Knight's Village",
+    "location": "Warwick",
+    "score": "8.6",
+    "review_count": "265 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111011737.webp?k=f553e3182cea2d3589b19722b55480c51ebd409c502d2d513ca706002adda9d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-willows-town-centre-free-parking.html": {
+    "name": "The Willows Town Centre Free Parking",
+    "location": "Stratford-upon-Avon",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366482351.webp?k=efe165945606ad8f723e3642e8399b9c368d2721022d11b301c96d924d3d3dfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-luxurious-2-bedroom-flat-in-rugby.html": {
+    "name": "A luxurious 2-Bedroom flat in Rugby.",
+    "location": "Rugby",
+    "score": "9.1",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333142940.webp?k=3a33e1e21bd379ee3fdd745f44321d927086b58a9c5b1770d2e2d4dab0a4ee79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/la-tavola-calda.html": {
+    "name": "La Tavola Calda Hotel",
+    "location": "Nuneaton",
+    "score": "4.6",
+    "review_count": "224 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/90059276.webp?k=2b8a90cc2cba0b0c3c62d908e4cace06eda3c930bd362a27ee2c356a9799a433&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walnut-cottage-stratford-upon-avon.html": {
+    "name": "Walnut Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347776586.webp?k=7e575cba9cd4b870a67f827b171e00534406b82a5f6b576df456d179be9c8529&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bucket-lock-cottage-warwick1.html": {
+    "name": "Bucket Lock Cottage",
+    "location": "Warwick",
+    "score": "9.3",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176383913.webp?k=93db865a788b529e89fc47eadfb54de00a9d1f77dba4f9f0b91ced628d8c99b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/may-cottage-in-stratford-upon-avon.html": {
+    "name": "May cottage in Stratford Upon Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434256139.webp?k=d66c87ee8e545cf9b950d6b6bf227d9b22700a7069cfc3a8a75325687d3bb202&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-executive-apartment.html": {
+    "name": "Hill Cottage Apartments Coleshill Open for NEC weekend visitors - Hosted By Coventry Accommodation",
+    "location": "Coleshill",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203034606.webp?k=8f3a16de43ad7b179f353013d961a26ba2a272f86c0ca223e7b30d9b97c794bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quaint-cottage-near-stratford-upon-avon.html": {
+    "name": "Cosy 18th Century Cottage Snitterfield",
+    "location": "Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390148802.webp?k=b2831769f0fbfbd6b317d6df7f29f64c9c070ad9a470ab22be4b522e1e750005&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-black-horse-inn-warwick.html": {
+    "name": "The Black Horse Inn",
+    "location": "Warwick",
+    "score": "7.3",
+    "review_count": "300 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/20074325.webp?k=2e3fd12c47b053b5b11d842fb5d4e77952c9f5e128afbb8f4d9856d1aa2a6bbd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-mill-shipston-on-stour.html": {
+    "name": "The Old Mill",
+    "location": "Shipston-on-Stour",
+    "score": "9.0",
+    "review_count": "79 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201268268.webp?k=c0c0b2e54aeae3c9c465dbc5e1b9f4e3efe5450a82daa089fd9c7c7145a17891&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollow-meadow-house-warwickshire.html": {
+    "name": "Hollow Meadow House",
+    "location": "Priors Marston",
+    "score": "8.7",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151636387.webp?k=06a2b93d7b2e06fb8b9bba5ce7b00f05881969185fdd65707c53e7b167568fb3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oakleigh-house-stratford-upon-avon.html": {
+    "name": "Oakleigh house",
+    "location": "Stratford-upon-Avon",
+    "score": "9.3",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161031347.webp?k=8456c07b51111c81947dd28e3fdfc5200bb7dd740ee52567df436e0fa0b31445&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-hill-farm.html": {
+    "name": "Church Hill Farm",
+    "location": "Lighthorne",
+    "score": "9.4",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/85454888.webp?k=a540c70f22ddd45e96692fb1958c6009177fc93780060ebce1f54b93b3b16f4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-5-bedroom-home-perfect-for-large-groups.html": {
+    "name": "Spacious 5-bedroom home perfect for large groups",
+    "location": "Polesworth",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375757050.webp?k=e0a81dda69851a1e8e77f916cb19a91bc98eb92748d3da7ac5c300a581f0a8ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heath-cottage-stratford-upon-avon.html": {
+    "name": "Heath Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281560970.webp?k=96798b7ff2c03370f1c78b427a684234a810ed8dfb64e9d5b8b5c3bce7839f6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shakespeare-s-view.html": {
+    "name": "Shakespeare's View",
+    "location": "Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "125 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/7617817.webp?k=dbfafaf3f9b45d61a11d2e2d033639a59594ed3bf05b52577f20fa03abf1b938&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/regents-retreat.html": {
+    "name": "Regent’s Retreat",
+    "location": "Leamington Spa",
+    "score": "9.3",
+    "review_count": "112 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301727093.webp?k=6e95baf69d0082666ae92764a17e835751cb63093748d8d477afea5011fe6825&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-arthur-road.html": {
+    "name": "4 Arthur Road",
+    "location": "Stratford-upon-Avon",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362679024.webp?k=c39b5e784493105b4c2ab9e2c95e136025d49d9dd8fbb5ce96a627b6644fe873&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-apple-house-crimscote.html": {
+    "name": "The Apple House",
+    "location": "Alderminster",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418281775.webp?k=f90b97752f9f49ccb445c392d970736a3b0f210d9afec03783ecff9f3771c347&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cosy-house-with-free-parking-garden-and-smart-tv-with-netflix-by-yoko-proper.html": {
+    "name": "The Cosy House with Free Parking, Garden and Smart TV with Netflix by Yoko Property - Perfect for Contractors, Groups & Relocation",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423737073.webp?k=f68275aa4ff4f46e139db493c146b3864c38a79e353ca86fa708987d21bf0301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bed-ground-floor-flat-in-leamington-spa.html": {
+    "name": "Lovely 1 bed ground floor flat in Leamington Spa",
+    "location": "Leamington Spa",
+    "score": "8.8",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369336998.webp?k=b0ff1f6e744cef148a408c59b622a761e6b5b10f684417333d7b0f2ddfb24bf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/total-luxury-in-the-heart-of-stratford-upon-avon.html": {
+    "name": "Total Luxury in the Heart of Stratford upon Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286211445.webp?k=293da2d023a6d9f3f7da3ffc9b05c125df5bf9651bba13de5945452a9b65d70e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/9-bancroft-place.html": {
+    "name": "9 Bancroft Place",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344407321.webp?k=d3545806e305c45b11136bf4b8a27d347ce3143af120771e2e10f0f0aecd74d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caffeine-amp-machine-ettington.html": {
+    "name": "Caffeine&Machine",
+    "location": "Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "138 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/276692162.webp?k=a673c7f45c341f44b056dc516bef609ef11652f6ed1e43e16770e6f05238071e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-school-house-polesworth.html": {
+    "name": "The Old Coach House",
+    "location": "Polesworth",
+    "score": "9.5",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271159692.webp?k=46327611c6b3e916293a748c9639b71262d01ddc6ffee192c6d1361efad8aa67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-central-stratford-upon-avon-super-stylish-1bed.html": {
+    "name": "Pass the Keys Central Stratford upon Avon Super Stylish 1Bed",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423094573.webp?k=2ba482abee351efda342091fd48e3cbb53c284bae0824792f71512105909ac67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-farm-stratford-upon-avon1.html": {
+    "name": "Church Farm",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "179 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232754057.webp?k=20e2f911b3328b1903d804e5bec7c5da36cc2ca60d62de1d51ca98fcd614291d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-room-in-apartment-near-town-centre.html": {
+    "name": "Beautiful Room in Apartment near Town Centre",
+    "location": "Rugby",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383130784.webp?k=f9bea483a5c3b3d4bfcd114810aabbd4a3ce7d8a25940d81498ff4fe4fbf812d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/33-percy-street.html": {
+    "name": "33 Percy Street",
+    "location": "Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292295862.webp?k=f07874984686a86a8476a69e141b0abf93ae5611f42a019114af30bc41d2a96a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/24-college-lane-stratford-upon-avon.html": {
+    "name": "24 College Lane, Stratford-upon-Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "9.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344456065.webp?k=46e34f09bef956aae4c82b3c88489b5b8100adc448c0a0302cb917d847eb60c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leamington-spa-apartments.html": {
+    "name": "Leamington Spa Apartments",
+    "location": "Leamington Spa",
+    "score": "7.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84121504.webp?k=b85c915484dda2effa366edd0a17c788ca9c7bf7ad261493459516d6f96b0879&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lavender-cottage-uk38682.html": {
+    "name": "Lavender Cottage - UK38682",
+    "location": "Oxhill",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425332045.webp?k=3a1bc2e8745f1986cef9bb612fc437360f0f4f201108a14ccbdc260f84f5de72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-rugby-gem-football-table-clifton-upon-dunsmore.html": {
+    "name": "Stunning Rugby Gem - Football Table",
+    "location": "Clifton upon Dunsmore",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412051696.webp?k=5f762912fb541ad445273844256c0c3b8ea3179b0f89f2bf2deaa54a216f2200&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hyde.html": {
+    "name": "The Hyde",
+    "location": "Stratford-upon-Avon",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325087686.webp?k=4839ff7bd18870c8ae2f079e42662dc20b1ef32cae4d59ecc1f7f9c29d8ad273&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northum-place-elegant-city-centre-apartment.html": {
+    "name": "Northum Place - Elegant City Centre Apartment",
+    "location": "Leamington Spa",
+    "score": "8.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347828572.webp?k=928059f5d62668ff236b549c7d115cc53540ba6d072c3d43b004cabb96d6968f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westgate-cottage-warwick.html": {
+    "name": "Westgate Cottage",
+    "location": "Warwick",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418536629.webp?k=a3909afd95f2f62d85740c37bf18301d6e7e22650b478be4dc8448216267c976&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-15th-century-cotswold-cottage-4-bed.html": {
+    "name": "Blenheim Cottage, Beautiful 15th Century Cotswold Cottage, 4 Bed, Nr Chipping Campden",
+    "location": "Mickleton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374318616.webp?k=869bcbf86d04e35b883b4cadb59b03485dc37dbd579e0dcbcbdb3def671bfdd5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/threehorseshoesrugby.html": {
+    "name": "The Rugby Hotel",
+    "location": "Rugby",
+    "score": "6.3",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13977240.webp?k=9efc5f92ee2f85b7ffc5547e8606a36c98093dc7a9a08bc49babc1ef84f58e7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/karah-suites-jasmine-grove.html": {
+    "name": "2 Bedroom House - Private Parking - By Elite Properties",
+    "location": "Leamington Spa",
+    "score": "8.1",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354073838.webp?k=f3d47fc10c60d13a66ff95798f94ffb5424085f9b484aee6f221fa9748f3ddfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coventry-park-house.html": {
+    "name": "Gainford House",
+    "location": "Walsgrave on Sowe",
+    "score": "1.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384147764.webp?k=7ad46ea06d99da9c3054fff794dd76db438b55a11185bb72f02f975ee99fbe5a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingsway-lounge.html": {
+    "name": "Kingsway lounge",
+    "location": "Nuneaton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432974957.webp?k=1c9a72607c04ceaba456f26ad84bd13c3817a456b870eb5facff577ab3db1953&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ryepiece-cottage.html": {
+    "name": "Ryepiece Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221624053.webp?k=5c022438f2c7edac1e369b1f3d39ae09cb1339b25c07548b64462ddbc6be006c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/midsummer-cottage-stratford-upon-avon.html": {
+    "name": "Midsummer Cottage",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210973647.webp?k=469b07b930134eded31a8b96ea0dbcb384fa782262b1608c3efc000d8683688f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daisy-cottage-uk38683.html": {
+    "name": "Daisy Cottage - UK38683",
+    "location": "Oxhill",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421579368.webp?k=aebdd4e8301a819b2d209d6cf9716a9b402c46c32492722882c8bb9a68e87d15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/avon-view-stratford-upon-avon.html": {
+    "name": "Avon View",
+    "location": "Stratford-upon-Avon",
+    "score": "9.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347776582.webp?k=7864d4ef425125715484cf9168b3a7efcac3c97f02f1c5424dc9cb3387b97499&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/child-friendly-3-bedroom-cottage-with-castle-views-kenilworth.html": {
+    "name": "Family Sized Rural Cottage With Wifi, Kenilworth",
+    "location": "Kenilworth",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357638512.webp?k=ec049188a602815c4611c149c2e315a920fd7d663a7b7d5f43666c9894634bb7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-norman-knight.html": {
+    "name": "The Norman Knight Whichford",
+    "location": "Long Compton",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/130465960.webp?k=ae29f48911d1fd722ad900c5e36e2f8009a292de773afbfc9bd104f324c9c255&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rugby-supreme-apartment-suite-close-to-hospital.html": {
+    "name": "Rugby Supreme Apartment Suite close to Hospital",
+    "location": "Rugby",
+    "score": "7.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291446388.webp?k=c447a40013d859a2278ffcc87ddd719f23bbf33d4587f109d23e5ab3d954cce7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ansley-house-sleeps-6.html": {
+    "name": "Ansley house Ideal for contractor stays",
+    "location": "Arley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434189428.webp?k=725918331b0850f239735a533e9b7ba478ece855c5e78fa8c0e7c142e6357dac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-amp-new-contractor-house-amp-private-parking-amp-garden-amp-close-tom6.html": {
+    "name": "LARGE & NEW Contractor House & Private Parking & Garden & close toM6",
+    "location": "Rugby",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371610926.webp?k=ff84fa7e35802f5b62e03d8dd0106700d8bf2186138a28b95e878ef3bf496192&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-1-bed-flat-that-sleeps-4.html": {
+    "name": "Cosy 1 Bed Flat that sleeps 4",
+    "location": "Warwick",
+    "score": "6.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410236500.webp?k=52183d6000272d641d4a381c3c49508109235475e51341295158ef22a6f211bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-garden-house-stratford-upon-avon.html": {
+    "name": "The Garden House",
+    "location": "Stratford-upon-Avon",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320551734.webp?k=bd445c3e73ad742f8cffb715c289ec52ecdad40be50bfee962bf69d18ad1c6f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/static-caravan-field-view-in-lovely-countryside.html": {
+    "name": "Static Caravan-Field View in lovely countryside OPEN MARCH-OCTOBER",
+    "location": "Stratford-upon-Avon",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349364227.webp?k=f285b7475e3168803bfcb19eff0aef5da04f743c3f2446fc69aa95bd0193af92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottage-at-hirons-farm.html": {
+    "name": "Cottage at Hirons Farm",
+    "location": "Shipston-on-Stour",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323237238.webp?k=554ef3a0250f8606eccb570eee413f4868c56eeba2fecf06b5309db7109ab450&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-sunshine-annex-at-lower-fields-farm.html": {
+    "name": "The Sunshine Annex at Lower Fields Farm",
+    "location": "Napton on the Hill",
+    "score": "8.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344887985.webp?k=e730c8cdddb573136ce7fdac0c99f024086a5a25aed15ed1fad087a7a39bce4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elmhurst-cottage-chipping-campden.html": {
+    "name": "Elmhurst Cottage, CHIPPING CAMPDEN",
+    "location": "Quinton",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270160194.webp?k=3e0e636cd1f96e83808baff3c9b2cc535f91aadd4bdfc47c7bbd23f7fb8328b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-1-bed-top-floor-apartment-with-parking.html": {
+    "name": "BH - Luxurious 1 bed top floor apartment with parking - please read about score",
+    "location": "Shottery",
+    "score": "6.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327101848.webp?k=4ecd37b0b776c80b2ba9660ee6d2bf54d37e9e7c4fc87e9917ec2931fb4d4e74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/villiers-house-comfy-stylish-home-royal-leamington-spa.html": {
+    "name": "Villiers House - Comfy Stylish Home",
+    "location": "Leamington Spa",
+    "score": "8.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347826079.webp?k=4ef44f4bce599ec09e6f87eaa2ddab3cfbed00a5f697fe3cef35d44ab2c06b6b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-6-bed-farmhouse-sleeps-12-hot-tub-views.html": {
+    "name": "South View Country House Sleeps 12 - Hot Tub - Views",
+    "location": "Henley in Arden",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343809841.webp?k=5ded98619f946b5a0530f90205b11369f697a9f5b909ccfa4a3057d573340d76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-luxury-apartment-high-st-henley-in-arden-henley-in-arden.html": {
+    "name": "Boutique Luxury Apartment, High St, Henley-in-Arden",
+    "location": "Henley in Arden",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407806327.webp?k=906f496cd369d03d700b1b36bfb38376fabd2da0e1a8a7a71f347cd3d4cfde87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boosters-lodge.html": {
+    "name": "Booster's Lodge",
+    "location": "Stratford-upon-Avon",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211027568.webp?k=e1245c458c6614c135b0d2f5b2c0467d0c7f70f3cf85e3cb43f3d0d50f55f4dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/middle-cottage-southam.html": {
+    "name": "Middle Cottage",
+    "location": "Southam",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321430452.webp?k=f9a4559f8645251a5feb9910b52ed78a36bb1cf428624400a87baa75ebdff3ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/suncroft-shotteswell.html": {
+    "name": "Suncroft",
+    "location": "Shotteswell",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261861216.webp?k=2707475ad71b7243e438d79930cefe73154af2f7f35308a84f892aa177c2bd44&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-byre-bidford-on-avon.html": {
+    "name": "The Byre",
+    "location": "Bidford",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418717090.webp?k=4008bf380818dd7c8d96b166d9e3b46bf6c437e61b0e42aceea95630e8e16f56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/detached-house-with-lovely-views.html": {
+    "name": "Detached House with lovely views",
+    "location": "Old Milverton",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414044876.webp?k=299fcb273338d53d8bc59311d90a9faf270f5d2eb895959aadbcfa766a54eb69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coach-house-mews-stratford-upon-avon.html": {
+    "name": "Coach House Mews",
+    "location": "Stratford-upon-Avon",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390027180.webp?k=3ede74c29aee74b78616e4e8fad3e8ac856e156c8a05b479c35b18a86bb337a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/67-bridge-end.html": {
+    "name": "67 Bridge End",
+    "location": "Warwick",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210995664.webp?k=fea659524a75646f1e82d3e7123abf794b67aaa06714525cf00dc70ab3e9c56e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stourton-manor-shipston-on-stour.html": {
+    "name": "Stourton Manor",
+    "location": "Shipston-on-Stour",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327863032.webp?k=716d0f714af4b3c02cca8a0a98ee43f12afb02af300c54727284f590d12a1e9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swifts-retreat.html": {
+    "name": "Swifts Retreat",
+    "location": "Bidford",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322703025.webp?k=f4e556967531cb01286243f401c151d4b85aef56751380d91779b7932b923035&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tudor-cottage-barton.html": {
+    "name": "Tudor Cottage",
+    "location": "Barton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419679292.webp?k=df8f88768870eea24520666c5486bbc05eb2b0a613ed4aac0444519dab218b22&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carpenters-barn.html": {
+    "name": "Carpenter's Barn",
+    "location": "Combrook",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396189794.webp?k=f50ec34b220c9e5f3b97b260776d02c6eb2ae2a328c42835aed00c7d94b601be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goose-lodge.html": {
+    "name": "Goose Lodge",
+    "location": "Shipston-on-Stour",
+    "score": "9.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257323203.webp?k=9fdb454650125c789155c3af33d678eca0fa50ccf9a1dde32c0b0736497d88e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peggys-retreat.html": {
+    "name": "Peggys retreat",
+    "location": "Baginton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388743412.webp?k=a99fd440e129e1383295e23981fdec00ab0a62e470b9326f3689b722a847380b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/avon-riverside-glamping.html": {
+    "name": "Avon Riverside Glamping",
+    "location": "Warwick",
+    "score": "9.3",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/195131373.webp?k=453834d311088a3c47bd9b214ebbd70cfc341fafa720b9b0465142deff9ffd62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/larkspur-house-in-west-midlands.html": {
+    "name": "Larkspur House in West midlands",
+    "location": "Bedworth",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367661592.webp?k=a00cc3416454cd2a7efb914c3367398ab1b3ed3d685c3483dc6c4df477d0f689&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dairy-stratford-upon-avon.html": {
+    "name": "The Dairy, Stratford-upon-Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "8.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344429988.webp?k=444d7c6ec1af9e6970c4183cba28384012f1e2c1dd2eee79a5ee8811899a6872&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/granary-cottage-no-2.html": {
+    "name": "Granary Cottage No 2",
+    "location": "Southam",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403381182.webp?k=88dafbf9acd2b360f4165b143ba9f500e2d9e619de1bdd6d95a4c911817dff2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arden-hill-farmhouse-with-hot-tub-and-snooker-table.html": {
+    "name": "Arden Hill Farmhouse with Hot Tub and Snooker Table",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/184355785.webp?k=b73d1dbd1189967873768a99fe5c1622469e4d11ce8d8dc6555118229008be61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-new-townhouse-in-the-heart-of-warwick.html": {
+    "name": "Stunning New Townhouse in the Heart of Warwick",
+    "location": "Warwick",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373337979.webp?k=e15e334ade3adfefee1026faf3ade087c13f14d53008503096a6bd6557f631fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cotswolds-period-townhouse-nr-stratford-upon-avon.html": {
+    "name": "Cotswolds period townhouse near Stratford-upon-Avon, central location short walk to pubs, restaurants and shops",
+    "location": "Shipston-on-Stour",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390504463.webp?k=b0563944ff2988789852f6322c25b1c70b3be057bacf5b31b2d2eb1bbd00b7fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-stables-little-alne-near-wootton-wawen.html": {
+    "name": "The Old Stables",
+    "location": "Aston Cantlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395572164.webp?k=e49ceb830cfdd704438146982d8950e33b9007e628d5795da248bbe449ba52d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-workshop-cottage.html": {
+    "name": "The Old Workshop - Cottage",
+    "location": "Broom",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432947463.webp?k=60dd672dd81738791cf058cbc40672c3748c73f3580fc5c50304f4fa6cfae0cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honey-cottage-halford-annex-cottage.html": {
+    "name": "Honey Cottage, Halford (Annex cottage)",
+    "location": "Halford",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396779794.webp?k=ab7d422948e2cb4e8ee73032564d770a7f556871340b585f7de51b0bdb0db9f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-masons-court.html": {
+    "name": "3 Mason's Court",
+    "location": "City Centre, Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211037943.webp?k=cb143ddacd43d8bae412e9edce215e4f7185875a657f6cee0a7e772dc3f63570&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/distillers-cottage-shipston-on-stour.html": {
+    "name": "Distillers Cottage, Shipston-on-Stour",
+    "location": "Shipston-on-Stour",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240198957.webp?k=08d4a2b9b23d1a19e395d4338663a30957cfb3f4d97e88197a39a85829fe093c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/magnolia-cottage-radway.html": {
+    "name": "Magnolia Cottage",
+    "location": "Warwick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419630840.webp?k=ded4d59e71ed543d00984268bb8d5373cdda97ab08f8b1def3f9e65e4a6b762e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-quercus.html": {
+    "name": "Studio Quercus",
+    "location": "Todenham",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392875885.webp?k=ce16d12c601cd06fa607e20bc6157af5550d196216c979c5175918f53a1d308a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/homestead-cottage-shipston-on-stour.html": {
+    "name": "Homestead Cottage",
+    "location": "Shipston-on-Stour",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372299895.webp?k=4d4c83d93c40960ce7b53316627e8307c8e509a99e2bd5a887dd13260a94eba0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wheat-house.html": {
+    "name": "The Wheat House",
+    "location": "Stratford-upon-Avon",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353761348.webp?k=e86640c6deaaae6df8dd2841be34246630d51ab3d762117f8ed8426298000c17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/silverstar-barn.html": {
+    "name": "SilverStar Barn at TinyWoodHomes",
+    "location": "Southam",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375860002.webp?k=4c7a3c6d16cef075c8dc8fc3214b5cf08593c984608939fd3cba0383c496b10d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/north-mere-rural-cottages.html": {
+    "name": "North Mere Rural Cottages",
+    "location": "Kenilworth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329185655.webp?k=0e220d8e62ac42ab80eac330a504aaac992bec4bd3cae58ce67f18ce7664478d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elegant-peaceful-barn-in-rural-village-setting-close-to-stratford-upon-avon.html": {
+    "name": "Elegant peaceful barn in rural village setting close to Stratford upon Avon",
+    "location": "Stratford-upon-Avon",
+    "score": "10",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360828653.webp?k=5a739c6f7390d7c6590eff77e18654aa9e69258e73d865f920d35d8a14d58fbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deer-cottage-whatcote.html": {
+    "name": "Secluded Cotswold Cottages",
+    "location": "Whatcote",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271470213.webp?k=2924a3fe470325eb33445954d87dbeddc6ef192e348cb62ca935db4615e9ebd8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-milking-shed-little-alne-near-wootton-wawen.html": {
+    "name": "The Milking Shed",
+    "location": "Aston Cantlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420037832.webp?k=5fa1eca2fc59c1bfeb0a7f3c49db45c7ed4b346b46ea705c7bd6a54718f6f6fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rural-6-bed-retreat-in-a-pretty-village-fenny-compton-southam.html": {
+    "name": "Rural 6 bed retreat in a pretty village.",
+    "location": "Fenny Compton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351656778.webp?k=d45714d085c23a9d04389954348d0886e273d617b920f1a91e53edd133a9419d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bills-place-warwickshire.html": {
+    "name": "Bill's Place",
+    "location": "Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413578679.webp?k=8ad99920f9c3badc613eea15f8aa553b8df95f3276d99a12afb979b54e907fb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gallery-warwick.html": {
+    "name": "The Gallery, Warwick",
+    "location": "Warwick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432983550.webp?k=dc3f7e8721ac4582e1879ec0c7bfc70c63328015bca11cfb07795ad8bc7786c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/condicote-cottage.html": {
+    "name": "Condicote Cottage",
+    "location": "Weston on Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426724707.webp?k=e5bfe970e4407df6959a8b0c9f12b72b524eee16456af684d620324bddb0d577&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kitchen-garden-cottage-barton-on-heath.html": {
+    "name": "Kitchen Garden Cottage",
+    "location": "Barton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267105870.webp?k=ebf1399417d25f5eefaade26041a2c1aea458a1a146e4c9ded3c002b6f9fd023&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mutton-barn-alcester.html": {
+    "name": "Mutton Barn",
+    "location": "Alcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373070568.webp?k=7f553ed37ac56a8815911ae1072ca2d854b25ec4b2ea60153e2d6499ac41f360&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashleigh-house-henley-in-arden1.html": {
+    "name": "Ashleigh House",
+    "location": "Henley in Arden",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226750431.webp?k=a5ae7611fcb260fc10b6d4a06ee32e155c37966d122e675a6792031726bbad0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/detached-spacious-house-warwickshire.html": {
+    "name": "Contractors in nuneaton-6 bedroom house, parks 3",
+    "location": "Nuneaton",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306284829.webp?k=e3e3030aee57d3a077ca21f64690b7056c9af8185c317d40d35dcb21117411b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acorn-cottage-dorsington.html": {
+    "name": "Acorn Cottage - Dorsington",
+    "location": "Bidford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432944247.webp?k=db357785a97afc9b0d5b610075ed8f1f9091963cae8d0f24a6997df06d1842f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rural-6-bed-retreat-in-a-pretty-village.html": {
+    "name": "Rural 6 bed retreat in a pretty village.",
+    "location": "Fenny Compton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351728031.webp?k=ae8f968c0238c3905c7c332a489eb2a26071c8b9498b26a8bc08a946a2f886df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ivory-house-central-modern-town-house.html": {
+    "name": "Ivory House, central modern town house",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438165933.webp?k=13208043ab28e7fcf16887af6af77420b44db323b8b54bc4d4092beae67efb1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kington-grange.html": {
+    "name": "Kington Grange",
+    "location": "Claverdon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427388430.webp?k=ab083daf518ef83f365f399ed1c41c335ac236ad415e471015971ead7bac9c7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-private-chalet-retreat-warwickshire.html": {
+    "name": "Pass the Keys Rural Retreat in Rowington, Warwickshire",
+    "location": "Warwick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411743366.webp?k=4f52aa118f0b718c5df556a76e2a5ac31ecc4be1c3d8bef4db8a3de8a3fd72ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-workshop.html": {
+    "name": "The Old Workshop",
+    "location": "Alderminster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418461509.webp?k=2d115532a159251ae5e318309409972597879bda484c59eed03437133f6c0aa6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/magnolia-house-royal-leamington-spa.html": {
+    "name": "Magnolia House",
+    "location": "Leamington Spa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416108228.webp?k=0aeef5dd0f7015c11a0a31d775ecc076bcf5ffb6b977c3409a33c1a4d3e0ebac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whittington-house.html": {
+    "name": "Whittington House",
+    "location": "Long Compton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391343388.webp?k=82cdbbecc4f275c1ef446cf878aa57fc647ae85540aba917e2a24289000f7d58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thatched-cottage-in-shottery.html": {
+    "name": "Thatched Cottage in Shottery- 22 Church Lane",
+    "location": "Shottery",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355852945.webp?k=19df32fd694734d7670b07c51badabc4178b1c78a17eea5e0d9456737c2f4f85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pinley-hill-house-hatton-near-warwick.html": {
+    "name": "Pinley Hill House",
+    "location": "Shrewley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394649943.webp?k=b47d6a3571261a0b000180b47cfaf20d7dcb3fb665496ee7e5885687d16250bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contractors-amp-professionals-3-bed-house-with-parking.html": {
+    "name": "contractors & professionals 3 bed house with parking",
+    "location": "Lighthorne",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421042780.webp?k=69027aa944667c5f6a33348ce52f4e67afdd953948fbb422cde0530700f4a527&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-barn-chipping-norton.html": {
+    "name": "Little Barn, CHIPPING NORTON",
+    "location": "Cherington",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244866645.webp?k=fde51aba4305d7d22df4983f47701ffcbfb0c6654e93aff6cf6ba93b85ce58e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-tree-cottage-alveston-stratford-upon-avon.html": {
+    "name": "Bay Tree Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416800055.webp?k=af71dfb325ab12e633474737d27f7a91a95270796896d22f6a382062e5695c20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horseshoe-cottage-shipston-on-stour.html": {
+    "name": "Horseshoe Cottage",
+    "location": "Shipston-on-Stour",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344481635.webp?k=e1452ee630a94935cc71edda5fcada08efc39d8e6add5b30be95f84c2d0c0122&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodfields.html": {
+    "name": "Woodfields",
+    "location": "Kineton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390793932.webp?k=66ebb8711f5be7286f9bdb055fd4544733b6df826cb3412cec5a4e1ef0917dd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alcester-lodge-farmhouse.html": {
+    "name": "The Hunting Lodge at Ragley Estate",
+    "location": "Alcester",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360570918.webp?k=544d6c072dfd33aa382fb60ed48e06f7568040c2913739d6677e5f8bc5fce4ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-spacious-modern-5-bed-sleeps-up-to-12-parking.html": {
+    "name": "Pass the Keys SPACIOUS Modern 5 Bed, Sleeps up to 12 & Parking",
+    "location": "Warwick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341465445.webp?k=3a50da2081165f93cc8a8ed9931a6aae303751c7e9879e5d5fb2671fa81c6550&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-spacious-country-cottage-hot-tub.html": {
+    "name": "Pass the Keys Spacious Country Cottage Hot Tub",
+    "location": "Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435886776.webp?k=e3ca97fe621d35dd53408d75da7d8670db434adda01a83ff1818763524ab2865&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-apple-loft.html": {
+    "name": "The Apple Loft",
+    "location": "Mickleton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419648622.webp?k=b72cf92e63b37852a2f99547475a671aa24e80d54ca459570986db238fed2481&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-end-barn.html": {
+    "name": "West End Barn",
+    "location": "Salford Priors",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410973356.webp?k=b7b6f04955fb215d00f14c8b13aa2c8ce5b3373c8baadc697c0d08e691b40ace&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-stratford-upon-avon.html": {
+    "name": "Stable Cottage",
+    "location": "Stratford-upon-Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341880058.webp?k=569c212e55deaed38ebb51819e9ff31afaaba93eb9b579842e58b8c6cedd7569&o=&s=1"
+  }
+}

@@ -1,0 +1,2530 @@
+{
+  "https://www.booking.com/hotel/gb/thegreendragon.html": {
+    "name": "The Green Dragon Hotel",
+    "location": "Hereford",
+    "score": "7.6",
+    "review_count": "1,947 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221774004.webp?k=6417a3d57a4dbc33059e46f0e5f1193b3eef970d5e8d16e29601212cf28d787e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oldcourthotel.html": {
+    "name": "Old Court Hotel & Suites",
+    "location": "Symonds Yat",
+    "score": "8.2",
+    "review_count": "874 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/94410466.webp?k=79e386c2d714aa501cc563f95da748cd5cae9f0a85a98a876183e2b397d5bd00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sapey-golf-amp-country-club.html": {
+    "name": "Sapey Golf & Country Club",
+    "location": "Upper Sapey",
+    "score": "8.7",
+    "review_count": "217 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170275471.webp?k=322f7faf9e185903401c99332327ea12015e7930052179899e33325c368c67dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/longworth-hall.html": {
+    "name": "Longworth Hall Hotel",
+    "location": "Hereford",
+    "score": "8.4",
+    "review_count": "427 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242739461.webp?k=7a9d5fdb5dc0243978cff2fa3b4c8c057ecfbf7ed5cb05d2a7978eb3402fe695&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-green-man-inn.html": {
+    "name": "The Green Man Inn",
+    "location": "Fownhope",
+    "score": "8.6",
+    "review_count": "926 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342467150.webp?k=3576fff32f183033be24a19dfabc58f4749b0923d8ff5f41a6de9ac433e75cdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hedgehog-lodge-retreat.html": {
+    "name": "Hedgehog Lodge Retreat",
+    "location": "Colwall",
+    "score": "9.7",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361820393.webp?k=e073620aaf8853b07937068f5ba0a7cdfff8f028f2d0b666ac95e5530c1c1765&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/archers-cottage-leominster.html": {
+    "name": "Archers Cottage",
+    "location": "Leominster",
+    "score": "9.7",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326877986.webp?k=3f5f9604845d4fc2c4d31e9c9bda2f15061daf75852f28e3448a89b8cd9d4fd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollywall-croft.html": {
+    "name": "Hollywall Croft",
+    "location": "Stoke Prior",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419687006.webp?k=e1920514929b7338f0215d5da6f7e3f2e05364c7e1e1ec205245700e30c10f6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harlequin-ledbury.html": {
+    "name": "Harlequin B&B Ledbury",
+    "location": "Ledbury",
+    "score": "9.4",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312393373.webp?k=c19d64698f9a583e1ffa73c15aa901d85d22ee5d782452f0a555f3913cc21746&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brome-farm.html": {
+    "name": "Broome Farm",
+    "location": "Ross on Wye",
+    "score": "9.4",
+    "review_count": "138 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215295288.webp?k=900283f9977651f975cc87c429c4825496f62d50aac4f46eb9bd5d737ef2ab57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-lodge.html": {
+    "name": "Castle Lodge",
+    "location": "Ross on Wye",
+    "score": "8.4",
+    "review_count": "364 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332753722.webp?k=9a65f1020afe8d375ebef8560d386ecd008a73a71a91b830a5f9a9240637aac0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caplor-glamping-amp-lodges.html": {
+    "name": "Caplor Glamping & Lodges",
+    "location": "Hereford",
+    "score": "9.1",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304813817.webp?k=9c5d039021fca17a8da12890bf5d77998605b344c41329e177a22b376ed14de2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/another-new-perfect-apartment-simply-larger.html": {
+    "name": "Matteos, the prefect apartment in the delightful Market Town of Ledbury",
+    "location": "Ledbury",
+    "score": "9.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335083550.webp?k=4bd7cc10167fd9665bde27dc030b5e60594bda8f3af27a9c479a67295403cea2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orles-barn.html": {
+    "name": "Orles Barn Hotel",
+    "location": "Ross on Wye",
+    "score": "9.6",
+    "review_count": "233 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374006873.webp?k=3c17521f977a20b6e462b68592297df8f89db6996e8a0e1e660c9445bcf02e73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hostelrie-at-goodrich.html": {
+    "name": "The Hostelrie at Goodrich",
+    "location": "Ross on Wye",
+    "score": "8.4",
+    "review_count": "317 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296766998.webp?k=0c6cba2dd3a38ca0516be2312f4674758abf5754448e78162dc208133039d35d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pandy-inn.html": {
+    "name": "Pandy B&B",
+    "location": "Dorstone",
+    "score": "9.6",
+    "review_count": "232 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119540780.webp?k=dd803798fa88a58b20d8b0c67fcb11ccf42f6baa3876828fa37975064a718989&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-nr-bromyard.html": {
+    "name": "The Barn - Nr Bromyard",
+    "location": "Bromyard",
+    "score": "9.6",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/76978588.webp?k=06fc5d274e4b3a03b14b4d12be8a0ceddb6751e68b868af5105aad79ed9a08dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/royal-lodge.html": {
+    "name": "Royal Lodge",
+    "location": "Symonds Yat",
+    "score": "7.4",
+    "review_count": "539 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148936180.webp?k=c313286d659bf523584a76a5ce89a561d0068ff73f35c0374feb897c3f8b7ba3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-retreat-bredwardine.html": {
+    "name": "The Retreat",
+    "location": "Bredwardine",
+    "score": "9.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313258631.webp?k=76ad0151fd824b0ab66ea84e9da9d97b41314550ec06234609756d80bb906a78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walkers-lodge-dormington-near-hereford.html": {
+    "name": "Walkers Lodge",
+    "location": "Hampton Bishop",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416835363.webp?k=fb6476274a5694a52acc1f62dae84f119d22371f07e472e01e10fa855c6b6933&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stocks-tree-cottage.html": {
+    "name": "Stocks Tree Cottage",
+    "location": "Preston Wynne",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418757549.webp?k=d16ee2977bfed5e87c3046178bcde81b07f2a60805a2b799696a04817f3e12eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-baiting-house-at-upper-sapey.html": {
+    "name": "The Baiting House",
+    "location": "Upper Sapey",
+    "score": "9.0",
+    "review_count": "316 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215202286.webp?k=55a8ec69cb33f3aef964cc91ae9ea5965b7c6c965c84d9abc098e95bc03f183e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodcutters-barn-for-2-beautiful-view-ledbury.html": {
+    "name": "Woodcutters Barn for 2, beautiful view, Ledbury",
+    "location": "Ledbury",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369190488.webp?k=a97c12b108274bf98e1cc597805c509cc22b2e45fdef34706cb18d2750ac3ebc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-wye-valley-cottage.html": {
+    "name": "Stunning Symonds Yat Holiday Cottage",
+    "location": "Symonds Yat",
+    "score": "8.3",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287511135.webp?k=96060081026535eb979bd831abf9b490ae1ffbbc1f7d05298334c8d209fab3b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-cottage-wellington.html": {
+    "name": "Rose cottage",
+    "location": "Wellington",
+    "score": "9.7",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/124565464.webp?k=c7d4bae22598ca0fe9693ecdbcf00ba6e613bb7f06e00c0b36b133666445e4a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-red-lion-hereford.html": {
+    "name": "The Red Lion Hotel",
+    "location": "Bredwardine",
+    "score": "8.7",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/30168754.webp?k=5a4d51c240645a472cef9679061fa6451bed95469dd0cc2e5045b482f9565301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bronte-owl.html": {
+    "name": "Herefordshire Holiday Cottages",
+    "location": "Lea",
+    "score": "8.5",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218627904.webp?k=fa7f1460e5e05c35e101b6d9d389491c82b99c0acd2969c1c464371ef61af634&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/munstonehousehotel.html": {
+    "name": "Munstone House",
+    "location": "Hereford",
+    "score": "7.0",
+    "review_count": "389 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3553660.webp?k=c136ba57d05614a742463b3a9387f5a2798dc9dcd881df6c34b689148448fe9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burton.html": {
+    "name": "Burton Hotel",
+    "location": "Kington",
+    "score": "8.5",
+    "review_count": "628 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/52559159.webp?k=6f443357e82f45bfe975e444d50660b8f753c25e91f38b05fb8ccd46645953f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-vauld-farm-country-accommodation-with-bed-and-breakfast.html": {
+    "name": "The Vauld, 2 bedroom suite with Bed and Breakfast",
+    "location": "Bodenham",
+    "score": "9.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408657227.webp?k=1a8befe49e48a9c731957f7225ed244bea082cbc8fe893931ee23619445e9b1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/symonds-yat-herefordshire-property-with-stunning-views.html": {
+    "name": "Symonds Yat - Herefordshire property with stunning views",
+    "location": "Symonds Yat",
+    "score": "8.6",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/192574690.webp?k=70f2b6a9b9590eef6a654245f9e94a121bb3451e005eeb2c7ee2b06291d026b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theroyal-hotel.html": {
+    "name": "Royal Hotel by Greene King Inns",
+    "location": "Ross on Wye",
+    "score": "8.4",
+    "review_count": "1,886 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34134255.webp?k=73c42069b69d0b96e0b18e739568dce5bad7548569ae8c1342cb171ac749a49a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverside-inn-aymestrey.html": {
+    "name": "Riverside Inn, Aymestrey",
+    "location": "Aymestrey",
+    "score": "9.3",
+    "review_count": "666 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399559941.webp?k=37342a05bccc58439a22aba0dc7145b9c693b5579be0d117f0f0811120a84b91&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/finch-house-by-rentmyhouse.html": {
+    "name": "Finch House by RentMyHouse",
+    "location": "Bullingham",
+    "score": "8.9",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304612624.webp?k=6dd9c431349356d1e5eb6d1d355c9dd3af5b60d2c3069540b4327a963c186f48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-threshing-barn-at-penrhos-court.html": {
+    "name": "The Threshing Barn at Penrhos Court",
+    "location": "Kington",
+    "score": "9.6",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346593005.webp?k=690f3385af403cc4805d6072c93dc777e00aee859757e1b88331d56ee97612d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cross-keys-inn-goodrich.html": {
+    "name": "Crosskeys Inn Guest Rooms in Wye Valley",
+    "location": "Hereford",
+    "score": "7.9",
+    "review_count": "230 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226804298.webp?k=2b22362f239fcf3e9fd4f8a5dcd1aa0926d231eae31c16f8e9aeab235f32846a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pilgrimhotel.html": {
+    "name": "Pilgrim Hotel",
+    "location": "Hereford",
+    "score": "8.1",
+    "review_count": "263 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296852523.webp?k=f662045b05b692934ebb25d3968bd5e83480a854d8074487591651cd320f05cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upper-house-cottage-herefordshire.html": {
+    "name": "Upper House Cottage",
+    "location": "Little Marcle",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142043429.webp?k=d3183d458caa0177cd9975102059f22c5d48e27b7564d26854e33c2b18707180&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-paddocks-cottages.html": {
+    "name": "The Paddocks Cottages",
+    "location": "Symonds Yat",
+    "score": "9.3",
+    "review_count": "277 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159453819.webp?k=055d247651701ac579d88b916451e6503d7216b58ff3efdba20238e53e4d82eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holly-tree-b-amp-b.html": {
+    "name": "Holly Tree B&B",
+    "location": "Bromyard",
+    "score": "9.3",
+    "review_count": "361 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/51081776.webp?k=b7eada4f7da91170368e5254c8210e595895b34f26f22930ccf2c6a7b062f4d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aylestone-court.html": {
+    "name": "Aylestone Court",
+    "location": "Hereford",
+    "score": "8.7",
+    "review_count": "620 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65429407.webp?k=296fc1eb52a8e0bf045d9af79cef636fff82da6f7927f735fc8e8666f331f42d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/littlebridge-house.html": {
+    "name": "Littlebridge House",
+    "location": "Bromyard",
+    "score": "9.0",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79142828.webp?k=f0b1d7c6483fda881fe5d65f36ccbe740f5fda1c0fc667efd3905904f3562ff6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dabinett-ledbury.html": {
+    "name": "Dabinett",
+    "location": "Ledbury",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419911357.webp?k=f21bbe3c7043f38b0406eec64b925ba9dda77fa5cceae10a4d1ca627e477d13c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-househotel.html": {
+    "name": "The Bridge House",
+    "location": "Ross on Wye",
+    "score": "9.5",
+    "review_count": "269 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/71851863.webp?k=f1d9ebf91b8cb4de363e06c6d11a8d2d37ea39d126388ef94d4d1da18db1406a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peel-cottage-dilwyn.html": {
+    "name": "Peel Cottage, Dilwyn",
+    "location": "Dilwyn",
+    "score": "9.1",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46376585.webp?k=d324180985a430d5a942b4fe525c8b707fecdf47b52a88b3114c3adc8ec5d151&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-kings-head.html": {
+    "name": "The Kings Head Hotel",
+    "location": "Ross on Wye",
+    "score": "8.5",
+    "review_count": "1,044 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157652423.webp?k=bcbc0067434bce2a01090110cd0ff31a59e69af401fd8c5c03b830286ff1ced3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gardeners-cottage-leominster.html": {
+    "name": "The Gardener's Cottage",
+    "location": "Leominster",
+    "score": "9.1",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393291435.webp?k=3f80e37ef7e7aac4fa0c0ac3148ee6034b3d03c074369a01943142b557188efe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-feathers-ledbury.html": {
+    "name": "The Feathers Hotel, Ledbury, Herefordshire",
+    "location": "Ledbury",
+    "score": "9.0",
+    "review_count": "948 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266282177.webp?k=33d4a23380f0af6a83a453979bc5f84b99b552a84cfd084414ca2cc082c8e2c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cilgwyn-house.html": {
+    "name": "Cilgwyn House",
+    "location": "Whitney",
+    "score": "9.5",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107285574.webp?k=3d00536ce416ba514b1badb1d94f6e7ddff2a856ad6576bf1b74d605e6279993&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-buttery-priors-frome.html": {
+    "name": "The Buttery - RFFO",
+    "location": "Fownhope",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426216859.webp?k=317efc30d371bf457245cd1fdafae7a692fca42e524ed6d7059946785b1aeb8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brandonlodge.html": {
+    "name": "Brandon Lodge",
+    "location": "Hereford",
+    "score": "9.2",
+    "review_count": "388 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131276465.webp?k=389b278c4d6deac45b8eeba19d33b4199941d005fc8d4b061dedd2431f5ff5bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-granary.html": {
+    "name": "West GRanary - 28957",
+    "location": "Leominster",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418386628.webp?k=2bd322123776ffd5c728048f427c7693dcbbedcd2bbc9a882fe19226c31fd15f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barley-house.html": {
+    "name": "Barley House - RFFN",
+    "location": "Fownhope",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418565685.webp?k=6119db67fda62620173368e2d4ac2472458d85e74394ca9ff1a6c85f586d851c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ye-old-ferrie-inn.html": {
+    "name": "Ye Old Ferrie Inn",
+    "location": "Symonds Yat",
+    "score": "9.2",
+    "review_count": "194 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/187453337.webp?k=465cc284f09c8aacf026e517ef40b85433d5c174df8e24edc934434e115173dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charades-guest-house.html": {
+    "name": "Charades Guest House",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "407 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/61753337.webp?k=f6b6167a20e766269699a900770623628951d58263a12f2090c0a58106ea1941&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-post-office-ruckhall-eaton-bishop-near-hereford.html": {
+    "name": "The Old Post Office",
+    "location": "Eaton Bishop",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418654438.webp?k=93b1d44fdd5171c71f3589f3e436a24e57f6a6e7a00c9ad5e330be4818dcba5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alexander-b-b.html": {
+    "name": "Alexander B&B",
+    "location": "Hereford",
+    "score": "8.9",
+    "review_count": "358 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91967580.webp?k=9512393bb22d5a02a283a6c77f360fe1a50fc290298a86d0b389b3779f3773fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-lodge-hereford.html": {
+    "name": "The White Lodge Hotel",
+    "location": "Hereford",
+    "score": "6.9",
+    "review_count": "113 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386964681.webp?k=c7aad3f04ced9e0bbc81879c7b65c2a797fc627c422636dded3a7bee5c9d56ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-room-with-en-suite-city-centre-with-free-on-site-parking.html": {
+    "name": "Private Room with En-suite, City Centre With Free On Site Parking",
+    "location": "Hereford",
+    "score": "9.3",
+    "review_count": "130 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341890527.webp?k=38d5b62aafe9390b94068498739a3c55fe24e86caf6a50f3f395f0796f3fb0c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coachmans-cottage-pencombe-near-bromyard.html": {
+    "name": "Coachman's Cottage",
+    "location": "Pencombe",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392251127.webp?k=a35e5a230ce9dd9b55c5b52653c4cec73aaebbee8a29b13c9d343a416836a04b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alberta-guest-house.html": {
+    "name": "Kidwells House",
+    "location": "Hereford",
+    "score": "8.4",
+    "review_count": "529 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/55717479.webp?k=834b982de01710d28020ea3f8c219c44e005462e4e39a813c231d6b5a9ef1e08&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/paddocks.html": {
+    "name": "The Paddocks Hotel",
+    "location": "Symonds Yat",
+    "score": "7.3",
+    "review_count": "513 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301574978.webp?k=ea22b0170fc834afb3d07808e5c8cff80077c2a25a3b8311291be7d660081463&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brampton-hill-farm-cottage.html": {
+    "name": "Brampton Hill Farm Cottage",
+    "location": "Thruxton",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418816607.webp?k=8d65c8fef8cc81aad2f7e77b4843139ed25191cd4bf0e78a2bf77d05082f9ee8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hopbine-house.html": {
+    "name": "Hopbine House",
+    "location": "Hereford",
+    "score": "6.5",
+    "review_count": "381 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13670607.webp?k=0b46f0a582974cf713fce3ee867a2f75671118f0e0d2102cf245f5e4f83d2f1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burton-court.html": {
+    "name": "Burton Court",
+    "location": "Dilwyn",
+    "score": "9.5",
+    "review_count": "116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/77759843.webp?k=b34ead483d3dab72622b77bddc40ca63a079356c905ef2fa55beda7b7ffcfeb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-2-bedroom-house-in-leominster.html": {
+    "name": "Beautiful 2 Bedroom House in Leominster",
+    "location": "Leominster",
+    "score": "8.3",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275593059.webp?k=993381b1eecd48c8a8709b057e182a6ed5bfa254dad20e44c1531f7be0f759d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-motor-house.html": {
+    "name": "The Motor House",
+    "location": "Ledbury",
+    "score": "9.4",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265738943.webp?k=47dd4456c6c5869d22e84ca8f4f18767e2dc1a9960509f06ba31adc4b40d1426&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/relaxing-2-bedroom-cottage-with-hot-tub.html": {
+    "name": "Apple Tree Cottage - Cosy 2 Bed with Deluxe Hot Tub & Log Burner",
+    "location": "Hereford",
+    "score": "9.7",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411062211.webp?k=8bc866068a3cdb137987444483d0cedac49d2e2dca633f51712e6af7523e5b16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quiet-and-central-modern-new-build-bungalow.html": {
+    "name": "Quiet and central modern new build bungalow",
+    "location": "Hereford",
+    "score": "9.6",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333974559.webp?k=1cf8c78b1aedd2b9f613fa6bbf2613966c1a5e305cb1cf31be70aa1161dbe3a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dean-end-apartment-2.html": {
+    "name": "Dean End Apartment 2",
+    "location": "Ross on Wye",
+    "score": "9.4",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199557631.webp?k=63a752321f2d221706023f91f76edc840730b7e20a08b3dde4709cb84e8c3549&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inn-on-the-wye.html": {
+    "name": "Inn On The Wye",
+    "location": "Ross on Wye",
+    "score": "7.7",
+    "review_count": "1,039 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261636039.webp?k=c8edb1bd69eabab712d89d4539a1f43115e9d42fe5cd10a080f7e0d304faaaf7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/steel-works-farm.html": {
+    "name": "Steel Works Farm",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382821368.webp?k=d854abb59bd84c426ee5b3c686e890bb669d5c4689e7fcac003d650330f96638&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-swan-kington.html": {
+    "name": "The Swan Hotel",
+    "location": "Kington",
+    "score": "8.3",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403438033.webp?k=bfc82df3dffd531e96638640d1afa2031173a22552c52177886c32614992638e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mintridge-the-chaff-house.html": {
+    "name": "The Chaff House - farm stay apartment set within 135 acres",
+    "location": "Bromyard",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266191750.webp?k=a7f7d3a1d431b6ab5aec19bcffef8683d158727049241dc9fdb9447f3b2ee826&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garway-moon-inn.html": {
+    "name": "Garway Moon Inn",
+    "location": "Garway",
+    "score": "8.8",
+    "review_count": "374 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/52192653.webp?k=a7da12218d824752a75b6d76b8cd11a0417df7068c7ee7723bbab6a25af5b23a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bower-cottage-orleton-near-ludlow.html": {
+    "name": "Bower Cottage",
+    "location": "Orleton",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416834958.webp?k=90f06df907c4c8e23f466f7ee78d18a0ea0f662b4bf84093cd6751fa82400b61&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-sun-inn-herefordshire.html": {
+    "name": "The Sun B&B Rooms",
+    "location": "Winforton",
+    "score": "9.3",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158222177.webp?k=d61701f47734ef538c989e401611fad8964598483c9bce003bafe397da3dd903&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/freshly-renovated-2-bedroom-victorian-town-house-herefordshire.html": {
+    "name": "Freshly renovated 2 bedroom Victorian town house.",
+    "location": "Hereford",
+    "score": "9.1",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350270462.webp?k=2be2a6658d105dde9b5a3449f8ec7693b46894e08bcecbd680a074d3db16e3f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-at-titley.html": {
+    "name": "The Barn at Titley",
+    "location": "Kington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327510972.webp?k=e7707964d012a4f170d4817eb0326fd7205afe7d9284fff109e0e34c6021269c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/black-swan-leominster.html": {
+    "name": "The Black Swan Inn B & B",
+    "location": "Leominster",
+    "score": "5.0",
+    "review_count": "125 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88072848.webp?k=4db076d3701ec469c0be1210d1a0fe98df39fb392a0ffe51973d29aecba19f47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-potting-shed-sutton.html": {
+    "name": "The Potting Shed",
+    "location": "Sutton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396167231.webp?k=61ab2fd6d841e40a69b74e11ae056a126e3e49c90ef11fb0c5822aa288a6128e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mavis-cottage.html": {
+    "name": "Mavis Cottage",
+    "location": "Kington",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419015517.webp?k=cd21c69933c2cf5ee831715f413872b938c848dd732b3dfb4a6a287aac30a7a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seven-stars-ledbury.html": {
+    "name": "Seven Stars",
+    "location": "Ledbury",
+    "score": "7.8",
+    "review_count": "183 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/85017649.webp?k=5b86e9c7e1c2afac6960ab7871704aba5f3e383f86e9382d5e604718539561af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fully-equipped-private-log-cabin-in-wye-valley.html": {
+    "name": "The Postage Stamp Cabin",
+    "location": "Marstow",
+    "score": "9.2",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362975643.webp?k=7b57081df2d93c811a41d87f724565d21adc004d4c4d1cd900cae63974af2a6f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-10-isabella-house-aparthotel-by-rentmyhouse.html": {
+    "name": "Isabella House - Hereford City Centre Aparthotel, By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273477450.webp?k=2a175441515c31acbb03c1ab503368525f9065a88ba90365b87af116bf78d101&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/relaxing-riverside-retreat.html": {
+    "name": "Relaxing Riverside Retreat, Ross on Wye",
+    "location": "Wilton",
+    "score": "8.9",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301009666.webp?k=b5e4022f5f8c5260be9e9cc93f2ea9ad875a5707b0f440cc480c5eca2a4bb01b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-retreat-hereford.html": {
+    "name": "THE RETREAT",
+    "location": "Hereford",
+    "score": "9.8",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342731310.webp?k=eda66b5b447e1f4196a3ffcba97eebd8db645a6dec0381daa9503c4138fb2270&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bramble-cosy-2-bedroom-cottage-with-hot-tub.html": {
+    "name": "Bramble Cottage - Cosy 2 Bed With Deluxe Hot Tub & Log Burner",
+    "location": "Hereford",
+    "score": "9.5",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385090880.webp?k=579b0cba326390c53c3c3bd05ba2da7ec5a78bfd602f7979bb395a807d68a8cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/falconhotel-bromyard.html": {
+    "name": "The Falcon Hotel",
+    "location": "Bromyard",
+    "score": "8.2",
+    "review_count": "239 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260029486.webp?k=301e5f2b47cdca7e89ae4ab90356f98befaf34f1a767832b2ed85d7decd0e62b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aymestrey-lodges-log-cabins.html": {
+    "name": "Beautiful Log Cabin With Private Hot Tub",
+    "location": "Leominster",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365011230.webp?k=96acf8a522e98e0451558371592f505f4b19010b9842b7b759c06d926fc849e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tower-house-hereford.html": {
+    "name": "Tower House by RentMyHouse",
+    "location": "Hereford",
+    "score": "8.5",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154677967.webp?k=82f0c23f3ae481aca940dc504e9ed1ee087b6f707494396cc27a8459ea051835&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-calf-cotts.html": {
+    "name": "The Calf Cotts",
+    "location": "Leominster",
+    "score": "9.4",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292903408.webp?k=fbd4cfe945710973f541b5a38b07a94cb6e36248e5f6b3342f4b60f1ec438fd7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/worfield.html": {
+    "name": "Worfield",
+    "location": "Hereford",
+    "score": "8.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325642848.webp?k=54e13818d5e2a0d3a90d3810ddab7e0b240ceae46d2beb8881c7c541b6d21ad2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wheatsheaf-inn-ledbury.html": {
+    "name": "Wheatsheaf Inn",
+    "location": "Ledbury",
+    "score": "8.6",
+    "review_count": "208 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236046268.webp?k=c152665dada6d9665301d227899e387590bbea150c6b919283029ead3ce58159&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridstow-guest-house-ross-on-wye.html": {
+    "name": "Bridstow Guest House",
+    "location": "Ross on Wye",
+    "score": "9.7",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281029643.webp?k=57a9bdd071807b93991f144d56264b31245669af89248a63405b9f7fb168d7f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thirty-six.html": {
+    "name": "36 Heritage House",
+    "location": "Kington",
+    "score": "8.5",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112963713.webp?k=a6150790dd6b81219393729999b09ee094584c2843cdd99d9e31a69956289ef2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-swan-inn-letton.html": {
+    "name": "The Swan Inn Letton",
+    "location": "Letton",
+    "score": "9.5",
+    "review_count": "142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277744809.webp?k=f5d11f3e237e64ffa9a71c8d01fce34f70850e45cbe368fd3896205866c69d8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rural-self-contained-cosy-pod-house.html": {
+    "name": "Rural self contained cosy pod house.",
+    "location": "Garway",
+    "score": "8.7",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338787491.webp?k=998c78fb6cf511b5a89925ae56cc1a0bca080c2865279c8aa02ceb8a2ee25860&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-godwins.html": {
+    "name": "The Godwins",
+    "location": "Hereford",
+    "score": "7.4",
+    "review_count": "288 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373484519.webp?k=5f211db9a4b4c6490b109fe2cbc451d5e7e8aec638a69475fa64084f4f9c4c76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aparment-5-isabella-house-aparthotel-by-rentmyhouse-herefordshire.html": {
+    "name": "Apartment 5, Isabella House, Aparthotel, By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.6",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/272766561.webp?k=0a81d131bf56b33ac5301c5749d3f7e7cb112179332a9286721aeae8464096e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bell-tower-1.html": {
+    "name": "Bell Tower",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240457959.webp?k=05ef0c7ddb2d0e5068055a874086cd5b0a87e96d861974b6fbdf7a254c7518e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-bastion-mews.html": {
+    "name": "Apartment @ Bastion Mews",
+    "location": "Hereford",
+    "score": "8.4",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307645813.webp?k=3699997cfa2e1e9eb2386f3789c7fdeb7b5b693a7f4be1d5c0605537ec6bc0c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-3-isabella-house-aparthotel-by-rentmyhouse.html": {
+    "name": "Apartment 3, Isabella House, Aparthotel, By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/272441572.webp?k=e7234bea3bf95ca10bbb388a5c4a770749e881324b8300026ae8d4451b24c654&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-at-copper-hall.html": {
+    "name": "The Coach House at Copper Hall",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425866092.webp?k=154ec3ce8fe90bf77fc25929bb522b78109cd45cc3034d22c349163a0fa11556&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/munderfield-mill.html": {
+    "name": "Munderfield Mill",
+    "location": "Bromyard",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383048375.webp?k=6a5665409955b15f81be1816f174c28191878e24e2c5def3563194af6f9b1ab4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hope-amp-anchor-restaurant-amp-rooms.html": {
+    "name": "The Hope & Anchor Restaurant & Rooms",
+    "location": "Wilton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420342035.webp?k=ee5ed7b9a4479f0bd51153b74c4ae4ea6f06316d6e58afb2108daf77e9fbd8a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-cottage-hereford.html": {
+    "name": "Rose Cottage, Hereford",
+    "location": "Winforton",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344440651.webp?k=085fec9ced2d34ffecec7efde30013fd048af45b491fa0f56da1e2efaf1896de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/four-seasons-hereford.html": {
+    "name": "Four seasons",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373264230.webp?k=a5a7f65dc0f5ac2a78b00108492fb2590dc52e06feefe9ee588980fc16dd538f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/longland-guest-house.html": {
+    "name": "Longland Guest House",
+    "location": "Hereford",
+    "score": "8.9",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260719865.webp?k=2abcd0646398c9ecb641bb6af0e874778b3884b3c0b4ea5b31834e94ae825aaa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/verzon-house-ledbury1.html": {
+    "name": "Verzon House",
+    "location": "Ledbury",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417913715.webp?k=f0af143ee911cd53fb8ec266e4d434bbd309217a2f9f94a37fb9d7dc0cd3bda0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-and-hayloft.html": {
+    "name": "The Stables and Hayloft",
+    "location": "Ledbury",
+    "score": "10",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139808019.webp?k=bf9e09ca1be3ad69bd9ebc55b32940f2ae024d6105d025cafff67a882f7f9ca1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-2-bedroom-apartment-central-to-town.html": {
+    "name": "Stylish Central 2 Bedroom Apartment",
+    "location": "Hereford",
+    "score": "9.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398019207.webp?k=c59d6e7cec004891607e0dac13957d52cf8764335472bf5a70df8d33cf7431c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/somerville-house.html": {
+    "name": "Somerville House",
+    "location": "Hereford",
+    "score": "9.4",
+    "review_count": "349 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307822552.webp?k=2ac8b9bba7c349966742e67fa9aeb42f59c39d4bc0bf34a6cdef01cba6b5150e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hen-house-bromyard.html": {
+    "name": "The Hen House, Bromyard",
+    "location": "Bromyard",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240206627.webp?k=98f7f88846f4db8029dc31adb0db7f74f6cdeec2b11adb70814a6743d3fa9553&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/double-room-with-ensuite-bishops-frome-herefordshire.html": {
+    "name": "Double Room with Ensuite",
+    "location": "Bishops Frome",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437950369.webp?k=0a8dbc72b46c060e92f52d94589da5d8bb00712c7293f7d5b5008c392af9f9a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mill-at-rose-villa-farm.html": {
+    "name": "The Mill at Rose Villa Farm",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156754107.webp?k=f2e9805579a4869040cb9539e6f51e3f67c1eab8ae9f9962fa7f6a30fd99d1d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/18-kings-crescent.html": {
+    "name": "Kestrel House by RentMyHouse",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157183353.webp?k=858217de4c863250f096c56be2a987d4223830a50b53b0b4749942065119228a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillside-cottage-ledbury.html": {
+    "name": "Hillside Cottage",
+    "location": "Ledbury",
+    "score": "9.5",
+    "review_count": "122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/50555344.webp?k=54af9c41ab82ab665d2807df86caab253b46fbb52c3f2f76e990911957e43453&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lavender-cottage-hereford.html": {
+    "name": "Lavender Cottage",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255452282.webp?k=857f7fc0cca6eb5abcba6c0e27e5c4884a1161e69fb9e65c3372f2bd5e3f0a72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/huntlands-farm-bed-amp-breakfast.html": {
+    "name": "Huntlands Farm Bed & Breakfast",
+    "location": "Bromyard",
+    "score": "9.6",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204306728.webp?k=633a3f2951fd509a3deff86796fca14b745c57a507d6f38522596b72078cfe86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lyde-cross-coach-house.html": {
+    "name": "Lyde Cross Coach House",
+    "location": "Hereford",
+    "score": "9.3",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354673916.webp?k=61052f396165eb1ad31815fe0b52bc876109798ef9d920ef000cbfae49c2c0df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-wythall-b-amp-b.html": {
+    "name": "Lower Wythall B&B",
+    "location": "Ross on Wye",
+    "score": "9.8",
+    "review_count": "85 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79595158.webp?k=ea519067dd0608ace325bfbce0e660dcca1ff1b43b6a0d2049ea4c5cc2975f82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yew-tree-cottage-leominster.html": {
+    "name": "Yew Tree Cottage",
+    "location": "Leominster",
+    "score": "9.7",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/105233637.webp?k=d6f223f8e37c7ac1b98f9ccee0488632df2c904a0ac8dd97f0be0288da540661&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goldenvalley-shepherd-39-s-hut.html": {
+    "name": "GoldenValley Shepherd's Hut",
+    "location": "Dorstone",
+    "score": "9.8",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/155263047.webp?k=82fe29e840c47a2105c7e6be6d3e99c687e19d936ba7d6039c4ab560f1814d0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-oak.html": {
+    "name": "Little Oak by RentMyHouse",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188225330.webp?k=cf242c31665df6391e6bcf2941fba7929d799f98c6d25d57a23c5264a0a9926f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-ledbury.html": {
+    "name": "The Cottage",
+    "location": "Ledbury",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416827258.webp?k=b3b1cf59e89e4dcd6ea41ea7870aa3c9ea1abab6ffad7f6fcc7249252e565ea6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/falcon-house-hereford.html": {
+    "name": "Falcon House By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217602586.webp?k=f6d4d7693b3aa4e4ecfb8dcfd699c23f14c17d617ca82268802e83de63f3b508&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-perfect-apartment-in-market-town-of-ledbury.html": {
+    "name": "Tilly's another perfect apartment in the Market Town of Ledbury",
+    "location": "Ledbury",
+    "score": "9.3",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297811030.webp?k=ba7658188796c2438771ee47202d4051eb800ac71240ecbbdee190104a951356&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-snug-goodrich-ross-on-wye.html": {
+    "name": "The Snug",
+    "location": "Goodrich",
+    "score": "8.9",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237474902.webp?k=6d8a77868a10a5c5947baabbd9303857a15f965d3571cd15e113b13d8fe20db5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-countryside-home.html": {
+    "name": "Beautiful Countryside Home",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374898739.webp?k=3a84eaec36b9fd096b75d01beb31fd1b16e555949fca6e9c5b723bc1df9c0a39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-saracens-head-inn.html": {
+    "name": "The Saracens Head Inn",
+    "location": "Symonds Yat",
+    "score": "9.2",
+    "review_count": "202 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95997510.webp?k=3f21a134de22849238439e6594611fbdec38a594a9775cf198bf63fdc588257f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/medieval-roots-and-harry-potter-townhouse-hiking-near-ludlow.html": {
+    "name": "Medieval roots and Harry Potter TownHouse - Hiking near Ludlow",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422157946.webp?k=2c82902db38295b9d938f135355dd77030704cedac1e1af7b3f3e856e52d954b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-barn-hereford.html": {
+    "name": "Meadow Barn",
+    "location": "Hereford",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390149376.webp?k=cc040229f2acd5033a241c4805d549b4de59dab565ae41509c7724f5cdaf94de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nook-herefordshire.html": {
+    "name": "The nook sleeps 9 with hot tub",
+    "location": "Kington",
+    "score": "7.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378988524.webp?k=9e5b8870735122094c8973177f5b9d8abcd1146e4b8f930d1ab8bbf7eb6b3a31&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilltop-bungalow-for-a-spacious-country-break-bromyard.html": {
+    "name": "Hilltop Bungalow for a Spacious Country Break",
+    "location": "Bromyard",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328689152.webp?k=05b1cf737795eee966b124c53c1c37d973cc7fc420729c8c86f89c1fa8ebcfe9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/idyllic-retreat-in-the-heart-of-herefordshire.html": {
+    "name": "Idyllic retreat in the heart of Herefordshire",
+    "location": "Hereford",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402085065.webp?k=3a79fe190003a66df40f6c70ff01685a84538518510c60575c8c5a94be83ac19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-lyonshall.html": {
+    "name": "Gorgeously Secluded - The Hideaway with pool",
+    "location": "Lyonshall",
+    "score": "9.0",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304753760.webp?k=5dddf1d534b04f0e1d8c38195fb6cd7d512578bae4b7aa408bab300d02fbf0fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-6-sullivan-house.html": {
+    "name": "Apartment 6 Sullivan House",
+    "location": "Hereford",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414817371.webp?k=aad5381f67477d43b6a5bb6010900cfcf4519b010fa95eac01ae8645f269141f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-larches-ledbury.html": {
+    "name": "The Larches Ledbury",
+    "location": "Ledbury",
+    "score": "9.6",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265300724.webp?k=5dec5c3ff6651586816fa89263fc3bac3557e1ca4fea3babf6327516890443cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cider-house-holiday-cottage.html": {
+    "name": "The Cider House Holiday Cottage",
+    "location": "Welsh Newton Common",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425526972.webp?k=9fb0a1c69a1d01c1e4911d56e7be10ba459a2968e0774bafc95aa1cea4e42817&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-barn-with-spectacular-views-wye-valley.html": {
+    "name": "2 bed barn with spectacular views - Wye Valley",
+    "location": "Symonds Yat",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432575825.webp?k=7191e168757fbe23cdaef474932b5b7edaaa2e3f10d560f598fc8f33795f4704&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quaint-central-basement-apartment.html": {
+    "name": "Quaint Central Basement Apartment",
+    "location": "Hereford",
+    "score": "9.4",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383244656.webp?k=9a9756c82908636e54ea82bc6bd283cd5c082be036ea6fb42f756723d97a2c55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chaff-house-country-cottage.html": {
+    "name": "The Chaff House Country Cottage",
+    "location": "Welsh Newton Common",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425499964.webp?k=9f5c6eac895827c71063c8eda64fae488028d405a0ea914f671e9cc9bfa9f0a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-9-isabella-house-aparthotel-by-rentmyhouse.html": {
+    "name": "Apartment 9, Isabella House, Aparthotel, By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.6",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273424593.webp?k=21789271164324ed7649cc363059bb6e5df26261731612f06ea97555d4f5835f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-ross-on-wye.html": {
+    "name": "The Coach House",
+    "location": "Ross on Wye",
+    "score": "9.3",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/24513851.webp?k=b953bf7aa2d06719f53da72fed8cf238888ce8144826888819699505692e40e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-merchant-house.html": {
+    "name": "The Merchant House",
+    "location": "Hereford",
+    "score": "7.3",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267876697.webp?k=ccd4fcf949999539ec63c13e4c6e21168db51eed5e3faccdeb18b9f45f9b61f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-1-isabella-house-apart-by-rentmyhouse.html": {
+    "name": "Apartment 1 Isabella House, Aparthotel, By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.2",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271252785.webp?k=9c112ef66c220c4033a33997f9f9cd402dfc1bbc5c7c5105018946751534e36b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-flat-72.html": {
+    "name": "The Flat 72",
+    "location": "Hereford",
+    "score": "9.5",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/78063347.webp?k=0ff8edc161d6062ff5dc7b93970d146b2090e935b63b58b414f3cd67ef7ed99b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-2-bed-cottage-with-secure-parking.html": {
+    "name": "Stylish 2-bed cottage with secure parking",
+    "location": "Winforton",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388008008.webp?k=8fc2518e1e5ec9462262504d88b14aefd35fa14957b43d3cd0978d228a8bb336&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadow-lea-leominster.html": {
+    "name": "Meadow Lea, Leominster",
+    "location": "Leominster",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371508551.webp?k=60a9bde372c0c01a1c7f6e00b68e7c2c966ac799093e8e51a2e10207325ecf9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trelough-house-b-amp-b.html": {
+    "name": "Trelough House B&B",
+    "location": "Wormbridge",
+    "score": "9.3",
+    "review_count": "116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14815151.webp?k=f3fd35ae7763177cd51475e5fc538a1028294513b34dc3a7f875d4fe6e70b789&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willow-house-hereford.html": {
+    "name": "Willow House",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300523715.webp?k=c1103fbdc2045b7b5a26265da3dd27ea006d5c4aaaaeca4551578451105fef49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-retreat-at-phillips-house.html": {
+    "name": "The Retreat at Phillips House",
+    "location": "Much Marcle",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419681790.webp?k=274a0e41c30dc58b5ca48e3fe3ef853c2eb21645bd0b8d454d41aa640556bf8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedroom-home-in-hereford-with-parking.html": {
+    "name": "Lovely 3 Bedroom Home in Hereford with Parking",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407618181.webp?k=2b85730fbed4aa162e7459d36f4453b8a0a26100398c64fa92241e7d6d307dda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/high-garden-cottage.html": {
+    "name": "High Garden Cottage",
+    "location": "Eardisley",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394665802.webp?k=6c90200118c990ca54ba093e6aca8b092e2376ad8c88381ad69830a0347b1422&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-apartment.html": {
+    "name": "The Coach House",
+    "location": "Ledbury",
+    "score": "8.1",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/23778653.webp?k=266ddb3707d1fa6637a2e67b8cac31af1ae8292a1f3dbbeb85a494c3a3eabbff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walcott.html": {
+    "name": "Walcott",
+    "location": "Hereford",
+    "score": "7.1",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281928929.webp?k=f44cf4d3a35ce385f835d8feb0257b8a1091f3d2f2953689bc72ec2a59682448&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lodge-2-uk38383.html": {
+    "name": "Lodge 2 - UK38383",
+    "location": "Woonton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396268931.webp?k=6000483b804aefd67451e6705fa1128743139ef9985265b711f496ec60678711&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/8-bed-lotus-belle-mahal-tent-in-the-wye-valley.html": {
+    "name": "8-Bed Lotus Belle Mahal Tent in The Wye Valley",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395362481.webp?k=e000c496f754b44746fd32ab2328ef5efe1f34a97b68c1b288810ef292cfa56e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/herefordshire-glamping.html": {
+    "name": "Archers Glamping Meadow",
+    "location": "Stretford",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364032528.webp?k=736286238a35a0fdb9da20ef1a49fb837bed7d30fd049a870eea1665ff18147a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-barn-hereford.html": {
+    "name": "The Old Barn",
+    "location": "Hereford",
+    "score": "9.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291592823.webp?k=a638ed0e79e11115965a216540b52426fea146465813313eb10ec263d60e3efd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-1-pengethley-manor.html": {
+    "name": "Apartment 1 - Pengethley Manor",
+    "location": "Ross on Wye",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415209382.webp?k=25e32fc7aa681d2a30369ba54ddaea770a397e423118fbbd3c91190465f3cbbd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-smithy-leominster.html": {
+    "name": "The Smithy, Leominster",
+    "location": "Leominster",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344440013.webp?k=0df1e248e093e2cf12b13c3f274025c8b7725ad4588cd39bc89ec5fcea68fe51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coach-house-abbey-dore.html": {
+    "name": "Coach House",
+    "location": "Abbey Dore",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419620252.webp?k=a6e5e704830f5eb904afe1ef862ece7fa97198a5716787a82a4f7ad962cc1497&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cider-barn-combe-near-presteigne1.html": {
+    "name": "The Cider Barn",
+    "location": "Kinsham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418624352.webp?k=1da1cc7c7efb2392589f30b75713d5ab36d895403bf0726f598dd5ba6e269693&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wye-view-ross-on-wye.html": {
+    "name": "Wye View, Ross-on-Wye",
+    "location": "Ross on Wye",
+    "score": "8.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344444942.webp?k=c2db520ff6b70dcd00794c0e3fa3d0a35f16c577a15b92bc553f4f8486af4363&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glasnant-luxury-house-hot-tub-sleeps-4.html": {
+    "name": "Glasnant - Luxury House + Hot Tub - Sleeps 4",
+    "location": "Kington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391145672.webp?k=99576377afd49ddae1c2be59cece36e28015e56a1645bbaff0e57a26c2be5dca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/columbine-cottage.html": {
+    "name": "Columbine Cottage",
+    "location": "Ross on Wye",
+    "score": "8.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418230397.webp?k=0aae80984e705a068d45bde5538a92fe33cc92b13ba45c56446845c14132c9fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wall-end-farm.html": {
+    "name": "The Hayloft, Wall End Farm",
+    "location": "Leominster",
+    "score": "9.7",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204444841.webp?k=23da8c7c1cee33056ba09c4de6a76a848a13ecdaa1836f77ced982559216b8c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/raven-house.html": {
+    "name": "Raven House by RentMyHouse",
+    "location": "Hereford",
+    "score": "8.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150159365.webp?k=07afaa52ca5fbb3ee9ec6cabe181eda0b5a8b7a7488c517ae56e1a8fdd7a2827&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stone-cottage-hereford.html": {
+    "name": "Stone Cottage",
+    "location": "Hereford",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371247272.webp?k=457881143a31dbe454fc624b0e473c186dee5af357d64a7b584bdeec54359948&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goldcrest-house.html": {
+    "name": "Goldcrest House by RentMyHouse",
+    "location": "Hereford",
+    "score": "8.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286174571.webp?k=e903d9151b2ec176ff239728414abd1d239f34a5ff027ec09489d76bed352b7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stoke-edith-station.html": {
+    "name": "Stoke Edith Station",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377229240.webp?k=372b79899cafe7d8a598228697ca9897342c8bfe56c5483e52315619bd056e7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-6-isabella-house-aparthotel-by-rentmyhouse.html": {
+    "name": "Apartment 6, Isabella House, Aparthotel, By RentMyHouse",
+    "location": "Hereford",
+    "score": "8.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273062160.webp?k=fc0ce12fe44abb1989cd23330ee03f4cb51b8515c2b756d166860925f171e26b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-log-cabin-craven-arms.html": {
+    "name": "The Log Cabin, Craven Arms",
+    "location": "Adforton",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240174345.webp?k=75f92aa984e1cf19b6973f948c28c0790586e84a9360e66752f0f240589dbc81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woltons-mill.html": {
+    "name": "Woltons Mill",
+    "location": "Much Marcle",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416803410.webp?k=4c602c31c2f5304bb1593a626ce8ce4b8c3db65613bd02206507a00ef90e95d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-3-bedroom-house-with-garden.html": {
+    "name": "Lovely 3 Bedroom House with Garden",
+    "location": "Leominster",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384108496.webp?k=50fe44b2be4e8a3f9da4a3a328dbdf86f2b3712fa4b13238997eaac56d9a04a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bear-cottage-addeydore.html": {
+    "name": "Bear Cottage",
+    "location": "Abbey Dore",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397363196.webp?k=68dfd5bd1d207ae7b53ee3586253e04c83ec9f76008cf5a1fff16c2b7481be5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tom-putt.html": {
+    "name": "Tom Putt",
+    "location": "Ledbury",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419886869.webp?k=ecfe139d508450ba73b2071ce4a091c700a92b2abaacbdeee02153e2964847e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-wye-view-cottage.html": {
+    "name": "River Wye View Cottage",
+    "location": "Whitchurch",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418780890.webp?k=c1e63c2c92b1b07b8e86d7e3f82031ee5786a94f6a60313981e1bbd6a56e31a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/valley-view-ross-on-wye.html": {
+    "name": "Valley View, Ross-on-Wye",
+    "location": "Ross on Wye",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131412637.webp?k=45a9b002e16d4841238ccb0e5b4f26e307915d86e2bf2ee8c7dcba834e01dca5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-whitehouse-ross-on-wye.html": {
+    "name": "The Whitehouse Ross-On-Wye",
+    "location": "Ross on Wye",
+    "score": "7.9",
+    "review_count": "122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/196495325.webp?k=be38e2bd26188494de8523ab19225d09f9a649f70052e1ad4c1c818f4cb207dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lookout-ross-on-wye.html": {
+    "name": "The Lookout, Ross-on-Wye",
+    "location": "Llangarren",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240216393.webp?k=98fc2a12311925c5c96d3926ac5685415704f25ec17f10f99a1c455b5a54e194&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crown-inn-longtown.html": {
+    "name": "The crown inn Longtown",
+    "location": "Hereford",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419176854.webp?k=77598c80681e0af350a7cb39a51f50fad80fe6c5b6aae2d1baa0adc588825d72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horses-welcome-at-the-prospect.html": {
+    "name": "The Prospect - A Rural Retreat",
+    "location": "Ledbury",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346728666.webp?k=fc9a93513fc6700463664440626316e978a2cefd4171ff0a5683f5529bd7ca5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barn-cottage-hosted-by-jeanette-amp-stephen.html": {
+    "name": "Barn Cottage hosted by Jeanette & Stephen",
+    "location": "Stoke Prior",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376275646.webp?k=ddb6a2bf861fd05ad67ca6779213968ba250da6d79a7ba9bc9c3820edff76ad6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crown-hereford.html": {
+    "name": "Crown Hotel",
+    "location": "Hereford",
+    "score": "5.9",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380153510.webp?k=c4bc2614ddb5f6bfdc9cb92a348a424fcf41091734ab1f75340e4a67cb94f5b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/duck-view-cwmyoy-near-abergavenny.html": {
+    "name": "Mountain View",
+    "location": "Llanthony",
+    "score": "10",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394556967.webp?k=9d3114e1750a84d0e073ac2f498d2c202ed9bae3c5bb216bda0e5bc103e1f27f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cayoretreat-luxury-bell-tent.html": {
+    "name": "CAYORETREAT LUXURY BELL TENT",
+    "location": "Clodock",
+    "score": "9.4",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398476510.webp?k=733424bd1193f90550e607af7b1a4d01246bf6ad69084c540fd8c454c5a3a6da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/teal-barn.html": {
+    "name": "Teal Barn",
+    "location": "Saint Weonards",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373383912.webp?k=ed5b808fe6de874354ee8c818afe168b2cbd6327413a7ebb54cb0bd4303a52be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunnybank-newton-st-margarets.html": {
+    "name": "Sunnybank",
+    "location": "Saint Margaret",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418525886.webp?k=bc1c30c5bfa723fedd6a9e077d925a89299888e09a49798661d7604f071b1a0c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-eardisland.html": {
+    "name": "The Stables",
+    "location": "Eardisland",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416798482.webp?k=1198e5dec62ed240ad6ca2d035bb31cdc675e51a8279c121f4b16be803f5702f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brook-house-mathon.html": {
+    "name": "Brook House",
+    "location": "Mathon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418744328.webp?k=176684e0cf075ae4a9c5ce682f28ee370d8469486b028a32a739d44c257f66ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodlands-cottage-leominster.html": {
+    "name": "Woodlands Cottage",
+    "location": "Leominster",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240753457.webp?k=78ffafabb4e9dd7b1256306a6ec26bcb4742178ced574dd1b823ca3598953dcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-wye-rapid-cottages-ross-on-wye.html": {
+    "name": "5 Wye Rapid Cottages",
+    "location": "Ross on Wye",
+    "score": "8.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368169531.webp?k=c219019b27bfbe46526e6448a10404ac87db1c116813ed8d92e4291c4091fa2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-school-room-the-square.html": {
+    "name": "The School Room",
+    "location": "Kington",
+    "score": "8.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343273182.webp?k=53acb44a7ccaf018ed8ae832e52337e1c3238a7915efc2302be8e5808a5885fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-queen-bee-cabin.html": {
+    "name": "The Queen Bee Cabin",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376801676.webp?k=02793d4671e2a4bd19fa0f98eeddf3aafe5bcb29ee836b95fb305098058027d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-piggery-hereford1.html": {
+    "name": "The Piggery",
+    "location": "Hereford",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295150344.webp?k=4d41e932ef6dce3b1bb8f690de10a2d35bb9e5dbb1293a9a5ac37917746403c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cider-mill-westhope.html": {
+    "name": "The Cider Mill",
+    "location": "Kings Pyon",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376455854.webp?k=12ff00ea24bdb197f0d10f930cc16232cb126f413d085b66c93be25b9ae27aad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/augustus-cottage.html": {
+    "name": "Augustus Cottage",
+    "location": "Rowlstone",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397782434.webp?k=3fc1e1d60acc320672df267fee8ac247729a27deef0e6b3d8f2f52c1e055041f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cow-cott-hereford.html": {
+    "name": "The Cow Cott, Hereford",
+    "location": "Peterchurch",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344303671.webp?k=7e9821e2c58bf336d2b24f8dfa770f0c1d153efa79f993be933a3cf033b60ae1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arbour-barn.html": {
+    "name": "Arbour Barn",
+    "location": "Kingsland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392707814.webp?k=dd4e5cec412ff5a9a5a097c90c69276ce20c5d351f8436993cd3a8728fdcee7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lugg-view.html": {
+    "name": "Lugg View",
+    "location": "Hereford",
+    "score": "9.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296053800.webp?k=bf429284b4db01965eabc6486074caad198fd171a04664877ff5012e8042f05b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-milking-parlour-leominster.html": {
+    "name": "The Milking Parlour, Leominster",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369375450.webp?k=83d9a7e9177f5fdcd6081fc68292eda8ee6293e73320054e0d2770a608b901b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-loft-hereford.html": {
+    "name": "The Loft",
+    "location": "Hereford",
+    "score": "9.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258306775.webp?k=50a5767328215b4985cd8f8334e693c0a6c82a351e7344aa538ecdb07e737049&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/prospect-barn.html": {
+    "name": "Prospect BARN",
+    "location": "Hereford",
+    "score": "8.9",
+    "review_count": "94 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305644066.webp?k=4297e69c40953103b54977133dd36a89205d7cbd39d070d297a62cf3789ac41f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayloft-bromyard.html": {
+    "name": "The Hayloft",
+    "location": "Bromyard",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262196801.webp?k=00ba9b38794d62ff54a9bfb3fe268d93610ff3cb31b2ac2cc5e594f453332db8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-hereford1.html": {
+    "name": "The Granary",
+    "location": "Hereford",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291343779.webp?k=00ceef4fe29fd10815105fdb115f439c494390793eef24e3ca277aeef656bdcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-old-water-mill-in-rural-herefordshire.html": {
+    "name": "Beautiful Old Water Mill in Rural Herefordshire",
+    "location": "Hereford",
+    "score": "9.2",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414288998.webp?k=2fd51f3725f7d16406ed720a170b78a4fcb0bcadbb47a01fb968a7b4e7dcbbf4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkers-lodge.html": {
+    "name": "Parkers Lodge",
+    "location": "Mathon",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418571976.webp?k=dc91a86287d1f7e820a29a50a5c100c844cce04fb2b29203c67749fdd46cc235&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/soldiers-cottage-with-hot-tub-dog-friendly-great-views.html": {
+    "name": "Soldiers Cottage, with HOT TUB, dog friendly, great views",
+    "location": "Hereford",
+    "score": "9.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419882448.webp?k=9995da743ce2ba91c4fe5defbc3d52a9a291ea51026aec1bcf81a597963b521c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acorn-cottage-bircher-common-nr-leominster.html": {
+    "name": "Acorn Cottage",
+    "location": "Croft",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418527977.webp?k=fed5b0686528a46622f68c59ebeacac3dec453bb03af21e773ea3f2b9ffe4ca2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/smart-and-welcoming-1-bedroom-annex-with-on-site-parking.html": {
+    "name": "Smart and welcoming 1 bedroom annex, with on-site parking",
+    "location": "Ross on Wye",
+    "score": "8.8",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355474270.webp?k=31f65a5ec9176b11d6bf1236319c04b8399eeddea3c97d6e3bd518a711085a20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-tack-room.html": {
+    "name": "The Stables",
+    "location": "Bromyard",
+    "score": "9.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402273746.webp?k=57dfba84cd1fb92b08ef106bd1f8ca1a7b30fee10cfc2e161a67f720d6377888&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hayloft-kington.html": {
+    "name": "Hayloft, Lyonshall",
+    "location": "Lyonshall",
+    "score": "9.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348148379.webp?k=e25f903b97323d71c1161544bcac09d9adb0c650127418cfc729f0f675089517&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hop-bind.html": {
+    "name": "The Hop Bind",
+    "location": "Bromyard",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434968165.webp?k=b0602a2f07c472aae8c7b0c82a875f7e2a15fc4f0add3e97e73d2714c3719f17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-buckton-country-house.html": {
+    "name": "Lower Buckton Country House",
+    "location": "Leintwardine",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15960113.webp?k=ad64ac898b5ba1a5d51564ba6324bfe1bf42aedfdc6edccd75ee60903f014718&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-ross-on-wye.html": {
+    "name": "The Stable",
+    "location": "Marstow",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255489908.webp?k=9a1f2314276d91639578214603251200b6706adc34a574e9b112c24a183f8b9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willow-lodge-at-heart-of-wye-valley-walk.html": {
+    "name": "Doves Nest at the heart of The Wye Valley Walk",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306827731.webp?k=e969c3cede76ce4ab5845ab6bb71621c1761c8c0b5d5ba984ad417d2e0d7d8bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hurst-green.html": {
+    "name": "Hurst Green",
+    "location": "Ewyas Harold",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390647094.webp?k=dcd3e991b1463ffc648b02821903d5ccfb314215eb663cd535f2ae417b7f3128&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-venn-granary-apartment-1.html": {
+    "name": "Lower Venn Granary Apartment 1",
+    "location": "Wellington",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348481306.webp?k=a36348946233dde371cd6f4075e4e5553abc52ac7402f385bb57a43f1ed0373e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/freds-shed.html": {
+    "name": "Freds Shed",
+    "location": "Hereford",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299334105.webp?k=0ba589240fa304d9e85720f9146a58c8d52a0fccb40390a9d8ec2868d3e2c8cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/heart-of-the-wye.html": {
+    "name": "Heart of the Wye",
+    "location": "Clifford",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388241360.webp?k=c7909464a9659b269a0cfa30ec889febad9866b99f0331ad54a641904c081b3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lodge-1-uk38384.html": {
+    "name": "Lodge 1 - UK38384",
+    "location": "Woonton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396546771.webp?k=46197ba74f510a286221a6281a23641cd0ea44b64a4e3cb69d2563975e675c41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-8-kingtonrset.html": {
+    "name": "No 8",
+    "location": "Kington",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422620980.webp?k=7ee10a044dc3317eccc3aa15ed2b94963674a0dfd3a5e5118110967a577e6577&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clock-tower-cottage-whitchurch.html": {
+    "name": "Clock Tower Cottage",
+    "location": "Whitchurch",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428160201.webp?k=b415c1861025b9d1bc0e1f606ec1ec3f46b10f50fe6c6aad963b2ece61263951&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-venn-granary-apartment-2.html": {
+    "name": "Lower Venn Granary Apartment 2",
+    "location": "Wellington",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350575260.webp?k=1823874aa266dff38ffb86f4b96db749ff24cf0a39c22830603f4f2f1d8c1a2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/white-house-hideaway.html": {
+    "name": "White House Hideaway",
+    "location": "Brockhampton",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417383259.webp?k=7ecb7a226ae21e9b8a77464c76f281a88ea593cb6005d6c614eea743784c83a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-hereford1.html": {
+    "name": "The Stables",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256210826.webp?k=d3a621704019ab13628945f1a5824960df5933ed52a3ba9727e08b08e2ae28ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-forge-hereford.html": {
+    "name": "The Forge",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358678909.webp?k=f47dc73f9430e98fa67d8b015e5ab7cde611f1104222063a9343f3f7e1bb57f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/croft-view-leominster.html": {
+    "name": "Croft View, Leominster",
+    "location": "Leominster",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344437094.webp?k=665e0435f160096b2ec47b714f1140026d76a1765c86f40b514375caa776b943&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/white-roses-ross-on-wye.html": {
+    "name": "White Roses",
+    "location": "Ross on Wye",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379739171.webp?k=9513ce36f9368981ecc0fa8033b2d025ca49255a7ec032a9116dff1cadf5d7dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holly-bush-leominster.html": {
+    "name": "Holly Bush, Leominster",
+    "location": "Pembridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373231952.webp?k=6655b9ed3dabd1eb7804378853d15047b8b21029405f90cac18750ac3b500c00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-lugg.html": {
+    "name": "Little Lugg",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362161277.webp?k=2dadd360e1b2b8bf3be0758333b27627a48e6c4ba8e2f5c4a758a982d798b839&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-2-pengethley-manor.html": {
+    "name": "Apartment 2 - Pengethley Manor",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415209318.webp?k=59e7b283d5fc32accc6acdff571431592175b76a45284885ad0c3b73fd0ef93c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bolstone-court.html": {
+    "name": "Bolstone Court",
+    "location": "Little Dewchurch",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240144621.webp?k=01cb6b02b4ab2e0d08c198c950be2578cbf8eebf3f02cc2f7b58067e72bd1ed1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/steep-holm.html": {
+    "name": "Steep Holm",
+    "location": "Kington",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419026028.webp?k=0b0e537bc1c7b68b35205b57faa2755044507cec299212ee8e247eb42cb87f87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beech-cottage-ross-on-wye.html": {
+    "name": "Beech Cottage, Ross-on-Wye",
+    "location": "Foy",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344287172.webp?k=97cb014cefd419d1d447b88b28d8c287df3e5f5902b9310f8dd94125f3f84c2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dragon-orchard-retreat.html": {
+    "name": "Dragon Orchard Retreat",
+    "location": "Ledbury",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345272657.webp?k=5af115423a773bc28bddd2d1d2782946dee6e6fb99da921c7a0cc46179a9c1c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingsford-house.html": {
+    "name": "Kingsford House",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410651929.webp?k=76f639927b37c4eabd879fe98c9df992c1f45a20e5d419489370618e2325df9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-farmhouse-b-amp-b.html": {
+    "name": "Bridge Farmhouse B&B",
+    "location": "Hereford",
+    "score": "9.3",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236883866.webp?k=2878a213ee285d93929e0bb593e84385b819f10e708586771f44587ce240e838&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/frith-green.html": {
+    "name": "Frith Green",
+    "location": "Bromyard",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322807089.webp?k=fbccfc987cb872b929a4fd936c4b577a50568750ed0a23a539116e77c36b42f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hay-cottage-hentland-ross-on-wye.html": {
+    "name": "Hay Cottage",
+    "location": "Llanwarne",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418510247.webp?k=eeb8431ee22e58e3be9d29a095e938865c39068a44567f969a6d81d4a0720dbe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-cowarne-court.html": {
+    "name": "Little Cowarne Court",
+    "location": "Little Cowarne",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402260463.webp?k=649ae43206680de90f6c31c57c0be210a597e93b04bbde784c8b98c5243863f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-birches-cusop.html": {
+    "name": "The Birches",
+    "location": "Craswall",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355302649.webp?k=b46470381c17efc38aa3da7930698af2c35a2c2163e3efb685c02b0a38030f54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideout-ross-on-wye.html": {
+    "name": "The Hideout",
+    "location": "Ross on Wye",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271294008.webp?k=2afdd3ffccb434396418d5c9358fb882922b797222aad1079e6cd355a9d68786&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-8-sullivan-house.html": {
+    "name": "Apartment 8 Sullivan House",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414821301.webp?k=fc90aa69290af80d9fb0e6252271761ea42213210fee0da71323f982e61610b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/merry-kivernoll.html": {
+    "name": "Merry",
+    "location": "Much Dewchurch",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420373994.webp?k=e9595c2242eb26d8666834e447985a4e81ad42c01c4942e90b0d226506a36856&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/drying-house.html": {
+    "name": "Drying House",
+    "location": "Ledbury",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249519295.webp?k=7a8ad07a412c9051f54e09e581d4f1e1d5b95daae2bbe45aeaa6a465465acbbc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/calcott-annexe.html": {
+    "name": "Calcott Annexe",
+    "location": "Ross on Wye",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264886500.webp?k=b60df7bbc62a4e2aa32431be0b6c83c6d27361c61a51099e6296b564654a7681&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-barn-hereford.html": {
+    "name": "Lower Barn",
+    "location": "Hereford",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397737573.webp?k=7549cf4cb83c0dffaf5667950f8974cbf271a240f6a978f157ca78aa92d9e6e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holly-cottage-barn.html": {
+    "name": "Holly Cottage Barn",
+    "location": "Stoke Edith",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408282395.webp?k=e6cba940d6f2fb6209b3829681b9e9d6fc8539024c007c620d2570adf1946e0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingfisher-ross-on-wye.html": {
+    "name": "Kingfisher, Ross-on-Wye",
+    "location": "Upton Bishop",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344443560.webp?k=95996fbc358c0a48f76cb6dc6231aaa1d84fee571999c28d9923753d1c487627&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-farmhouse-ledbury1.html": {
+    "name": "The Farmhouse",
+    "location": "Ledbury",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236405721.webp?k=17e60caa231d388a77c39591519b0f16445dac076fd037de5135a53b8ae511bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-courtyard-kington.html": {
+    "name": "The Courtyard, Kington",
+    "location": "Kington",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151761179.webp?k=b9dd82a1acf3b5cb4cac6f9c45094436b1bab59561d35c6220b721f159054a1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-pump-cottage.html": {
+    "name": "Old Pump Cottage",
+    "location": "Ross on Wye",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321074510.webp?k=6e8a4aaa2c0937f05eb80e1ef9b135df2488d61fe8b0918a18a2c9e0f27815b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flock-cottage.html": {
+    "name": "Flock Cottage",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284199932.webp?k=1f9f2ea1c414cded23ff0c0fd5195444c67c061e2a60df121f8929736befcf73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gooses-roost-uk32096.html": {
+    "name": "Gooses Roost - UK32096",
+    "location": "Dorstone",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393331312.webp?k=850f26ebd867a2b8c421dd5e2ffaebbd4759550ad65ce6940395177c08b4adfe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lamb-inn-leominster.html": {
+    "name": "Lamb Inn",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419782898.webp?k=09e9c0ccc6dca873ac3fee54e3eaf844c4f5484189584951dce3a42e8d3aa0bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beekeepers-cottage-leominster.html": {
+    "name": "Beekeeper's Cottage",
+    "location": "Leominster",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304888136.webp?k=6f3858112e859f7e0134a613f36386f15d95714216da97953789139c28895665&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/doward-farm-whitchurch.html": {
+    "name": "Doward Farm",
+    "location": "Whitchurch",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395905730.webp?k=cfff83e10315c62d405ab956b868b42057cf1563b718950422feae6160625678&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mallard-ross-on-wye.html": {
+    "name": "Mallard, Ross-on-Wye",
+    "location": "Ross on Wye",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344260437.webp?k=617de8d5c20423e5372b832c1a56c7e29f8384fa42e4340709fa35ef0ff402e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hut-ross-on-wye.html": {
+    "name": "The Hut",
+    "location": "Ross on Wye",
+    "score": "8.5",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380797996.webp?k=ef7fd9b83d685495dab4d9573623f0365c0d3e8dae17e90934fd7ccea1e60caf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-home-sleeps-7-jacuzzi-gym-parking-nr-centre.html": {
+    "name": "Modern stylish, fast WI FI, jacuzzi, gym and free parking two spaces",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368673255.webp?k=a1b6ed860bcf6e40392d192e3c0cb9d78ae2352f8fd293a7b7f71a40433efdfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ganarew-cottage.html": {
+    "name": "Ganarew Cottage",
+    "location": "Whitchurch",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344412643.webp?k=09dd15e09f0f76992858824f655a6a8537f46e5a1bbc22dfbf279408a455999d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chapel-leominster.html": {
+    "name": "The Chapel",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349749907.webp?k=31b382cb27ca84189a17b28c3ee165c927091862384b6999bdb9a7633286b5a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spire-view-bridstow-near-ross-on-wye.html": {
+    "name": "Spire View",
+    "location": "Wilton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393098544.webp?k=d03424c6cdd659fd7f0c9b49226ff77e87011ba0c675443c8754e7149c22c388&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elephant-cottage-leominster.html": {
+    "name": "Elephant Cottage, LEOMINSTER",
+    "location": "Edwin Loach",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240215431.webp?k=deab02ff5a6e586d777ab25d1e6cc12c7ac4b9a18d953a3cb2fe535663e74b83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whites-farm-barn-ledbury.html": {
+    "name": "Whites Farm Barn, LEDBURY",
+    "location": "Ledbury",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240208654.webp?k=68fbecf19076ff52935089879894ef7b7f918b4fce1f097f79d5f1c139222b20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-view-kington.html": {
+    "name": "Garden View",
+    "location": "Kington",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343308244.webp?k=99d4282b816c5f3e3d0621357f6221465b3fe7c143584ed3a2ba6cb57209503e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-view-cottage-bishops-frome-near-ledbury.html": {
+    "name": "West View Cottage",
+    "location": "Bishops Frome",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393102378.webp?k=b32ab867d91fedaeb501c6e36d6149afdc1e81863ca90ac19cd7e87e4d492742&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tippets-view.html": {
+    "name": "Tippets View",
+    "location": "Pembridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373374374.webp?k=775223d1294398c0e4bbb15c551d213c7ac7a472bb132bf51b96b28018480ba6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/granary-1-hereford.html": {
+    "name": "Granary 1, Hereford",
+    "location": "Hereford",
+    "score": "8.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253456975.webp?k=4e1f54510836340e56482308dba4c36dd70f36ce14e2c1b42c95c2e21d06fc17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-row.html": {
+    "name": "The Row",
+    "location": "Much Marcle",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418747385.webp?k=68ea28bea67314bd0539a48e683065894298c602e3f719880334843215d3cec6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cider-mill-cotta.html": {
+    "name": "The Cider Mill Cottage",
+    "location": "Orleton",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419020412.webp?k=d4dec72b97dc002d96721e814fbdd541369bb1c192736d861dbced6315bf65f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cider-house-leominster1.html": {
+    "name": "The Cider House",
+    "location": "Leominster",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299200085.webp?k=299d8d6bcdf29dbcda7907039dc752940840c58ca74fc6c35d777b9e467c09d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillview-cottage-worcester.html": {
+    "name": "Hillview Cottage, Worcester",
+    "location": "Whitbourne",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344432187.webp?k=208697a522dae16dab2b2d69f9cf5c855d7a3f0e84f480c19d3513b38e264036&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unique-sheperds-hut-ensuite-amp-kitchenette.html": {
+    "name": "unique sheperds hut ensuite & kitchenette",
+    "location": "Clodock",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387277356.webp?k=cee43c1916d996d736fc9576806a6c9313449d2019f1fee23367c46077c2e9db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-ross-on-wye12.html": {
+    "name": "The Coach House",
+    "location": "Ross on Wye",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308784111.webp?k=24734f5102621a334d19193d3118a95992dc98becaa1aae8d0e4a4d7d7b0890c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-mill-bake-house.html": {
+    "name": "The Old Mill Bake House",
+    "location": "Ross on Wye",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386828182.webp?k=37d942ec4a5836843b6631b2e2b1c78b17bc985eb94cde5ea8ee0a1e6db27059&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sutton-barn-ross-on-wye.html": {
+    "name": "Sutton Barn",
+    "location": "Ross on Wye",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362741204.webp?k=a84b5f7c921df44132c55d459221ff43f2dcf14ce91b273379b63924158e9812&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wye-street-retreat.html": {
+    "name": "Wye Street Retreat",
+    "location": "Ross on Wye",
+    "score": "7.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392243239.webp?k=53c172e256b8e445a6d43f424919d56d83acbae1177ec5dcc48c817cb450d550&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wren-cottage-ross-on-wye.html": {
+    "name": "Wren Cottage",
+    "location": "Whitchurch",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418955336.webp?k=9d95952731ecf458c3c08912cfe4e03946a177603b1ed5c5e3bd46a2f20f27c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stargazers-field-house.html": {
+    "name": "Stargazer's Field House",
+    "location": "Clifford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405389614.webp?k=c790c2963b3f4113508f56948bf2aebc748d9ffcfc8d6de97757bd09f234db47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glamping-at-the-homestead-rosiebell.html": {
+    "name": "Glamping at The Homestead - Ensuite bell tent",
+    "location": "Hereford",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302924244.webp?k=5676e5555c785982576cf54045ee1222cb82af180edbef1354eb6db9bea6fa3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-power-house-cottage-2.html": {
+    "name": "The Old Power House Cottage 2",
+    "location": "Leominster",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220018674.webp?k=cf559c5479974da9802b987850c29b2b79f9d672a7a593e6e0a5dd07b85e0308&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/henhouse-farm.html": {
+    "name": "Henhouse Farm",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369018737.webp?k=b78a77a8c45b9fac15d67a441871562dd8dfdc8e1a8c563ce74f2be1bb8c48ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/north-lodge-ledbury.html": {
+    "name": "North Lodge",
+    "location": "Ledbury",
+    "score": "8.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201032033.webp?k=d8df17900caf709d1d66e8d57e348e3685241e38535f52d45f1a6704057bfbc8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-ross-on-wye-ross-on-wye.html": {
+    "name": "The Stable, Ross-on-Wye",
+    "location": "Ross on Wye",
+    "score": "9.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344437162.webp?k=2c213b2c6567cd80f567134efa13128cf37101ad8f2b674412856a3dffc79790&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bower-view.html": {
+    "name": "Bower View",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344481671.webp?k=97d0d9eaa3c38301432adf3dec85ba79b5795702551e1e27c8a006d1e7891dc4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/perendale-shepherds-gate-at-the-royal-oak.html": {
+    "name": "Perendale Shepherds Gate at The Royal Oak",
+    "location": "Preston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361907607.webp?k=b611b2444d45c801e63ded94d52a74c1b4951bd2521f553b78fb193bdbae9dbb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-leintwardine-near-ludlow.html": {
+    "name": "Stable Cottage",
+    "location": "Downton",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398071288.webp?k=c63dffd30077266923dfb0b367566fe8c3cbf4e9c76763f5c144496db4b5a0db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/phocle-lodge.html": {
+    "name": "Phocle Lodge",
+    "location": "Ross on Wye",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305823591.webp?k=c7f26840a8eb84317bc33ba7807597d89ae92e1e125c71dca54d6711dd4dc1c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oak-lodge-edwyn-ralph-near-bromyard.html": {
+    "name": "Oak Lodge",
+    "location": "Edwin Loach",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416840912.webp?k=03d1bd6ac98a017433b1326bbb83eaf2957cb85d40b219d1c904fa8a6964b354&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greenacres-ludlow.html": {
+    "name": "Greenacres",
+    "location": "Kimbolton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325321449.webp?k=8755453578c952f0aac33436e268d0c795f2ff9ebdae39212c179f68c0994db5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fern-hall-cottage-hereford.html": {
+    "name": "Fern Hall Cottage, Hereford",
+    "location": "Upper Welson",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373398892.webp?k=0bdeec056f5c3330b339b6e2d4dc04ad4f280404c3c6fe6fada81b0d465aac1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/howle-hideaway.html": {
+    "name": "Howle Hideaway",
+    "location": "Walford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125441703.webp?k=326766406a39fbf0b1e87f65914d6dd2cb813bc8f444123af01b46c82d8ad5b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-prospect-ledbury.html": {
+    "name": "The Prospect",
+    "location": "Ledbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401032136.webp?k=ccab12e1b759ec3a906b7f870bc70e23af9851132f2e04b8617006664faa5cb8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-hut-1-bed-shepherds-hut-dodmarsh-hereford1.html": {
+    "name": "The Hideaway Hut - 1 Bed Shepherds Hut - Dodmarsh",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431186850.webp?k=61cca5d98aa632b6adf8b47d22603ed34c3dc8df0ab0c1d0f72f93e8ff13daad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glamping-at-the-homestead-lilliebell.html": {
+    "name": "Glamping at The Homestead - Ensuite bell tent",
+    "location": "Hereford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300150391.webp?k=cc97057fdda51a0607d6fe0b776f32181d35b8c8e3344523ada1d21192c5a9fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-owl-house-cottage.html": {
+    "name": "The Owl House Cottage",
+    "location": "Welsh Newton Common",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425577610.webp?k=13203627bf3e64862bd64391285761d0ecd7fa363784c3caa6635121ba70098c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dugout.html": {
+    "name": "The DugOut",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405383099.webp?k=983224e4e182b648985e7ab68c1ecf0126dbbe4cf1b58455b367df52285ecf28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-6-person-lotus-belle-tents.html": {
+    "name": "Lovely 6 person Lotus Belle Tents The Wye Valley",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395492294.webp?k=0b84ea0ebc078db7be80143833a75284306226c67f82f11281a91d41e5967206&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/palace-studio.html": {
+    "name": "Palace Studio",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436468796.webp?k=2f4590d085911285752e9140d592a8a52586e398f0645342c4ba2b739a4d32e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horsebox-2.html": {
+    "name": "Horsebox 2",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415179872.webp?k=209c819f96818041528332cb94ba062c1b13d8641aabb85bdc4a3ba471fa2d00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horsebox-1.html": {
+    "name": "Horsebox 1",
+    "location": "Ross on Wye",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415209312.webp?k=534c10155e9e65ea385ce2a90fab51d7947d9362058a4021d4d56850ab8c2e15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fawley-court.html": {
+    "name": "Fawley Court by Group Retreats",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385474316.webp?k=7e1dd1e844af07700e87a9f07e63961417d393e16eee68494f091a43a0b03ed9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampton-wafre-cottage.html": {
+    "name": "Hampton Wafre Cottage",
+    "location": "Docklow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118003700.webp?k=eb566f25f8096c1057161ce83f84b32a2a6e20b7b1b607878ca4578f69da5202&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/palace-bungalow.html": {
+    "name": "Palace Bungalow",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414097575.webp?k=aba7ac8dd52e6678c3e30af1b2ce30dfa0927dfeaf918202ec622d6865f5adf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunrise-cottage-bromsash-near-ross-on-wye.html": {
+    "name": "Sunrise Cottage",
+    "location": "Linton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392503989.webp?k=287952824b8fcccbe9e0d39451ea63179f17a1e9575540ec2d35f9f1dff7aff5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-hereford.html": {
+    "name": "Bluebell",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322140555.webp?k=080ef571208365810411bd1c6876d256a17a7fee9d6f24cb384488c76be36ba7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rosiebell.html": {
+    "name": "Rosiebell",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322142829.webp?k=c4aa7f9c31e9eed0e4ffe3edb06278b66875e1f6d9bd57f532ce957d26e0d43e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lilliebell.html": {
+    "name": "Lilliebell",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322140203.webp?k=ddba1ffd4b6d7cb8ab3e4ad21e1ebe894953413bf2c2814cfedb357b3beae797&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cayoretreat-hereford3.html": {
+    "name": "Cayoretreat bell tent Unfurnished",
+    "location": "Hereford",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385326836.webp?k=b0411bda06f7078245068e094d9199cca53bc5bdd85c1be374895ffb8965ee89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penburren-the-annexe-minster-farm-west.html": {
+    "name": "Penburren at Minster Farm West",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437896977.webp?k=f307a0659d67a5e23f00eab37610390d260145454ce3084b30ce1125a8dc139b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luke-stays-franklin-walk.html": {
+    "name": "Luke Stays - Franklin Walk",
+    "location": "Hereford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416404227.webp?k=d523c460d2602c22c31f23b19ac4213432e3a752ac7cbf0243ddcb364768a6c9&o=&s=1"
+  }
+}

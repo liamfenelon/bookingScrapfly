@@ -1,0 +1,3594 @@
+{
+  "https://www.booking.com/hotel/gb/leonardo-hotel-milton-keynes.html": {
+    "name": "Leonardo Hotel Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "7.7",
+    "review_count": "4,611 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436784878.webp?k=8a0e2f073d506d2dc7785f9a1fc50b1716278229300ec2badcbd0c8e401f7f05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/la-tour-milton-keynes.html": {
+    "name": "Hotel La Tour",
+    "location": "Milton Keynes",
+    "score": "8.7",
+    "review_count": "2,949 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328155422.webp?k=b920d034a8b1a19e4f2af496d1a4418c24268a91fdcb0fcb70ce5ba86259d563&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/qualityhotelhethrow.html": {
+    "name": "Holiday Inn Express London Heathrow T5, an IHG Hotel",
+    "location": "Slough",
+    "score": "7.3",
+    "review_count": "5,498 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292083385.webp?k=5bb7788e90b2bded7a920a7576c084983aca14c61ec0bf56ad1171020d7dc126&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-aylesbury.html": {
+    "name": "Holiday Inn Aylesbury, an IHG Hotel",
+    "location": "Aylesbury",
+    "score": "7.6",
+    "review_count": "1,339 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264161191.webp?k=84648ef5502ab74695e70f2b30e40e22a43017ad38d8c94f0294c03eb7f3489d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/doubletree-by-hilton-milton-keynes.html": {
+    "name": "DoubleTree By Hilton Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "8.4",
+    "review_count": "5,604 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408789669.webp?k=beaf8968ba6016c0b7361647df40cef446b3b755e81a7927716be55da4f409c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crowne-plaza-gerrards-cross.html": {
+    "name": "Crowne Plaza Gerrards Cross, an IHG Hotel",
+    "location": "Beaconsfield",
+    "score": "7.8",
+    "review_count": "2,991 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265005507.webp?k=e4239c53be21a676af6fe49288132b27f445aa3bf10a17dbad4cbaa5671a1d15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/exhimiltonkeynes.html": {
+    "name": "Holiday Inn Express Milton Keynes, an IHG Hotel",
+    "location": "Milton Keynes",
+    "score": "8.3",
+    "review_count": "3,433 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257692458.webp?k=bfa5e07d07ce92a09686d981ff811c575fa42d0f6e56b0f7fe5fee163cde6ece&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtyard.html": {
+    "name": "Holiday Inn Slough Windsor, an IHG Hotel",
+    "location": "Slough",
+    "score": "8.2",
+    "review_count": "2,401 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245764877.webp?k=5db2150e3b528c801dc7c337dc7f40edb2c669151d881dc20d660e6cd54a0953&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampton-inn-high-wycombe-united-kingdom.html": {
+    "name": "Hampton by Hilton High Wycombe",
+    "location": "High Wycombe",
+    "score": "8.4",
+    "review_count": "2,202 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309316101.webp?k=57a714105299d258c39dc80eef6a9a1782ca3413e1f702ad6479b530c6837091&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/devere-venues-latimer-place.html": {
+    "name": "De Vere Latimer Estate",
+    "location": "Chesham",
+    "score": "7.1",
+    "review_count": "1,200 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/101033220.webp?k=58f5663ed563f21dae07ff750e3381a6e441968566d69092f597f083222210ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-high-wycombe-m40-jct4.html": {
+    "name": "Holiday Inn High Wycombe M40, Jct.4, an IHG Hotel",
+    "location": "High Wycombe",
+    "score": "8.1",
+    "review_count": "1,140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253252847.webp?k=34a6d70bf7ec4b1eb87b2bb28bbc964d7206198ccf2c6310f60c21ff198dedfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crowneplazamarlow.html": {
+    "name": "Crowne Plaza Marlow, an IHG Hotel",
+    "location": "Marlow",
+    "score": "7.6",
+    "review_count": "1,813 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313124617.webp?k=43320e409ae6423c9b38d31f07cfec6ee8653ca496c5f1f269b6be1a7943c5be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chilterns-fox-wycombe.html": {
+    "name": "The Chilterns Fox",
+    "location": "Ibstone",
+    "score": "7.9",
+    "review_count": "194 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311426358.webp?k=4e9441789e4900c371fcb85bbaa6fba03a6eab390ed670ee5569d638dc8e4d42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kents-hill-park.html": {
+    "name": "Kents Hill Park Training & Conference Centre",
+    "location": "Milton Keynes",
+    "score": "7.4",
+    "review_count": "1,617 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190429529.webp?k=4b595e9e2f6f2c202b6dda9e8f47949db8a953564f311639b09084bb582e8197&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/novotel.html": {
+    "name": "Novotel Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "7.4",
+    "review_count": "1,817 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431565021.webp?k=d7a9dcc266c14a068b4e46ddb8e214fb2f11153c4a6d2b9a691293ccf45d6df9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-milton-keynes.html": {
+    "name": "Holiday Inn Milton Keynes Central, an IHG Hotel",
+    "location": "Milton Keynes",
+    "score": "7.8",
+    "review_count": "1,643 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246994372.webp?k=b487ba6b2bca116b77dd9c8746024939e2dbb4a6391f9118d709d6d97e33f6f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crazy-bear-beaconsfield.html": {
+    "name": "Crazy Bear Beaconsfield",
+    "location": "Beaconsfield",
+    "score": "8.0",
+    "review_count": "1,054 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/45510714.webp?k=9ed7c037c5de72f5b937509ecc2bb26563106a31d3c80a309508231634073afe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yeoldebell.html": {
+    "name": "The Olde Bell",
+    "location": "Marlow",
+    "score": "7.7",
+    "review_count": "1,196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239749351.webp?k=48f861d18fcaf374815161c3deb624c95a906deaa169eaafb1160455640efe0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/horwood-house.html": {
+    "name": "Horwood House Hotel",
+    "location": "Milton Keynes",
+    "score": "7.6",
+    "review_count": "1,621 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27438482.webp?k=0de000dd918c0c2a8a8a040b52a379e3e5285f8fb1ba3d636da175b41005d391&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-hart-sherington.html": {
+    "name": "The White Hart",
+    "location": "Sherington",
+    "score": "9.0",
+    "review_count": "238 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222649916.webp?k=2f9d55070c5dd2cfb07e40028b50e7e7a7c7771e0d931bdf5c701cdf1d2599d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pendleymanor.html": {
+    "name": "Pendley Manor",
+    "location": "Tring",
+    "score": "7.9",
+    "review_count": "1,117 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147846678.webp?k=f800727f2150afcc5b9230e3bcd10b12e7a45a893ef059bf00d20a782463e9be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deluxe-amp-chic-1-amp-2-bed-apts-near-heathrow-legoland-amp-windsor.html": {
+    "name": "Deluxe & Chic 1 & 2 Bed Apts near Heathrow, Legoland, & Windsor Slough",
+    "location": "Slough",
+    "score": "7.6",
+    "review_count": "143 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384317277.webp?k=b1fc221afd03008003763d3b93b48eebac0f6a174c66e95a385edc1f9d7c4471&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-old-bunsty.html": {
+    "name": "Old Bunsty, Gayhurst, Milton Keynes",
+    "location": "Newport Pagnell",
+    "score": "9.5",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354705423.webp?k=8bf21afd851b27c17c31756595307794d61e27697552bd613f9b900727a299d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easyhotel-milton-keynes.html": {
+    "name": "easyHotel Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "7.4",
+    "review_count": "3,551 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268364197.webp?k=dd1befaeb34bef06cb49c8e53aef30662786f4659a5378ffafc20c80ee1e5456&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-building-2-bed-2-bath-apt-minutes-from-heathrow.html": {
+    "name": "New Private Apartment Building Minutes From Heathrow",
+    "location": "Slough",
+    "score": "7.8",
+    "review_count": "124 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433171308.webp?k=a6bdd44fd0e1b9a88addc67f0e98d49ac3857a96ccdea91d3ba6f6f769949a27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yew-tree-cottage-moulsoe.html": {
+    "name": "Yew Tree Cottage",
+    "location": "Moulsoe",
+    "score": "8.8",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151015332.webp?k=75e3c7737b9c75e1db85e1a3a4d3a7d0aceceaf8e1a3e1fd8bf7e98ac9217c8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dog-and-badger.html": {
+    "name": "The Dog and Badger",
+    "location": "Marlow",
+    "score": "8.8",
+    "review_count": "371 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203877829.webp?k=075300e6232d42b9436071392c39747e314b53a13738ace53260bac8650f1c94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/national-badminton-centre-lodge-amp-healthclub.html": {
+    "name": "National Badminton Centre Lodge & Health Club",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "1,221 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299645549.webp?k=bf0d5735d787712ade322cfc2e22ddc50970382daa85f647357e7a13134d3b18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-ground-floor-flat-haddenham.html": {
+    "name": "2 Bedroom Ground Floor Flat",
+    "location": "Haddenham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436364830.webp?k=9bdd12f3fd5e29cdefe853062f8d8cf840f369000ae937051b33469ccff3cc5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chadwell-hill-farm.html": {
+    "name": "Chadwell Hill Farm",
+    "location": "Longwick",
+    "score": "9.4",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344183742.webp?k=a64e7da894a9f536233da7e0830a662d4457eb93ca68d7dd301dee84c5389ecf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/copthornewindsor.html": {
+    "name": "Copthorne Hotel Slough Windsor",
+    "location": "Slough",
+    "score": "7.2",
+    "review_count": "3,380 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167520224.webp?k=5e64b3e7c1a7b0ee1cbb1de7ccc42fe726fddcc77e1e9f59f396c2c1b25d8ffd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-hill.html": {
+    "name": "Mercure Milton Keynes Hotel",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "2,188 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330882370.webp?k=7a532e21ea4db7e2121fb0f20b13f57dfee3b3d2d29725af06a5c6e960339b4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-double-rooms-oxley-park.html": {
+    "name": "Home Away from Home",
+    "location": "Shenley Church End",
+    "score": "8.3",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274663962.webp?k=ce55736d55449fbfcf9ee9a8a52dbee78a1353ecd8a7cff0c03d29e67acf3c23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/welcomebreaknewport.html": {
+    "name": "Ramada Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "6.9",
+    "review_count": "2,785 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75167219.webp?k=1d64bc4bed4f47c75f12637cd4af274d7e7c4dbb56320f5db85fdf8b6f0a0dc3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/weatherhead-farm-buckingham.html": {
+    "name": "Weatherhead Farm",
+    "location": "Buckingham",
+    "score": "9.3",
+    "review_count": "173 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422470012.webp?k=76f0bb1947531167dc0787b6751a101a483d9a17c7261c55a60ce424623eebf9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victorian-luxury-4-bedroom-house-in-milton-keynes-wolverton.html": {
+    "name": "Rooms In A Victorian Comfortable 4-bedroom house in Milton Keynes Rooms Not En-suites",
+    "location": "Wolverton",
+    "score": "7.8",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438075616.webp?k=99f34e033db947188490adb368864fa92bb918ecfd1019f7cdc4e77183abc2ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/durdentcourt.html": {
+    "name": "Denham Grove",
+    "location": "Denham",
+    "score": "6.9",
+    "review_count": "1,756 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/141298522.webp?k=df23d8f381ce334238666bbc4bba6d4a469a1f26299651c8f0b65a4e49796664&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lee-39-s-house.html": {
+    "name": "Lee's House",
+    "location": "Uxbridge",
+    "score": "7.8",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324421540.webp?k=54e0da49bac936827a1adf71fa5add7ec713e263b5248f10c98de1be60bd0f9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broughton-hotel.html": {
+    "name": "The Broughton Hotel by Greene King Inns",
+    "location": "Milton Keynes",
+    "score": "7.8",
+    "review_count": "1,006 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/163266877.webp?k=d4b814cfd873d18e184e140d8a35288cb4e948393c31c32acdb412ed8a806f14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bellhotelwinslow.html": {
+    "name": "The Bell Hotel",
+    "location": "Winslow",
+    "score": "8.0",
+    "review_count": "876 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/183693275.webp?k=a350392a83b3421bd51e8b5ff609c4bcd4e71fe0e02e438c6b65577fcb363485&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thecock.html": {
+    "name": "Cock Hotel by Greene King Inns",
+    "location": "Stony Stratford",
+    "score": "7.2",
+    "review_count": "636 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273473514.webp?k=83f30958ed8a8a9af96085f0fe82ef22a0b56c0b480546ab532a4ea63ab5f73a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/de-vere-venues-chicheley-hall.html": {
+    "name": "Chicheley Hall",
+    "location": "Milton Keynes",
+    "score": "7.1",
+    "review_count": "1,375 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/25971727.webp?k=879e2dbaa1d67c76747929fd9f1faadf4cc2f0b568e69b5b92caeaa4bbb81cf6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peartree-lodge-waterside.html": {
+    "name": "Peartree Lodge Waterside",
+    "location": "Milton Keynes",
+    "score": "8.3",
+    "review_count": "1,777 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104188286.webp?k=1efb1ec0e6a6e05ae1e8317c4876db0e62af265a138d42bd83a8a999b922927e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/villiersclassic.html": {
+    "name": "Villiers Hotel",
+    "location": "Buckingham",
+    "score": "7.7",
+    "review_count": "502 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206013341.webp?k=ee03185db564e7b5791f03c7c7497910196ac5fb8d68e2a40fdb27e8c3f7b840&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bull-olney.html": {
+    "name": "The Bull Hotel",
+    "location": "Olney",
+    "score": "8.5",
+    "review_count": "408 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140098986.webp?k=252ca897051df868b3b104b3b95d2b435346c3f234a5015afb26f52b4a9c4814&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aj-lodge.html": {
+    "name": "AJ Lodge",
+    "location": "Slough",
+    "score": "8.4",
+    "review_count": "882 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268807654.webp?k=61c24ed43dbb5f44368272a60628a98afc64e463ec5b5260fa2f791b6df7c477&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtyardmiltonkeynes.html": {
+    "name": "Holiday Inn Milton Keynes East M1 Junc 14, an IHG Hotel",
+    "location": "Milton Keynes",
+    "score": "7.9",
+    "review_count": "564 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246360483.webp?k=fd17754386557cc85078fc87356dd9e00c89306753a045e4a6683532754e2950&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mooreplace.html": {
+    "name": "Best Western Moore Place Hotel",
+    "location": "Milton Keynes",
+    "score": "7.9",
+    "review_count": "1,264 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211110478.webp?k=bf10ce47ea3b8fac3ccbb38be8222d1c1a97fe76c7cc77210d6b0cb3d40dc9e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stokeplace.html": {
+    "name": "Stoke Place- Part of the Cairn Collection",
+    "location": "Slough",
+    "score": "7.1",
+    "review_count": "737 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13193726.webp?k=d5a1bdd9b9be3fad2735db0ae271d59f3eacca9adc24fe4a4e12e755de647274&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-lodge-hotel.html": {
+    "name": "Abbey Lodge Hotel",
+    "location": "High Wycombe",
+    "score": "6.7",
+    "review_count": "1,522 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/22500650.webp?k=fff059d005b397ce86e4d0030b3938da2c8573f681b08fb371c7d1b72a9310f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dreamscape.html": {
+    "name": "Dreamscape",
+    "location": "Burnham",
+    "score": "9.6",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409753774.webp?k=5bc2409926e98feb8e0de61857920701bc8d24d080a931c0151a5cee6e6347bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/buckinghamfourpillars.html": {
+    "name": "Best Western Buckingham Hotel",
+    "location": "Buckingham",
+    "score": "7.3",
+    "review_count": "1,241 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270481930.webp?k=499c4b4172b596fd2e53db06d8b92556f9864788f17ae1727cb96e4dbb64666f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/innkeeper-s-lodge-aylesbury-south-weston-turville.html": {
+    "name": "The Five Bells by Innkeeper's Collection",
+    "location": "Weston Turville",
+    "score": "8.2",
+    "review_count": "952 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186371002.webp?k=99b503b1c19e173b853878657b8886801e74b3ecb18298a0afef55321b213907&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-cottage-in-the-heart-of-eton-5-minute-walk-to-windsor-castle.html": {
+    "name": "Luxury Eton House, 5 minute walk to Windsor Castle",
+    "location": "Eton",
+    "score": "9.1",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243305835.webp?k=5a757c38c6c9b3e68581ed472dc272075494c3759fae589b8d556fe4e7a5462c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/buzzard-holt-hosting.html": {
+    "name": "Buzzard Holt Hosting",
+    "location": "Buckingham",
+    "score": "8.9",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419664966.webp?k=2610380b9651af1afa56ad9f78883fcb814655763348b03c4a4d8729cda7ed77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-broad-leys.html": {
+    "name": "The Broad Leys",
+    "location": "Aylesbury",
+    "score": "8.4",
+    "review_count": "447 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42936417.webp?k=f8f598f96623e667c3eda1014a4fd44cb6b5daa50806ad1c7e5c45bd9114e185&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-listed-barn-in-peaceful-country-village.html": {
+    "name": "Cosy listed barn in peaceful country village",
+    "location": "Grandborough",
+    "score": "9.9",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304483491.webp?k=dfb773912f2397b08721d557103979ea8ef0dd5407356e5042335d7bd9d30a4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chequers-marlow.html": {
+    "name": "The Chequers Marlow",
+    "location": "Marlow",
+    "score": "8.4",
+    "review_count": "611 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/94696550.webp?k=851449b6bb2d405f52b59fca45a33e70b6f0028d4cd15890d2bf27867f10cd67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheerful-4-bedroom-town-house.html": {
+    "name": "Private Rooms In A Cheerful 4-Bedroom Town House",
+    "location": "Broughton",
+    "score": "7.4",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398630937.webp?k=baaaab50fe1526b364c0112d15ebee30270e89d4313ec754a7c8737715fa16ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vizion-garden-apartments.html": {
+    "name": "City Stay Apartments - Vizion",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/59701194.webp?k=7cf8e7b8203b07b069fe55eb66ad2667274e6e3c5f6751a85e8b5e0e9de24b85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/i-stay-apartments-vizion.html": {
+    "name": "iStay Apartments Vizion",
+    "location": "Milton Keynes",
+    "score": "9.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112246547.webp?k=f434b0b1cded0d11143f3ecd2deb069baa963b5ac0aa7c0b962c35885504b287&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/innkeeper-s-lodge-aylesbury-east-aston-clinton.html": {
+    "name": "The Bell by Innkeeper's Collection",
+    "location": "Aston Clinton",
+    "score": "8.4",
+    "review_count": "570 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437905477.webp?k=1abc40667f4726d43d96e9a362bae09fdafc86b08933ee56c063c2e7adac58d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/missenden-abbey.html": {
+    "name": "The Coach House at Missenden Abbey",
+    "location": "Great Missenden",
+    "score": "7.4",
+    "review_count": "575 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308914586.webp?k=ef73e1858ecfb1d6d1a300c9499ab6658f38d5af4ce088e3a21951bd3633e80d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-woodland-lodge.html": {
+    "name": "Luxury Woodland Lodge",
+    "location": "Newport Pagnell",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429400700.webp?k=52d202ec454a593663a159324655954231254c55c100c6d8260e9d2c9fdd1a5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-2-bathroom-apartment-in-central-milton-keynes-with-free-parking-contra.html": {
+    "name": "2 Bedroom 2 Bathroom Apartment in Central Milton Keynes with Free Parking - Contractors, Relocation, Business Travellers",
+    "location": "Milton Keynes",
+    "score": "7.4",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307299513.webp?k=0e81e13023743363a9cba1a6efc9835b58663689586e02d7583f4d1f67fc8adb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mk-hotel-milton-keynes.html": {
+    "name": "Delta Hotels by Marriott Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "7.5",
+    "review_count": "376 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230629830.webp?k=61f57154ad2a6e0c407ae48dff64a064fa10f91aa7d327e9cab562df6ef1b372&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/your-apartment-i-milton-keynes.html": {
+    "name": "Your Apartment I Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "8.5",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405392491.webp?k=65355dafce6dfcef92e54104e75f8eccf222e6acb9cf51dfbb305aba799c0bc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-studio-marlow.html": {
+    "name": "Garden Studio",
+    "location": "Marlow",
+    "score": "9.4",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295905883.webp?k=77c41e0b6cfe0b0de24cfba15e1537526fbddf58f745d923569176d475193dbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chequersinn.html": {
+    "name": "The Chequers Inn",
+    "location": "Beaconsfield",
+    "score": "8.9",
+    "review_count": "723 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118136278.webp?k=20268d509d357c0fea39fd8083f79ea9a04547312f63880e19aefcd182d45d40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rooftops-apartment.html": {
+    "name": "Rooftops Apartment",
+    "location": "Bletchley",
+    "score": "9.6",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395276025.webp?k=b5c74d721ad6b4d2e22814e3d4d750a35799296811f333a171c14f2a72a32e20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkfields-barns-self-catering-accommodation.html": {
+    "name": "Parkfields Barns Self Catering Accommodation",
+    "location": "Buckingham",
+    "score": "9.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374087512.webp?k=ae9c48c9e02faf62febdfc3aa133b086385904654cdb9f9c1a2483ba1c37bb86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheerful-3-bedroom-property-set-in-the-countryside-westcott.html": {
+    "name": "Cheerful 3 bedroom property set in the countryside",
+    "location": "Westcott",
+    "score": "9.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388282448.webp?k=8b6a5daf7c727ecb483ede85a474380f979a1cbdae60dc5307d0dc874bad4a42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/residence-inn-by-marriott-slough.html": {
+    "name": "Residence Inn by Marriott Slough",
+    "location": "Slough",
+    "score": "8.8",
+    "review_count": "463 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436009224.webp?k=87228a50991f68c2fef6141a66bcf303b9c87d3ba4ef9c6d0162be0ff2419258&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/exec-2bed-2bath-serviced-apartment-parking-balcony.html": {
+    "name": "Exec 2Bed 2Bath Serviced Apartment Balcony Parking",
+    "location": "Milton Keynes",
+    "score": "8.9",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353791301.webp?k=91fe91e27d3bb9ca8a038754c85d37fd4729950efebffebf8860c1529d6826ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gorgeous-modern-apartment-br2.html": {
+    "name": "Gorgeous Modern Apartment BR2",
+    "location": "Uxbridge",
+    "score": "9.0",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371011621.webp?k=706ede10bb5983ae8920fbf508724b4073e4777700b38e790187e821e64ff8bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-acorns-marlow.html": {
+    "name": "The Acorns",
+    "location": "Marlow",
+    "score": "8.9",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185176811.webp?k=8acc50b735c69e2f542513abcdb240af750b8fb35579dcd47371fc3b19a4beff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/motorhome-for-hire.html": {
+    "name": "Motorhome for Hire",
+    "location": "Stokenchurch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434362924.webp?k=41cd2cd4c7d512a26d3f37bdbd170d4e4fca55f5f14c3b402d1a4a4e1370af89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/warwick-road-studios.html": {
+    "name": "Warwick Road Studios",
+    "location": "Beaconsfield",
+    "score": "8.7",
+    "review_count": "167 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185396585.webp?k=f206c29e0a3fcf9b211edc43215b43416de61f41ce2de6235ec57d6080796242&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thethreehorsehoes.html": {
+    "name": "The Three Horseshoes",
+    "location": "Drayton Parslow",
+    "score": "8.2",
+    "review_count": "272 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/483501.webp?k=dc49f93bff7cd16864ce527d12dd873b36dcc62714687502d47d6d653b061112&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tilehouse-lodge.html": {
+    "name": "Tilehouse lodge",
+    "location": "Denham",
+    "score": "9.6",
+    "review_count": "195 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/229876062.webp?k=894866514f29774dd90c8f555a2bb0e662251ed714d8b57a30ce4bd8c70fa4fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/owl-lodge-newport-pagnell.html": {
+    "name": "Owl Lodge",
+    "location": "Newport Pagnell",
+    "score": "9.8",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159685020.webp?k=f14189caab6dd38183ba611d6a0ad6fa2a9bbaa5605bdf204bd7f295d9763fa7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-lodge.html": {
+    "name": "West Lodge Hotel",
+    "location": "Aylesbury",
+    "score": "8.7",
+    "review_count": "498 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273578055.webp?k=c00b9a40c88915c59a45aa4635f9da68008d6861345773626c981f3e582442fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedroom-house-milton-keynes.html": {
+    "name": "Lovely 2 Bedroom House Milton Keynes",
+    "location": "Bletchley",
+    "score": "8.9",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336535298.webp?k=743acf7d44f34e947f10fb39c87db19fd602a6909d69254b7ff6767bfc813179&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-mk-city-apartment-walk-to-train-station.html": {
+    "name": "Luxurious MK City apartment- walk to train station",
+    "location": "Milton Keynes",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383532172.webp?k=eb240b5ba1c0e0fec34ec41300a03fd9a32856db77fd6dc10376ae55aff75c30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-red-lion-princes-risborough.html": {
+    "name": "The Red Lion Longwick, Princes Risborough HP27 9SG",
+    "location": "Princes Risborough",
+    "score": "8.3",
+    "review_count": "244 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297682988.webp?k=51b0c72cf06da20c8bbce4b35c1b17bb1f33b4e4303563423377cd2fe4c528b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-langley-house.html": {
+    "name": "The Langley House",
+    "location": "Slough",
+    "score": "7.6",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/223777914.webp?k=1a778b2ed2562a339be9337f7b6a2631407cbdae61f742d60ca9cd91166bc64f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheerful-2-bedroom-bungalow-fully-furnished.html": {
+    "name": "Cheerful 2 Bedroom Bungalow fully Furnished",
+    "location": "Bradenham",
+    "score": "8.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393347573.webp?k=5d4ae311442cd246a57cc2b9a16c7f24e60b494037d527d2fbc2fc66f65e7360&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampden-apartments-the-louis-eton.html": {
+    "name": "Hampden Apartments - The Louis",
+    "location": "Eton",
+    "score": "9.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383719957.webp?k=81f36a881be2c7ef5b91bd442900a52c22b015004051af4ec8862854af2f0f41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-townhouse-b-and-b.html": {
+    "name": "The Townhouse B and B",
+    "location": "Aylesbury",
+    "score": "8.6",
+    "review_count": "162 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/167266253.webp?k=c8c803ddb41d7cceb60223d6ee445110d744d17c8e418fe61ab76a8d2a7abb4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eco-house.html": {
+    "name": "Eco House",
+    "location": "Shenley Church End",
+    "score": "9.6",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113311573.webp?k=020d9c7e0fcafa1f3e7137f35c6d669640cc9ac85cb6710919936750fda71b32&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-2-bedroom-apartment-in-milton-keynes.html": {
+    "name": "Beautiful 4 Bed Serviced Apartment With Free Parking, WiFi & Netflix by Aryas Properties",
+    "location": "Broughton",
+    "score": "8.0",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347651830.webp?k=e67803f92df481dfedd87353a78af2259e7259cc04f8ce8aee0bedc2bf5b9ca9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/smartrips-apartments-the-hub-milton-keynes.html": {
+    "name": "Smartrips Apartments - The Hub",
+    "location": "Milton Keynes",
+    "score": "8.1",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264826727.webp?k=ade9807f988880f9f0140172ea58ee5762c8c10f6b6b12b711e0273413d04723&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mkcampanile.html": {
+    "name": "Campanile Milton Keynes - Fenny Stratford",
+    "location": "Milton Keynes",
+    "score": "6.5",
+    "review_count": "1,387 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407407644.webp?k=e8e692a02d3b81aab14f9f2dac9d2931f0bf192d1a4636d315019e2fc497138f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-in-buckingham.html": {
+    "name": "Family and Contactors HS2 by O&J J Real Estate",
+    "location": "Buckingham",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403486079.webp?k=36f4eaa4708adfb05aa126e1b5ff8378211db926208cd8ae649524b0320c298b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashland-house.html": {
+    "name": "Ashland House",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218930406.webp?k=2e77dd04f0d3623e9c62131833d916fb6e051e1473dd1e7f67a2f175c17dde9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lamorna-bed-amp-breakfast-milton-keynes.html": {
+    "name": "Lamorna",
+    "location": "Olney",
+    "score": "9.0",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398579333.webp?k=b9841a7b30417e4b8b6b883e42263189357bbefdc24eea6f84a95362b937e26f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wilmer-close.html": {
+    "name": "The Uxbridge House",
+    "location": "Uxbridge",
+    "score": "7.1",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220342932.webp?k=302d9242ffed5e4a6259b855765b77cada80e609a1335a790ec64bdf48cd9ed1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/adventurer-39-s-village-milton-keynes.html": {
+    "name": "Adventurer's Village Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "7.8",
+    "review_count": "1,022 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161871973.webp?k=ed09010ff1e4ab4b0818463326fabda5dfe0500ecf24684f5859f6366097c4e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-lodge-aylesbury123456.html": {
+    "name": "Bay Lodge",
+    "location": "Aylesbury",
+    "score": "7.8",
+    "review_count": "187 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120115198.webp?k=bdb75fdfad6962b5c3e9977c67f986ec4e25867d7e22b92ee7eac1f8472e3601&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-homes.html": {
+    "name": "Lovely Homes",
+    "location": "Aylesbury",
+    "score": "8.0",
+    "review_count": "151 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237713695.webp?k=0d28da299b25f0ad75d008ddf04ea805cd965e42eae01c0d164e60dd36c89eec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pinewood-1-and-2-bedroom-apartments-by-arista-living.html": {
+    "name": "Pinewood Studios, Iver Slough Heathrow 1 & 2 Bedroom Apartments with Parking by Arista Living",
+    "location": "Iver",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420297695.webp?k=c89f48f47d9861a1409d37fd88829f96b33130d257f33e600a81c35bc3a65055&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-hart-chalfont-st-giles.html": {
+    "name": "White Hart by Chef & Brewer Collection",
+    "location": "Chalfont Saint Giles",
+    "score": "8.0",
+    "review_count": "489 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/201026522.webp?k=1c51a1dc728e57c9b61c79abe6a746a74e8b51d1c082c6eb32e2ced3e148c72d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-mk-1-bed-ultra-fast-wifi-balcony-parking.html": {
+    "name": "The Vizion serviced apartments from Pincott Properties - free parking, balcony or terrace, and WiFi",
+    "location": "Milton Keynes",
+    "score": "9.3",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313016631.webp?k=cccb87f55125d5074face44efbef3b6486d04b6f25d95e234dc441eab8c050d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-greyhoundinn.html": {
+    "name": "The Greyhound Inn",
+    "location": "Gerrards Cross",
+    "score": "8.0",
+    "review_count": "685 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248353411.webp?k=3eda70e11a7b584ace1c01b366bdec7d62ef4733eb951713db417121a4b5668d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/denham-guest-house.html": {
+    "name": "Denham Guest House",
+    "location": "Denham",
+    "score": "9.5",
+    "review_count": "182 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/77176920.webp?k=b4b780aab6ae06342c5be13b145cfb5e4de92b1acd62a6af35586745f8af18a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-house-guest-house.html": {
+    "name": "The White House Guest House",
+    "location": "Slough",
+    "score": "8.5",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/17418557.webp?k=80d0c186336a2d5f7ec27a8777ed1de90d7b0e1b5922d919b28fb143e91fa664&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lion-waddesdon.html": {
+    "name": "The Lion Waddesdon",
+    "location": "Waddesdon",
+    "score": "8.2",
+    "review_count": "297 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244915841.webp?k=bd8442a3dc2b8550793ba72fbc1f2210ae976b818f939163fb297e78eb8d4ee3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-atrium-milton-keynes.html": {
+    "name": "The Atrium",
+    "location": "Milton Keynes",
+    "score": "6.7",
+    "review_count": "110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286803913.webp?k=29670a162efc17368cdcaa69bd91b46d80cd2e02ee4f76464248ff3674aeb2de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-saracens-head-inn-old-amersham.html": {
+    "name": "THE SARACENS HEAD INN",
+    "location": "Amersham",
+    "score": "7.4",
+    "review_count": "382 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401229366.webp?k=14f27a7324df86c673c2953d12c08cba098f3151951f7f6453f9170d34904a68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/selected-to-remain-open-free-cancellations.html": {
+    "name": "Luxury Boutique House - Close to MK City Center",
+    "location": "Milton Keynes",
+    "score": "6.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283307568.webp?k=b133439341deec0661fb34b1bb07c0ac2eaf9556f46afc9884197cc4ae803e6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newly-refurbished-4-double-bed-house-with-parking.html": {
+    "name": "Home from home - 4 Double Bed House with Parking",
+    "location": "Slough",
+    "score": "9.4",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275860566.webp?k=3465346ed8218e288542ea55eafe105f174d1d9bb00cda5854476f29d2a3b102&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-bedroom-house-with-free-parking.html": {
+    "name": "3 Bedroom 3 Bathroom House in Central Milton Keynes with Garden, Free Parking and Smart TV - Contractors, Relocation, Business Travellers",
+    "location": "Milton Keynes",
+    "score": "7.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/225881635.webp?k=c11ab0e3d830d3aa55c9ee49a8ed935107dafc47f00b9e0462808f9967796892&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfy-and-practical-living-home.html": {
+    "name": "Practical Living Home- Perfect for Contractors, Families and Groups",
+    "location": "Bletchley",
+    "score": "7.8",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243903199.webp?k=5c1deca5eb9b2aff4aafe51bdd422be9a2152526673298063f571ea4eacda88b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/omega-inn.html": {
+    "name": "Omega Inn",
+    "location": "Milton Keynes",
+    "score": "8.9",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366532404.webp?k=b0b4bcbcbdca1fb101243ad6387a113d0446a6f68dbc173d8151c868b71cc042&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milburn-house-serviced-apartments.html": {
+    "name": "Luxustay Milburn House",
+    "location": "Milton Keynes",
+    "score": "8.1",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266577477.webp?k=75336ba86b7d764ff6ab8f78ec44e3250e418bc7ebf2fe2830b7f34564163d15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/genevieves-luxury-apartment-ctr-milton-keynes.html": {
+    "name": "Stylish Home Away From Home, Very Fast WiFi",
+    "location": "Milton Keynes",
+    "score": "8.5",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365822887.webp?k=36f6fd9b2d6c979d006a9956f32068a6358522025ff615c3a7a6d17f8a6b0097&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deanway-serviced-apartments-chalfont-st-giles.html": {
+    "name": "Deanway Serviced Apartments Chalfont St Giles",
+    "location": "Chalfont Saint Giles",
+    "score": "7.5",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291302151.webp?k=bbb80741267ab2517a244b7a31534cd310be307b3e9100c73bdc5df9f61c99a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hedges-house-buckingham.html": {
+    "name": "Hedges House",
+    "location": "Buckingham",
+    "score": "9.6",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204456675.webp?k=c1d62eecdff482d053aa89e33cf1b37e3118a809524471c8293e45cbee9ac2ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brightleap-apartments-hopton-house.html": {
+    "name": "Brightleap Apartments - Hopton House",
+    "location": "Milton Keynes",
+    "score": "9.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216124180.webp?k=4aceb7c53e92fa99747387c7c0f66eb94609c5b550606df17167850af42164df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baylis-house-heathrow.html": {
+    "name": "SK Baylis House Hotel",
+    "location": "Slough",
+    "score": "5.1",
+    "review_count": "1,106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323225872.webp?k=b0b06dc5e896e57ab74cf98753ce80f45795926017f31ab0c28a50fdf8172252&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-small-studio-flat-near-aylesbury-station-01.html": {
+    "name": "No 01 Small Studio flat in Aylesbury town Station",
+    "location": "Buckinghamshire",
+    "score": "8.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358666975.webp?k=88b9991854ec9b9ac68db1f6511307b155afe38b3adcc839015becae62b3f23c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blue-sapphire-milton-keynes1.html": {
+    "name": "Blue Sapphire",
+    "location": "Milton Keynes",
+    "score": "7.6",
+    "review_count": "85 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314536073.webp?k=51b28336bced9019036c3eb32013cf890a13adacc385abc1e2364a316169a169&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brightleap-apartments-the-hub.html": {
+    "name": "Brightleap Apartments - The Hub",
+    "location": "Milton Keynes",
+    "score": "8.6",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/276954866.webp?k=4979066270d35a0082281346e51ca95eda139ecc9b66ee992943e33aaee2d8aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ostrich-inn-slough.html": {
+    "name": "The Ostrich Inn Colnbrook London Heathrow",
+    "location": "Slough",
+    "score": "8.2",
+    "review_count": "545 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270512828.webp?k=2d19dd5063570d599d33864bfc735b1af417e83dd4e0a6d2f77efead70e74c97&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampden-apartments-the-william-eton.html": {
+    "name": "Hampden Apartments - The William",
+    "location": "Eton",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384911368.webp?k=ef659811ed89fe6883359823c7dec7a7c6933f0c83025966f58f040a4b7ecc76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-apartment-with-free-parking-and-city-view-in-central-mk.html": {
+    "name": "2 Bedroom 2 Bathroom Apartment in Central Milton Keynes with Free Parking and Smart TV - Contractors, Relocation, Business Travellers",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227830217.webp?k=7d1f87f6d20ff6b1e09ae15df383470f45f02e88ee14b1eb45d074a792babb27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chriss-motel.html": {
+    "name": "OYO Chris's Motel",
+    "location": "Stokenchurch",
+    "score": "5.8",
+    "review_count": "326 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226492685.webp?k=f79e7ffbec60b811953b540479245f2810f9024f2fcafd16690a185c9e676883&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/centro-apartments-by-city-stay-apartments.html": {
+    "name": "City Stay Apartments - Centro",
+    "location": "Milton Keynes",
+    "score": "8.7",
+    "review_count": "69 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161726906.webp?k=9ad32da2254f28f6dbbbbf5bb1b12ccdeafd589afa492605238cdf87e8f7660f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cotels-milton-keynes-the-hub-serviced-apartments.html": {
+    "name": "Cotels at The HUB Serviced Apartments",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298693751.webp?k=12fc8fb78042ae259f643383d1dfef050e5992964367420d0e52bb1020db3cdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-tower-arms.html": {
+    "name": "The Tower Arms Hotel",
+    "location": "Iver",
+    "score": "8.1",
+    "review_count": "673 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134264907.webp?k=f9649407b737405ee1a9f7553848344af7cec37cae10a4d1dc0fdb45f895d7e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-westminster-house.html": {
+    "name": "Westminster House",
+    "location": "Slough",
+    "score": "7.3",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387703543.webp?k=b21184875a09954c4c1c0931d1b524d56110e800db7227eea7f848217647ac10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-two-bed-apartment-with-free-parking.html": {
+    "name": "Luxury Two Bed Apartment with Free Parking",
+    "location": "Slough",
+    "score": "5.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350101487.webp?k=3e70678960c7564eab8dbaf4482a0fb00ab0141726b4acf8f857af7aaf783bc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-guest-house-bletchley.html": {
+    "name": "Abbey Guest House",
+    "location": "Milton Keynes",
+    "score": "7.8",
+    "review_count": "534 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/225777350.webp?k=54d09a06987eb8df859e51f109381556a6d93799e4c9fb254dd00aed3a26651d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swan-revived.html": {
+    "name": "Swan Revived Hotel",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "905 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335518673.webp?k=e1234af4f5be280de85c23dd0b99f4ba8f69671f66aec784c5405cac1fac93da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-mursley-mursley.html": {
+    "name": "The Stables Mursley",
+    "location": "Mursley",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402884229.webp?k=35667c31f633e21db8c98a649bb768e8143271cb3e6530317b824ec4a38418e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-5-bed-in-aylesbury.html": {
+    "name": "Stylish 5 Bed - Games Room",
+    "location": "Buckinghamshire",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432999407.webp?k=f17db581e3ddc2e3c7b0d6efaf5d2a27865401b201049e2f2a7f445b4aee7452&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bedroom-apartment-ideal-for-long-stays.html": {
+    "name": "Lancing Apartments - Spacious 2 Bed - Sleeps 6 - Burnham Village",
+    "location": "Slough",
+    "score": "8.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369868110.webp?k=50f508d6ba94e5e6e1afc5ba1ea8011cf032bcc0becc4aa5e0c5cb1451bd18fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shortstay-mk-vizion.html": {
+    "name": "ShortstayMK Vizion apartments, with free superfast wi-fi, parking, Sky sports and movies",
+    "location": "Milton Keynes",
+    "score": "8.6",
+    "review_count": "113 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422807436.webp?k=7bde20cfa5307015ec7d2cf028405f81098d4f16422e77fdd427bc7722e7a338&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingsman-house.html": {
+    "name": "Stunning New Modern 2 Bedroom flat with Parking near Windsor Castle",
+    "location": "Slough",
+    "score": "7.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334537672.webp?k=f49bc12758d3086e547290d110a286b9fe90b3abe792d5049e9f651a661cebe2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cliftonlodgehotel.html": {
+    "name": "Clifton Lodge Hotel",
+    "location": "High Wycombe",
+    "score": "6.0",
+    "review_count": "157 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242384513.webp?k=f5d80c5c96088f0be5c37b76b494a3a8fbd4803eecf5bbcb2899338d99e0c594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-eton-cottage-design-led.html": {
+    "name": "Luxury Eton Cottage-Design Led",
+    "location": "Eton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425000814.webp?k=d9b2788d7bc9b2e4ca94c0b233ab00cc83bc1f2f36096349d598f987c89b09a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eton-windsor-1-bedroom-ground-floor-apartment-with-parking.html": {
+    "name": "Eton, Windsor - 1 Bedroom Ground Floor Apartment - With Parking",
+    "location": "Eton",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384007066.webp?k=d25f683a376ed3dd9e1a1bca37e3dd70795c39a20e6a1625b59263d8f7bb251d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-school-wolverton.html": {
+    "name": "Old School Wolverton",
+    "location": "Milton Keynes",
+    "score": "9.1",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314477793.webp?k=a97582f49716539aef63d9ca986bb72992e8468020bd4b7b1489e8205b6ac744&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-4-bed-apartment-in-milton-keynes-with-free-parking-by-aryas-properties.html": {
+    "name": "Beautiful 4 Bed Apartment In Milton Keynes With Free Parking By Aryas Properties",
+    "location": "Broughton",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415446227.webp?k=02338f45052670bcf394c9c779f67f722608c2870770e0d89ff45977d64694d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-queen-olney.html": {
+    "name": "The Queen Hotel",
+    "location": "Olney",
+    "score": "7.2",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/48510694.webp?k=062d58b1da26c3e45ac725db2ebf06be5c1b433c3cd7d8287268f9718f8d53ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-1-bed-studio-in-uxbridge-london.html": {
+    "name": "Beautiful 1-Bed Studio in Uxbridge London",
+    "location": "Uxbridge",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426873043.webp?k=3aebdb50575f5519bc832ed2205c9b8cb55eb7ff7241904603a246279b0e8033&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-dairy-waddesdon-buckinghamshire.html": {
+    "name": "The Old Dairy",
+    "location": "Waddesdon",
+    "score": "9.3",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34182371.webp?k=20f1e87e1035ddc7602b390fceae1c90823131d70b9c6cd81f48a4a2851982ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elegant-central-private-parking-leisure-contractor.html": {
+    "name": "Elegant Central, Private Parking, Leisure, Contractor",
+    "location": "Buckinghamshire",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350960943.webp?k=d42c8ce81b8a53c16af238d0f2866ca06bb99b76fc414b0190cc92ec16f92df4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/serene-and-comfy-house.html": {
+    "name": "Spacious and Serene Stay near Milton Keynes centre",
+    "location": "Willen",
+    "score": "6.4",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326817835.webp?k=103e6ab2871e8a1be18a88175c08061367f5f48831eebd129b808e181bdf964e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/huntley-house.html": {
+    "name": "Huntley House",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331681151.webp?k=612b0211aab8e90f71e1b1bf36338b15df0d277668163d53b0711e544a0b1721&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/saffron-court-by-wycombe-apartments-apt-12.html": {
+    "name": "Saffron Court by Wycombe Apartments - Apt 12",
+    "location": "High Wycombe",
+    "score": "8.6",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290656830.webp?k=f20f48c1cfadff603c7e342a1db61ea608690681d32dbdaa1e1272617d9ec39c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-spacious-5bedrooms-aylesbury.html": {
+    "name": "Spacious 5bedrooms House Perfect For Contractors Sleep Up To 7 Pets Welcome Fran's Service Accommodation",
+    "location": "Aylesbury",
+    "score": "6.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353666355.webp?k=3d0a9554b23c1e545e283a02e96156e10c5a0817993322bf80ac71e6359cefe8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-penthouse-waterside-grange.html": {
+    "name": "The Penthouse @ Waterside Grange",
+    "location": "Slough",
+    "score": "8.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217346719.webp?k=168231abf66c2ac7917164a3f8e974726004203b7cb490dfac175a19cfa46b4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/telford-house-milton-keynes.html": {
+    "name": "Telford House",
+    "location": "Milton Keynes",
+    "score": "9.6",
+    "review_count": "87 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194024420.webp?k=1326a6d223aada6493efa39ad8caa5eaad0f9853dd21d865986151e21e2a0fbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingshill-farm-cottage.html": {
+    "name": "Kingshill Farm Cottage - 28270",
+    "location": "Great Missenden",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419023054.webp?k=61e1b200cafc5f7f75b2d83524ac2b18ced6ba7533e7327f4898929961ff996a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ivy-cottage-b-and-b.html": {
+    "name": "IVY COTTAGE B and B",
+    "location": "Buckingham",
+    "score": "9.2",
+    "review_count": "135 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162803375.webp?k=1d5477faf8777bdea59090aaa04447af7c5f14ad7f5986c4846088e41aef908d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grovefieldhotel.html": {
+    "name": "Grovefield House Hotel",
+    "location": "Slough",
+    "score": "8.0",
+    "review_count": "583 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330733247.webp?k=27969acd47d83219875601c0a59ec53cd069e3c739b583ed03cf388966c9df07&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-in-uxbridge-greater-london.html": {
+    "name": "Flat in Uxbridge",
+    "location": "Uxbridge",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414164906.webp?k=3d197b5319bf903a5a4de193e2697dafe319c715f84275a60a1d54e26335c8d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eakley-stables-3-weiser.html": {
+    "name": "Eakley Stables 3 - Weiser",
+    "location": "Stoke Goldington",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360878519.webp?k=2361a2ccf51eba7f899b7b9a0377b2193a1f7be21d5d149b2ce833e724849948&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ada-walk.html": {
+    "name": "Oakgrove Apartment - 2 Bedroom with Terrance",
+    "location": "Milton Keynes",
+    "score": "9.1",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316439718.webp?k=d2c021cb8407b0ae70a0d9b7a26bf897b793493cbf1e157f6ae0041352ade398&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-house-slough-windsor-amp-heathrow-by-e2m.html": {
+    "name": "3 Bed House Slough * Windsor & Heathrow by E2M",
+    "location": "Farnham Royal",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397484594.webp?k=326f6457f08e094a52ee1fd5e2746288ad192fa5a1553c5ae9f4b507a2145bf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cosy-house-in-central-mk-by-yoko.html": {
+    "name": "The Cosy House in Central MK with Free Parking, Pool Table, Fast Wifi, Smart TV and Garden by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409040830.webp?k=faa0589552fc5eefa85bb645063fe6fe5c030688bc7c442c3eb5144a0d078c40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bedroom-home-in-milton-keynes-by-hp-accommodation-free-parking-wifi.html": {
+    "name": "Spacious 3 Bedroom Home in Milton Keynes by HP Accommodation - Free Parking & WiFi",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421559584.webp?k=e6628df927e9c814cfade8db7e442ac80ad1b18ec8bcdbb7ae514511b7fe0c37&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lyttleton-lodge.html": {
+    "name": "Lyttleton Lodge",
+    "location": "Uxbridge",
+    "score": "7.4",
+    "review_count": "150 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414425862.webp?k=d96b163014aba31cd5f0b37ed43a15e37773f7a9c533844bd681ba44da57412d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rochfords-serviced-house-with-5-bedrooms-4-bathrooms-12-beds.html": {
+    "name": "Rochfords Serviced House with 5 Bedrooms, 4 bathrooms up to 12 beds",
+    "location": "Slough",
+    "score": "7.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285650777.webp?k=1e3396a19fc7990f89153eb1627585b92991822fa9a168165feb25ba43c12b26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/champneys-tring-ltd.html": {
+    "name": "Champneys Tring",
+    "location": "Tring",
+    "score": "6.6",
+    "review_count": "161 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27259441.webp?k=ca8ccd5a3a350978b4cc89482918865ef41fbda6b7baed55f407872ff6f9effd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walker-avenue-apartments-with-parking.html": {
+    "name": "Milton Keynes Infra Mews Delightful Apartments with Parking by 360Midlands",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425751176.webp?k=8cd1881ca2e6308819b02378b92d17b0606efb0dd09792bd2023f4de3e5057ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chique-properties-emerson-house.html": {
+    "name": "Ideal for RELOCATION FAMILIES & CONTRACTORS-home away from home, with Fast WIFI, free Parking, Smart TV by Chique Properties Ltd",
+    "location": "Shenley Church End",
+    "score": "7.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268946668.webp?k=f6cda758177e4b9bbdeb5c128c280c40b9f2040d5e2037d8404aea683267abe0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-twins.html": {
+    "name": "Turtle and Rabbit - Comfortable and Spacious Houses",
+    "location": "Slough",
+    "score": "8.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262848795.webp?k=76b57619be7c1e5b54062cd52c69e2d761a4c273f8eb08b543c77480bb42a87b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-george.html": {
+    "name": "Old George Hotel",
+    "location": "Milton Keynes",
+    "score": "7.6",
+    "review_count": "550 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/98715772.webp?k=85ec9814e35c222a3b107b0ee11a388694f9ae8253afde404747b397386d9816&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tailor-that-property-chelsea-house.html": {
+    "name": "Tailor That Property - Chelsea House",
+    "location": "Milton Keynes",
+    "score": "8.6",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252045240.webp?k=c5340e371bac939ece3ffdf1900c687b6263de5f0205205cb6823f49eb12c1be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-potters-arms.html": {
+    "name": "The Potters Arms",
+    "location": "Amersham",
+    "score": "7.9",
+    "review_count": "288 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208052200.webp?k=bb1c50b8d0a41daf26f5ea1c7f61584e99e522b3c096560b78811e7e6c17073b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/langley-oak-slough.html": {
+    "name": "Uno Hotel Heathrow Windsor",
+    "location": "Slough",
+    "score": "7.3",
+    "review_count": "653 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404226732.webp?k=8fbdfed649dada8b1c26bdd7a22de55d524417daec07abf1e89cfd4e2fae5b71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ef-holiday-let-windsor-amp-legoland.html": {
+    "name": "E.F Holiday let Windsor & Legoland",
+    "location": "Burnham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433680087.webp?k=08a5a09959611b118e559cd5648cdf1fc35790caa76fa46578abb27fcaa5de5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/saffron-court.html": {
+    "name": "Saffron Court by Wycombe Apartments - Apt 08",
+    "location": "High Wycombe",
+    "score": "8.8",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379720025.webp?k=6ea0182c0e6350d4ff1bad9e04aa8b180a596d3fafab85ac598a91d9ed97ceed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hamble-lounge.html": {
+    "name": "Hamble Lounge",
+    "location": "Buckinghamshire",
+    "score": "7.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399437787.webp?k=767bc39e5113cc2d2cc3057386698122a04c4be8801b9930c272958c03c02b2f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mk-short-stays-the-hub.html": {
+    "name": "Treetops Apartment",
+    "location": "Milton Keynes",
+    "score": "9.5",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/171912956.webp?k=55a05d70af0e31b7f8649cb37966794412bfd6bf8653b15596afd3a945cb3138&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-3-bedroom-home-7-mins-from-central-mk-by-maison-19.html": {
+    "name": "Spacious 3 Bedroom Contractor Home with Private Parking, Just 7 Minutes from CMK by Maison 19",
+    "location": "Calverton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357964581.webp?k=bdb061da1a9da2965a0ed31ef6e27c97dfea5708a7e8be37ce00e7e0a8b7a222&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sutton-house.html": {
+    "name": "Heathrow-Windsor Guest Rooms",
+    "location": "Slough",
+    "score": "8.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302473570.webp?k=12160f09d918178be509511a573882ea1e35d9dd1569f4c38cc0c80e1cd53c56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-view-apartment-bletchley.html": {
+    "name": "Canal View Apartment",
+    "location": "Bletchley",
+    "score": "7.5",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318799245.webp?k=9faba92e9504a3b3b43b633b61a8b144e09422b86c09e7e0c9f5f2ee37390ef4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milton-keynes-city-center-house-secure-parking-sky-tv-desk-amp-gar-milton-keynes.html": {
+    "name": "MK City Center House, perfect for FAMILIES, GROUPS, free parking, Sky TV, Desk space managed by CHIQUE PROPERTIES LTD",
+    "location": "Milton Keynes",
+    "score": "7.6",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305053563.webp?k=bcb983453b9caf5b5967612df8818823b9e05d4cd52a0949641ef71f59ec4d10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-stay-apartments.html": {
+    "name": "City Stay Apartments - Hub",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319983205.webp?k=390cf8460e40c6db36f89ea45a22001799138520bb2fa0e7fdd039af747cd76b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/homely-two-bedroom-apartment-in-milton-keynes-free-parking-wifi.html": {
+    "name": "Homely Two Bedroom Apartment in Milton Keynes - Free Parking & WiFi",
+    "location": "Milton Keynes",
+    "score": "8.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421557970.webp?k=d2224d932ec5717868fd89ab6a6f35f79a72ee1f11edb79cedf3d34e1cf819dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maya-residence.html": {
+    "name": "Maya residence",
+    "location": "Bourne End",
+    "score": "8.4",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345263570.webp?k=a455e16f9af5ee9190b125d2fe6b91c8a4de20cab0dfe65fe8e81bb5aa96dc8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deluxe-town-center-apartment.html": {
+    "name": "Deluxe Town Center Apartment",
+    "location": "High Wycombe",
+    "score": "8.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230314819.webp?k=9cfc8d0283b3954c77a4a0ddd3861a92416c561c0203596f369466dc8f3c280c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/white-house-milton-keynes.html": {
+    "name": "White house",
+    "location": "Milton Keynes",
+    "score": "8.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319040045.webp?k=631a3bbc11eb0cc9c227f751eaf9e1af2fe0783cd72c360dd24e94eeb0a19985&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lux-ulverston.html": {
+    "name": "Lux Ulverston",
+    "location": "Broughton",
+    "score": "8.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344015882.webp?k=6ebad50b6854d8254291de58a5e509e6152fe02d3b5d92439f39c612b736968c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/albatross-house-comfy-home-with-parking.html": {
+    "name": "Albatross House - Comfy Home with Parking",
+    "location": "Slough",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262077801.webp?k=d2379cf5b07618dff709e9aba84d280e02e98cbda31f4a84d6c4c9258cb3c675&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-4-bedroom-house-with-parking-in-farnham-royal-slough.html": {
+    "name": "Modern 4 Bedroom House With Parking in Farnham Royal, Slough",
+    "location": "Slough",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428922977.webp?k=37321fa1a9010e1143f47983012881245a8d9e5814621f8352e999c323d624c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-swan-old-stratford.html": {
+    "name": "The Swan @Old Stratford",
+    "location": "Milton Keynes",
+    "score": "8.4",
+    "review_count": "372 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112089562.webp?k=a7fb370d807556c5e9b156daef0339b6d2d7350ac86619d65c388e3e5fde855c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-location-parking-wi-fi-modern-apartment.html": {
+    "name": "Central location, parking, wi-fi, modern apartment",
+    "location": "Milton Keynes",
+    "score": "7.1",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333124516.webp?k=144ccf774df84b3ea37307fef9a1edad64dcb00be909080a0f641edf34825feb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manhattan-house-by-property-shoal.html": {
+    "name": "Manhattan House by Stay Shoal",
+    "location": "Milton Keynes",
+    "score": "9.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299884450.webp?k=b8a1fe5a28ab632d3e3b8a097a53634b9d08ec76ee9b87cc76bdc8daee0e00c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wexham-one-bedroom-home-sleeps-four.html": {
+    "name": "Windsor Wexham One Bedroom Home Sleeps Four",
+    "location": "Slough",
+    "score": "7.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404116070.webp?k=c4a098215a48a5254264c8465622bb7589eeddba81121dd688f5a9a2227e2487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-chic-studio-central-mk.html": {
+    "name": "Stylish, Chic Studio- Central MK",
+    "location": "Milton Keynes",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428327625.webp?k=baefc26dcfb16d62370b00f5bdf39d4ee864977132bb5cdf5a756ae03c77ece2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/guest-gardens-motel.html": {
+    "name": "The Annex - Guest Gardens",
+    "location": "Milton Keynes",
+    "score": "8.7",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393333153.webp?k=84a8f64ba5df44b87fff3da3648726b6d601098634e6b6d990648ee9bda0302f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-farm-bed-breakfast.html": {
+    "name": "Home Farm Bed & Breakfast",
+    "location": "Milton Keynes",
+    "score": "9.3",
+    "review_count": "210 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420947109.webp?k=0a3887026caabdb8fff6351ff92cd65262b4efba613abd2195e6fedf0b913759&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-end-cottage-milton-keynes.html": {
+    "name": "Church End Cottage",
+    "location": "Milton Keynes",
+    "score": "9.4",
+    "review_count": "210 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/68966043.webp?k=cd4501076b640e78ee6c3722ea5b4a2650001e8d60c12fb70a9a02bc574ba134&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-fresh-and-modern-flat-1-parking-space.html": {
+    "name": "Brook View Apartment- Bright, fresh & modern",
+    "location": "Milton Keynes",
+    "score": "9.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417161367.webp?k=f1e53b2609f077957089242c4740a61fa46385586ccc4935024f5ae06dd73e66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/long-stays-professionals-family-relocations.html": {
+    "name": "Long stays, Professionals, Family relocation's",
+    "location": "Shenley Lodge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331332064.webp?k=214fc24154eb70103aff2e22fdc6d99c38326a2df1f13a95d54ecb3824076a8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grundy-house.html": {
+    "name": "Grundy House",
+    "location": "Uxbridge",
+    "score": "9.1",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230969247.webp?k=46e931a7b0e61eb540fdf8d4492aac8d87e9b9ee2f950a5d18bd3070ec4bf8d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-house-aylesbury-flipside-property-serviced-accommodation-business-47-famil.html": {
+    "name": "✪ 3 Bed House Aylesbury, Flipside Property Serviced Accommodation ✯Business/Family",
+    "location": "Buckinghamshire",
+    "score": "6.9",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304758455.webp?k=7609eb4015f05ea851812bf5ed7f1ad2f07e44dc9cc93c532aa30a7334dec463&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hidden-gem-greater-london4.html": {
+    "name": "Hidden Gem",
+    "location": "Uxbridge",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402009782.webp?k=583ed505f94e80b0b06d07ae42089b55222b8b656752fb117d68cfeeac335000&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-luxury-barn-in-the-heart-of-buckinghamshire.html": {
+    "name": "Spacious Luxury Barn In The Heart Of Buckinghamshire",
+    "location": "Dinton",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345356907.webp?k=491c77de67f0e1406aa96cbdb7bb0f374f816eb030c841d578d50e8f5802d794&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-4-bedroom-house-with-free-parking.html": {
+    "name": "4 bedroom house with free parking Aylesbury Cherwell rd",
+    "location": "Buckinghamshire",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369037113.webp?k=eab07a2ca14a4b87625ba3ac924473a28574f43d872c220bc2cad7d519394c34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-one-bed-city-apartment-the-hub.html": {
+    "name": "Cosy One Bed City Apartment -The Hub",
+    "location": "Milton Keynes",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336428397.webp?k=f7ca859e5f57a376315e0227c0309cfe1ede1a194721c7b722d65762a2c27873&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashmina-ltd.html": {
+    "name": "ASHMINA GUEST HOUSE with Free Onsite Parking",
+    "location": "Milton Keynes",
+    "score": "8.7",
+    "review_count": "267 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334316101.webp?k=f3d728e055be3e7ea829258d96a0a007d045abf511445696456d1cef09999449&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-build-2-bed-house-wi-fi-smart-tv-free-parking.html": {
+    "name": "New build-2 bed house/WI-FI/Smart TV/Free parking",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429552272.webp?k=13daddc9434ac6111744014e93c42b05945529160c46ae05b3a0e35016cd4c54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vanburgh-court-apartments.html": {
+    "name": "Vanburgh Court Apartments",
+    "location": "Slough",
+    "score": "8.0",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297826430.webp?k=faad26007ef43b2b2702d0e7ef38c4e8d94bb5b5356949eb1d39951bbb790187&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfy-house-w-free-parking-fast-wi-fi-netflix.html": {
+    "name": "Broughton House with Free Parking, Fast Wifi, Garden, Arcade Machine and Smart TVs with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337245266.webp?k=af70aaf419799c6985fe4c66fee2fc7abd4b34537c6421f1e8ab11e29134280d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/all-facilities-in-a-hi-spec-room.html": {
+    "name": "All facilities in a hi-spec room!",
+    "location": "Simpson",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391252637.webp?k=df1a39a5ab8e64578c11f610c47d1982e0e14e3d9d504f8f72aac8dbeebe01b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/phoenix-house-slough.html": {
+    "name": "Luxe Your Stays- Slough",
+    "location": "Slough",
+    "score": "7.0",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345380864.webp?k=17de304cdfe44f50ef962e6d78f39732063a2c78abd396b9c4d8466848a1cde8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penthouse-campbell-park-apartment-with-free-parking.html": {
+    "name": "2 Bedroom 2 Bathroom - Penthouse Apartment in Central MK -Free Parking, Fast Wifi, Balcony & SmartTV by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428133419.webp?k=604e126480225c3c26222f71b5e46bbe2b1a9f75ce67846d721ebb59197fd31e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/capital-drive.html": {
+    "name": "MK SHORTSTAY DELUXE-Flat 2",
+    "location": "Milton Keynes",
+    "score": "8.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/381137495.webp?k=5e60aa679676e635990fe6b71740ae0bc0dfd9b8f154a25d83f201a905ca93d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-flat-near-to-london-heathrow-and-windsor.html": {
+    "name": "Holiday Flat in Central Slough near to London Heathrow and Windsor",
+    "location": "Slough",
+    "score": "8.5",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338921509.webp?k=b4f25c3f5f823069ef302f500ca921e86cf3bb61ae29b3a4f51e51e0395fa641&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gurnards-avenue.html": {
+    "name": "Milton Keynes Gurnards Avenue ONE",
+    "location": "Milton Keynes",
+    "score": "5.6",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311425925.webp?k=3cf120e069cf7ab5c4f242267a0b44b20335c0fa242fa3cb2923876305d19b60&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/one-bedroom-executive-apartment-cmk.html": {
+    "name": "Topaz Properties One bedroom Executive Apartment CMK",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239820432.webp?k=364c7fbb1160ba58a437c690f92be09cb0cb89b0d10dc23c7c4639ec9072b9ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sussex-lodge-guest-house-slough.html": {
+    "name": "Sussex Lodge Guest House",
+    "location": "Slough",
+    "score": "8.5",
+    "review_count": "207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306582339.webp?k=2e4e09fecf5b494cca09940d710db22644822b042e8bc77ccb3c38c6c0f92f80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/idyllic-apartment-nestled-in-the-chiltern-hills.html": {
+    "name": "Idyllic apartment nestled in the Chiltern Hills",
+    "location": "High Wycombe",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423713039.webp?k=189075664516c71a991e84643ee9cdc93602e9f6170005058d9c764f3e8a9f27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-swan-milton-keynes.html": {
+    "name": "The Swan Hotel",
+    "location": "Milton Keynes",
+    "score": "8.2",
+    "review_count": "123 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340309484.webp?k=714befda83f8eb4b67db3866ff79409e37b0d49e82a58db31f41556bbec2ede6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ivy-house.html": {
+    "name": "The Ivy House",
+    "location": "Chalfont Saint Giles",
+    "score": "7.9",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56883146.webp?k=03efc386b5dfe37def2c294e6149307baba572ab472fabe6111ec2763fe1a773&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-black-horse.html": {
+    "name": "The Black Horse Fulmer",
+    "location": "Fulmer",
+    "score": "8.4",
+    "review_count": "144 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/22047882.webp?k=081d1205125e0dfbea8c29795efcb944f3011fef617e7e7421d15880fa6d6c39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/foxley-place-mk-city-house-for-large-groups.html": {
+    "name": "Foxley Place: MK City house for large groups",
+    "location": "Milton Keynes",
+    "score": "6.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284960953.webp?k=34932f1558699fe8ee3364d09939b960deb5ac535f0147f58be06c57e9114541&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfortable-4-bedroom-home.html": {
+    "name": "Comfortable 4 Bedroom Home in Milton Keynes by HP Accommodation",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433306043.webp?k=87004d1a7b4607ceb42e4b2022b040cd195addfcc99f4edbffb1053517331cf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broughton-haven.html": {
+    "name": "Broughton Haven 5 Beds Free WiFi,Free parking",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422560385.webp?k=76bcd675475af9379befb0f39d8d2324edec6f0ffc6c8f39e6573b6195d6d335&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nice-and-cosy-studio-in-the-canter-of-slough.html": {
+    "name": "Nice And Cosy Studio In The Canter Of Slough!",
+    "location": "Slough",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287194615.webp?k=8f0fe3986ffd078a9d6e3e3e6f0fcc3d6413c9b2eecb97f6f302629ea25158f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milton-keynes-city-lodge.html": {
+    "name": "Milton Keynes City Lodge",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407908753.webp?k=b0e04be61c14fd1fa49d6a33477d4878edf6a84e912013bdb22fd3d6d16eea38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/detached-bedroom-with-free-parking-garden-and-smart-tv-with-netflix-by-yoko-prop.html": {
+    "name": "Detached House with Free Parking, Garden, Fast Wifi and Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345312852.webp?k=285f24badf0d1c7175c0e8ec78c9ba31e7151669a861c3b14b0e45b6ec1d348f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dalgin-apartment-city-centre-free-parking-balcony-superfast-wifi-and-smart-tv-wi.html": {
+    "name": "Dalgin Apartment - City Centre - Free Parking, Balcony, Superfast Wifi and Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382819405.webp?k=9b8e2d191bc94071030c55fbc249095f6ad98a101b8c1e4d10b2f5cf5fec65f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-and-big-apartment-brc.html": {
+    "name": "Bright and Big Apartment (BRC)",
+    "location": "Uxbridge",
+    "score": "7.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218678232.webp?k=c332200abc5368894a8508af113349139ac01f5c4f88f9897009c0f9bdd0d787&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eton-windsor-2-bedroom-second-floor-apartment-with-parking.html": {
+    "name": "Eton, Windsor - 2 Bedroom Second Floor Apartment - With Parking",
+    "location": "Eton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384020650.webp?k=5f170ceea27585c93553dbe4f0b85c1d34bcaa4156f4638bfb2e789654cc34c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-at-the-bull-inn.html": {
+    "name": "The Coach House at The Bull Inn",
+    "location": "Milton Keynes",
+    "score": "6.5",
+    "review_count": "104 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146488731.webp?k=d8abaf4b07a2c95477b7c1c23c8f45b53a8f795500b109596aaea5585d729d00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-in-milton-keynes-bradwell.html": {
+    "name": "Home in Milton Keynes-Bradwell",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423370263.webp?k=669188e4315dfab40534a249e02dd850ddec3e1ce3ef3f0ac94a8b1de3d8cae4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fabulous-3bed-house-close-to-train-station.html": {
+    "name": "Fabulous 3bed house close to train station",
+    "location": "Wolverton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403802359.webp?k=70c81b459d5f5f14bae309e3172200a0bf543d885c9bf340e1e2466fda19d97c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-willows.html": {
+    "name": "Little Willows",
+    "location": "Bradenham",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418846643.webp?k=fdc2b6dfb4edaae5366b65d04e3b0fdf1762691ba430b5788b5531b839b082a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-modern-decor-apartment-in-the-centre-of-slough.html": {
+    "name": "Beautiful Modern Décor Apartment in the Centre of Slough",
+    "location": "Slough",
+    "score": "10",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287332853.webp?k=ddff79f2a5aaef9b7067527b0eff86f3549c8cbeb3140c2da4ac517b55b55b41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bed-in-central-mk-free-parking-smart-tv-milton-keynes1.html": {
+    "name": "Modern 2 bed in central MK, Free Parking, Smart TV Dakota",
+    "location": "Milton Keynes",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419206217.webp?k=c6ffd0edbd71160fda73a26366ba3bd1ed2c102170d4e6a1fbf8d69adb90614f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-apartment-with-free-parking-in-central-milton-keynes.html": {
+    "name": "2 Bedroom 2 Bathroom Apartment in Central Milton Keynes with Free Parking and Smart TV - Contractors, Relocation, Business Travellers",
+    "location": "Milton Keynes",
+    "score": "7.6",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170061758.webp?k=44e18ca7dbfc655730a08c62d22385f597444beb6ba05da7ac98cfe8d1775eaf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/suffield-lodge-by-wycombe-apartments.html": {
+    "name": "Suffield Lodge by Wycombe Apartments",
+    "location": "High Wycombe",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322852277.webp?k=9514a7fc200b044161282aa141770af59ded2d29c703cdf3fef62598711ffd4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burnham-house-labrad-homes.html": {
+    "name": "Burnham House - LABRAD HOMES",
+    "location": "Burnham",
+    "score": "2.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/290531128.webp?k=26e6a452377f5a1c4052acbd5a5770f7fe091d316e8fc229a842f43a33d3bea9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rioshouse-george-inn.html": {
+    "name": "RIOSHOUSE George-Inn",
+    "location": "Gerrards Cross",
+    "score": "8.2",
+    "review_count": "217 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299653052.webp?k=5f919bce0bdcafef34232883fd843642dd65149a4e40beed1b1ca8299e58b640&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aylesbury-3-bed-detached-house-by-flipside-property-short-lets-amp-serviced-acco.html": {
+    "name": "Three Bedroom Semi Detached House By Flipside Property Aylesbury Serviced Accommodation & Short Lets With Wifi & Parking",
+    "location": "Aylesbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432500076.webp?k=cfe0778a437dcfaae17cc4f557c8cdf50e2a021e4d5f174d4b22fed73428f5f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-stylish-work-friendly-apartment.html": {
+    "name": "Luxury Apartment at Holt House",
+    "location": "Milton Keynes",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404987907.webp?k=8497cb5ad82964ead0e9f82396c8ef6f2306f0638d5b222963fbfa34ce613fe3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/classy-city-centre-apartment.html": {
+    "name": "Modern Campbell Park Apartment with Balcony & Parking",
+    "location": "Milton Keynes",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433391366.webp?k=e343683ec526b87f5dbecda04a29bce31e55af9395d6ee957ab424151754b6e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hale-house.html": {
+    "name": "Hale House",
+    "location": "Wendover",
+    "score": "9.9",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264984673.webp?k=1173cbe0a5b80b5f96303a0653e52cb5438221d224c622d042391ae01238bded&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hub-by-property-shoal.html": {
+    "name": "Fairfields by Stay Shoal",
+    "location": "Milton Keynes",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354514548.webp?k=405488e94d71607ce04467651763227cf58d4f961dfd3daf354f901dd6cfad47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-2-bathroom-central-mk-hub-apartment-sleeps-6-with-free-p-milton-keynes.html": {
+    "name": "Central MK - Executive Hub Apartment - 2 Bedroom 2 Bathroom - Free Parking & Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337336655.webp?k=0eff1c84eb377820c9100cdc65c8d75f50e53abef081eb0fde874a3657a6cf3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oldbrook-accommodation.html": {
+    "name": "Oldbrook Accommodation",
+    "location": "Milton Keynes",
+    "score": "6.5",
+    "review_count": "224 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231697288.webp?k=33c12604bc14fdf31d35734075860c6629e44b9b7b9e070b9bbba68d2c4e576e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-half-ttich-manor.html": {
+    "name": "The Half-Ttich Manor",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435499424.webp?k=10931d4fbbba1f0332ffae0ef19271c208868b95761562e57722f85d8fa80c12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nights-inn-berkshire.html": {
+    "name": "Nights Inn",
+    "location": "Slough",
+    "score": "3.5",
+    "review_count": "436 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306802315.webp?k=719aad9c14787e36460aba763232cc08c7789bf1a67b038ee33f64a46307b456&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-3-bed-penthouse-central-mk-free-parking.html": {
+    "name": "Stunning 3 bed penthouse Central MK, Free parking",
+    "location": "Milton Keynes",
+    "score": "7.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419207703.webp?k=a213e52d964a2d836d9ff59a8c47f2b4eabea6df0ea23fb9a70650e0f37dd767&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-superb-central-4-sleeper-apartment-with-parking-slough.html": {
+    "name": "Pass the Keys Superb Central 4 Sleeper Apartment with Parking",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344315371.webp?k=3f92aed380141358d5e1166e4c7fdf762a7ec4f5ec4de371debbba7e32fc5375&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/forge-cottage-naphill-near-high-wycombe.html": {
+    "name": "Forge Cottage",
+    "location": "Bradenham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396374835.webp?k=2543dd04707b905e2e50248b5001aaac64c0242b2fced576512c1a476162a701&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hartwell-house-spa.html": {
+    "name": "Hartwell House & Spa",
+    "location": "Aylesbury",
+    "score": "9.0",
+    "review_count": "78 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231806592.webp?k=219c2d766b2646f0ecd8b5f6783595b2ad987b1d4ebdf80bedea3eb63560be11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/one-bedroom-flat-central-slough-parking.html": {
+    "name": "One bedroom central Slough with parking",
+    "location": "Slough",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375721843.webp?k=2f38b74a1339b503065ed8c43fb796db6403a822bf832ec8cf854254bcfbf109&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elegant-1-bedroom-apartment.html": {
+    "name": "Elegant 1 bedroom apartment",
+    "location": "Milton Keynes",
+    "score": "9.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416896473.webp?k=d1f7e03bb9f0f41d789ed3c05c541bf51fb5a23ba5e6cd316bd62b1db4f276a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-building-1-bed-apt-with-balcony-minutes-from-heathrow.html": {
+    "name": "Modern Apartment Minutes Away From Heathrow",
+    "location": "Slough",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332358449.webp?k=2c7656f8a5a87f908650015a697f93387c66cfe1e1663a9e678a1e44b980859e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/loxley-farm-self-contained-barn-long-marston.html": {
+    "name": "Loxley Farm self- contained Barn Long Marston",
+    "location": "Tring",
+    "score": "9.4",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301438186.webp?k=a74179380a1febe487c445b1a861b83e16b154b745645106316945f91754293d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-amp-2-bath-cosy-apartment-slough-free-parking.html": {
+    "name": "2 BED & 2 BATH COSY APARTMENT SLOUGH- FREE PARKING",
+    "location": "Slough",
+    "score": "8.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294278487.webp?k=24662a94039383e722794a0fea62ea92b9287922ddafbd14501848b01c011292&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/divine-apartments-slough-brand-new-2-bed-2-baths.html": {
+    "name": "Divine Apartments Slough *Brand New* 2 bed 2 baths",
+    "location": "Slough",
+    "score": "9.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407862551.webp?k=f00e1ee5e5c92b7fdf0cca47506cfac7f63e6fbcf23c580b7503a542d7dd7832&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/town-center-4-bedroom-4-bathroom-hse-with-parking-slough.html": {
+    "name": "Town Center 4 Bedroom 4 bathroom Hse with Parking Slough",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389081300.webp?k=6ea7fe42cf5e379618d01dab4362e4dfe9700b377886ddb5f6045c62a3de4a55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fantastic-entire-apartment-close-to-central-mk-milton-keynes.html": {
+    "name": "Fabulous Modern Apartment Close to Central Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "9.9",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410860160.webp?k=5d46069227638acad8f03078a55bc46929b0ec79ac7584a18469b9ec922dbb25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nassau-apartment-city-centre-free-parking-balcony-sky-tv-fast-wifi-by-yoko-prope.html": {
+    "name": "Nassau Apartment - City Centre - Free Parking, Balcony, Sky TV & Fast Wifi by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348245697.webp?k=1b8773b0f93d10de9ade09a703e1e6e2698157ea14a7e4446e3896f276fe24a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/richmond-house-berkshire.html": {
+    "name": "Richmond HOUSE",
+    "location": "Slough",
+    "score": "8.1",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414550831.webp?k=37cce621763654d215ce70670fce546ada99d74e5db48234d46bd7cb60840b07&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-bungalow-in-milton-keynes-by-hp-accommodation-free-wifi-amp-parking.html": {
+    "name": "Two Bedroom Bungalow in Milton Keynes by HP Accommodation - Free WiFi & Parking",
+    "location": "Milton Keynes",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421560645.webp?k=b05ab3e0579ef2ea80254c7e16544875846c9aeed16b9c88e81200dcf1be033e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/langston-house-2-bed-2-bath-luxury-apartment.html": {
+    "name": "Langston House: 2 Bed, 2 Bath Luxury Apartment",
+    "location": "Hedgerley",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403287895.webp?k=4356f94ba333c318c88daba7f494629eee467442ab7220c0a01cb54b44f925b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-stylish-apartment-with-fine-linen-farnham-common.html": {
+    "name": "NEW - Stylish 2 bed, Farnham Common",
+    "location": "Hedgerley",
+    "score": "8.3",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305323457.webp?k=4761f5817bda42766fcb695d3daf81e715d2be8e882f9143447a3db1a02c4b96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dreamland-suites.html": {
+    "name": "Dreamland Suites",
+    "location": "Woolstone",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374942690.webp?k=1037853dd02e36e73824308ae311246df93edda65f2672aeed477bafccd847a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elderflower-cottage-buckinghamshire.html": {
+    "name": "ELDERFLOWER COTTAGE-rural and miles walks",
+    "location": "Buckinghamshire",
+    "score": "8.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311139504.webp?k=e85fa89074ec870792d6ed541e08b54902d5e4fd06ecdd4a1da95ffd8a5cd8cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-little-gable.html": {
+    "name": "The Little Gable",
+    "location": "Wavendon",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408394471.webp?k=245cd673b7f98a59fbc10c93f2e6b771262c79dfee3e51a9c1140e317661b5d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-brand-new-house-close-to-city-centre-free-parking-private-g-milton-keynes.html": {
+    "name": "Luxury Brand New House - Close to City Centre - Free Parking, Private Garden, Fast Wifi, SmartTV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423392957.webp?k=2909330c5ce6814d747af38ebf274b5dadbaebd27f88e46fe29440154d657b40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-one-bedroom-apartment-in-slough-town.html": {
+    "name": "Lovely one bedroom apartment in slough town",
+    "location": "Slough",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422962204.webp?k=eed33507fd9b08af3194af12444883b2cf5a1086eebfa94e5276e0c3f70cf1af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeycroft-lodge.html": {
+    "name": "OYO Honeycroft Lodge",
+    "location": "Uxbridge",
+    "score": "8.5",
+    "review_count": "435 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/272086442.webp?k=d01051f53401340b932def857958079b1723f6d985184ab887965ae1849ac33f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elegant-1-bedroom-apartment-milton-keynes.html": {
+    "name": "Elegant 1 bedroom apartment.",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428537386.webp?k=1528e72e418706dc1bce1f3b8d6f401f3de43e0b0f5e8be05c969e0219e12415&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hartland-accommodation.html": {
+    "name": "Modern Two Bedroom Apartment with Free Parking, Wifi and Netflix by HP Accommodation",
+    "location": "Milton Keynes",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421556137.webp?k=3abcb23e7cd5e27a881670a00a63f6b3226737b7038089131e56c8a0665d7cae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/freshly-decorated-2-bed-central-mk-free-parking.html": {
+    "name": "Freshly decorated 2 bed central MK Free parking",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390423996.webp?k=eb17c6955bed2c309c259019cce1092006be45ee6a27f97d8a73a44bedbb9447&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-luxury-house-with-free-parking-wifi-amp-netflix.html": {
+    "name": "3 bedroom, Luxury house with FREE Parking, Wifi & Netflix!",
+    "location": "Milton Keynes",
+    "score": "7.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269502179.webp?k=f5360322a328327027890664f614cffb359b2dbcc6da01964a63b21ed42fdd66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-short-stay-flat-in-milton-keynes.html": {
+    "name": "Luxurious Short Stay Flat in Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "9.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421905692.webp?k=48e73f6602eb6f396ceba7b87fa8c77c2b1c83f7112b2e83af31657dd7fb5a54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bmas-serviced-apartments.html": {
+    "name": "Luxury Campbell Park Apartments in Central MK with Balcony, Free Parking & Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "9.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266295064.webp?k=f1e819041aeccec97c26b0ff9af50b71979ee43d1a878d59096a1846ed79ca66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-2-bedroom-2-bathroom-apartment-8-minutes-drive-to-central-mk-with-free-p.html": {
+    "name": "Stylish 2 Bedroom 2 Bathroom Apartment - 8 Minutes Drive to Central MK - with Free Parking & Smart TV by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342875006.webp?k=03354a0f3c48498180a7b5f5e90bc984224952338498fd74fae972091ae702b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milton-5br-house-with-free-parking-3-5-bathrooms-ideal-for-contractors-amp-weeke.html": {
+    "name": "Milton 5BR House with free parking, 3.5 Bathrooms ideal for CONTRACTORS & WEEKEND stays",
+    "location": "Broughton",
+    "score": "8.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345275439.webp?k=0df9c898eb32101dfb114d655e8474fe8d3be418448a6b6315ed8fd7ad6db593&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/la-casa-suites.html": {
+    "name": "La Casa Suites Slough",
+    "location": "Slough",
+    "score": "9.1",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337968368.webp?k=c3211373230130d98d6607bf7c6c6fd467f289d41e62908271ba1bae6ea7f657&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-house-milton-keynes.html": {
+    "name": "The White House",
+    "location": "Milton Keynes",
+    "score": "9.5",
+    "review_count": "360 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316369159.webp?k=348ba839102db2edb76472961af6965154a1f39a7c2cfa7c832704997e31e9d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aylesbury-guest-house.html": {
+    "name": "Aylesbury guest house",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427118514.webp?k=7f750f5991ddb08719494e926ffed0db459caf824ea012859a87f32913dac6ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modish-and-cozy-apartment-in-convenient-location.html": {
+    "name": "Modish and Cozy Apartment in Convenient Location",
+    "location": "Uxbridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421761279.webp?k=6d313451147babb5600639120b6333b0105b5bc8deb67e1c9f0c9623a1fb02d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-detached-house-sleeps-8-free-parking-fast-wifi-and-smart-tv-with-bt-tv.html": {
+    "name": "Spacious Detached House - Sleeps 8 - Free Parking, Fast Wifi and Smart TV with BT TV and Netflix",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430476793.webp?k=efed2ff47409721890d1edad664f90543be35b60353ae303c2a9d286637502b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-whistlers-perch.html": {
+    "name": "The Whistler's Perch",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423418663.webp?k=94a50dfa083a11fb3c171016af51136bc4e86f3121607c2881e1d3b8d3c838d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bed-hub-apartment-with-balcony.html": {
+    "name": "Central MK Hub Apartment - 2 Bedroom 2 Bathroom - Balcony, Smart TV with Netflix and Free Parking by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "6.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337552053.webp?k=9d18aa4706d7ed290798ee5943821b57bce17aa0c5311eef1eb9f8d5fb50e7a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/squirrel-house-b-amp-b.html": {
+    "name": "Squirrel house B&B",
+    "location": "High Wycombe",
+    "score": "8.9",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347139219.webp?k=b6bee2d0e5e4787997516e764700a037d96973f22a04c6cd5ecb477b60439e42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easy-stay-slough-central.html": {
+    "name": "easyStay Slough Central Free Parking",
+    "location": "Slough",
+    "score": "6.3",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219588069.webp?k=3444ec30bbbf53289e33cc3ed6e945c110c866cfac71724e7a4bee3a95ed767b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/benjamin-house-ff.html": {
+    "name": "Benjamin House by Wycombe Apartments - Apt 06",
+    "location": "High Wycombe",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263055555.webp?k=dd8b78d8aed77cc096394e4020bedc9c23fbc6581a694d003ea689c70de4a8ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/50-acre-rural-retreat-amp-chauffeur-availability.html": {
+    "name": "Luxury Apartment Rural Retreat, Chauffeur Service",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426574739.webp?k=41505fdc69a0f96802c6afd621f07bad3461516f2dc0920518c32c977c092048&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-flat-3-sleep.html": {
+    "name": "Spacious 1 Bedroom Flat",
+    "location": "High Wycombe",
+    "score": "6.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421734832.webp?k=7071563f7448121f8f8f7419f7c4f4503c5b877fddc2f4754177b5b6f3398c9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-2-bed-apartment.html": {
+    "name": "Cosy 2 Bed Apartment in Milton Keynes by O&J Real Estate",
+    "location": "Milton Keynes",
+    "score": "8.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420108509.webp?k=8b3f0a97a24ddef52192aaac6564cbfb8a1ef8188ce91dc34eda5fd9d4fc5da9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-parking-amp-garden-amp-house-amp-central-mk.html": {
+    "name": "Private Parking & Garden & House & Central MK",
+    "location": "Shenley Brook End",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389394502.webp?k=f8289c78a0ee26b4cbb390776f0741d54348486153b52594ec9ffa9cfc7d4a4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-double-bedroom-flat-at-the-atrium-mk.html": {
+    "name": "Lovely 2 Double Bedroom Flat with free parking - At the Atrium MK",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424612508.webp?k=0bfa3e725e7fcb31490b0f36b9bdff540103641c6cf085079b7bf4b2358093ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mill-farm-milton-keynes.html": {
+    "name": "Mill Farm",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97253805.webp?k=f27635c96b011b344eb9dc21ee1fa4aeacc3be54ca67139e148c8e787b8c0cb6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-modern-3-bed-house-near-heathrow-airport.html": {
+    "name": "Spacious modern 3 bed house near Heathrow airport",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331754163.webp?k=815754280be63dc06f8eb73c8ded836f62da1a29c261bf936abfe890a76480b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-db-room-amp-2x-sofa-bed-listed-art-deco.html": {
+    "name": "Lovely DB room & 2x Sofa bed - listed Art Decco 1 Double Bed & 1 Double Sofa bed lounge",
+    "location": "Denham",
+    "score": "7.8",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368265489.webp?k=6f185d125fb2cc3c77baadf7be4f7eda9bb51881a174c4e400796b1096b30bf4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/relax-zone.html": {
+    "name": "Relax zone",
+    "location": "Langley Marish",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426379915.webp?k=ce1ab9bd85cf48f543878e047f47248439446a18a20b9f0474cc53dc7ff06610&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/double-room-nest-to-burnham-crossrail-station.html": {
+    "name": "Double Room next to Burnham Crossrail Station",
+    "location": "Slough",
+    "score": "9.4",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351824246.webp?k=d871bfb0ad7b0ee9ff3577af3996f2d2e8258131f1639f19ebd5de8718ada3fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shenley-house-with-garden-parking-and-smart-tv.html": {
+    "name": "Shenley House - Close to Central MK - Free Parking, Fast Wifi and Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309266287.webp?k=81c31f6d9efa5fb6d164aeeccd5924dd896218e17ae1b5804b65d94d0e7c2a5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-cosy-studio-central-mk.html": {
+    "name": "Luxury Studio- MK central- 5 MINS DRIVE TO TRAIN STATION-DIRECT TRAINS TO LONDON, BIRMINGHAM",
+    "location": "Milton Keynes",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400497039.webp?k=fd78d0f084fd5d8aff6270f485be9c09bbaaaf2011d37b7495effc65a873f188&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wonderful-2-bed-apartment-in-slough.html": {
+    "name": "Wonderful 2-bed apartment in Slough",
+    "location": "Slough",
+    "score": "7.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359641563.webp?k=f4923eb9390a6aaa1e399c3b1dedc7cd8956acb6a0552becc48701f87f3ee737&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gaskin-house-perfect-for-contractors-groups-families.html": {
+    "name": "Central MK House with Free Parking, Garden and Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255174866.webp?k=564a866074bce463bfbab09bebdfb5245d97c774c14449ff0208bb180d7ac8f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-contractor-house-with-parking-garden-cmk-by-trpg.html": {
+    "name": "Contractor House - Free Parking - Garden - CMK by Comfy Workers",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267137431.webp?k=b481a01a15937a033d1b39addc92114e475d4a0866e4f61c0af8935f5d14536d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-house-contractors-city-centre-free-parking.html": {
+    "name": "Modern House & Contractors & City Centre & Free Parking",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363194530.webp?k=286683efe9623c9fa03d509dc32b84f9ab5481b4a3373f26e64a0643a9d9f8d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/great-holm-milton-keynes-4-bedroom-property.html": {
+    "name": "Luxurious and Spacious Walkable to CMK 4 bed house Milton Keynes",
+    "location": "Bradwell",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426818621.webp?k=ca18e4573d72202b601f237666222a279609fc70862b307499372a61b1c91de5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-from-home-slough.html": {
+    "name": "Home from Home Slough",
+    "location": "Slough",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422988210.webp?k=778f68eaa83897fa60b2f69bd3ec7abbcf9c9d11aba256f9b99dfe9a8918eaa1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-and-immaculate-london-themed-home-with-balcony-for-you.html": {
+    "name": "Spacious and Immaculate London-themed home with balcony for you!",
+    "location": "Slough",
+    "score": "7.4",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282832892.webp?k=944f9991f3ec218abebc0acb2463f5d667ef194e3b8a87ca1cbcdb7cc7c3ab32&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-flat-near-aylesbury-town-and-station.html": {
+    "name": "Beautiful flat near Aylesbury town and station",
+    "location": "Buckinghamshire",
+    "score": "7.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339526457.webp?k=2fa2b1de572b55f4861f173f2fa32ea5a500665626e64573075f6cdeeed697f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-4-bedroom-luxury-home.html": {
+    "name": "Spacious 4 Bedroom Luxury Home",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409083347.webp?k=41deb8b9eb88443f5f183c8f47307722103f73dc192ceba5fc2190bfe571d6d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-4-bedroom-home-maison-19.html": {
+    "name": "Stylish 4-bedroom home-Maison 19",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415312336.webp?k=5d59d9960d4c1a7ef28acc67e551542f85d906f636a55792fabab963f90c46e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walton-by-stay-shoal.html": {
+    "name": "Walton by Stay Shoal",
+    "location": "Milton Keynes",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372808992.webp?k=7e6544ef48347afeb227a06e5def13079878d4fb968a943e0988027e275c3b63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/83.html": {
+    "name": "83",
+    "location": "Aylesbury",
+    "score": "9.2",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/121519516.webp?k=557c66269b5c7d840983efde20aebde2d2395ee7ca1da2ec26089cbf97359979&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bed-serviced-apartment-with-free-parking-aylesbury1.html": {
+    "name": "Lovely 2-Bed Serviced apartment with free parking",
+    "location": "Aylesbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406450413.webp?k=3387c372bb4117c343668b0ef4b1ef54d001bf075c75d2be0a82393883283b56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-historical-cottage-escape-big.html": {
+    "name": "Historical Cottage Escape BIG",
+    "location": "Burnham",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273707110.webp?k=556f21a1c20794dad6db230b33c5ca256dbc34c91eb5276d4cb77e04620b5a4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-city-centre-apartment-with-free-parking-fast-wifi-amp-smart-tv-with-netfl.html": {
+    "name": "Luxury City Centre Apartment with Free Parking, Fast Wifi & Smart TV with Xbox and Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371728662.webp?k=830ec14bebbdf9e404f78a2174aa052a75db9ee26f545e266b4c03f3ccc015e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-apartment-with-free-parking-fast-wifi-smarttv-and-garden-by-yoko-pro.html": {
+    "name": "City Centre Apartment with Free Parking, Fast-Wifi, SmartTV and Garden by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421649647.webp?k=444b07a59e8f2bd4d65038c19f8155b28c5b28267cb0e56b663e74fb4d212751&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-street-town-house.html": {
+    "name": "Slough Centre Townhouse with driveway parking for up to two cars",
+    "location": "Slough",
+    "score": "8.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186845395.webp?k=7e64190eb3b4daa348353a90760d8117abb11665ebc7a31f9787f374deb5f04d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/loughton-house-central-location-free-parking-private-garden-super-fast-wifi-and.html": {
+    "name": "Loughton House - Central Location - Free Parking, Private Garden, Super-Fast Wifi and Smart TVs by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398458556.webp?k=08f60f228fd5daffe93a22f14dd8e234092f3f25079f6b8152c136017abbc49f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bankside-by-wycombe-apartments.html": {
+    "name": "Bankside by Wycombe Apartments",
+    "location": "High Wycombe",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421405969.webp?k=1611c726b71b8f02ad27d5d3d3ade3f474abf75aa63ae4d5019fdf931708e7ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-green-acre-views.html": {
+    "name": "Boutique Green Acre Views",
+    "location": "Slough",
+    "score": "8.2",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355651233.webp?k=0e7b23324dfb0c921651d128ec906cca856a7f06907a449909aa4a423ba159ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milton-keynes-luxury-short-stay-apartment.html": {
+    "name": "Milton Keynes Luxury Short Stay Apartment",
+    "location": "Milton Keynes",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412309991.webp?k=1b6382b83f538c1bc3b5ed7cecc2a91cf27af574728ee4355f0293a27fa27f3d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-charles-apartments.html": {
+    "name": "James Charles Apartments",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430049924.webp?k=10add3eb9746015bd8c68f96fdf36681c1e6e263e651879efa51ce68ed653cd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-apartment-located-in-cmk-restaurant-quarter.html": {
+    "name": "Modern Apartment Located in CMK Restaurant Quarter",
+    "location": "Milton Keynes",
+    "score": "6.3",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346779698.webp?k=7a24d24aabb2675adf7f456f8941dfdf5d3fb64725d78fff823346341db91c19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bed-flat-in-milton-keynes-city-center-milton-keynes.html": {
+    "name": "Lovely 2-bed Flat in Milton Keynes City Center",
+    "location": "Milton Keynes",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402729763.webp?k=1b99dd169933cf6fc88c24dfd1c6ff1870bfabf4229a5fec18c5e0cc97c8f6f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bucks-accommodation.html": {
+    "name": "Bucks accommodation",
+    "location": "Aylesbury",
+    "score": "8.0",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309275524.webp?k=cda8da1208846b1984ff9846ab18b8e58835d1c582d68b16f628ace7a4895e4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pheasants-hill-old-byre.html": {
+    "name": "Pheasants Hill Old Byre",
+    "location": "Hambleden",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418692415.webp?k=711ae097f7017d86e88765176243cf29b6bd0e4352cc499c53236e9ead929918&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bedroom-apartment-free-onsite-parking.html": {
+    "name": "Lovely 1 bedroom apartment free onsite parking",
+    "location": "Milton Keynes",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372819962.webp?k=6c46e12d5e53c552b72ea0e1aaace2a5614b815db41b49028038259010fbd39d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walnut-house-with-free-parking-fast-wifi-and-smart-tvs-by-yoko-prope-walnut-tree.html": {
+    "name": "Walnut House with Free Parking, Fast Wifi and Smart TVs by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385809993.webp?k=2ca30112f30f7f53fcfe5c51c91cb23dfbe5535850077f9079ef3b50f8bbe38c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-room-milton-keynes1.html": {
+    "name": "Larmins Room",
+    "location": "Milton Keynes",
+    "score": "9.2",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367489902.webp?k=0254ae6fbf852f67cb39a9cc679d6d53e4ce457ae0020e07bc799eda4a22c88e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-1-bed-amp-parking-ideal-for-corporate-stays.html": {
+    "name": "STYLISH 1 BED & PARKING-IDEAL FOR CORPORATE STAYS",
+    "location": "Slough",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373769657.webp?k=3252ceb064ade190e3f38fbf8d2941bef5371ab9cd6446b77f84813854497cae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easystay-slough-central-apartment.html": {
+    "name": "easyStay Slough Central Apartment",
+    "location": "Slough",
+    "score": "6.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219562077.webp?k=9e5d634e500f29cae5948a00b0207913c6259c860f4f23d88d7099a30037e13e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterside-lodge-milton-keynes.html": {
+    "name": "Waterside Lodge by PAY AS U STAY",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332426811.webp?k=298300ef92969d13cad77299819717fe4e5923f88cb712c4067aef691f9bd427&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-4-backus-lodge.html": {
+    "name": "Flat 4 Backus lodge",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395518145.webp?k=0129374947171fc4e1e6d2250a6c8fa08a32460326e4887e2c553877f9ab9b15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crosslands-lodge.html": {
+    "name": "Spacious, 4 Bedroom Contractor Home for Large Groups with Private Parking for 3 Large Vehicles, Just 7 Minutes from CMK by Maison 19",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340579426.webp?k=00e138788783e4e80a52215ce781fb0a244c778d500f288ef18c941cc9a53458&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bed-in-central-mk-free-parking-smart-tv-milton-keynes.html": {
+    "name": "Modern 2 bed in central MK, Free Parking, Smart TV, Sapphire House",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409774061.webp?k=dccd58c8ff9d772a56cecdbf5ac727d17bcd71b48de99c49224bf8cbd4f02e76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-1-bedroom-hub-apartment-central-mk-free-parking-smart-tv-by-yoko-property.html": {
+    "name": "Luxury 1 Bedroom Hub Apartment - Central MK - Free Parking & Smart TV by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411888698.webp?k=63f8d00aa8a00293806a770ace56daa3fa5934ab80c4aef50c5b17516662e156&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unwind-in-this-prestigious-central-with-balcony-apartment.html": {
+    "name": "Unwind In This Prestigious Central with balcony Apartment!",
+    "location": "Slough",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282832174.webp?k=e2bf7f0689e427b28fd0235c6b02a91cd814d8b9da53f64b0020b9e35ecf0d4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hs2-aylesbury-contractor-stays.html": {
+    "name": "HS2 Aylesbury Contractor Stays",
+    "location": "Whitchurch",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331657443.webp?k=ac115eada4b3d69c8bd1bc914dc9da1741733336ba18b0751003175b20faa92b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/executive-lakeside-4-bed-townhouse.html": {
+    "name": "Executive Lakeside 4 Bed Townhouse",
+    "location": "Simpson",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387679673.webp?k=9e92a29dbe69d81e3c2556d61ebd0cc404daad90d742fd9acf78f0b03283166f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/petworth-house-near-central-milton-keynes-with-garden-parking-and-smart-tv-by-yo.html": {
+    "name": "Petworth House - Central Milton Keynes - Smart TVs, Pool Table, Garden and Free Parking by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333891860.webp?k=d0ca81a9a65a5c470691f64ab2644780e0292a3904563cded65b5dbd1d8d0f43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kingshill-farm-studio.html": {
+    "name": "Kingshill Farm - Meadow View",
+    "location": "Little Missenden",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420190972.webp?k=deab52279da943a511eb730656c77e14b7db614b3c5a63fc947842afe7e0d16c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-amp-spacious-3br-home-with-private-driveway.html": {
+    "name": "Stylish & Spacious 3BR Home With Private Driveway",
+    "location": "Bletchley",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394137033.webp?k=60e42e5af3ed83cb1d86b3383b001183a41e456649ac5eb41d0a7ac14c3951ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chic-luxurious-townhouse-central-marlow.html": {
+    "name": "Seven Living Residences Marlow",
+    "location": "Marlow",
+    "score": "7.3",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248339339.webp?k=a622838ab6679d9f50afb91cb19c48fba0f6576a82d38ced17825e72cea0ac50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brand-new-luxurious-apartment.html": {
+    "name": "✣BRAND NEW✣ Luxurious Apartment",
+    "location": "Slough",
+    "score": "5.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282505825.webp?k=b42d5902a874ea5a3564a7488d4001563fa361a19711231362e13160b2ac3e49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-house-7-minutes-drive-to-city-centre-fast-wifi-smart-tv-with-netflix-free-p.html": {
+    "name": "Cosy House - 7 minutes drive to City Centre - Fast Wifi, Smart TV with Netflix, Free Parking and Private Garden by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376707537.webp?k=afec13ae2f14476352a2f1c6f76d2173164c8e2086c9107616aabe99cb0d5cda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/near-cmk-superking-bed-free-parking-long-stays.html": {
+    "name": "Dexter Mews By Homely Spaces Short Lets & Serviced Accommodation",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422789607.webp?k=4080e9c931a1ee104da9933dcb3ae45f113ffadc001849898d02ae82d94b0d3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quiet-cosy-apartment-hp15-6rl-with-back-garden-animal-friendly.html": {
+    "name": "A cosy newly-renovated studio apartment perfect for peaceful getaway 11, HP15 6RL",
+    "location": "High Wycombe",
+    "score": "8.6",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429511939.webp?k=14ed17bcd1bcda6739bbf62f570961d1e72bd8d090cbdefc98cd5d38abb35e66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-17th-century-2-bed-cottage-in-mednemham.html": {
+    "name": "Charming 17th Century 2-Bed Cottage in Mednemham",
+    "location": "Medmenham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422832201.webp?k=6d6d6015445dd34db46fb5e78ef052143c850f48d982f08778468744e940d548&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedroom-home-in-central-milton-keynes.html": {
+    "name": "Lovely 2 bedroom home in Central Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389409408.webp?k=0ae9605837745f840069b27406983e90e3bdac6a0be89df07c21cc2bf54015c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/visit-milton-keynes.html": {
+    "name": "Bradwell Common Guesthouse",
+    "location": "Milton Keynes",
+    "score": "6.5",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81956317.webp?k=aa45e3bc0bb4bed9db4027e99a9b8d29dac6f0f20dea00008fc5fee8b1889f3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-at-slough-station-amp-parking-london-in-20-mins.html": {
+    "name": "2 BED AT SLOUGH STATION & PARKING - LONDON IN 20 MINS",
+    "location": "Slough",
+    "score": "6.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332453655.webp?k=02111c432f7b3bbeb483a9578ecc7e0adc3496f0bebbffcce7c3b18bb9699442&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-furnished-bungalow-with-garden-n-parking.html": {
+    "name": "Spacious Furnished Bungalow with Garden n Parking",
+    "location": "Bradenham",
+    "score": "6.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398849904.webp?k=0535de3cd755db97f36757d10d5b076451bb1ec46d4ffdbf96f6a2ca5f62f525&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/banksy-house-milton-keynes-4-bedroom-house-fast-wifi-free-parking.html": {
+    "name": "Spacious Banksy House, Milton Keynes, 4-bedroom house, Fast WiFi, Free Parking , Netflix, Sleeps 7",
+    "location": "Milton Keynes",
+    "score": "5.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393207253.webp?k=ddc145327d444862a41e5aa598876a17fd2d6daf023b9605b08eb7b509241598&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovegrove-contractor-stay-with-free-wi-fi-in-slough.html": {
+    "name": "Lovegrove Contractor Stay with Free WI-FI in Slough",
+    "location": "Slough",
+    "score": "7.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349705580.webp?k=7b7429a83b9a45b161f977b311e8c198c6e0d4acb6dc7f00adbb6ddb5924ed66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillary-serviced-house-with-5-bedrooms-10-single-beds.html": {
+    "name": "Hillary Serviced House with 5 Bedrooms up to 10 beds",
+    "location": "Slough",
+    "score": "7.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259113628.webp?k=d1b99050c945576d5eb773d8dc9454f19d9e1bf3c34324ccd6989e11ac69a749&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-house-with-pool-table-parking-smart-tv.html": {
+    "name": "Buckingham House with Pool Table, Free Parking, Fast Wifi, Garden, Smart TV with Netflix by Yoko Property",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339533862.webp?k=7abf7566e0b8ac4e8823fb3b3d853a1f64b027828647cea0f546199e84640ae9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contractor-amp-leisure-amp-central-location-amp-free-parking.html": {
+    "name": "Contractor & Leisure & Central Location & Free Parking",
+    "location": "Milton Keynes",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363171250.webp?k=37f36a8e97d4ab8c9352338a3e0262bb576985403e622f4b2b8f20de937bde93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-city-centre-apartment-with-free-parking-juliet-balcony-fast-wifi-and-smar.html": {
+    "name": "Luxury City Centre Apartment with Free Parking, Juliet Balcony, Fast Wifi and SmartTV with Netflix by Yoko Property",
+    "location": "Aylesbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415501833.webp?k=1b55a1fa8f630168f499800106f773d6deae7a0c9444462c532c8c511f4b0e1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hall-piece-cottage.html": {
+    "name": "Hall Piece Cottage",
+    "location": "Olney",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395210302.webp?k=7e32353392ba64bce50466d6bb1adb35a057c2a65125d81cdf488587e1ee920b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-one-bed-apartment-central-mk-the-hub.html": {
+    "name": "Stylish One Bed Apartment Central MK- The Hub",
+    "location": "Milton Keynes",
+    "score": "6.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350338454.webp?k=0a641c8faeb9db30e20aa75b53d7c522e9f3cfaadb38356bb24c751824e20200&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salt-hill-stylish-2-bedroom-1-bathroom-apartment-free-parking.html": {
+    "name": "Salt Hill Windsor Legoland Eton Heathrow Luxury 2 Bed 1 Bath FREE Parking",
+    "location": "Slough",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317625436.webp?k=e3e9851ec17ddd10afbdc08424af5449838f6bdec71db29bc6b944c01dca0333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-1-bed-flat-in-central-slough.html": {
+    "name": "Spacious 1 Bed Flat in Central Slough",
+    "location": "Slough",
+    "score": "9.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384520373.webp?k=a3b5caf0c69ca2a2301bff1122fca1b143bc0e91f58803cd89e9d219ba12b1af&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vfi-house-slough.html": {
+    "name": "3 bedroom lovely apartment in Slough with free parking",
+    "location": "Farnham Royal",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390241313.webp?k=ae1afdca24b29aac16bc2c7e49a9a48be4bf0829a7ede6cd22f3707111ea53c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bed-in-central-mk-smart-tv.html": {
+    "name": "Modern 2 bed in central MK, Smart TV, Centro",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403251523.webp?k=a83cf80b0d252af89dd7beae953fce7a2de2ebe5c63d5ec50d1412c88a19ee33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-mk-apartment-with-free-parking-fast-wifi-and-smart-tv-with-milton-keynes.html": {
+    "name": "Central MK Apartment with Free Parking, Fast Wifi and Smart TV with Netflix",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384390030.webp?k=39f79fc84e6e1c2301e7a526fac31a27248e65e73421a1d398f402df9dba0ac9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-treehouse-eton-high-street-walk-2-windsor.html": {
+    "name": "The Treehouse, Eton High Street, Walk 2 Windsor",
+    "location": "Eton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422869211.webp?k=a229f0e47ca11d182d7948ce8f11873449c6894f72ea3e101e0995477ec71cc6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-2-bed-house-in-high-wycombe-walters-ash1.html": {
+    "name": "Nice 2 Bed independent Annex in High Wycombe",
+    "location": "Bradenham",
+    "score": "7.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292603109.webp?k=a56522a789321bd9d1fa0f27cf1850a64dc80da53de0e7340d88dc73a18be9bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-hub-mk-city-apartment-with-free-underground-parking.html": {
+    "name": "Luxurious Hub MK City apartment- with Free Underground Parking",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415090038.webp?k=eb8c1b10681e3d243cd1dd06147dda5e355dc378dd2d4d5b7caf33c2a6888fc8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/south-lodge-milton-keynes.html": {
+    "name": "South Lodge",
+    "location": "Milton Keynes",
+    "score": "9.2",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329463180.webp?k=373cbc25c1997ddeffca776d1aed1daaef8f18946c7ba0b7623ba78b88708f21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/london-in-15-mins-stylish-apartment-near-heathrow.html": {
+    "name": "LONDON IN 15 MINS! STYLISH APARTMENT NEAR HEATHROW",
+    "location": "Slough",
+    "score": "6.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302433920.webp?k=54f9bac536e3f8c01cfb7504e76afd5108b0568a6e05b27d5b5023329e0aae2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walters-retreat.html": {
+    "name": "Walter's Retreat",
+    "location": "Buckingham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421106591.webp?k=ad48f6a45a355abf300be6111b09612326062d95152e505d1a8cac3b81a117b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/free-fast-wifi-with-desk-space-for-families-amp-contractors-managed-by-chique-pr.html": {
+    "name": "Free Fast WIFI, with desk space, for FAMILIES & CONTRACTORS managed by Chique Properties Ltd",
+    "location": "Milton Keynes",
+    "score": "7.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288651367.webp?k=574839115bb9108301d493288f4a7a6d2baba6a043c78cecbf53e6edbfa25fd7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bedrooms-flat-weston-turville.html": {
+    "name": "Spacious 4 bedrooms Flat Perfect For Contractor Pet Welcome Free Parking at Weston Turville",
+    "location": "Weston Turville",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431450219.webp?k=c0e2a3022cb5c980b0e33dcfbc786fffa9b3f6c3676690c901c86000360716d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2br-minimalistic-flat-central-location.html": {
+    "name": "Modern 2BR Minimalistic Flat Central Location!",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422969654.webp?k=89bd082d6008ea49d0c9fccbac197613bdb982296c9ff0dafd2aacd6d2b840ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-stunning-hitech-2br-apt-near-windsor.html": {
+    "name": "Pass the Keys Stunning hitech 2BR APT near Windsor",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428446170.webp?k=9cf11a9ac35379b0660dfce83a5473d4521a1e2663cc6fa474650f590c7b1aeb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-1-bedroom-apartment-with-free-secure-parking.html": {
+    "name": "Beautiful 1 Bedroom apartment with free secure parking",
+    "location": "High Wycombe",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413822808.webp?k=70a01805111962941fe21801ff6d66a01f2c70eb3b0d108219e9888b37210e6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tattenhoe-house-with-free-parking-garden-and-smart-tv-by-yoko-prop-milton-keynes.html": {
+    "name": "Tattenhoe House with Free Parking, Garden and Smart TV by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368366990.webp?k=82acdd803c7ef7153ab4f3f3db1805029276eb7e2b4e740e4043a046fcd0eafc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/narrowboats-on-the-grand-union-near-hemel-hempstead.html": {
+    "name": "Narrow Escape - 50ft Boat on the Grand Union Canal, near Tring",
+    "location": "Tring",
+    "score": "8.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390640909.webp?k=17e313565382e2350e9b2ed011fdacef3e25bd134192067f0a79654a723ed30c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-house-in-nice-area-smart-tvs-900mb-wifi.html": {
+    "name": "City House in Nice Area - Smart TV's, 900mb Wifi",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371399450.webp?k=406ac1ce14499bd0cd3ffa8b612f5353e5d8672671f3d732557a586905330f39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-2bed-apt-with-parking-near-windsor.html": {
+    "name": "Stunning 2Bed Apt with Parking Near Windsor",
+    "location": "Farnham Royal",
+    "score": "6.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367817358.webp?k=7c3e87ece8208ee5bdda988468e7e3c2e68ede3974b15f49bd0dca2ab4ed7477&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bed-apartment-in-central-milton-keynes.html": {
+    "name": "1 bed apartment in central Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388634008.webp?k=5788cb8fce3f69d412e8fb19c7f9decd78588770c06f3c6b206f1e1e400b7792&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bed-detached-house.html": {
+    "name": "Luxury 2 Bed Detached House",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428783854.webp?k=b6ba81c854574cec35a5cb9b7d1f423a4429082c3b549f81a2203b7d12eac2fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yew-tree-farm-aylesbury.html": {
+    "name": "Yew Tree Farm",
+    "location": "Aylesbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390698852.webp?k=997ee8cbd70186bbb16a01dbc25bbd1bb8ad12d3f2adaf07ce9827e2be6dc642&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milton-keynes-7-person-5-bed-family-home-wifi.html": {
+    "name": "Rose Guest House -Suitable for contractors ,families and groups",
+    "location": "Bletchley",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326927842.webp?k=6220904713a8042fcbfc080a12967396f74062b655d4461f75d03b3d5b61c2f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ttich-manor.html": {
+    "name": "Ttich Manor",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425591113.webp?k=f6533e9893fde7f9db1313b47296ed1a037af004b855f1f720bf3438cfea1da1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/millward-house-for-families-and-contractor-stays.html": {
+    "name": "Millward House for families and contractor stays",
+    "location": "Bletchley",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309665033.webp?k=f23109bd9567a7fc1c4aac1ebd05a328b774829098c95eb5cb8d77f9fab28b54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eton-windsor-modern-1-bedroom-apartment.html": {
+    "name": "Eton, Windsor - 1 Bedroom First Floor Apartment - Parking",
+    "location": "Eton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384002254.webp?k=73460ca956135dae5a670819ed691d94449a3e84a730763d9d5988eb307f0a2b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-house-contractors-campbell-park-central-location-milton-keynes.html": {
+    "name": "Large House & Contractors & Campbell Park & Central Location",
+    "location": "Milton Keynes",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363181933.webp?k=12549993e9aeef2c977e7c9212c4c53195aab222e12836d7441c074c38376f58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-5-bedroom-home-in-milton-keynes-with-on-site-parking-and-free-wifi-by-hp-ac.html": {
+    "name": "Cosy 5 Bedroom Home in Milton Keynes with On Site Parking and Free WiFi by HP Accommodation",
+    "location": "Milton Keynes",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420223701.webp?k=c39b6bcd5c308d8970b548929600be05c8d3517b32310a790ca6a2fac1b38416&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skies-call-bed-amp-breakfast.html": {
+    "name": "Skies Call Bed & Breakfast",
+    "location": "Buckingham",
+    "score": "9.4",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265964383.webp?k=64ffa9d7f4e1dbcac9bec88b2a92fbea457ba23d348ea354444d20c13f422a69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-city-centre-apartment-in-high-wycombe-with-parking.html": {
+    "name": "2 Bedroom City Centre Apartment in High Wycombe with Parking",
+    "location": "High Wycombe",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437722938.webp?k=48942bf7dcd0abe2b8879422d8242afec40ff3f7aed4b0ab7231de8aeda9de05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bakehouse-farm-house.html": {
+    "name": "Bakehouse Farm House",
+    "location": "Princes Risborough",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304692887.webp?k=a56aa20a6a68df172431c88b9a9f5a93613ee40404e2abd12f6ab805805d007e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-countryside-retreat-with-free-parking-burcott.html": {
+    "name": "Beautiful Countryside retreat with free parking",
+    "location": "Stewkley",
+    "score": "3.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385410431.webp?k=35d6aa87e4700c74033dc5d1a870d9f3fbc56b97511e58c1d0d70b316672c202&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/remarkable-1-bed-apartment-in-slough.html": {
+    "name": "Remarkable 1-Bed Apartment in Slough",
+    "location": "Slough",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336400861.webp?k=720867fbf02e8aa293224a8c8126fa798a65d0d5018f9d00940f88fd60c928fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bedroom-apartment-with-parking-slough.html": {
+    "name": "Modern 2 Bedroom Apartment with Parking, Slough",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377941923.webp?k=4c840ba2a2c2c79e0953ce85bd8246f285fe42d2f01049de79d2916621f9c8d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-limes-heated-pool-amp-hot-tub.html": {
+    "name": "The Limes Country House with Heated Pool & Hot Tub",
+    "location": "Great Missenden",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161118353.webp?k=76242e44bdac9b68aeec60d3476cd947978eec4107fd65698977203597102a03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-5-bedroom-3-bathroom-serviced-house-aylesbury-with-parking.html": {
+    "name": "Modern 5 Bedroom 3 Bathroom Serviced House Aylesbury with parking",
+    "location": "Aylesbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373709082.webp?k=ba8dfdc929178470a6fab60a90158f66095ec73e744d833b6d516d22c1d5ed7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/homely-3-bedroom-house.html": {
+    "name": "Homely 3 Bedroom House in Milton Keynes by HP Accommodation",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428698615.webp?k=e1ecc709cce2d3d09d5c3f406f23e3766b54cda5153fea4637751ec28ede6177&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contractors-city-centre-free-parking-m1.html": {
+    "name": "Contractors & City Centre & Free Parking & M1",
+    "location": "Haversham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360786747.webp?k=025ef9fbb4f859ab8a2d04ddf8aa9d3709748ecaf69b10296349f303edcf5b15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bed-in-central-mk-free-parking-smart-tv-chelsea-house.html": {
+    "name": "Modern 2 bed in central MK, Free Parking, Smart TV, Chelsea House",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438046907.webp?k=cba10f3963d29dfdc1627729cf323666cff16b3cde35c342e4e2eb1b67a249f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ardenwood-guest-house.html": {
+    "name": "The Malt House",
+    "location": "Aylesbury",
+    "score": "9.7",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397502435.webp?k=2367018352cd8a3dd22e6628f7a9564001e697cc60b16b469dcd5d1409b75179&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/captivating-6-bed-cottage-in-the-village-of-moulso.html": {
+    "name": "Captivating 6 Bed Cottage in the village of Moulso",
+    "location": "Newport Pagnell",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331715095.webp?k=d71f0604ef92241559820fc2c0fc3e910980b70b1e28354497fddb0db793091b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-bedroom-3-5-house-with-football-games-table-smart-tvs-free-parking-and-garden.html": {
+    "name": "Luxury 5 Bedroom 3 Bathroom House with Smart TVs, Super Fast Wifi, Free Parking and Garden by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339696556.webp?k=78e2884eb88ec09bd28806f1fff4aaa876858aedcc76acf9a57fa37fa9a9b263&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sl-church-254.html": {
+    "name": "Pinewood Studios Bright 4 bed 2 bath house near Slough",
+    "location": "Buckinghamshire",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331507496.webp?k=d0535447999a45893ca57ba9310f42f59719b469fedfbbd7e17a77863e9c3125&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/idyllic-cottage-with-a-modern-finish-central-marlow.html": {
+    "name": "Central Marlow, idyllic terrace home with garden & modern furnishing",
+    "location": "Buckinghamshire",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385693377.webp?k=c3c9526cf5ce18386e3a8ec1d0641f5a7fcf1f4700ba49872f52770ff3aae7cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-modern-annex-in-a-tranquil-countryside-setting.html": {
+    "name": "A modern annex, in a tranquil countryside setting.",
+    "location": "Aylesbury",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382018908.webp?k=1aae4070b7010f0ced2d8dd8f51116716e4d443b869a2c9db5b1bde95ebd316a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-br-bungalow-in-uxbridge.html": {
+    "name": "Modern 3 BR bungalow in Uxbridge",
+    "location": "Uxbridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409296610.webp?k=16db336d2bda164ad1521d60c1652549b2fd91800e34c7d00b0d7f0e4ecb578a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contractor-house-with-free-parking-garden-and-netflix-by-yoko-property.html": {
+    "name": "Poppy House - Sleeps up to 8 guests - Free Parking, Balcony Rooms, Fast Wifi and Smart TV with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275182156.webp?k=931830657a52f9a6fd3f383ecc93be27f7123304fb505fdddd8fb2bdaa71c976&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lattice-apartment-city-centre-free-parking-balcony-sky-tv-fast-wifi-by-yoko-prop.html": {
+    "name": "Lattice Apartment - City Centre - Free Parking, Balcony, Sky TV & Fast Wifi by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346601801.webp?k=e9ea450bde93f661e268d9ea8dc07155fd4b9e3e53929074a9c5b48a11f6c5bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-in-milton-keynes-milton-keynes.html": {
+    "name": "Studio Apartment in Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437940340.webp?k=5787c6cdca936985c35c65b03baec50baffc42de8c565300f898df3384cbb70d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-apt-free-parking-close-to-heathrow-amp-windsor.html": {
+    "name": "Cosy Apt*Free Parking Close To Heathrow & Windsor",
+    "location": "Hedgerley",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375768154.webp?k=aab26a15cce1dcd03df0a4b28adb6fd2ff05d3ffd0d9ffd5e7e93cb3a98551d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/family-friendly-retreat-dorney-windsor.html": {
+    "name": "Family Friendly Retreat Dorney/Windsor",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434209734.webp?k=0ae1053afe3756969915c5128ba396182d7d5cf744a6c26c6eecd7dac9d3a712&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/huge-house-free-parking-contractor-leisure.html": {
+    "name": "Huge House - Free Parking - Contractor -Leisure",
+    "location": "Loughton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433795630.webp?k=8e3a781f6cd92a71baa425469ae57dbf8516389942cdbca7514de5d02556d63d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burnham-4-bedroom-house.html": {
+    "name": "Burnham 4 Bedroom House",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303917641.webp?k=a992b5f4c89ce670fa2aa8867b52044369deb7d43691b31d6fe605de099c919f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-outstanding-6-bedroom-mansion-with-games-room.html": {
+    "name": "Pass the Keys Outstanding 6 bedroom mansion with games room",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411199759.webp?k=00224bb8b110c4501d2b57db71bdc0945d61438fcac13eb736426b88d7b1d382&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-cottage-style-3-bed.html": {
+    "name": "Beautiful cottage style 3-bed",
+    "location": "Loughton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430233053.webp?k=f62e8789ad2e80a136f5cc5af1fef1c1b7f876c118d9958e59081d0430e08c87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/period-luxury-converted-barn-windsor-maidenhead-perfect-for-family-groups.html": {
+    "name": "Period Luxury Converted Barn Windsor/Maidenhead - Perfect for family groups",
+    "location": "Taplow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438119047.webp?k=6040720e5a0e0107b128aef6a9e3be9f54deed6ec5518cdccce74306d98bd68c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-home-with-hot-tub-in-picturesque-village.html": {
+    "name": "Stunning home with hot tub in picturesque village",
+    "location": "Haddenham",
+    "score": "9.3",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358157985.webp?k=b0d58c19046447dfa70e6af331d92620804938e0fdbac5a65e85288aac0fcb39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bedroom-home-great-for-families.html": {
+    "name": "SPACIOUS 3 BEDROOM HOME - GREAT FOR FAMILIES!",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383632898.webp?k=7689b702f4d1979b27bcf9f5d3eae9f896549a39b5ef14e1943c76f99a43bf65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkgate-dreams-unlimited-serviced-accommodation.html": {
+    "name": "PARKGATE Dreams Unlimited Serviced Accommodation",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330462677.webp?k=9f469f093d79fb4c3212490579509d2ee3816f76dbe491205438990db310b8f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-and-spacious-one-bed-apartment.html": {
+    "name": "Lovely and spacious one bed apartment",
+    "location": "Bletchley",
+    "score": "6.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383329709.webp?k=de99aa8a555808dfef5ad5cb32787bc9134f134623d4fcde5d342f0bef2c3029&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cozy-5-bedroom-house-in-broughton.html": {
+    "name": "Broughton 5 Bedroom House with Free Parking, Free WiFi, Garden and Smart TV with Netflix Near M1 and Sleeps up to 10",
+    "location": "Broughton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413026922.webp?k=5bbf6e457f35255e8b19d5ab4249af834b0eadf49c3bf4154ebe70aec17fa40c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-detached-annexe-with-off-street-parking.html": {
+    "name": "Cosy Detached Annexe With Off Street Parking",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437855404.webp?k=9ea2e79bb4eae8a79d8599cdce233cd9fb24314a6bf2c62aee6883ca4c9ec696&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-6-bedroom-house-in-aylesbury-free-parking.html": {
+    "name": "luxury 6 bedroom house in Aylesbury, Free parking",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437720122.webp?k=fe8c3feab1756c6c1f38573a693b0835d8c5aa4f881b7bac75e68c3a40d42e5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cart-shed-turville-near-henley-on-thames1234.html": {
+    "name": "The Cart Shed",
+    "location": "Turville",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419846977.webp?k=80fe7ca598c9968831a0dfa3743cc45e5cffc81a7a9932bd18f266956926fdbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/duplex-apartment-with-balcony-free-parking-fast-wifi-amp-smart-tvs-by-yoko-prope.html": {
+    "name": "Duplex 2 Bedroom Apartment - Close to City Centre - Balcony, Free Parking, Fast Wifi & Smart TVs by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399881708.webp?k=ddebe61834d4ee5160fc02c4dbc70c0746f99691ea7ed54b90cf7361b0079d51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-semi-flipside-property.html": {
+    "name": "Spacious 3 Bedroom Semi Detached House By Flipside Property Aylesbury Serviced Accommodation & Apartments With Parking",
+    "location": "Bierton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435105845.webp?k=9db3d77eac4b6b75949e10e80944e6c190cd8d7d6e6b223dac49039ef05981cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-3-bedroom-house-in-milton-keynes-with-free-parking-amp-wifi-by-h-accommod.html": {
+    "name": "Luxury 3-bedroom House in Milton Keynes with Free Parking & WiFi by HP Accommodation",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433229655.webp?k=e3a01f223a5b6d3f06a9dbab8a5645d0f4f7ca39abc6f9442d5ad74894e60008&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/knights-house-with-free-parking-garden-and-smart-tv-with-netflix-by-yoko-propert.html": {
+    "name": "Spacious House - Close to City Centre - Free Parking, Fast Wifi, Smart TVs with Netflix by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385570755.webp?k=d3bc98ce12729bc99909e1ba675444993cd70a7b527eec7e88b1ad7f0f99d611&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cuckoos-hideaway.html": {
+    "name": "Cuckoo’s Hideaway",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431647945.webp?k=da3b15190a4f8adc44ba0858dcc6190e17f1934a66df335beedc9e13a9b56995&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-evergreen-house-by-marlow-lock.html": {
+    "name": "The Evergreen House By Marlow Lock",
+    "location": "Marlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419442384.webp?k=1d88beb0b21f9c77aec8a1122fba04296ad26ea5889c2ce271d10d464a8350e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/remarkable-1-bed-flat-in-slough-near-farnham-road.html": {
+    "name": "Remarkable 1-Bed Flat in Slough Near Farnham Road",
+    "location": "Slough",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428500752.webp?k=c41a6c6b44b4c71150409f6b9c2aebe5c5b023606d5e89ed7ff456eca4dce8cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-farm-campsite-radnage.html": {
+    "name": "Home Farm Shepherds Hut with Firepit and Wood Burning Stove",
+    "location": "High Wycombe",
+    "score": "8.3",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357743351.webp?k=103b108730568aee888141170867bd2e7cf9a60200ba947caf60138be93caf79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-house-with-smart-tvs-and-netflix-fast-wifi-free-parking-and-garden-by-yo.html": {
+    "name": "Stylish House with Smart TVs and Netflix, Fast Wifi, Free Parking and Garden by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385279124.webp?k=0ae4ce7ef04a78f087e12e1089c0766bc8775688a54e0e6579852d3bc412f19a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/georgian-manor-stoke-park-private-pool.html": {
+    "name": "GEORGIAN MANOR @ STOKE PARK - PRIVATE POOL",
+    "location": "Stoke Poges",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373949094.webp?k=0bc819450ce0a61e22235d07920ae8ebc89da7ecf657595df0f9fd481ff903d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-1-bedroom-serviced-apartment-atrium.html": {
+    "name": "Newpointe Stunning 1-bedroom Serviced Apartment",
+    "location": "Milton Keynes",
+    "score": "9.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318439982.webp?k=c1b01c83636fc1b51edddfc47e8945452d50ae85665514e46937c32c395008d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-home-in-high-wycombe.html": {
+    "name": "SPACIOUS HOME IN HIGH WYCOMBE",
+    "location": "Buckinghamshire",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431349873.webp?k=1b9adebdef90acce869bfde17a3f01b0ca95443352f4c6af445f980be9ca3cf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-home-5-minute-drive-to-the-city.html": {
+    "name": "Cosy home 5 Minute drive to the city",
+    "location": "Wolverton",
+    "score": "3.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338961762.webp?k=0c7fee9ea61b5b10013fbe32e32db3abd73475ede6310d3eecdf5cd80ede85cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bewdley-house-5-bedroom-3-5-bathroom-house-free-parking-private-garden-super-fas.html": {
+    "name": "Bewdley House - 5 Bedroom 3.5 Bathroom House - Free Parking, Private Garden, Super-Fast Wifi and Smart TVs by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398982961.webp?k=dcfff6e3829ea9f3d4d797240053059e9046fd638a23c8295db1888ee8717ddc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ensuite-double-room-next-to-brunel.html": {
+    "name": "Ensuite double room next to Brunel",
+    "location": "Uxbridge",
+    "score": "4.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374859776.webp?k=2f5e0988f78e5a3490a4984aacb4cc96e6c742d81e3aa34a66e39f357e0cb9aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/atria-by-flying-butler.html": {
+    "name": "Atria By Flying Butler",
+    "location": "Slough",
+    "score": "5.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222372216.webp?k=d8caf0ce9f6c1a958043d333d2e4c5e37f56dc034bd051a16e73019e9bd8c108&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salaam-letting-5-bedrooms-furzton.html": {
+    "name": "SALAAM LETTING (5 BEDROOMS, FURZTON)",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386849827.webp?k=c311d8568f87a204a20d6352d90501f52fd03a23e2ecb3cc82d461fc4d750ff0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/middleton-house-with-free-parking-fast-wifi-smarttv-and-garden-by-yoko-property.html": {
+    "name": "Middleton House with Free Parking, Fast-Wifi, SmartTV and Garden by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408690565.webp?k=9374d17baf435c10aa12c440fca2ad206dce207167749813936f42a49d6b2e5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bed-apartment-in-milton-keynes.html": {
+    "name": "Lovely 2-Bed Apartment in Milton Keynes",
+    "location": "Milton Keynes",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389274794.webp?k=6e7663f3e877c51cfd28c6a91515dfd8733281e68e63d17bf5b4ad516f5608bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salaam-letting-new-apartment.html": {
+    "name": "SALAAM LETTING (NEW APARTMENT)",
+    "location": "Milton Keynes",
+    "score": "2.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316282719.webp?k=4ce6138915865da24bf3f27694bc66be462819f86e8833c9fd6ad36bf1900019&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marlows-emerald-3-bedroom-house.html": {
+    "name": "Marlow's Emerald 3 Bedroom House",
+    "location": "Marlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430537168.webp?k=56d45e18cafc4f81c80b387125b35c2d2f57430c287982f5720c3afbb7280796&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-4-bedroom-house-sleeps-9-free-parking-fast-wifi-smarttv-with-netflix-by-y.html": {
+    "name": "Luxury 4 Bedroom House with Free Parking, Fast Wifi, SmartTV with Netflix - Perfect for Contractors, Groups, Relocation and Corporate Guests by Yoko Property",
+    "location": "Milton Keynes",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426050615.webp?k=37bcf967e4237cc970a5b154f932d7f0fc8319e0f8dd57bdca6791c404846689&o=&s=1"
+  }
+}

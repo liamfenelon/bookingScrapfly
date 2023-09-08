@@ -1,0 +1,1410 @@
+{
+  "https://www.booking.com/hotel/ie/clayton.html": {
+    "name": "Clayton Hotel Galway",
+    "location": "Galway",
+    "score": "8.0",
+    "review_count": "3,914 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269897817.webp?k=d33e25584f1426b6116d092b139fe84369dd4b98e56a06fb39616bbe31ad2542&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/flanneryshotel.html": {
+    "name": "Flannery's Hotel",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "5,070 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271830864.webp?k=d3f899f6045b78a11660009b87ebdaf23a4479aabd0422c3e0d68133ab7095ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-victoria.html": {
+    "name": "The Victoria Hotel",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "2,450 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317155729.webp?k=b7d45958365b7d0aaee0e6080857309f1731cce2da34846789824eab8fab4649&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jurys-inn-galway.html": {
+    "name": "Jurys Inn Galway",
+    "location": "Galway",
+    "score": "7.2",
+    "review_count": "4,930 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81741838.webp?k=0c0a4ad1db50e575c67ecfb9b78bec4c84fe931864e096c00372cd86d1ff8ba8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maldronsandyroad.html": {
+    "name": "Maldron Hotel Sandy Road Galway",
+    "location": "Galway",
+    "score": "8.0",
+    "review_count": "2,938 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286996051.webp?k=71476272c93c864e1c6d9b0137a04a1229e22688bdde059ee071442642ff5540&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/feeney-39-s-b-amp-b.html": {
+    "name": "Feeney's Audubon Lodge",
+    "location": "Salthill, Galway",
+    "score": "8.6",
+    "review_count": "968 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298204325.webp?k=b143ba80971302a4eaed1a89e77c0a1b5f2d8df0795e29cc42997e03d964093b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/avalon-house-galway.html": {
+    "name": "AVALON HOUSE",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "281 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343997135.webp?k=263efa4ef5c411e06b767bb04673af72af77596b41a594236633ae99e0d5e08b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-eyre-square-townhouse.html": {
+    "name": "The Eyre Square Townhouse",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "1,598 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305969036.webp?k=16cd9f37fcdc56080dd36eb3b951d1370f3a5db412bf9b733c323476bf85b3a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-huntsman-inn.html": {
+    "name": "The Huntsman Inn",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "1,172 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14995083.webp?k=a7537847df1680860e85a8cfc659b0d4e8db2025148a3cecf0ea7a0aa195f1ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/eyresquarehotel.html": {
+    "name": "Eyre Square Hotel",
+    "location": "Galway",
+    "score": "7.2",
+    "review_count": "2,507 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316915939.webp?k=b0c35c3a37a18b71c12553eae6fc4c56ef44d2a08adbcd1ef2ae733ddde19a74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/nox-galway.html": {
+    "name": "Nox Hotel Galway",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "3,420 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82709722.webp?k=26602094b4d980a24e86445c66758b3041be371f4665a4fdddf22b0492b5dadf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/salthill.html": {
+    "name": "Salthill Hotel",
+    "location": "Salthill, Galway",
+    "score": "8.0",
+    "review_count": "3,022 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311556112.webp?k=15e8b7b60136092aca13ff340fc3bb9d6e086c8260b05167862130cd6a2fa34e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/menlo-park-apartments.html": {
+    "name": "Menlo Park Apartments",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "272 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95098164.webp?k=a76bb8469fdc999c48eb64226b50e9db9e8ac4a5cde601ad227ffacbb6047547&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/corrib-view-farmhouse.html": {
+    "name": "Corrib View Farmhouse",
+    "location": "Galway",
+    "score": "9.3",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207785987.webp?k=e5ecffc90b4b4f9f53b75062ae7112bf026f4b52609a02706bc33a37d3da1272&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clos-na-feirme.html": {
+    "name": "Clós Na Feirme",
+    "location": "Galway",
+    "score": "8.5",
+    "review_count": "250 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376660618.webp?k=961c86e8480d27daa62017fe2caa8c615d27c89563a329374172174df511145e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/st-judes-lodge.html": {
+    "name": "St. Judes Lodge B&B",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "1,453 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/123349176.webp?k=5154212660e3b7b5f1d3b5b8440d713312fb12f641eed39406950647fcc7dbcd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-6-bedroom-spiddal-villa-jacuzzi-balcony.html": {
+    "name": "Luxury 6 Bedroom Spiddal Villa, Jacuzzi, Balcony",
+    "location": "Galway",
+    "score": "10",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432084090.webp?k=1e14e6d99594046e8e5fcffb2ef45cace1c71c3a81e5aa66ecefef50c7fb69c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clybaun.html": {
+    "name": "Clybaun Hotel",
+    "location": "Salthill, Galway",
+    "score": "7.8",
+    "review_count": "2,200 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318247031.webp?k=18f68fa94a99ea0beab4bced10cfe3077b42fe1ae5c6607f906596530736823b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glenlo-abbey.html": {
+    "name": "Glenlo Abbey Hotel",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "583 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270348198.webp?k=389f50f8284fc8da74c70e01bfadf5d6d9cb1a0715c07329337af31e0fbb1d7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-herons-rest-boutique-b-amp-b.html": {
+    "name": "The Herons Rest Boutique Accommodation",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411733102.webp?k=f06f5bf5509c0d2b8e66a23c9221fa9d56673faf403fb8cd5aec09eb6bfe06b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sea-breeze-lodge-b-b.html": {
+    "name": "Sea Breeze Lodge B&B Galway",
+    "location": "Salthill, Galway",
+    "score": "9.5",
+    "review_count": "315 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15642090.webp?k=3b03eb568e9ae58a7e58fcc46d420e4d6dcfbfc35b130f2bb424b5c7e6fc0c55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-duplex-at-gort-na-coiribe-by-shortstays.html": {
+    "name": "The Duplex at Gort Na Coiribe, by Shortstays",
+    "location": "Galway",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364614891.webp?k=466272d075360e5fe7d7272c7575ada438512d1628ef6ef3f291cfc3f9f1c6e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lovely-2-bed-apartment-with-parking.html": {
+    "name": "Lovely 2 Bed Apartment with Parking",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423178941.webp?k=7fdd80fca9a495e6d320f2f721d54dc4caf5f7d9a31feeac5034bc53e3c65d98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/imperial-galway.html": {
+    "name": "Imperial Hotel Galway",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "4,242 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/102687233.webp?k=02e72d4aa0053ffbdffc1c9df69cf68c9f9a4386e081d24e8a80c0c5aa4a9f97&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/goldcrest-village.html": {
+    "name": "Goldcrest Village Deluxe University Campus Apartments",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "173 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/254394073.webp?k=e1d379b694c2bfb2b35d98f6816a98510dae3d7c6a18215e6454be2dadf0e4d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spanish-arch-galway.html": {
+    "name": "Spanish Arch",
+    "location": "Galway",
+    "score": "7.0",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170529488.webp?k=2a06a8255fb9d5eb2f16bb13c066cb8033474c19b8c9625cd06259914bda1d9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gardenfield-house-bed-amp-breakfast.html": {
+    "name": "Gardenfield House Bed & Breakfast H91vh02",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "162 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65634507.webp?k=3347041fe345bfd8eccd18e6ed0313a3bf82e5e37209420ab787617d55389cc0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/westernhotelgalway.html": {
+    "name": "The Western Hotel",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "2,729 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425515292.webp?k=0eeeefe71bbc6e4c8265451547052d92fe9db814ca90a63e954e3fa71f584a6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cloonboo-lodge-on-n84.html": {
+    "name": "Cloonboo Lodge on N84",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/152600892.webp?k=cce7f35c215fbd3d5d68d9a62b43ee941a5e20e17be148b5568e83af07f2e394&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-3-bed-apartment-with-lough-atalia-views.html": {
+    "name": "Stylish 3 Bed Apartment with Lough Atalia Views",
+    "location": "Galway",
+    "score": "7.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311431658.webp?k=9b4f163cb4e39906a5303bc8685f19f8aa702d8067d7574adf13f166d2ab6d10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-apartment-near-rusheen-bay-amp-barna-woods.html": {
+    "name": "Coill Mhara Apartment",
+    "location": "Galway",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376699974.webp?k=83572415bab405cde61875526ba85b910ff92413fb20fe7ab294c201e31799be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/connemara-farmhouse.html": {
+    "name": "Connemara Farmhouse",
+    "location": "Galway",
+    "score": "9.4",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335644119.webp?k=e67044493d6b6ac46dbe44dc4dd31bf120ab8d236b9095d33d5bde1374ab60e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/menlopark.html": {
+    "name": "Menlo Park Hotel",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "3,830 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266595542.webp?k=8ce173d0d56c7b555048e9b6183594f7081de4d3632a1e752b146efedd031066&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gort-na-coiribe-4-bedroom-duplex-by-shortstays.html": {
+    "name": "Gort Na Coiribe 4 Bedroom Duplex, by Shortstays",
+    "location": "Galway",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366023657.webp?k=87fd75f6e19a360f6fbe7e17ec97493e4ca51b3233179df3dc5a6ed5fb5bb7ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/radisson-sas-spa-galway.html": {
+    "name": "The Galmont Hotel & Spa",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "3,207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269167470.webp?k=0de72ee6687b227f9af61811f0422ca078c4b87ab126002914e1c4367cad4a77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/swuite-bohermore-galway.html": {
+    "name": "SWUITE GALWAY",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "1,206 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227910742.webp?k=d7806834a08703c402be18779c16b43f2888fde6fc1649fb89ead5b38a636169&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bookingstravelodge.html": {
+    "name": "Travelodge Galway",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194481320.webp?k=10263a7289911f32ad2be9eafec6ab03a5d05cf3cd7025a3d876450348a8ef7f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/corrib-village-apartments.html": {
+    "name": "Corrib Village University Campus Apartments",
+    "location": "Galway",
+    "score": "7.5",
+    "review_count": "283 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293902189.webp?k=8bf6800da029aeaa2a531e0fd9fa151d1e080c568e8bee7185a2836c3ae98d75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/holiday.html": {
+    "name": "Holiday Hotel",
+    "location": "Salthill, Galway",
+    "score": "7.3",
+    "review_count": "1,201 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260931930.webp?k=ef9f6565b8874528c609ee35aa3080a8b1f10e59c9b49e291aa93a7f6090632d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/petra-house.html": {
+    "name": "Petra House B&B",
+    "location": "Galway",
+    "score": "9.5",
+    "review_count": "512 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289727893.webp?k=aa9d40d7ea27ba44dddd7a15b9c267c349621bbdc027c04bc48c46a41901e8f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/snug-townhouse.html": {
+    "name": "The Snug Townhouse",
+    "location": "Galway",
+    "score": "8.5",
+    "review_count": "1,188 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349330596.webp?k=1044da01d7db37f6663bd2878fab206693517398f68a0031200c4606ae289fbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-lane.html": {
+    "name": "The Lane - Boutique Residence",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "1,686 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283119652.webp?k=7a08ef8fe901133b556741810990d3aeebaffc317bdbfda4319241dfe9ad8528&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-western-citypoint-apartments.html": {
+    "name": "The Western Citypoint Apartments",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "1,090 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281565179.webp?k=80295290e2c4950e675d8cd2bcf71b811d73a69fedf1e134c5795310ad5cf7e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/skeffington-arms.html": {
+    "name": "Skeffington Arms Hotel",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "2,006 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267375271.webp?k=fab4cb62999a82b595f6d8ac8898a4654a98631b4ac49b42742555721f2b47fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-nest-boutique-hostel.html": {
+    "name": "The Nest Boutique Hostel",
+    "location": "Salthill, Galway",
+    "score": "8.9",
+    "review_count": "1,938 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75957739.webp?k=b6f5caf18c4b6a0667a59ffe1e65f2eecb4504a060981ccca8da4d08865e2dab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stylish-spacious-sea-view-house.html": {
+    "name": "Stylish, Spacious Sea View House",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287827648.webp?k=c4d24268c3d56d18c632e1755c1d8c326004ccb9cf7dd14c45777772cc4233f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/seashorelodge.html": {
+    "name": "Seashore Lodge Guesthouse",
+    "location": "Salthill, Galway",
+    "score": "8.4",
+    "review_count": "301 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5832161.webp?k=59cbbff306b00e250516248a0f2d48a9def1bac3230844efd6812ea3e7fb2423&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/modern-city-centre-house.html": {
+    "name": "Modern City Centre House",
+    "location": "Galway",
+    "score": "8.5",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365064484.webp?k=08d9f5f79739b317d2e9d2c5d442c6acc505efa42bed46f0cb4a789af4de8ed0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/recently-renovated-house-in-heart-of-galway-city-galway.html": {
+    "name": "Recently Renovated House in Heart of Galway City",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371576564.webp?k=42b1aa12f885793f9bf32301005c7b825527d39f71213688fe7160f374ec3556&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cappa-veagh-b-amp-b.html": {
+    "name": "Cappa Veagh B&B",
+    "location": "Salthill, Galway",
+    "score": "9.7",
+    "review_count": "116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13935067.webp?k=f7202b6e0bab77f2ea16377b89dd7bed1edb854b409d8f980c58fc10c925d9d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/garveys-inn.html": {
+    "name": "Thirteen On The Green - Eyre Square",
+    "location": "Galway",
+    "score": "7.8",
+    "review_count": "1,242 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264165375.webp?k=c8fdfcd53972c4517bdcdc211e78aa8eb6d626a14eaab1ed8f1753a81e58b238&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spacious-contemporary-chalet-type-apartment-galway.html": {
+    "name": "Spacious Contemporary Chalet type Apartment.",
+    "location": "Galway",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393526702.webp?k=28d84c1a93eb6645c8bcabece0f955de303400a76abb1353ee0402a327372d83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-sliding-rock.html": {
+    "name": "The Sliding Rock Inn",
+    "location": "Galway",
+    "score": "8.0",
+    "review_count": "1,201 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425107536.webp?k=c97df2ce0f8d0b68aeeb304ba9e77d70ef1302794c98a540973a7ed8f21d7334&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bay-view-guesthouse.html": {
+    "name": "Bay View Guesthouse",
+    "location": "Galway",
+    "score": "7.7",
+    "review_count": "314 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339781777.webp?k=6c1235919ca6174ce7495847e0fee35c9030a03e1888c77702ec074bf2a31a39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ash-grove-house.html": {
+    "name": "Ash Grove House",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "997 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8784626.webp?k=fe633f4dd16f86009bf42c33eca74914f8457247e0d7ced6434614cb41c686f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/just-renovated-galway-city-apartment.html": {
+    "name": "Just Renovated Galway City Apartment",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371585121.webp?k=540935cc7bf236e43a92101df8f7d44482b0cc1f6469c14481b26ee151808fb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-light-house.html": {
+    "name": "The Light House",
+    "location": "Galway",
+    "score": "7.7",
+    "review_count": "555 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135789284.webp?k=01a0fdef7443389b6c1fe6dd902e9fb6e35947d10e2489cf347df5647befb176&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/salmon-cottage.html": {
+    "name": "Salmon Cottage",
+    "location": "Galway",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245122303.webp?k=7360b7e8ca57e7636cf1ca3410d0ac0f3f7c48676920c7b6fc77721fc50a3b18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/forstercourt.html": {
+    "name": "HYDE Hotel",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "1,571 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353275898.webp?k=48fcc10487a0b04efd244e2ad07ffa7f9fe0e156af9871dd73a26b9826515e80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/almara-house.html": {
+    "name": "Almara House",
+    "location": "Galway",
+    "score": "9.2",
+    "review_count": "549 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143955956.webp?k=aa068687a71c32c7b7e0c392456483c5b2e28d5b4398de6fc1dc57e5561ec49b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-stop-b-and-b.html": {
+    "name": "The Stop",
+    "location": "Salthill, Galway",
+    "score": "9.3",
+    "review_count": "495 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298469216.webp?k=e1c4da5db324bb4b66b87a58bf192b70d3509d46abb38183c5f32834582cb943&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterside-cottage-cashel.html": {
+    "name": "Waterside Cottage, Cashel",
+    "location": "Galway",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354420653.webp?k=66a889e0ae61c934196b744c12d78dfa8b2c555ffa8ea5b61bb0c80ddbaa6f5b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/exquisite-galway-city-luxury-home-sleeps-10.html": {
+    "name": "Exquisite Galway City Luxury home – Sleeps 10",
+    "location": "Galway",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393658245.webp?k=832311aa694462b4dc4ded2c1ab723e865aedf8f4b858218eb41ca9db3f663e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sleepzone-galway-city.html": {
+    "name": "Sleepzone Hostel Galway City",
+    "location": "Galway",
+    "score": "7.9",
+    "review_count": "896 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308452424.webp?k=419ef26123d4f5154b40f14d93e6437bf9357a87b4d06e0ef29c603c1d0034d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/aaron-house-b-b.html": {
+    "name": "Aaron Guesthouse",
+    "location": "Galway",
+    "score": "7.7",
+    "review_count": "673 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/126853962.webp?k=e8ed3ee951b060b25cf74f07d641468f9d8c6d771217813fcb24e95f076d7826&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/private-room-with-private-entrance.html": {
+    "name": "Private Room with Private Entrance.",
+    "location": "Galway",
+    "score": "9.6",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319627427.webp?k=573331171724f7d3d2b2560df0fba612648bf496f295a05a5aaec835358a310f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/desota-house-bed-and-breakfast.html": {
+    "name": "Desota House Bed and Breakfast",
+    "location": "Galway",
+    "score": "8.6",
+    "review_count": "892 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/2013778.webp?k=40c2c0edb24cc9a56de11f30415b0a9abff07d45610a56be68d08d6373abb330&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-arch-city-centre-house.html": {
+    "name": "The Arch City Centre House",
+    "location": "Galway",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265008662.webp?k=7c26a2a80f6a70e02d2942bb38b728d8f0b37093385460d6f72874fa7f4e3a9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-dean-galway.html": {
+    "name": "The Dean Galway",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "1,119 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383814449.webp?k=50e839213fb4cde47bfc5c0755948e2f3647cf0ffe3c29bfe499d3ffa0f16614&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/balcony-house-b-b.html": {
+    "name": "Balcony House",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "710 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110608879.webp?k=68eec612256ecbcec16b95d128f0348fdca36cde610c2beaa360a0bac08fdd81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/14-whitestrand-road.html": {
+    "name": "Lisheen Lodge",
+    "location": "Salthill, Galway",
+    "score": "9.3",
+    "review_count": "69 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255065524.webp?k=2639a4e2ef788196581ab2eab6e352010b32ae59be77a086a0b8ae182679bcae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/four-seasons-b-amp-b.html": {
+    "name": "Four Seasons B&B",
+    "location": "Galway",
+    "score": "7.1",
+    "review_count": "468 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239492355.webp?k=95cb5d5f80c893e934a8a3ba61c7a791e4499172d6112eb61e6d3b66ef58a03a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/red-robins-nest.html": {
+    "name": "Red Robins Nest",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227278969.webp?k=166592d2b2f4b1a675bca1d2c7bbbf4303664823ea4344fa98c0015c7ec988d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/newcastle-townhouse.html": {
+    "name": "Newcastle Townhouse",
+    "location": "Galway",
+    "score": "7.6",
+    "review_count": "107 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291889596.webp?k=27f11afc9cc390987228d36fd9621815e3a94c9860563ac075e1e4bcfb715ddb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/corribside.html": {
+    "name": "Corribside",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354053936.webp?k=27fdef711578f0f1c7123a87a0cd1040998b7dec6f82523e9328cf5625aa8b73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-bed-townhouse-with-parking.html": {
+    "name": "4 Bed Townhouse With Parking",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423708496.webp?k=99bac9cc66327d83f6b3a27c6a070715d9a88f44b748054265d0048c13a08fd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harbourgalway.html": {
+    "name": "Harbour Hotel",
+    "location": "Galway",
+    "score": "8.5",
+    "review_count": "1,649 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310663234.webp?k=02dff99d4e544158d6f0a9bf6467451ba6c80227ebcd5a6665be82ad23804435&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kilbree-house.html": {
+    "name": "Kilbree House B&B",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "831 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301708147.webp?k=db5b9d2fdfbca7cc0e491470c4b72d681495eeee258b229ad6198b93d1699853&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-arms-inn.html": {
+    "name": "Galway Arms Inn",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "640 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10400164.webp?k=6057f2196cb4c91b79e339aba2cdf0dd4ff1c0b612b417919f6dd5a6c4c82663&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dunguaire-cottages.html": {
+    "name": "Dunguaire Cottages",
+    "location": "Galway",
+    "score": "9.4",
+    "review_count": "133 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139979042.webp?k=561bd73241c0de103b1ffbdd883dfd597d3c781996b12e86024cd24bb81eab5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tranquil-modern-apt-by-the-sea-wild-atlantic-way.html": {
+    "name": "Fuchsia Apartment Tranquil Modern Seaside Apartment on the Wild Atlantic Way",
+    "location": "Galway",
+    "score": "9.6",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277587570.webp?k=194c449e1059c144ba1f5f05f74edf2a021ee9284f6ce49c1d8c439dcb3d98c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kinlay-house-eyre-square.html": {
+    "name": "Kinlay House Eyre Square Hostel",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "1,860 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/198795412.webp?k=14a32aedb7daea43304f9abbdae574cff9c488466e1a4358eb8e30fbedfa12e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/st-bridget-39-s-serviced-apartments.html": {
+    "name": "St Bridget's Serviced Apartments",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "678 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281562986.webp?k=a876c4c6d0c265ee418a372de89ef4811b564274976c40421ceb35edf21f1f0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-bay-sea-view-apartments.html": {
+    "name": "Galway Bay Sea View Apartments",
+    "location": "Salthill, Galway",
+    "score": "8.3",
+    "review_count": "1,373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341062022.webp?k=df8faf82d6d3c15977e167daa571c701a60282bc07df5871832899919f54674a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/frank-39-s.html": {
+    "name": "Frank's",
+    "location": "Galway",
+    "score": "7.4",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210332247.webp?k=cc8aaabc886345de3f67d3305e3c7b66acef4b12ed4aea5b3da8d69cde754324&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/corrib-view.html": {
+    "name": "Corrib View Guesthouse h91rr72",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "406 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5360161.webp?k=d63cad65c3205522747349d842c063ce262438d19d86747fff040e096dec9318&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/asgard-guest-house.html": {
+    "name": "Asgard Guest House",
+    "location": "Galway",
+    "score": "7.8",
+    "review_count": "142 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/129915086.webp?k=777475a6e49807419da92e76e8dfbe7af35c6da72a8a993eb277943ddee91625&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/seacrest-galway.html": {
+    "name": "Seacrest",
+    "location": "Galway",
+    "score": "9.5",
+    "review_count": "217 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345206963.webp?k=0b782806229e81ff19d2fa638c656f18c00278a423334ce5c969557d71452630&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sli-na-mara.html": {
+    "name": "Sli Na Mara",
+    "location": "Salthill, Galway",
+    "score": "9.4",
+    "review_count": "326 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35962341.webp?k=f1886cd24958c8101497d82603670372b848727ad3528e2655bd075d512f65f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-townhouse-at-gort-na-coiribe-by-shortstays.html": {
+    "name": "The Townhouse at Gort Na Coiribe By Shortstays",
+    "location": "Galway",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366017446.webp?k=6d934d5eff3a88293ead2122a83b77bba58f784c154b7090e6ed0c25a035054f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/number-7-cross-street.html": {
+    "name": "7 Boutique Hotel",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "695 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109645044.webp?k=6db61df1e59974f77f70c8274a7278c9db3ecbfb81d4d7c1e6765136473a62bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/one-bedroom-apartment-sleeps-four-for-galway-races.html": {
+    "name": "Yenooc House",
+    "location": "Galway",
+    "score": "7.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373603273.webp?k=f5ea057c2e11956b4385c6543e6209af576316d64f638f56ab38a9407ee91476&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ivy-house-galway.html": {
+    "name": "Ivy House",
+    "location": "Galway",
+    "score": "9.3",
+    "review_count": "177 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147997066.webp?k=b3f30fadb665c5c86ffb67fc204fe5e7f7cb90a844135f4254eef6507a57c351&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/claremounthouse.html": {
+    "name": "Claremount House B&B",
+    "location": "Galway",
+    "score": "9.4",
+    "review_count": "124 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4135422.webp?k=41da20af13826ba4b775ddc372e8ae27bb675493476e37e7acdf87cebe755d13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxurious-seaside-apartment.html": {
+    "name": "Luxurious Seaside Apartment",
+    "location": "Salthill, Galway",
+    "score": "7.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289585423.webp?k=ea9c26a0792bb0a07aa401797ac3e9d9a222bc1e8b0dface743815218c6f4ba3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ardilaun.html": {
+    "name": "The Ardilaun Hotel",
+    "location": "Salthill, Galway",
+    "score": "8.2",
+    "review_count": "1,364 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/57556181.webp?k=e9d9c8af78f99774946d824e952303a9b8ebe96a0e595eca14b618b4b39d9511&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tigh-noor-escape-to-kinvara-by-the-sea.html": {
+    "name": "Tigh Noor - Escape to Kinvara by the sea!",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316105723.webp?k=dfcc35667a991964b68a6590ec3e2a7be00c0931b40bdc977795724d29278325&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/corrib-house-guest-accommodation.html": {
+    "name": "Corrib House Guest Accommodation",
+    "location": "Galway",
+    "score": "9.5",
+    "review_count": "172 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/76894584.webp?k=0895c6ace86c4ff1fd502bd2bc833327f6896674908eea5059999a2db7fc1cda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/greatsoutherngalway.html": {
+    "name": "The Hardiman (formerly Hotel Meyrick)",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "1,610 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244615804.webp?k=1f89b6d668c843681eac397a728e64aafe2299f1993aef32aa8255b94f0e4b8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-city-centre-apartment-augustine-street.html": {
+    "name": "Galway City Centre Apartment, Augustine Street",
+    "location": "Galway",
+    "score": "7.0",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157644299.webp?k=ea8e9107cc6b45da95a6455bf602058d1f6e47f55e242e854661affb117f00f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/13-eyre-square-lane.html": {
+    "name": "13 Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.9",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374756145.webp?k=8a646db6b7b74e52ecfd04932eb5cffe941b0c1bcee1899ccd009281776b000b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/19-eyre-square-lane.html": {
+    "name": "19 Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374766124.webp?k=660dd6059496e1c8e9c0f7f7daff219a60acf148afeba9af2de5c41f301e7390&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/st-patricks-appt.html": {
+    "name": "St Patricks Appt",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356841627.webp?k=34f1ad625090db0b58875d73561e1db1ce9d504c3b56fe6cee6cce3f6549ac4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shortletgalway-city-center-apartments.html": {
+    "name": "City Centre Snug Apartments",
+    "location": "Galway",
+    "score": "6.3",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298703813.webp?k=0a547575a13141af6c531c5ec2ce777aebe72b1cf2d4223dde36003264b5f9df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/7-eyre-square-lane.html": {
+    "name": "7 Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344753483.webp?k=aff453681fa86cd8973bea9e04daed7d42662c9182a61bb490c2b446261a18f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/red-squirrel-lodge.html": {
+    "name": "Red Squirrel Lodge",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428536684.webp?k=5a78ed87458a0bd24e00b5f6ec4a43c995996b4461a49d1ec62071eefa112d46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/burren-1-bed-detached-guesthouse.html": {
+    "name": "Burren 1 Bed Detached Guesthouse",
+    "location": "Galway",
+    "score": "9.6",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400246566.webp?k=d97725a6185f19c10ae8cda9325ff9c0633f1b2df1715652e8cde453d68eefbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lake-view-galway-city.html": {
+    "name": "Lake View Galway City",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252600498.webp?k=bdaa1396ee8d8248a45ddc4bb62aa0e4db82fb34e6dda08ca06850731ba20b03&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-forge-house-b-amp-b.html": {
+    "name": "The Forge House B&B",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "127 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264774226.webp?k=6f1b8f670d74c940e11bb39394e589d653ff1734620353e8411f0baef11498b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-g.html": {
+    "name": "The g Hotel",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "1,645 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270526456.webp?k=05bc8c78d9298a4fb89726b00db54589f45fa41080cecd4964eec27c75d5e0cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/snoozles-hostel.html": {
+    "name": "Snoozles Galway City Centre",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "1,640 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385513645.webp?k=52477b5c3f77e17d29196fca72de841671c4f61ae864a41e77108044729df9ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/venetia-house.html": {
+    "name": "Venetia House - small guesthouse",
+    "location": "Galway",
+    "score": "9.6",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189133311.webp?k=33d2b53ca9ff9e013246c7bb38bf73f604ac306385c333fdba862910fb7439b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/town-square-townhouse-best-location-in-galway-galway.html": {
+    "name": "Town Square Townhouse - Best Location in Galway",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299000151.webp?k=d197776903eaa210d3485f1f83720cea0b3564e6ee14eabbdf2e2e8290ce866c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clifden-glen-galway.html": {
+    "name": "Clifden Glen",
+    "location": "Galway",
+    "score": "9.3",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314425453.webp?k=c0daab0830cc6e4614f5830d1e257284f4a3249db9dc19b5e13c78a031663250&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-townhouse-by-shortstays.html": {
+    "name": "The Townhouse by Shortstays",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377744785.webp?k=9283bdd9678a18bf8e075c70fe4162dab273d570c1b59529700d66121abac401&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/private-room-at-galway-city-centre.html": {
+    "name": "Cosy City Centre Guest Room Shared Home",
+    "location": "Galway",
+    "score": "7.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406449709.webp?k=1aee22d4fc2abe043a878eaf7bf704df1ee6ee1d18b61395ee42ea6953f1f053&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-city-cottage.html": {
+    "name": "Galway City Cottage",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/184035534.webp?k=6fa6fa434474572047c0ad6b16a2c0b45f4dc1e8d978a1212d43a4d888a79a2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-apartment.html": {
+    "name": "Luxury Apartment",
+    "location": "Galway",
+    "score": "9.6",
+    "review_count": "185 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407856821.webp?k=ddf8ec5c4231a8a41747ad6cc4f39cde525382e9eb6dcf68303709cd09175ac3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/corribvillage.html": {
+    "name": "Corrib Village University Campus Rooms",
+    "location": "Galway",
+    "score": "7.1",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/51696904.webp?k=44595754f01f6828609d8462385eb8e8865f3de079ddf8c39a266c2045110478&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dun-aoibhinnhouse.html": {
+    "name": "Dun Aoibhinn Guest Accommodation",
+    "location": "Galway",
+    "score": "6.7",
+    "review_count": "423 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/21269308.webp?k=3e6aceadd4057e154e585d9b57d55c6408cb16ad779c86f1f3fb7df0a096fd3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ardan-mhuire-galway.html": {
+    "name": "Ardan Mhuire",
+    "location": "Galway",
+    "score": "7.7",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/381825684.webp?k=5e1a086dcaa3f66321bbaf071f269e6390d84d329f5ddb32a232548f4e9c2ff7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/5-college-crescent-galway1.html": {
+    "name": "5 college crescent",
+    "location": "Galway",
+    "score": "9.5",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186371931.webp?k=53d291965802ae8d46723144b2baa35d0219114dc0b7f9d4efbf3f5218cf08f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/woodhaven-manor.html": {
+    "name": "Woodhaven Manor h91rc9d",
+    "location": "Galway",
+    "score": "7.9",
+    "review_count": "243 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327554866.webp?k=800bbd11e0ad0b5d651708638a554e25939cbd6bcc65f71c922a711a8313c889&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-westwood.html": {
+    "name": "The Westwood Summer Accommodation",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "273 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306114304.webp?k=9eb6c3762b1b8ad6a6056720b4484a94d86769dc68eb1611cec28ea217431c5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-eyre-square-lane.html": {
+    "name": "4 Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.4",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344760513.webp?k=60a0539e8356476aecf16862b79498ccfbb67de06b355e833aaf87c021060142&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-arch-galway.html": {
+    "name": "The Arch Galway",
+    "location": "Galway",
+    "score": "7.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269689482.webp?k=5a8d5d7b37105f9e3c6fdd71cd13d785c7d689ca3f71d298ef667abe41d01833&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/high-street-townhouse-galway.html": {
+    "name": "High Street Townhouse",
+    "location": "Galway",
+    "score": "8.5",
+    "review_count": "68 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405112014.webp?k=eef26053ef91b104c0cfaf612e426c425f4f500d87b697118eb458d1787fd377&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-horizon-apartment.html": {
+    "name": "Galway Horizon Apartment",
+    "location": "Galway",
+    "score": "7.6",
+    "review_count": "78 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405088940.webp?k=6205bb04540d32a221c9f5baf576ea9ebfc7f9e971ab494751d686bd49ef5e9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterlane-b-amp-b.html": {
+    "name": "Waterlane",
+    "location": "Galway",
+    "score": "5.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298700414.webp?k=0319d8b4e6fbb3d01638a501cc377bd43f90fe2b0bd763135312d168b3e25043&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/home-with-a-view.html": {
+    "name": "Home with a View",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251562887.webp?k=d009cc6ec85f2d837e477e6357b9cc4f85d23d0e8b83253b858f0673bc6097df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/marys-seaview-clifden.html": {
+    "name": "Mary’s Seaview Clifden",
+    "location": "Galway",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430727444.webp?k=d675c14505b59181a3788f705e6104ea4cb2fc3e60a16d5f2561cce2708044e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/latin-quarter-townhouse-galway.html": {
+    "name": "Latin Quarter Townhouse",
+    "location": "Galway",
+    "score": "7.5",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405188024.webp?k=a0805a19052af10d1673ae6c69fbc144d234cf53c08c75d8203eb03a7dfaff04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/park-view-galway.html": {
+    "name": "Park View",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210960284.webp?k=0c026a10ba80836d276ab9cf797e99c2d7642092d8b8d108e8840f2c0c4e7345&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/eyre-square-lane.html": {
+    "name": "Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.6",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304174935.webp?k=14d8adc0f782c7f51f7b116e9476b64d64f9f4eefe04bc930d27d6cdf78a7953&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tara-lodge.html": {
+    "name": "Tara Lodge Galway",
+    "location": "Galway",
+    "score": "9.4",
+    "review_count": "271 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/74638544.webp?k=caa12ab45be99d7c45d01a35eb883e30fdd068502796027ba172f8ac6962197d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-house.html": {
+    "name": "The House Hotel, an Ascend Hotel Collection Member",
+    "location": "Galway",
+    "score": "8.3",
+    "review_count": "948 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228116288.webp?k=671e782b4cda28ee42c804f65dc136ed5d8a13aeac1a07fbc04d7def3959ea29&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/connemara-chalet.html": {
+    "name": "Connemara Chalet",
+    "location": "Galway",
+    "score": "8.6",
+    "review_count": "95 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342887073.webp?k=fd1e82876445ea13881e8f8a861c91c59eea053038ab0001bb48e46a48ac4739&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/connemara-vista.html": {
+    "name": "Connemara Vista",
+    "location": "Galway",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92845310.webp?k=8251938abcd4676feb7c2add0c7adadc98c50333524f48c32ef1a6551126739d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/anno-santo.html": {
+    "name": "Anno Santo Hotel",
+    "location": "Salthill, Galway",
+    "score": "7.6",
+    "review_count": "407 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147647184.webp?k=ef87c5a6a0853f3d01eeadc41d0a765dbe3fc9629e8a2518c9a79a3c55d14e6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-city-hostel.html": {
+    "name": "Galway City Hostel",
+    "location": "Galway",
+    "score": "8.8",
+    "review_count": "1,151 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291641045.webp?k=32fff0854d7ef2e6166f2967cbe16099db0c37a764305cc2e81a4be2fbdb3082&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/coach-house-cottage-on-the-shores-of-lough-corrib.html": {
+    "name": "Coach House Cottage on the shores of Lough Corrib",
+    "location": "Galway",
+    "score": "9.1",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383882226.webp?k=366596104c6c31708cce0a0e40fc64c3d44ee7077ebb66e9f8c708fe203334f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-cottage-by-the-sea-galway.html": {
+    "name": "Cosy Cottage by the Sea",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431234160.webp?k=53dbb5b15929ed104590ea2de12c8af20088e0154477cbcc40972b1a557769d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/galway-city-self-catering-salthill.html": {
+    "name": "Galway City Self Catering - Salthill",
+    "location": "Salthill, Galway",
+    "score": "8.8",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/72442979.webp?k=d368158161f9777f33fd6434cf79206fcc923534c2d2a34fd3389f90495ed5b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-rio-galway.html": {
+    "name": "The Rio",
+    "location": "Salthill, Galway",
+    "score": "8.6",
+    "review_count": "495 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149475257.webp?k=d67cfd04b46f90afd401c2f2520397c14fa410a650ce1cfc5b7345ce9301fd93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/goldcrest-village-university-campus-accommodation.html": {
+    "name": "Goldcrest Village University Campus Rooms",
+    "location": "Galway",
+    "score": "7.9",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255344964.webp?k=787c1585244cc51af029eb71f802389971e9a754f92dda4935a21406d5abf1f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ben-lettery-hostel.html": {
+    "name": "Ben Lettery Hostel",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433369360.webp?k=a58bef99e791d0ab34bce590f92e8b54501136404a3063270f107b9a45a181df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/adare-guesthouse-galway2.html": {
+    "name": "Adare Guesthouse",
+    "location": "Galway",
+    "score": "9.2",
+    "review_count": "434 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31571981.webp?k=825a922dbeed634ba0216ab567090b5b75896f9f0352c8b42a0c4427ce0d3afa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pasta-factory-guest-rooms-galway.html": {
+    "name": "Pasta Factory Guest Rooms",
+    "location": "Galway",
+    "score": "8.6",
+    "review_count": "185 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242964165.webp?k=6e08c5b0c9c201a0296ae354e16a64101cd1ef3792a5b94cbb0826299a72f6b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterdale-lodge.html": {
+    "name": "Waterdale Lodge",
+    "location": "Galway",
+    "score": "9.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384655691.webp?k=4731e404d8e05a1a6320c48e5a8bd3f5417fe3dd71909336ebd8cc7c646dff93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/westwinds.html": {
+    "name": "Westwinds Bed & Breakfast",
+    "location": "Salthill, Galway",
+    "score": "9.0",
+    "review_count": "373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65683568.webp?k=30e496ceed05de51e7a50a8c5420422a70396d7a45a9eb2df4e1caf7121f454e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/17-williamstreet-west.html": {
+    "name": "Latin Quarter Luxury Apartment",
+    "location": "Galway",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315541868.webp?k=1e83a7eeca60fa35504ef9ef160c4c1dbd58d9041d98165197b9f8cfaecd4091&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/6-eyre-square-lane.html": {
+    "name": "6 Eyre Square Lane",
+    "location": "Galway",
+    "score": "9.0",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312394383.webp?k=ac7b79bd3560ddb03c2626a91b6ec33acc8e08531f4721f43c55b735cea593a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/homerez-holiday-home-henry-st.html": {
+    "name": "One bedroom appartement with city view balcony and wifi at Galway 1 km away from the beach",
+    "location": "Galway",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228972637.webp?k=9b98d504f6512ebd86bfb3a685cd207599d68a0eaa119c4a33be7e40b8cf8afe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/renovated-galway-city-centre-house-with-parking.html": {
+    "name": "Modern City Centre House in Heart of Galway City",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176422654.webp?k=49bc051f72236e3f28963059ef0a41ac3f7ab20ca4ab7ebab8d35269c75946ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-cosy-cabin-by-the-shore.html": {
+    "name": "The Cosy Cabin by the shore",
+    "location": "Galway",
+    "score": "9.3",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300413136.webp?k=8d658d50a8881f609647df987596bdebe5e3d7455618a3b6b0399e117d7af01b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/odyssey.html": {
+    "name": "An Crann Glas",
+    "location": "Galway",
+    "score": "9.4",
+    "review_count": "79 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356834105.webp?k=3584191dc61b26f30b5f155f714e0bd46b045d5e6f74c7311965d19617a79e4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/red-door-townhouse.html": {
+    "name": "Red Door Townhouse",
+    "location": "Galway",
+    "score": "7.6",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300149698.webp?k=7f8d1edc02af97f4c25f29cf74c6f6b3a8eeb36ec98ef0ff95ae994a57909849&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/remarkable-2-bed-house-in-galway.html": {
+    "name": "Bed and Breakfast Galway City",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436969326.webp?k=332916cf9bcf27dbd529fe29ce2fb541cc5ff5555308bc1ee59b1a8e5e1da7e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/celtic-lane.html": {
+    "name": "Celtic Lane",
+    "location": "Galway",
+    "score": "9.4",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374478870.webp?k=9cf76038aa63a1034e815c8d5ca28f984a1c6bca487ad668dafcd7968933c942&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bay-view-holiday-home-galway.html": {
+    "name": "Bay View Holiday Home Galway",
+    "location": "Galway",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292078244.webp?k=a2edabddcc70ccf852a17b299aeef7fb6759b5b5f9e8ac68bd24e9ea6e1dac28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/5-eyre-square-lane.html": {
+    "name": "5 Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405456453.webp?k=70644e90c090f23963283e633cceb022f034a674856870533ed4e8b193be8548&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/spacious-contemporary-chalet-type-apartment.html": {
+    "name": "Spacious Contemporary Chalet type Apartment.",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397194042.webp?k=f3cc62beb831f6a062a996ddb9710e988980b6a14d8e5be6c478ff773735efad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/3-eyre-square-lane.html": {
+    "name": "3 Eyre Square Lane",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410808367.webp?k=ceb9887b6c7e3df4ae145dc29ce8e0d27e412ce613dbcfc35680faefc322d58f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/latin-quarter-luxury.html": {
+    "name": "Latin Quarter Luxury",
+    "location": "Galway",
+    "score": "7.4",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289576980.webp?k=42126056fa7712fcbac020db6e3bdcf16277eaf714aff5f0c53ccb578f9bfb36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/no-6-glynsk-cottage.html": {
+    "name": "No 6 Glynsk Cottage",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245165599.webp?k=051e0c6fc03c89f02708287516a538498008c563e2ced29e853c9ba4b6b4b1f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cottage-aigean.html": {
+    "name": "Cottage Aigéan",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397107378.webp?k=0bf511a81c5b1f1f5c8efad991f6f632863a7701c93485420d3c0a132b58ee30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterlane-apartments.html": {
+    "name": "Waterlane Apartments",
+    "location": "Galway",
+    "score": "7.4",
+    "review_count": "106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140300005.webp?k=b55598d08037592300148e6807ca3c2185bb69b9f6bd1d10dd304dc106c5fd10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dunaras-holiday-village.html": {
+    "name": "Dunaras Holiday Village",
+    "location": "Galway",
+    "score": "7.8",
+    "review_count": "182 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8503022.webp?k=36ffafa5f172c4328d1e84911c132a2de88a8a835d7549680a9f04c6e3d66081&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-for-couples.html": {
+    "name": "Luxury for Couples",
+    "location": "Galway",
+    "score": "5.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251528632.webp?k=b62370adb2d8b7a408741da5d1fed2cc0b761de0084861e3597497f4bf747ff3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/garden-chalet.html": {
+    "name": "Garden Chalet Oranmore",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318574832.webp?k=2c5c9b3cabd170686dcda21c77467d210cae30e9c01def6c362500cef002cf82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/apartment-galway.html": {
+    "name": "Luxury City Center Penthouse",
+    "location": "Galway",
+    "score": "5.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/51552245.webp?k=fa6905c9f9e2e207ff86d7f8ed55f1638258ca437eb6850d0db05a21d387b585&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fairhill-cottage-galway-beautiful-rural-location.html": {
+    "name": "Fairhill cottage Galway, Beautiful rural location",
+    "location": "Galway",
+    "score": "8.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407329976.webp?k=78d5fb4968636d8bea7745214d78275ae057dc6e1d6e3d7d614c019e4089dd4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/my-home-in-the-beautiful-city-of-galway.html": {
+    "name": "My home in the beautiful city of Galway!",
+    "location": "Galway",
+    "score": "8.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366889282.webp?k=81879b5f074b245641d36bc92b9cf0ab545494841c3d73d7b643f84668d9d991&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/homerez-holiday-home-henry-st-galway.html": {
+    "name": "One bedroom appartement with city view and wifi at Galway 1 km away from the beach",
+    "location": "Galway",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277720594.webp?k=38298f070dfea0699524532cc814d01a50662f26d57368da3001987f281d3009&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/coral-beach.html": {
+    "name": "Bayview",
+    "location": "Galway",
+    "score": "8.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406329743.webp?k=bf365224836b9326de5e845c3ac46a4bdee1fc7b4b038309765bb8be3b6ed433&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/caherglassaun-kinvara.html": {
+    "name": "Burren view Self Catering Accommodation",
+    "location": "Galway",
+    "score": "7.9",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/171550099.webp?k=44038d7606850f1bd75a605eb6c981132222ba088041fe94e25658c6a6f0fd81&o=&s=1"
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "https://www.booking.com/hotel/ca/super-8-surrey.html": {
+    "name": "Comfort Inn & Suites Surrey",
+    "location": "Surrey",
+    "score": "8.1",
+    "review_count": "476 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412721806.webp?k=34a16cca3b4ba5576681218db4c20f9d76a36af425c093cf4acedd08e2d0aecd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/royal-mansion-surrey.html": {
+    "name": "Empress Palace",
+    "location": "Surrey",
+    "score": "8.2",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415564650.webp?k=91de95a9a325b882cdabad6c1358a7ca9f50df63e3cfb4d99af7f7fa8d28651c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/civic-autograph-collection.html": {
+    "name": "Civic Hotel, Autograph Collection",
+    "location": "Surrey",
+    "score": "8.4",
+    "review_count": "642 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433372891.webp?k=72d8293baa3920141836c13f1c27120e8b2ebe6235d019d165490b4484890ea8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/sheraton-vancouver-guildford.html": {
+    "name": "Sheraton Vancouver Guildford Hotel",
+    "location": "Surrey",
+    "score": "8.1",
+    "review_count": "449 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252931826.webp?k=5f1da450c2dfce552ec8eba860028a557e1bd3e85e914f2d35d2d30b67104c11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/lee-39-s-place.html": {
+    "name": "Lee's Place",
+    "location": "Surrey",
+    "score": "7.8",
+    "review_count": "170 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269480940.webp?k=d14b710de59a64d48ad6bfb8b73e9a1952288c7aee46982998c4fc5ad50118f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/holiday-inn-surrey.html": {
+    "name": "Holiday Inn Hotel & Suites Surrey East - Cloverdale, an IHG Hotel",
+    "location": "Surrey",
+    "score": "7.8",
+    "review_count": "306 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378367214.webp?k=bfe1094d0a7a5033b33d77345d498be5aaafd9cc9b4d58d56b029698eb5a6a26&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/sandman-suites-surrey-guildford.html": {
+    "name": "Sandman Suites Surrey - Guildford",
+    "location": "Surrey",
+    "score": "7.6",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383037790.webp?k=0dc572e223950672db6854b290b04ca4b9c8792b7aebc026c088add32bb3c22a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/madani.html": {
+    "name": "Empress Stays",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432063596.webp?k=ce455d38994b67c174ed9518423a7783f3d7e0dab6ee5132f3de054aae9901eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/kim-39-s-place.html": {
+    "name": "Kim's Place",
+    "location": "Surrey",
+    "score": "7.9",
+    "review_count": "237 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278063053.webp?k=3c956af991001e11c44f8fe86d728d04ce298b4bbdd4a1dabd10e371737ff32b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/ramada-and-suites-surrey-guildford.html": {
+    "name": "Four Points by Sheraton Surrey",
+    "location": "Surrey",
+    "score": "7.4",
+    "review_count": "130 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252869808.webp?k=42aa0f8289a0ea4ae3d2b46d6c47c0853fc402f4e6297aec8e2998798033457c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/one-bedroom-suite-for-five.html": {
+    "name": "Bear Creek Suite",
+    "location": "Surrey",
+    "score": "7.6",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/193905461.webp?k=4a162c7d245b3d62dc4c485906f422338131c25b887d93ce37384cedf9a0b0d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/li-39-s-place.html": {
+    "name": "Aaron's Sweet Home",
+    "location": "Surrey",
+    "score": "8.2",
+    "review_count": "247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209370189.webp?k=23882242037ee28f0ca159c790436323e62fe2c28085e58125496b3cb2aea006&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/grouse-creek-motel.html": {
+    "name": "George Point Inn",
+    "location": "Surrey",
+    "score": "8.3",
+    "review_count": "455 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366311440.webp?k=3e8b7dfadcf3f2fe11e1b4fbd6ad0e65488bd77a3bda5281e9a64d2a59c99131&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/new-spacious-guesthouse-suite.html": {
+    "name": "*New* spacious guesthouse suite",
+    "location": "Surrey",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422982931.webp?k=0aa8c65d9a222e5e7d1ee7e68220938a75939125c9c4ab8a8fe1612419cd67fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-1-bedroom-unit-in-surrey.html": {
+    "name": "Manor landscape home in Surrey",
+    "location": "Surrey",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433487625.webp?k=155f2e17b8859d36f84b1dbc725fad703f2e029da675a9a3c7daeb7c1caadb42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/brand-new-modern-amp-stylish-2-bedrooms-suite.html": {
+    "name": "Modern & Luxurious Suites in Surrey",
+    "location": "Surrey",
+    "score": "8.4",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283983368.webp?k=171717c4be7b2e4f5ec3bdf6c4892a383cb3d2362f1e47174d720f2ba9f82a5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-3-bedroom-home-in-south-surrey.html": {
+    "name": "Cozy 3-bedroom home in South Surrey",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426418973.webp?k=23fb49bd0d6008286e5aab55a757dd375c55b915528dabae9e2e1caa398f5f76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/lovely-3-bed-condo-with-balcony-indoor-parking.html": {
+    "name": "SURREY - 3 BED CONDO WITH BALCONY VIEW - Indoor Parking",
+    "location": "Surrey",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409316777.webp?k=dbc57e9f823799ff8d4490643da1c2afda0bd708673258e5711f4224ce12dcfd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/modern-getaway-3-bedroom-house-surrey1.html": {
+    "name": "Modern Getaway - 3 Bedroom House",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420418230.webp?k=e08ba618b9b86216dc39633aea43c483fa19d8a3611c25057eb706297450d02b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/holiday-inn-express-surrey.html": {
+    "name": "Holiday Inn Express and Suites Surrey, an IHG Hotel",
+    "location": "Surrey",
+    "score": "8.8",
+    "review_count": "245 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/230576192.webp?k=07c0aa304137a2d4718812a1801b152360ba2f08056b4d6974e4f94bbba493df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/brand-new-ground-level-close-to-beach-us-boarder.html": {
+    "name": "Brand New Ground Level, Close to Beach, US Boarder",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406272636.webp?k=cf9ccc9e1b54783279a8b0b5dfd5820aa8fa904a59cf9d57a236ea37b9410543&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/brand-new-cheerful-3-bedroom-3-bathroom-townhouse.html": {
+    "name": "Brand new Cheerful 3 Bedroom 3 Bathroom TownHouse",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397271548.webp?k=65fd509c2f5dcd4ef69cfeb758389fbe79485924ffeb44c7f92c150ccad24dff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/private-3bed-2bath-10-min-to-guilford-surrey.html": {
+    "name": "Private 3bed-2bath, 10 min to Guilford/Surrey",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411129180.webp?k=9388b4a0fa4c0c9587e631eef2fe9d1cdb2690e730b79d5976b3facedd64e72c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/ramada-langley-surrey.html": {
+    "name": "Ramada by Wyndham Surrey/Langley",
+    "location": "Surrey",
+    "score": "7.3",
+    "review_count": "322 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349828766.webp?k=cf4e5e6fb0523611f0c04b815467e0e298c8b713b243abb56276bdc95e04123e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/happy-go-lucky-white-rock.html": {
+    "name": "Happy-Go-Lucky White Rock",
+    "location": "Surrey",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415671239.webp?k=d0d12b1f879636900bfb96812150210672bfc51694b60739a2cee527bb066e3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/best-western-peach-arch-inn.html": {
+    "name": "Best Western Peace Arch Inn",
+    "location": "Surrey",
+    "score": "7.1",
+    "review_count": "258 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256255575.webp?k=cb8df16ed871d36d8c2333c20196e5a60e0827faa16501b2a3748375e0ea6a82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/ocean-park-b-amp-b.html": {
+    "name": "Ocean Park B&B",
+    "location": "Surrey",
+    "score": "6.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413704011.webp?k=7395354cba891958d9d3542ee6fcc02b6b9f7e42a0c2eab58b1f5cf80f1fa26e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/140th-place.html": {
+    "name": "140th Place",
+    "location": "Surrey",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413160782.webp?k=98f496cd63dd4ad0f1eeba5a29e87668586c07117e309eb27df318640d1d7bfd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/private-bright-2-bedroom-south-facing-walkout-apt-white-rock.html": {
+    "name": "Private bright 2 bedroom south facing walkout apt White Rock",
+    "location": "Surrey",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408410164.webp?k=b4cc4c6fb70adda94ee4a005fdc472d672eab06a3e6c1d806314b86978459a5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/guest-suite-in-south-surrey.html": {
+    "name": "Guest suite in South Surrey",
+    "location": "Surrey",
+    "score": "9.4",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388584200.webp?k=8059862bb0eeaf453dd607cd5a92a2cbaf1de9c4c052bc2bd388f201db671858&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/dream-home-1-a-suite-kitchen-own-entrance.html": {
+    "name": "Dream home 1 A suite (kitchen, own entrance )",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423902190.webp?k=9943be943597ebdc86baa26cd9cef0976aaa45ab91970a5b72102380d8a487df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/spacious-2-bedrooms-2-queens-basement-suite.html": {
+    "name": "The Harmony Inn Spacious 2 Bdrms 2 Beds Basement Suite",
+    "location": "Surrey",
+    "score": "9.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406205463.webp?k=1ed97c41cb39f4787f5de64107dbd6a2676904f6ce2c4126e4d1f232da71d6d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/annes-bnb.html": {
+    "name": "Anne's BNB",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414163313.webp?k=4095bc18ad767131a5c405a9f5551cdf5755408046f8d611780f2739da5d206a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/home-away-from-home-surrey5.html": {
+    "name": "HOME AWAY FROM HOME",
+    "location": "Surrey",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411020873.webp?k=2a551c65be65c7c9d01ead5fa69b630d1903c76a5afaf56a38e7e05edd4b7dd1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/big-house-for-group-of-16.html": {
+    "name": "big house for group of 16",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426675498.webp?k=28bc674a70278b84a82258c83755dc636014810d164b57e6e54ded40b8845c3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/executive-2-bed-1-bath-spacious-amp-centrally-located-suite.html": {
+    "name": "Executive 2 bed 1 bath Spacious & Centrally Located suite.",
+    "location": "Surrey",
+    "score": "7.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348136280.webp?k=17e65a1c815b56c2f9ece7e961333c848f67219f4b470edfd889eb2a9cece887&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/bw-king-george-inn-suites.html": {
+    "name": "Best Western King George Inn & Suites",
+    "location": "Surrey",
+    "score": "7.8",
+    "review_count": "240 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210914347.webp?k=b9d38963fe0136d6c389c4ed2bf66032a2c51d15a3fdeb1b2c85f7b86a6edc4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/home-away-from-home-surrey2.html": {
+    "name": "Home away from home",
+    "location": "Surrey",
+    "score": "4.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391211935.webp?k=4a402325cc764ee6dd9a858992b63fc7b16dc051198a5661c65c96e307ab3b2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/inn-surrey-king-george-boulevard.html": {
+    "name": "Days Inn by Wyndham Surrey",
+    "location": "Surrey",
+    "score": "6.2",
+    "review_count": "281 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135463277.webp?k=5587fbeb19f790c1156f5d87508860492da67945ac80435874e85336194284bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/john-amp-jane-39-s-house.html": {
+    "name": "John&Jane's House",
+    "location": "Surrey",
+    "score": "8.0",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278805793.webp?k=56e665120ebc9c1f487d81c67ecd8035eea723af13c3a56bfac4b8204af84aa8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/kim-39-s-surrey.html": {
+    "name": "Sun suite",
+    "location": "Surrey",
+    "score": "7.4",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332267500.webp?k=2b4bb7de2f1e2fea962696205ab1f4aec01c6a130b367673c3e13d22ffadd792&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/dalat-view-b-amp-b-and-spa.html": {
+    "name": "Dalat B&B",
+    "location": "Surrey",
+    "score": "8.2",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404270466.webp?k=a89c29044794976992e2357ebc7da22e674aa5529c0e607c2c6de9e43a06e837&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/charming-guests-bedrooms-in-house.html": {
+    "name": "Charming Guests Bedrooms in House",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421412878.webp?k=5f8786124ffc2cdd13abdf73c73753c141c1abada9a967a23b12b4e06e412122&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/stylish-amp-cheerful-bedroom.html": {
+    "name": "Stylish & Cheerful Bedroom",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418097867.webp?k=612c4abf40cdbb59d07ba1f4b5c0f6b0c7c8ecf4d562e43cdde2e5ce869f43f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/jane-39-s-cozy-suite.html": {
+    "name": "jane's cozy suite",
+    "location": "Surrey",
+    "score": "8.3",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403301764.webp?k=0c790d0b24c1bb26e33cbb0c88a03ef37c92b46ce99ba6589fefdf5574b88d64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/comfy-3-bedroom-2-full-bathroom-private-suite.html": {
+    "name": "Modern yet comfy 3 bed suite in Surrey",
+    "location": "Surrey",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372691019.webp?k=d6298e41613afde5be2f25395a1cebaff8a7fa0282b2473257f621013abb64b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/house-basemt-2-bdrms-1-bathrm-suite-by-white-rock.html": {
+    "name": "Mae Sweet Home",
+    "location": "Surrey",
+    "score": "8.6",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334086666.webp?k=5a1c6264592eab4da96b7d0b1452cf654652afa0f6a77563ff0733ac3d595aa9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/beauty-convenience-airbnb-not-basement-no-share.html": {
+    "name": "beauty and convenience house",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423531147.webp?k=8d2aac8ad09c82220257c19a1caa85ca1fa440f23c8833d29b09cc4183afd14a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/ground-level-one-bedroom-suite.html": {
+    "name": "Ground Level One Bedroom Suite",
+    "location": "Surrey",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404473433.webp?k=bc080697755a4a7db4d467b85f00e29c23596a5e8585f9deb8ad2612e25f7d3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-amp-cheerful-bedroom.html": {
+    "name": "Cozy & Cheerful Bedroom",
+    "location": "Surrey",
+    "score": "8.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431398692.webp?k=071e90ceceddb70f25dc9c8098e299b0117a4e8699e87d7b7636adb34d1481c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/jimmy-b-amp-b.html": {
+    "name": "Jimmy B&B",
+    "location": "Surrey",
+    "score": "7.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401039328.webp?k=72b0a3baa3f697aad64700235fec4a8874f4f6e050c5d12d6cbb3c04b72517c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/mervs-luxurious-suites.html": {
+    "name": "Merv's Luxurious Suites",
+    "location": "Surrey",
+    "score": "7.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397958439.webp?k=58d47c5436ba149c6fcd19ab1c88838dc2f456c4ec78cdc913a71361a2a7ad02&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/welcome-to-newton-suite.html": {
+    "name": "Welcome to Newton suite",
+    "location": "Surrey",
+    "score": "4.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399686728.webp?k=3733d1efff28f8ced63478bdc32ebeac1e71cf90f5460a56c800247366135f1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/1br-private-room-forest-view-amp-fresh-air.html": {
+    "name": "Forest Home3 - Urban Green Harbor",
+    "location": "Surrey",
+    "score": "9.2",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425060949.webp?k=446bb19cec906a9f0814cf846a93b59ceb5cf18ec1855d760eadf53de67a309b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/good-location.html": {
+    "name": "Good location",
+    "location": "Surrey",
+    "score": "7.5",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247963274.webp?k=153ffe6d9989bb286b594f4212f0cca8ac9252bfc2b24fa757d57a64de61cb64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/luxury-private-pool-house-beach-side-resort-like.html": {
+    "name": "Pool house beachfront resort like White Rock",
+    "location": "Surrey",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306349117.webp?k=0770799b83741e6e29cc0706b4c264318d642fd0381f09777ead98413d3da05b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/deluxe-house.html": {
+    "name": "Deluxe House",
+    "location": "Surrey",
+    "score": "6.9",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375496352.webp?k=19d2112cf671eefc24156dcbabba1b1e012509bce33f63ebdac50f7d18d1685f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/luxury-vancouver-home-w-patio-views-of-downtown.html": {
+    "name": "Luxury Vancouver Home with Patio & Views of Downtown",
+    "location": "Surrey",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251774988.webp?k=544449bdd124565aeda9c6a40c670e6cb2ac360caf9ed1ef14ec069e0bc20f9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/brand-new-1-bed-1-bath-king-suite-3-min-from-beach.html": {
+    "name": "Brand new 1 bed/1 bath king suite 3 min from beach",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436939248.webp?k=402573753ae1b2711805977a0efe3be579cb28f419259d5321d3fdc6ccb6d70e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/newton-bnb.html": {
+    "name": "newton bnb",
+    "location": "Surrey",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404074048.webp?k=8554db23cdf7f0ffb4feba931dd76830f1c038865aa7eed8c35fc0e3d968d73f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/2-bd-condo-in-the-heart-of-surrey-city-centre.html": {
+    "name": "2 BD Condo in the heart of Surrey City Centre",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407618787.webp?k=346ffaf6968ac3b312d01010abda86006ecb8caaeead78f598b9a9e2eff9233f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-2bd-suite-in-surrey.html": {
+    "name": "Brand new cozy suite near White Rock",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429285954.webp?k=f1502568d628c04120be6d06edc77fd05d9081e18c5adb02324c7dd340c88979&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/brand-new-entire-guest-suite-separate-entrance.html": {
+    "name": "Brand new entire guest suite (separate entrance)",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426705832.webp?k=ee9b19e04cb6cda9df76ff890327ff69e5cb4b72c27f3f024768ab584bf118d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/canadian-inn.html": {
+    "name": "Canadian Inn",
+    "location": "Surrey",
+    "score": "5.3",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10913456.webp?k=c06402a7b003e35a77425119866826031adbc578c6d6ecc2e86e4e1d56b1be28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cheerful-1bd-or-2bd-suites-in-surrey.html": {
+    "name": "Cheerful 1BD or 2BD suites in Surrey!",
+    "location": "Surrey",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410709402.webp?k=1c4c6a5cc51dfd4a68dbe89d3e77ccec754f7a4881e004762f11afc184b614a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/surrey-chic-2-bdrm-basement-unit.html": {
+    "name": "Surrey chic 2 bdrm basement unit",
+    "location": "Surrey",
+    "score": "9.1",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218845565.webp?k=fcc62281ce52a99cab648760dbcf3c4bc8206403f95db4e3b8f52b7a4b62d6e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/linda-vista-motel.html": {
+    "name": "Linda Vista Motel",
+    "location": "Surrey",
+    "score": "5.6",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10869281.webp?k=46e3de73cf14474f2c9871ab3fc85af06f26453412f7e4cc4ca9086f01704c64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-amp-spacious-beautiful-house-in-heart-of-the-city.html": {
+    "name": "Cozy & spacious beautiful house in heart of the city",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389501802.webp?k=b3d95e3c041c21601a69c60443fd5553c8bcd5f643424e1caf390e9c271b22b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/heart-of-surrey2bed-2bathhot-tubkitchengarden.html": {
+    "name": "LUXURIOUS 2BED-2BATH - 3 min to Payal Business Centre, Surrey",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338181960.webp?k=104491f362d4158c775710c9d0f080fd366d76c083d7b905beee71d89b61fefb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/stylish-3-bed-2-bath-ground-level-suite.html": {
+    "name": "Stylish 3 Bed 2 Bath Ground Level Suite.",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417604615.webp?k=1b33ee70dfa9e67924a8dea88e91daaaf1d5641221fa718dce769f1be47abceb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/large-vacation-home-3-level-8-beds.html": {
+    "name": "Large vacation home! 3 level 8 beds",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389947232.webp?k=a44add34341ce59a1d713931a5c9da3a8ee980667b246715d5092dabe8027bab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-amp-private-2-bedroom-suite.html": {
+    "name": "Cozy & Private 2 Bedroom Suite",
+    "location": "Surrey",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409796348.webp?k=c72a177da62ff4eb544d31151481c1178285d6c9c4d4ebb7495af18052e5cc2a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/crescent-beach-deluxe-house-5-bedrooms.html": {
+    "name": "Crescent beach deluxe house",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430589354.webp?k=9052b5177e65c28d9014189c772793131dd379772045cccb2e2b28cb4bd3df34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/executive-south-surrey-1br-bright-suite-surrey.html": {
+    "name": "Executive South Surrey 1BR Bright Suite",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407282016.webp?k=da739410e4a7c0a8ee3d68036cfc0e5c7040d89d4766149cd63aa4c8ca74d083&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/newton-luxury.html": {
+    "name": "Newton luxury",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407173196.webp?k=522fd4b5c6523a7e6d8020f757ee25aed76daa76e1c62a679accfc2ceb04bd77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/stylish-guest-suite-quiet-basement-hideaway.html": {
+    "name": "Stylish Guest Suite with Spacious Kitchen and Free Parking - Sleep up to 6",
+    "location": "Surrey",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434976861.webp?k=c873cd3e74ffc7e3a334f5da090b29ba3546c0f4dff7fe29735ddf77bf1d395e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/cozy-2-bedrooms-unit-in-surrey.html": {
+    "name": "Cozy 2-bedrooms unit in Surrey",
+    "location": "Surrey",
+    "score": "5.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382061472.webp?k=a4b0ae51274530353d2c7f5adbb079207cb7522a4f6f890854ab924477148940&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/3-bed-house-guilford-fleetwood-bbq-tv-cable.html": {
+    "name": "3 BED HOUSE ☆ GUILFORD/FLEETWOOD ☆ BBQ ☆ TV CABLE",
+    "location": "Surrey",
+    "score": "4.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415690510.webp?k=2654a195a304609566e3aecaaefd619a0f721941854b464bc25be0cff4fc8c1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/a-garden-oasis-3-bed-private-home-off-hwy-1.html": {
+    "name": "A Garden Oasis - 3-Bed Private Home Off Hwy 1",
+    "location": "Surrey",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401347977.webp?k=16cbb7e6539b99150b0011c45037380f42901ce641e652fd5193bfe23f4e310b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/executive-room-with-attached-washroom.html": {
+    "name": "Executive Room with attached washroom",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420742904.webp?k=de45b370c7e6b31770933fd059216ebd350d6e1ede50faaf08f372b753d4acb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/glamorous-private-room-surrey.html": {
+    "name": "Glamorous Private Room- Surrey",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436276790.webp?k=1fc2734d50cbdb0262fc3bf85e84770d3faf43c9ef2f1e3f37d3f4a16877659d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/seperate-back-basement-suites-with-well-amenities.html": {
+    "name": "SEPERATE BACK BASEMENT SUITES WITH WELL AMENITIES",
+    "location": "Surrey",
+    "score": "7.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396339789.webp?k=949ebc86b6c511915e7a8942d3f69abf9654dfad0b39d9c00ee1cfe05452dca3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/3-bed-house-north-surrey-parking-tv-cable.html": {
+    "name": "VINTAGE - 3 BED HOUSE - NORTH SURREY - PING-PONG AND POOL TABLE - TV CABLe",
+    "location": "Surrey",
+    "score": "7.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414350336.webp?k=4e220452660eb8074665e446f81fe99754686a8cce240d27c635a3fbd2a2c846&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/luxurious-4bedroom-4bath-backyard-hot-tub-surrey.html": {
+    "name": "Private Luxurious 3bed-3bath-Surrey",
+    "location": "Surrey",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401710634.webp?k=24156c6c1771e6a64efbf969ff68e3d242ed26b0eab6199bb4c6b8c6250cbe64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/sarla-villa-surrey-3-bed-room-2-wash-rooms.html": {
+    "name": "Sarla Villa Surrey 3 Bed room 2 Wash rooms",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401082319.webp?k=baed77ef94d2e84aa03cfcae6c827ee0ec6e3290cd6d8f721d3a9a505954673e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/bolivar-heights-home-surrey.html": {
+    "name": "Bolivar Heights home",
+    "location": "Surrey",
+    "score": "3.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379626024.webp?k=122fa2a538ee44cad6ddd47198825c276f855725f9ac80db1bba2c0299cadff8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/bolivar-heights-home.html": {
+    "name": "Bolivar Heights home",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376229939.webp?k=13acbd9b140f64ef1e7363e52f99d95fda39bfeb9477f70c9fc9930d7a59a51c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ca/sarla-villa-surrey-2-bed-room-2-washroom.html": {
+    "name": "Sarla Villa Surrey 2 Bed room 2 Washroom",
+    "location": "Surrey",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401082850.webp?k=96c63db12ea330a89fccf262f163741c3f95a4bb3b2a7d06301e83ca7f46189c&o=&s=1"
+  }
+}

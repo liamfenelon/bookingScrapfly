@@ -1,0 +1,474 @@
+{
+  "https://www.booking.com/hotel/gb/lavender-retreat.html": {
+    "name": "Lavender Retreat",
+    "location": "Wrexham",
+    "score": "9.3",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363298164.webp?k=6666deafe9deb87ec247c169fd4b44b4105b50996c82d0c6a63c6fc910ce83dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wynnstay-arms-by-marstons-inns.html": {
+    "name": "Wynnstay Arms, Wrexham by Marston's Inns",
+    "location": "Wrexham",
+    "score": "7.4",
+    "review_count": "1,799 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/126767452.webp?k=e7256619a5f6be227285b7ca5e1b58e7da8060cde3c54ceb0af1ae2d48d1b08c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lemontree.html": {
+    "name": "The Lemon Tree",
+    "location": "Wrexham",
+    "score": "8.3",
+    "review_count": "952 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301326640.webp?k=7f6285a894bff7adfbbc950ad561f0a0802243e9e942e12037eef654099918a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jubilee-house-wrexham.html": {
+    "name": "Welsh Cottage with Hot Tub - Jubilee House",
+    "location": "Wrexham",
+    "score": "9.4",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348905613.webp?k=92d790db3d6eff5822bb238faa8cfa2cedd42434305c4799f739293051920922&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holtlodgehotel.html": {
+    "name": "Holt Lodge Hotel",
+    "location": "Wrexham",
+    "score": "7.3",
+    "review_count": "865 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228924119.webp?k=dfda929951712475966794079361a8a4396785d381d5640b02cc62e45f857a10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-glyndwr-berwyn-house.html": {
+    "name": "The Glyndwr - Berwyn House",
+    "location": "Wrexham",
+    "score": "8.0",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311458611.webp?k=d0a1d3c7054cb6f2e50d3c4a0fd52e37d0ada6eabbe242411e8d0e04b3e11d5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ramadaplaza.html": {
+    "name": "Ramada Plaza Wrexham",
+    "location": "Wrexham",
+    "score": "8.1",
+    "review_count": "1,096 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181371183.webp?k=df1a4fdfed65b9d7c30716dc366b4d7a2825345901caccf44e7aebb2281cb875&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-eistedfod-penthouse-berwyn-house.html": {
+    "name": "The Eistedfod Penthouse - Berwyn House",
+    "location": "Wrexham",
+    "score": "7.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311426694.webp?k=3649d215fcabceb7e532edf9caf2cd4bb7087bfd4faa610fee73e1b016dfaeda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cooks-flat.html": {
+    "name": "Cook's Flat",
+    "location": "Wrexham",
+    "score": "9.4",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338697589.webp?k=a1d0b656dec8e8241b1365924f4daa3640ba8a122edf3de0bbb979dc1255bc94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wrexham-central-stay-apartment-six.html": {
+    "name": "Wrexham Central Stay - Apartment Six",
+    "location": "Wrexham",
+    "score": "8.3",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311364626.webp?k=0c88eac1744241e3736b315d8d01bb6cd979bbdf89239747c695ee604b092bac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-vaults-wrexham1.html": {
+    "name": "The Vaults",
+    "location": "Wrexham",
+    "score": "9.2",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301174903.webp?k=a1027800b559c1835a1a32613c4ededbf56a81aac76a6d3242c779d09cc3a010&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hay-barn-wrexham.html": {
+    "name": "The Haybarn",
+    "location": "Wrexham",
+    "score": "9.6",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165246324.webp?k=cfb3f134eb03393728ff0954a4c850cc119d752d8a3f10b33fd5b89cfd2d081e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/countryside-room-near-chester-wrexham.html": {
+    "name": "Oak Mead",
+    "location": "Wrexham",
+    "score": "9.1",
+    "review_count": "204 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238921143.webp?k=76bab38b8a89d868e1be9e74c61112dfff9e7fdbfc165b882ea519baf18b4ca5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-pentre-barn-wrexham1.html": {
+    "name": "Little Pentre Barn with seasonal Swimming Pool",
+    "location": "Wrexham",
+    "score": "9.1",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367005813.webp?k=383fb253ccd44ab228e2a4a6858598ca5f0df0751cb2d3cdff4d71f662f58323&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gin-palace.html": {
+    "name": "The Gin Palace with seasonal Swimming Pool",
+    "location": "Wrexham",
+    "score": "9.4",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368339004.webp?k=2f6c230ad5cba9c9fcb85e7953cfc8b25e03fe7eb9b633d6bd7fe172b50bd40c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/springfield-cottage-wrexham.html": {
+    "name": "Springfield Cottage",
+    "location": "Wrexham",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304950183.webp?k=a65b5ed73243a5d2b8b1674d26b05c5ddbc6bae7aec2865d1774a62551e00780&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plas-yn-yale-with-mountain-views-from-all-windows.html": {
+    "name": "Plas yn Yale with mountain views from all windows",
+    "location": "Wrexham",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/233397871.webp?k=7966968c909464bc2e486bd3851686a7e7836cbf6fb23daf64d9bd020d41b209&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wrexham-central-stay-apartment-seven-wrexham-principal-area.html": {
+    "name": "Wrexham Central Stay Apartment Seven",
+    "location": "Wrexham",
+    "score": "6.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311321013.webp?k=827b110dfdf7c296991675ba6cbdfc1b0a422dd2aa90d7a44e26d9bd8d068cab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/merlin-house-wrexham.html": {
+    "name": "Merlin House",
+    "location": "Wrexham",
+    "score": "9.1",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117687566.webp?k=076b14321d16d4c66fe0299202169fabb7969a5f3ab43ad779675ea913361c14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/smithy-cottage-wrexham.html": {
+    "name": "Smithy Cottage",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419468797.webp?k=9a6c8fdf1d8136df697e7b9924743dc0c5a658848f19935869543144e3ccaec9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluebell-wrexham.html": {
+    "name": "Bluebell",
+    "location": "Wrexham",
+    "score": "9.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372689053.webp?k=139b95af4370ff05a9543e27f018db9975707e7497872a363c64c804e6c23847&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bwthyn-bach-tiny-cottage.html": {
+    "name": "Bwthyn Bach (Tiny Cottage)",
+    "location": "Wrexham",
+    "score": "8.8",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312450607.webp?k=f28e41cbe40f57633703b13d3fda545bce9f07ec1e8830961f65aaa2cd636ff2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shepherds-hut-wrexham.html": {
+    "name": "The Shepherd's Hut with seasonal Swimming Pool",
+    "location": "Wrexham",
+    "score": "9.6",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366860879.webp?k=2e8642ff09f57b0eaf73a2777f66f6ff29336864e4691a50edcc21c3149b8f6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nant-house.html": {
+    "name": "Nant House",
+    "location": "Wrexham",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354670367.webp?k=9dfca1361747e61887b9f7c9b9ff356cae38bc4fef3c606bede20202356562a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollies-farm-b-amp-b.html": {
+    "name": "Hollies Farm B&B",
+    "location": "Wrexham",
+    "score": "9.7",
+    "review_count": "118 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224999424.webp?k=42aeb5392152bff03ab075e1d1572d10aa6107c684bcaddad65bb3722cb9a551&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-at-cross-cottage-wrexham.html": {
+    "name": "The Lodge at Cross Cottage",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389724673.webp?k=23d1946570cbbf0ea2624b652928d9814bdc3e82818710c9193a2f9203a212f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-maelor-berwyn-house.html": {
+    "name": "The Maelor - Berwyn House",
+    "location": "Wrexham",
+    "score": "8.1",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311456321.webp?k=34dbbfb398fcc73098302132b91e02156396c9885e03b7a88ee1086fadde2ce1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arcadia-camping-privet-5-acre-field-with-7m-tipi.html": {
+    "name": "Arcadia Safari Tent in private 5 acre field",
+    "location": "Wrexham",
+    "score": "9.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325136321.webp?k=e53125ba920a2a87d75d9546d8d9e67d4c47522b6bbc4b68cec94445853db43e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-brambles-wrexham.html": {
+    "name": "The Brambles",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236391494.webp?k=588fc99ae60e2dce8baf4b71e217614c1dcfa414fb83b734ed93fbdbaf5675a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deeside-farm-cottage.html": {
+    "name": "Deeside Farm Cottage",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365169459.webp?k=0d1178fdf6c9c401464df97a06f554a613ead8f8ae2646e5e629e488499e34e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trevose-wrexham.html": {
+    "name": "Trevose",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431622432.webp?k=5b70e1cf2893baa749978e52b0e77b2009fdeef0e2b6ff2cd0ebe6f6c35a8aaf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/commonwood-cottage-wrexham.html": {
+    "name": "Commonwood Cottage, Wrexham",
+    "location": "Wrexham",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344474731.webp?k=9ab17b9ade67eba97563d4fb158b5e2a0a1828f99e930488e4cdd56db3b01c9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ferny-roost-cabin.html": {
+    "name": "Ferny Roost Cabin.",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437644570.webp?k=4dd015c84790ec400f94a1b78c0b86fd27bfa767d1faf0609538be1a12ef05ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-self-contained-apartment-wrexham.html": {
+    "name": "2 Bed Self Contained Apartment Wrexham",
+    "location": "Wrexham",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369862151.webp?k=2bb8c4188496e502823df8478a019cfcfe2c4ef99ebf1e00182360107fb61f09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-bont.html": {
+    "name": "Ty Bont",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430291401.webp?k=fc7adcf366e8e3e9f0b3ade925e80fb31b843edcc24b04a1399d8f8b54ff7f9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/butlers-flat.html": {
+    "name": "Butler's Flat",
+    "location": "Wrexham",
+    "score": "8.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309697871.webp?k=b9772e30bb3fa466fe19832d0de9b6353d1ba86d66e13d0764ab844715b0dc34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/redwood-lodge-wrexham.html": {
+    "name": "Redwood Lodge",
+    "location": "Wrexham",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301460906.webp?k=ae4d1c9b4f0eef1f04ac80abf80c47c52e7f80a1461245983a471be017301774&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillcrest-wrexham.html": {
+    "name": "Hillcrest",
+    "location": "Wrexham",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341263100.webp?k=6bf770e00346ef32d1e2982c19ad30c88ab09b8e0c6d37ac050ed3391540ed2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/27-green-road.html": {
+    "name": "27 Green Road",
+    "location": "Wrexham",
+    "score": "8.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369434763.webp?k=86abecce4ebfb17b392f5793acfaaa06ebe4382ff6954ab58f98cf223462323b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/13-green-park.html": {
+    "name": "13 Green park",
+    "location": "Wrexham",
+    "score": "9.5",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275752348.webp?k=028a8657f430c81525dae96f4d7790bc04d9c771e05120ee8139e9685d9b4de6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-llangollen-penthouse-berwyn-house.html": {
+    "name": "The Llangollen - Berwyn House",
+    "location": "Wrexham",
+    "score": "8.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311387349.webp?k=d92cdd68142722928b4b40a2efef95a3da08eb10013c3a8bc89bd79cb3fd1a63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-the-coach-house.html": {
+    "name": "The Cottage The Coach House",
+    "location": "Wrexham",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270705893.webp?k=fd966ba979672e1206cf894a353b18ab10f2736faf4ce74f87078cf7c9bfcc22&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cedar-place-summerhill.html": {
+    "name": "Summerhill, Wrexham - Key Worker friendly",
+    "location": "Wrexham",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434354785.webp?k=3d987be9c7b1c7a891f08b2a9275a827bcc0bf4668680afe3420c50dcc839ab5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dragons-hut-with-seasonal-swimming-pool.html": {
+    "name": "The Dragon's Hut with seasonal Swimming Pool",
+    "location": "Wrexham",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402269563.webp?k=eb46bebd52e00b65d8b60963e7354afef654c77ca15ca6819657912e92c41ee9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cae-adar-farm.html": {
+    "name": "Cae Adar Farm",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363270236.webp?k=8be4f1523d05e18fe46cc38f50d84b47dd1d530227b20497b0548ee127aa3e82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/berwyn-apartments.html": {
+    "name": "The Berwyn – Berwyn House",
+    "location": "Wrexham",
+    "score": "8.3",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311414035.webp?k=0b1c4168f22ff0efece1bdb000de22063f7a162fe08006455b2eeffeb2c85e95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-penthouse-gathering-town-centre-sleeps-up-to-16.html": {
+    "name": "The Penthouse Gathering - Town Centre - Sleeps Up To 16",
+    "location": "Wrexham",
+    "score": "8.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311369413.webp?k=ef6fc5de918714536cbf16599b5f7ebff4c4bd78de98da10aa4d704ee8576cdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/racecourse-view-guest-house.html": {
+    "name": "Racecourse view guest house",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405309884.webp?k=b6c294505953a13dfdef1dca8ee358e9cbd360b1d3b11769d19adb40f9c980cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bedroom-detached-holiday-home-with-hot-tub.html": {
+    "name": "4 Bedroom Detached Holiday home with Hot Tub",
+    "location": "Wrexham",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347706461.webp?k=5ac54e31e73f36d83ba88726d6b2905da4dea7408aedc59c9f0145608457d387&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-saddlery-pen-y-cae.html": {
+    "name": "The Saddlery",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414733842.webp?k=d7329cb650930b09a86dfbd352a0287070b164016d8f02b8d6cc290a07c7ab60&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bed-cottage-near-to-historic-chester.html": {
+    "name": "The Relaxing Retreat",
+    "location": "Wrexham",
+    "score": "9.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308528107.webp?k=7a29b72159cfe0d180a4e3e18b3975b09afc28cecd03580003bfcb115d8c87b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carreg-cottage-wrexham.html": {
+    "name": "Carreg Cottage, Wrexham",
+    "location": "Wrexham",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344475157.webp?k=80d4943db1db3eb488470d650e761be24be42be30cfe430660c71aac82978dfd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fieldsview.html": {
+    "name": "Fieldsview",
+    "location": "Wrexham",
+    "score": "9.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376641613.webp?k=4ab1e88f2907de798c536a671c3ae2f41da8dc00d430528ede33452ff5410f01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stable-wrexham1.html": {
+    "name": "The Stable with seasonal Swimming Pool",
+    "location": "Wrexham",
+    "score": "9.1",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367332936.webp?k=5a304c24032b66ef633f2bcd7de2b3a62b72e3132b4eba17ee39cabd48dc3031&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lower-gathering-town-centre-sleeps-up-to-8.html": {
+    "name": "The Lower Gathering - Town Centre - Sleeps Up To 10",
+    "location": "Wrexham",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311370964.webp?k=56d0d3bf82082cf623602eafac8058f3cd1871b2658ddfa334f677d0ca40ee68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-trotting-mare-caravan-park-adults-only.html": {
+    "name": "The Trotting Mare Caravan Park - Adults Only",
+    "location": "Wrexham",
+    "score": "9.4",
+    "review_count": "78 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324994189.webp?k=e76cb5b061300c1e1ccd175710ce5cfa6f479470aa701342e24db35436bc17cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cae-ucha.html": {
+    "name": "Cae Ucha",
+    "location": "Wrexham",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355241421.webp?k=b828c36ea5a3f1992bf4de3433553ad44299b322ae11abfc06f1f402cc99850a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stay-wild-retreats-wrexham.html": {
+    "name": "Stay Wild Retreats 'Belle'",
+    "location": "Wrexham",
+    "score": "9.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383096430.webp?k=8e27d7183d13ac150572821acf3b048fb729ad37cfdfed30b65765b6714e2e8c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stay-wild-retreats.html": {
+    "name": "Stay Wild Retreats 'Pod'",
+    "location": "Wrexham",
+    "score": "8.6",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364786577.webp?k=6cb7ebe0fbb73fef911ecbd093629bc1642e8bddc3fe5e57f298bfa4ceac321c&o=&s=1"
+  }
+}

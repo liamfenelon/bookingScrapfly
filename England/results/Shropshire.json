@@ -1,0 +1,1482 @@
+{
+  "https://www.booking.com/hotel/gb/pass-the-keys-central-cosy-home-5-minutes-walk-from-shrewsbury.html": {
+    "name": "Pass the Keys Central cosy home 5 minutes walk from Shrewsbury",
+    "location": "Shrewsbury",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349056166.webp?k=fbd354880ad5ff891d8948f3ee246254ba044a135f9f499068b260ebcf31ab11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-modern-and-stylish-2-bedroom-apartment-close-to-town.html": {
+    "name": "Pass the Keys Modern and Stylish 2 Bedroom Apartment close to town",
+    "location": "Shrewsbury",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364581002.webp?k=59cb68b89e7fe40d4b424e67baced24233c44bf124ffff0d890e3299d03e044e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-cottage-shrewsbury.html": {
+    "name": "Abbey Cottage",
+    "location": "Shrewsbury",
+    "score": "9.4",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146286131.webp?k=b11892adaad75e7a2a1bae8961938eb23fbbb245203bc5db81b618c41e06721c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/189-abbey-foregate-shrewsbury.html": {
+    "name": "189 Abbey Foregate, Shrewsbury",
+    "location": "Shrewsbury",
+    "score": "8.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161574804.webp?k=a3a8aa9566b8a70190ccea53cf4048cd877a03fa6e88f2ac089c5dbeb3297232&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-foregate.html": {
+    "name": "Abbey Foregate",
+    "location": "Shrewsbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424762157.webp?k=3ccf99dd329746997816c2b98f6ba639d90116dd2110d9643031f1f571404393&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/7-monkmoor-road-shrewsbury.html": {
+    "name": "7 Monkmoor Road, Shrewsbury",
+    "location": "Shrewsbury",
+    "score": "8.8",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253447721.webp?k=06a57aea639c94019a185df04d2445e18942a5fa118e0ec027864ef7ea630935&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-town-house.html": {
+    "name": "Abbey View Shrewsbury",
+    "location": "Shrewsbury",
+    "score": "9.3",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311179782.webp?k=a1a858217f17467067f0b7f4783b056525b3276bec62280a4a034f24e6853cb7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-bedroom-house-ideal-for-contractors-and-groups.html": {
+    "name": "5 Bedroom House - Ideal for Groups & Contractors",
+    "location": "Shrewsbury",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403567440.webp?k=211ab0eab4af33cd21e141d4db10927ba5fac8c937273ba810b941cb6b65a34e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-reabrook-place.html": {
+    "name": "1 Reabrook Place",
+    "location": "Shrewsbury",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219989771.webp?k=7e7bcb4085c9a3809bec67b5562049c3cd16c1d1d27d130ec7e84b89de91d6d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/9-portobello.html": {
+    "name": "9 Portobello",
+    "location": "Shrewsbury",
+    "score": "7.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363402417.webp?k=dfb440a40b6aa8983a3e8c0402bd48f68daa09f72dca70e5aa51b10f8711bcf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/montys.html": {
+    "name": "Monty's",
+    "location": "Shrewsbury",
+    "score": "9.0",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410151856.webp?k=51c52f8c53ed861ed92a73fa5fdb2308cbb412bff53dc5c02c6b2cf2c627cc87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-meadow-suite.html": {
+    "name": "Old Meadow Apartments",
+    "location": "Shrewsbury",
+    "score": "8.7",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269641789.webp?k=5f5f77d9abafdacd05c9f38f2fb7fcaf5f7bccbf4ef21a90fa3c46ea7c88058f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/family-home-close-to-shrewsbury-town-centre.html": {
+    "name": "Family home close to Shrewsbury Town centre",
+    "location": "Shrewsbury",
+    "score": "9.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390766974.webp?k=7cee3aa201abadde694675f4924143652f5ed6f1d25910eb37f41754841c936e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marine-terrace.html": {
+    "name": "Marine Terrace",
+    "location": "Shrewsbury",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295846544.webp?k=27794c8973b47153604dc383f3b801cbcf9b59192c953dd7023e85765d0fff30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-bell-shrewsbury.html": {
+    "name": "The Old Bell",
+    "location": "Shrewsbury",
+    "score": "8.5",
+    "review_count": "767 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/20185865.webp?k=f873cd42df28d0e2848c45758793897c4b4126abe8760c597279076a16458086&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/anton-guest-house-bed-and-breakfast.html": {
+    "name": "Anton Guest House Bed and Breakfast",
+    "location": "Shrewsbury",
+    "score": "9.2",
+    "review_count": "223 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13618673.webp?k=1943600c2ccf0337a0f8eacb7e9688e5dd4a7a33f186901abec91a5730f78abb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-julians-place.html": {
+    "name": "St Julians Place",
+    "location": "Shrewsbury",
+    "score": "8.5",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330862995.webp?k=5de1143ddf22aff66f349d9266870f34684d4e110763181796d4fb0b57d2879e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lion-pheasant.html": {
+    "name": "Lion & Pheasant Hotel",
+    "location": "Shrewsbury",
+    "score": "8.6",
+    "review_count": "1,355 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/80575512.webp?k=ea810f7c8463781814d3c40c82fa9632f09a5fd920f0032fa0f9854f5a8c8b48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbotsmeadhotel.html": {
+    "name": "Abbots Mead Hotel",
+    "location": "Shrewsbury",
+    "score": "8.4",
+    "review_count": "1,083 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/7933516.webp?k=d0dc218ec39cbb42e19cee31182c84d89292dc8417b2920a1130c76bff4aecd5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-attic-by-the-abbey.html": {
+    "name": "Detached, Private Guest House - Attic by the Abbey",
+    "location": "Shrewsbury",
+    "score": "9.5",
+    "review_count": "92 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366755712.webp?k=860919c828457645341bc31d914553a160218c275f0bdd52b4fb1a4c603ab901&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coach-house-shrewsbury-town.html": {
+    "name": "Coach House, Shrewsbury Town",
+    "location": "Shrewsbury",
+    "score": "8.6",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291159216.webp?k=f093c5e37f1fc9c702e70c7db5660359097728d5c8834caef15b80a2fa386b9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ludwick-apartment.html": {
+    "name": "Ludwick Apartment",
+    "location": "Shrewsbury",
+    "score": "9.1",
+    "review_count": "127 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/44361709.webp?k=dd4f2357db12c567503443234b660e64e612d15729aa850e65158e96fc304f37&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sandfordhouse.html": {
+    "name": "Darwin's Townhouse",
+    "location": "Shrewsbury",
+    "score": "8.9",
+    "review_count": "1,212 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340550464.webp?k=f7310868ea04d8b9d8469ad4a4528eeb9985d657a3d1778fcc0c7c7b270d83ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cherry-orchard.html": {
+    "name": "Cherry Orchard",
+    "location": "Shrewsbury",
+    "score": "8.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249472144.webp?k=d8b8817f18da0706eb0fbf4f4d4fa11efe34de9ef95b038ca429a4d430ece944&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-two-bedroom-victoria-town-house-easy-walk-of-town.html": {
+    "name": "Pass the Keys Two bedroom Victoria Town house, easy walk of town",
+    "location": "Shrewsbury",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360187148.webp?k=353138b0ec223214e0a34a6d7abeb76a9fb13b3e7381833c7b269a0674678290&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/church-inn.html": {
+    "name": "Church Inn",
+    "location": "Ludlow",
+    "score": "9.0",
+    "review_count": "537 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110291543.webp?k=dbf0d04b6e89df1fe1685bbee037be0faeca8ceb60be996e953cd02ac0aa34a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/138a-old-star-amp-garter.html": {
+    "name": "138a Old Star & Garter",
+    "location": "Ludlow",
+    "score": "9.7",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/214323551.webp?k=42cdd01bdeb0dd119c07e3b0d4e11a4e6dc4231b6bd6122a36363f0c69413fdf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/berries-coach-house.html": {
+    "name": "Berries Coach House",
+    "location": "Church Stretton",
+    "score": "9.8",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147051170.webp?k=19f42f1d2e6d6b7fd3021b85392e61810184303f4242176ca761b9ce6aad0ce5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-1-shropshire1.html": {
+    "name": "'Peregrine' 3 bed apartment in Ludlow town centre",
+    "location": "Ludlow",
+    "score": "9.2",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396106281.webp?k=7db9b23f31879c52ff8df5cc6eb6f37dd01483ef6142b9804365943c6a32755a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fishmore-hall.html": {
+    "name": "Fishmore Hall Hotel and Boutique Spa",
+    "location": "Ludlow",
+    "score": "8.7",
+    "review_count": "593 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13064983.webp?k=b46d13a03da2b2de515eab952fe2696764fe5d7efee4115e79ba163413ae77db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upper-heath-farm-stable-cottage.html": {
+    "name": "Upper Heath Farm - Stable Cottage",
+    "location": "Craven Arms",
+    "score": "9.2",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288799951.webp?k=715a6f5701d8f63df46bbeff92061be9b62ad2b80691c32558d09be37879ca93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-castle-bishops-castle.html": {
+    "name": "The Castle Hotel",
+    "location": "Bishops Castle",
+    "score": "9.0",
+    "review_count": "302 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346176546.webp?k=2b701edfff11dff0dc036ef15cd8c65312aa3ccb742cd7f3d779b22dfc2953be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-horse-inn-clun.html": {
+    "name": "The White Horse Inn, Clun",
+    "location": "Clun",
+    "score": "8.8",
+    "review_count": "421 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79028350.webp?k=fe2be120dd85178fdd9c93282a839d727b15ff071f81c117caa28a7d82c53927&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/long-mountain-centre-log-cabins.html": {
+    "name": "Long Mountain Centre Log Cabins",
+    "location": "Meadowtown",
+    "score": "8.6",
+    "review_count": "221 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/86840908.webp?k=30192a738ca548ecef265595f2465a90d76f47215fe474ab4d050fa2506f557e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alder-lodge-clun-valley-lodges-a-luxury-break.html": {
+    "name": "Alder River Lodge Clun Valley Luxury Hot Tub Break",
+    "location": "Craven Arms",
+    "score": "9.6",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271358720.webp?k=c79ea94e77f8dc1658f049ba1d3816832458c4bc688cf82daacc5506b0332f1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thursdays-corner-tudor-cottage.html": {
+    "name": "Thursdays Corner Tudor Cottage",
+    "location": "Church Stretton",
+    "score": "9.6",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422805195.webp?k=85925eb6aab7bd6610267c24f5dc869d9ea2e2b23f6d76df6e753dcb5419b349&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-feathers-ludlow.html": {
+    "name": "The Feathers Hotel",
+    "location": "Ludlow",
+    "score": "8.2",
+    "review_count": "2,277 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292793996.webp?k=c51935a89accd662c55d421592bfc939c12a44759afa3abe7412e7d7d4e53e9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/magnolia-cottage-church-stretton.html": {
+    "name": "Magnolia Cottage",
+    "location": "Church Stretton",
+    "score": "9.7",
+    "review_count": "93 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271146250.webp?k=2a6f1c2cbd86ff0007b8febfdbbf88aa9e1844935a9c65f9d7c9f00228c2e6ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walton.html": {
+    "name": "Upper Onibury Cottages",
+    "location": "Onibury",
+    "score": "8.4",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/129796165.webp?k=86d840a73699239bdaddffc47a8634f2b286e64a1a813ca4a300f778b98babec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-charlton-arms.html": {
+    "name": "The Charlton Arms",
+    "location": "Ludlow",
+    "score": "9.0",
+    "review_count": "935 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27510682.webp?k=1f989c1b84d464c1f4b24de88479ce55ea340c7a28df7a657156f78ce8f6a0a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-street-terrace.html": {
+    "name": "Old Street Terrace",
+    "location": "Ludlow",
+    "score": "9.6",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369336441.webp?k=30c5095056c01a3409f887680a573512d85612512590ea03ff1adc010a519ad3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charlie-39-s-cottage.html": {
+    "name": "Charlie's Cottage",
+    "location": "Ludlow",
+    "score": "9.9",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312362893.webp?k=fdf58f7ca736e076b5192aa81e42c93f9f0469a2e6373be7a10d549e42299d93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hobbit-holiday-house.html": {
+    "name": "HOBLEY House Holiday",
+    "location": "Craven Arms",
+    "score": "9.7",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305959405.webp?k=dca693417fd3df840dee48dd3c29db3974b17028917ffd81a53e4df9efeabca2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/laurgeths-house.html": {
+    "name": "Laurgeths House",
+    "location": "Bishops Castle",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409459832.webp?k=d12ad085848ab0e43ad226dea7794c1fd00961b40483b561349b296cd644afbd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nest-holiday-hideaway-dove-barn-amazing-location.html": {
+    "name": "Nest Holiday Hideaway Dove Barn Amazing location!",
+    "location": "Church Stretton",
+    "score": "8.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324682846.webp?k=b8d52e57ea11fccf1ee7a5ca97e30ffcb4eb1eb4f14719279202ce6bb7e4057f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nest-central-ludlow-one-bed-apartment.html": {
+    "name": "The Nest, central Ludlow one bed apartment",
+    "location": "Ludlow",
+    "score": "9.2",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363305252.webp?k=009fb617725478157d630c8c82469890128953d493336cf494c26de999cf97b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nest-holiday-hideaway-wren-barn-amazing-location.html": {
+    "name": "Nest Holiday Hideaway Wren Barn Amazing Location",
+    "location": "Church Stretton",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324682814.webp?k=a412067dff2965169d99034c82aae612617cba7553e6acef42078d6dfd56b73d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilltop-hut.html": {
+    "name": "Hilltop Hut",
+    "location": "Church Stretton",
+    "score": "9.0",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307949942.webp?k=bfc3a5b9b8f4c9eac5f05f42a1712c0aef402827ec171af9810fdc86f3482d2a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wilderness-lodge.html": {
+    "name": "Wilderness Lodge",
+    "location": "Shelve",
+    "score": "9.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344418049.webp?k=427202d2ee560ee4cf7a73c98164a6900d172581a6803ee2378ce11206a56ac2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/temeside-garden-house.html": {
+    "name": "Temeside Garden House",
+    "location": "Ludlow",
+    "score": "9.7",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95291327.webp?k=11ee5ce8c859e798a71715428bd97c7bf003d3daec94ac56db57de8e7e76d1e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-town-house-ludlow.html": {
+    "name": "The Town House Ludlow",
+    "location": "Ludlow",
+    "score": "9.3",
+    "review_count": "751 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34179429.webp?k=f8a9290851ed0c41975180b30fa678a3c91947728495eb193c1af7dec9d3cb28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dale-cottage-craven-arms.html": {
+    "name": "Lucea Cottage",
+    "location": "Craven Arms",
+    "score": "8.5",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273143771.webp?k=9314e216a8f180fe21402dc3bed646c89d5e336805f767086a7de06932ab83b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/assembly-view.html": {
+    "name": "Assembly View",
+    "location": "Ludlow",
+    "score": "9.7",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338326971.webp?k=5621431049660e0d09e797378a7175c285c904782fc3de8a03334d85e7c38a7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-first-floor-apartment-in-the-centre-of-church-stretton.html": {
+    "name": "Spacious first floor apartment in the centre of Church Stretton with free parking",
+    "location": "Church Stretton",
+    "score": "8.8",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355714753.webp?k=fb0c9020b4cc44f59d2964e83bc056f5f543b44ad1960bfa4328c7c79ce07fd1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wagon-house-newcastle-near-craven-arms.html": {
+    "name": "The Wagon House",
+    "location": "Newcastle",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418706708.webp?k=e36ab51ec7e8a52b70249efa8d6c51950725fe0058917da56b591e555ebde5b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/highgrove-barns.html": {
+    "name": "Highgrove Barns",
+    "location": "Craven Arms",
+    "score": "9.1",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/18358059.webp?k=282b7b8392bf4f94b85eede8a511e7897b256ef3c063d2c91df2b6b25b1be483&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-lodge-craven-arms.html": {
+    "name": "Garden Lodge",
+    "location": "Craven Arms",
+    "score": "9.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348433091.webp?k=210d71f66c0b2b8c7852c378130a4857af231c2ff0ce8f1c6af5bddce74bd940&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/green-dragon-ludlow.html": {
+    "name": "Green Dragon LUDLOW",
+    "location": "Ludlow",
+    "score": "9.3",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357425946.webp?k=e72ea9d716b0ee3b770baec9c6da7e398a29410ccb23700790c93cc95ffe6c1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/joe-the-buck-eco-cottage.html": {
+    "name": "Eco Cottage Joe the Buck",
+    "location": "Craven Arms",
+    "score": "9.5",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427735496.webp?k=bd516bc3d7085628ea9fc593f1f35b647bcba9b4d2d0897320a5d4561c9181c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-the-square-cosy-cottage-on-the-town-square-with-hot-tub.html": {
+    "name": "Pass the Keys The Square Cosy Cottage on the Town Square with Hot Tub",
+    "location": "Church Stretton",
+    "score": "7.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350152091.webp?k=26dfd3fc0b40952428043d6dba4fd2d62e333a5c0192aa9fbf9391e76b6fb6c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodpeckers-cottage.html": {
+    "name": "Woodpeckers Cottage",
+    "location": "Church Stretton",
+    "score": "9.3",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240152199.webp?k=ead0bc297a7d96e4c25da0258de05ccf59322eff43f2d2ae180c1bc7df5acbdf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-vicarage-self-contained-apartments.html": {
+    "name": "The Old Vicarage self-contained apartments",
+    "location": "Lydbury North",
+    "score": "8.6",
+    "review_count": "200 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264839904.webp?k=478b2b7dda7e70aa0af16a4dca92382b658403b5b72436417b6a9599c8718fe3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-hope-bowdler.html": {
+    "name": "The Stables",
+    "location": "Church Stretton",
+    "score": "9.0",
+    "review_count": "146 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95926781.webp?k=ff2df458e3b65c7de618ca00fcf5b5100834cad5c3f7fbce41e8b8ebce9013e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-at-hawkhurst-craven-arms2.html": {
+    "name": "The Granary at Hawkhurst",
+    "location": "Craven Arms",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416089959.webp?k=07d943437aab99da7039f32de32be389233d297fe09e8ed72979d3264087a37a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-poppy-house.html": {
+    "name": "The Poppy House",
+    "location": "Bishops Castle",
+    "score": "8.9",
+    "review_count": "280 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260274191.webp?k=2f0f133ac50abca717951ce5c654f17ed03eeec2c0c40fbc3087dafb9760995b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mynd-house.html": {
+    "name": "Mynd House",
+    "location": "Church Stretton",
+    "score": "9.4",
+    "review_count": "265 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125773542.webp?k=4951907410aceeeb2646da02ad3603f984ed95a9f2b81c4d4d6d8d34e4dcb0a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-grove-annexe.html": {
+    "name": "The Grove Annexe",
+    "location": "Craven Arms",
+    "score": "9.0",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263862017.webp?k=aa750b4d69bbe8ca742d3f49ca86eb600b9ea39738f278dfc2277ba1acd9d297&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-snicketts.html": {
+    "name": "The Snicketts",
+    "location": "Ludlow",
+    "score": "9.5",
+    "review_count": "175 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311588472.webp?k=6fb507e6842392439515aeed3763471b01838d3b9557cc0b4bea4806716e840b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-craven-arms.html": {
+    "name": "The Coach House",
+    "location": "Craven Arms",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418272700.webp?k=c3963f6e9684471c1232b276019a34627692fcc35cebe19b557783ae3e0ef8c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ground-floor-apartment-in-the-heart-of-church-stretton.html": {
+    "name": "Large Ground floor apartment in the heart of Church Stretton with free parking",
+    "location": "Church Stretton",
+    "score": "8.8",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355592555.webp?k=15235a2d67f21e15969a1de2267529bff52b9fe49ede1d07eb2a495137764ee8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burrills-view.html": {
+    "name": "Burrills View",
+    "location": "Horderley",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418727324.webp?k=fe0ea22d2d995f39ef2b94ac77c3b3fb7fe5632a262d930f026be633c53776bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/11-callow-crescent-minsterley.html": {
+    "name": "11 Callow Crescent",
+    "location": "Minsterley",
+    "score": "8.9",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177330546.webp?k=35556d1bf6ea36608f5e5ef0e50a00f3bac6b5d8d837180e6eb0f9f2a45b701e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-yew-tree-inn-church-stretton.html": {
+    "name": "The Yew Tree Inn",
+    "location": "Church Stretton",
+    "score": "8.8",
+    "review_count": "237 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306481128.webp?k=501b725df75f9c71f193e330f7a4c4231296f68563950e5e8b7b755bfd1507be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seifton-view-cottage-culmington-ludlow.html": {
+    "name": "Seifton View Cottage, Culmington, Ludlow",
+    "location": "Culmington",
+    "score": "9.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362051655.webp?k=bd8c7d85ccc8650f0cbe854a08a850047d131e711e36344f6986ac78804eca53&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-quaint-1-bedroom-cottage-in-church-stretton.html": {
+    "name": "Pass the Keys Quaint 1 bedroom cottage in Church Stretton",
+    "location": "Church Stretton",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352546702.webp?k=9df74d9c53d1340e9853fce75cc998a8495078622fae7b690d096c3f4b3c2640&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/19-upper-linney-ludlow.html": {
+    "name": "19 Upper Linney",
+    "location": "Ludlow",
+    "score": "9.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204988719.webp?k=01c92b80c24ec03066587b3a1317815216d0e2e678021dd3a7d79b1a0fe2e528&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cliffe-at-dinham-shropshire.html": {
+    "name": "The Cliffe at Dinham",
+    "location": "Ludlow",
+    "score": "8.1",
+    "review_count": "809 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264998206.webp?k=e932d14cfa0d920618f186ec40fa1a2e0420cd27a5685e3517ed7a850d9f5a2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-haven-ludlow.html": {
+    "name": "The Haven Ludlow",
+    "location": "Ludlow",
+    "score": "9.1",
+    "review_count": "132 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147581012.webp?k=90b61b7aaacdc3830ce9e38ba12c2b40dafa5222b49eeaef2b6569d9e3ab5584&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-magical-period-house-in-the-heart-of-ludlow.html": {
+    "name": "Pass the Keys Magical period house in the heart of Ludlow",
+    "location": "Ludlow",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394617800.webp?k=cd344857a8b37b5ac36ebe4412f15f16bd8a32797a482ccb457648196e4d16d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pulpits.html": {
+    "name": "The Pulpits",
+    "location": "Ludlow",
+    "score": "8.4",
+    "review_count": "194 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207526182.webp?k=a0959ff69b50df5cb60c595c4a543e8654a23dc2e004190518885d520b339f6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kin-ludlow-rooms.html": {
+    "name": "Kin Ludlow Rooms",
+    "location": "Ludlow",
+    "score": "9.3",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416142490.webp?k=20cab8020d13644c2c784ad4c28e47d8985ceae434900bcb6dce524c796fc872&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-henley-hall.html": {
+    "name": "Henley Hall, Ludlow",
+    "location": "Ludlow",
+    "score": "9.4",
+    "review_count": "118 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306714297.webp?k=3e5263682d643373173d8073839878d585668d0534793eb3484f27a2ecfbb76c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/en-suite-bedrooms-heaton-newcastle.html": {
+    "name": "En suite bedrooms, Heaton, Newcastle",
+    "location": "Newcastle",
+    "score": "8.1",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331278452.webp?k=108663cbbedaebebbc7578d27d0e69eddfbe6e2eeeb4db51ad3b67422107ce29&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/birchwood-house-church-stretton.html": {
+    "name": "Birchwood House",
+    "location": "Church Stretton",
+    "score": "9.8",
+    "review_count": "141 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/212848417.webp?k=af40e0898461631f1b35b6bfb560ea921292869f3ad2499bd7d81bffc9a3b986&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-bakehouse-ludlow.html": {
+    "name": "The Folly",
+    "location": "Ludlow",
+    "score": "9.1",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203847571.webp?k=fe291672f0e075ba921a9d745797d06ce9da1f1474cd069664dfe7d8dedb6c5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wheatsheaf-inn-shrewsbury.html": {
+    "name": "The Wheatsheaf Inn",
+    "location": "Ludlow",
+    "score": "7.7",
+    "review_count": "402 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234559535.webp?k=435c80cf28d6cc9964fc14e045925abc66830e3cd391b56b97369ae1a7a383c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-grain-loft-clun.html": {
+    "name": "The Grain Loft",
+    "location": "Clun",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433313813.webp?k=e11aa41cf0a74230c29c8e614e7ab92721990a1e943e02a6b959521dc0f24f1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cherry-blossom-craven-arms.html": {
+    "name": "Cherry Blossom",
+    "location": "Craven Arms",
+    "score": "9.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314881500.webp?k=2b178f51fcbc6983e0f94c5436d1bce2bb155c5c9a7f17f8b5101b32d2d9fb24&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wayside-lodge-uk32099.html": {
+    "name": "Wayside Lodge - UK32099",
+    "location": "Broome",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423945289.webp?k=1abb8a520c9fef1d6bcd1b0dbecf4086efc93929f14c9c00ccac34a17756217b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stoney-brook-lodge.html": {
+    "name": "Stoney-Brook Lodge",
+    "location": "Farden",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344426038.webp?k=ea48951aa68d245f006f73cceafc453575347b7e198e2517f68cf0a44607c561&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/creagh-dhu.html": {
+    "name": "Creagh Dhu",
+    "location": "Norbury",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240137116.webp?k=52a677565eae314622dde768de6b4a0d11e4f076e417529af639fc0cc3cd1e0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/138c-old-star-garter-mews.html": {
+    "name": "138C Old Star & Garter Mews",
+    "location": "Ludlow",
+    "score": "8.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360755985.webp?k=e602b5ad8c7de6aeb208da654b012e4793beaa41265bd4f9847584e68fb6f0bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ashlea-pools-lodges.html": {
+    "name": "Ashlea Pools Lodges",
+    "location": "Broome",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427170527.webp?k=c03980df90e41945a14b8f41505fd6b42613c330832670728efe5bc615b25600&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/9-bromleys-court.html": {
+    "name": "9 Bromleys Court",
+    "location": "Church Stretton",
+    "score": "8.0",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249426546.webp?k=c1a38094926c0d11c4867d28ab10daa88ea0b5f33bf29ee8c621a961e708fcf3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-smithy-bed-amp-breakfast-craven-arms.html": {
+    "name": "The Old Smithy Bed & Breakfast",
+    "location": "Craven Arms",
+    "score": "9.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357211224.webp?k=7caed0ffc84c78381fd2a2d06d56bdc026aa18773a41b8c63d1786c4ef769e31&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sayang-house.html": {
+    "name": "Sayang House",
+    "location": "Church Stretton",
+    "score": "9.6",
+    "review_count": "107 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265182404.webp?k=ab48c6c32b8e7d4f4a224182b9aca4e52e0942bedc115ccc6f40b0cd16cddfee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/walcot-farm.html": {
+    "name": "Walcot Farm",
+    "location": "Lydbury North",
+    "score": "9.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344417669.webp?k=1ce942dc5eec40b2c8ceca8313c8d76dfc0726127138fb86b4f56af60188a6f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wenlock-cottage-self-contained-cottage-for-2-people-spacious-and-well-equipped.html": {
+    "name": "Wisteria Cottages are self catering cottages in a beautiful village location",
+    "location": "Dorrington",
+    "score": "9.2",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282006180.webp?k=288900ca3dd0e1024e6f2617630c784a2963d77eeef169897d2edb7a373095bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/belle-vue-ludlow.html": {
+    "name": "Belle Vue, Ludlow",
+    "location": "Ludlow",
+    "score": "8.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344460441.webp?k=ce6f1f2d7badb0520cac4f791bd5e6a805311e5b6dccec5fa17a49fad23377ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-2-bedroom-victorian-cottage.html": {
+    "name": "Pass the Keys Cosy 2 bedroom Victorian Cottage",
+    "location": "Ludlow",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413510745.webp?k=00456aec03a54305be87bb57373bb453c15c1c155423f0ea9dca9f6a3862b9f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-old-hall-barn-church-stretton.html": {
+    "name": "4 Old Hall Barn, Church Stretton",
+    "location": "Church Stretton",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344469487.webp?k=c997ea2ab20267760dc5ace895c596b0e8c661837c0a4f5a30fc80515e3e6c81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/moorhen-cottage-ludlow.html": {
+    "name": "Moorhen Cottage",
+    "location": "Ludlow",
+    "score": "9.6",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386356738.webp?k=f32fe44f13bb070166b1cd78d6fcd2c9e7c274444154c9e1af54d202e3e0c0d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/divine-detached-countryside-cottage-near-ludlow-ludlow.html": {
+    "name": "Divine, detached countryside cottage near Ludlow.",
+    "location": "Ludlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427176251.webp?k=644b3f1a0d60b16dc48b24c0c2d559bccb79f4f14402da25426b4b5cf1b086e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-adorable-apartment-in-ludlow.html": {
+    "name": "The Cwtch, adorable apartment in the heart of Ludlow",
+    "location": "Ludlow",
+    "score": "9.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376136352.webp?k=ff013cbb0f247270ed26f011be198cbe0944ec4bf263f78241395750fcfcc831&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/138d-old-star-garter-mews.html": {
+    "name": "138D Old Star & Garter Mews",
+    "location": "Ludlow",
+    "score": "6.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375132077.webp?k=90e443d4966f5d578f91f094db3af60f5e98d2411c1c4e9049a634c788ca3334&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mount-guest-house.html": {
+    "name": "The Mount Guest House",
+    "location": "Ludlow",
+    "score": "9.2",
+    "review_count": "116 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186255123.webp?k=35b5c74d399a84888d471430bb8b52a418242a850de0a312636dc651cac5fbc8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/138e-old-star-amp-garter-mews.html": {
+    "name": "138E Old Star & Garter Mews",
+    "location": "Ludlow",
+    "score": "9.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415496894.webp?k=35511f83552fc3679841518ac98ecf28c86c15fe04348e544e71811583697eb4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-town-cottage-old-street.html": {
+    "name": "Old Town Cottage",
+    "location": "Ludlow",
+    "score": "8.8",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240147581.webp?k=215b9eb30ecbd54b06d1c77878442ee1b2373ddd062dc594f4aac61c6295cbd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wild-flowers-accommodation.html": {
+    "name": "Foxglove Accommodation",
+    "location": "Craven Arms",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426501090.webp?k=e31a796f2c27e012eaf05143a8e04ddc7aad721a21af56d97ac810b6139f9301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/willow-river-lodge-craven-arms.html": {
+    "name": "Willow River Lodge",
+    "location": "Craven Arms",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248289747.webp?k=d6cff2ba37fdd7e845470cc1d364364213f839a7e48eebc106bf54c84451e4a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/huglith-farm.html": {
+    "name": "Huglith Farm",
+    "location": "Habberley",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354824178.webp?k=db0afaed1869a6b3c341cf4eed0436e21b756e598104b3ef148f26408bdc3198&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/21-high-street-bishops-castle.html": {
+    "name": "21 High Street",
+    "location": "Bishops Castle",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320314591.webp?k=7264b92e65bb679b3a365a9e1c4a35bd8ae3528bc1b73922fbbd55afdd0cb109&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wheelhouse-church-stretton.html": {
+    "name": "The Wheelhouse",
+    "location": "Church Stretton",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297941110.webp?k=10ad3e74e062e341c3dfb497e5b5ca1f1ac8f777df02b3edeef90c9ee787efee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-cottage-with-views-over-the-shropshire-hills.html": {
+    "name": "Pass the Keys Cosy cottage with views over the Shropshire hills",
+    "location": "Ludlow",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378588603.webp?k=8aa9bd3252c73b0c1abfb5d11666a3a138032532ba0fffd9854215c2267660b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/blackberry-craven-arms1.html": {
+    "name": "Blackberry",
+    "location": "Craven Arms",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430281210.webp?k=f1563e66439b1746aeaaa1879b7940510f9993280cfa6f108c11b2c60c0dc6d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/55-corve-street-ludlow.html": {
+    "name": "55 Corve Street",
+    "location": "Ludlow",
+    "score": "7.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322733146.webp?k=8270260a38a1bc8d8fb5ff465927f9a3213fb7f2075e5c45cf488cd8f88b257c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-salwey-arms-ludlow.html": {
+    "name": "The Salwey Arms",
+    "location": "Ludlow",
+    "score": "8.3",
+    "review_count": "258 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/58023763.webp?k=a5006fe619b3e08933320f448422109e3368123843755fbefee3736987aa605e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hope-hall-barn.html": {
+    "name": "Hope Hall Barn",
+    "location": "Bromlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289143286.webp?k=3aba453d388f0ad0a06bc282f54c0ecc193496595781d96123615b4fc1b910b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shepherds-cottage-church-stretton.html": {
+    "name": "Shepherds Cottage, Church Stretton",
+    "location": "Church Stretton",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131394603.webp?k=af0adbcf1c56581bb2b47642f073a9f7b33b969263f340f6fac00fd0450c3803&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-byre-bishops-castle.html": {
+    "name": "The Byre, Bishops Castle",
+    "location": "Bishops Castle",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131429727.webp?k=16a202b1b6ebb3b24eff77ddabffc627b8399995243b386123736ac6f29b49ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/middle-woodbatch-farm.html": {
+    "name": "Middle Woodbatch B&B",
+    "location": "Bishops Castle",
+    "score": "9.3",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151395492.webp?k=690a602f56131d089fa6d7a994cfd3db7fb8cff7eb17035428b01c775acce001&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-at-pillocks-green.html": {
+    "name": "The Barn at Pillocks Green",
+    "location": "Marshbrook",
+    "score": "9.0",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344421034.webp?k=52b48ac5a43a54fee747a3d5c47fa2131035b37a3703d5a90ad78072838dd239&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abel-s-harp-shrewsbury.html": {
+    "name": "Abel's Harp",
+    "location": "Bromlow",
+    "score": "6.6",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/84353460.webp?k=26ea76b4a3c409559102777edba4ae3d9259f73ba11993e1ee78ffc647c60069&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/delightful-country-cottage-in-a-lovely-rural-area.html": {
+    "name": "Delightful Country Cottage in a lovely rural area",
+    "location": "Ludlow",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413331099.webp?k=41f1b55d3b8cd22224ae770a1085bec008f425adf45eea5ece2f439c6e1f3e63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-ludlow1.html": {
+    "name": "The Coach House",
+    "location": "Ludlow",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317263840.webp?k=d8f2583503cbaaff5e29acff5cba772cea974e4c32cd8313734110a00004a278&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/delightful-1-bedroom-cottage-clungunford-ludlow.html": {
+    "name": "Delightful 1 bedroom Cottage Clungunford, Ludlow",
+    "location": "Broome",
+    "score": "9.6",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358972264.webp?k=1148bd9d89cf86d091905751bbe30f8543a71dee15b22816f6d4541daf3e97d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-vincent-broome-chatwall.html": {
+    "name": "St Vincent",
+    "location": "Church Stretton",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418600818.webp?k=4d23cf21a447508a89adb4f4869733f90cc74d1748f86c689d670beb4e834405&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cosy-retreat.html": {
+    "name": "The Cosy Retreat",
+    "location": "Bishops Castle",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298555568.webp?k=a1fa01bb304bb8680892ae3480ec40fc9536d245c7bc70f9cb5f2ad4add3b92f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sapphire-forest-garden-shepherds-hut.html": {
+    "name": "Sapphire forest garden shepherd’s hut",
+    "location": "Church Stretton",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389532230.webp?k=4092b6a97186babfee550f0738d2bb26861c527851663616944a721e02aef526&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/long-mynd-lodge.html": {
+    "name": "Long Mynd Lodge",
+    "location": "Church Stretton",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397742180.webp?k=93ec936dad64b21d460df2edb258fe7236f15df42e4bc260c86930a78f8272f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-modern-2-bedroom-home-close-to-town-with-parking.html": {
+    "name": "Pass the Keys Modern 2 bedroom home close to town with parking",
+    "location": "Ludlow",
+    "score": "8.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351071568.webp?k=ff5ac8d55eb3df8053c8fedc1402c41370851a33c396e9445fae4f4cd083ad3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/immaculate-1-bed-apartment-in-ludlow.html": {
+    "name": "Beautiful 1-Bed Apartment in Ludlow",
+    "location": "Ludlow",
+    "score": "7.5",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372443112.webp?k=0aaa39fbd3a1b48be1ecb9e6089ca1cf2baec200e9d3f399828df707477ec86e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-the-villa-ludlow.html": {
+    "name": "2 The Villa",
+    "location": "Ludlow",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363403248.webp?k=ec1d8524618eee6367108eb116798cec7abf8027c108c6621d187d8c30ee0843&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manor-cottage-church-stretton.html": {
+    "name": "Manor Cottage",
+    "location": "Church Stretton",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369975975.webp?k=5f10e876daadd27b3dc3c6f65c227c9e98a51fb0aa1214c317ed06691f64712b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chocolate-box-cottage-in-the-heart-of-shropshire.html": {
+    "name": "Chocolate box cottage in the heart of Shropshire",
+    "location": "Ludlow",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361978080.webp?k=61f9cb8b282dff6928b652ed02eca40ee9775edcc65641c1a7cdb883feeca514&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-coach-house-bucknell.html": {
+    "name": "The Old Coach House",
+    "location": "Bucknell",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425708691.webp?k=56239f73b8ba093ea638fee47675147c57aa553903fafb2751bd9900e7432d69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mountain-view-lodge-ludlow.html": {
+    "name": "Mountain View Lodge",
+    "location": "Ludlow",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369160634.webp?k=38e6612ae9bf05e9a80f65f969d16619ccd06cea13f84d551fc72fc7ceaae0fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-barn-woolston-near-craven-arms.html": {
+    "name": "Lower Barn",
+    "location": "Wistanstow",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392373571.webp?k=e48a704f1767176b06f8f895cc7e4d2c757223a39a28186e2be6ce6c557f5050&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/6-castle-street.html": {
+    "name": "6 Castle Street",
+    "location": "Craven Arms",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312776954.webp?k=f56fe7f848f38e4c8bfce36a356791231278ad14a35ddde629360cfe26d3b7fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upper-home-farm.html": {
+    "name": "Upper Home Farm",
+    "location": "Plaish",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423071901.webp?k=d1f78494c079a7032ef5a313942fa8f6089bb82756c2d034aa57748cc821f4fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/26-high-street.html": {
+    "name": "26 High Street",
+    "location": "Bishops Castle",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423745079.webp?k=2f0281c9b620efaf6476f66194082f5948271dddd95b573ad782f1b4c4681abe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/birch-cottage-ludlow.html": {
+    "name": "Birch Cottage",
+    "location": "Ludlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394081756.webp?k=e97552365348c7a0e615dda66a365eb2944a09d4b92804f8bf36584f6f05adfd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/7-gretton.html": {
+    "name": "7 Gretton",
+    "location": "Cardington",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125515227.webp?k=94903bb65eda8d8631106dbfc18ea7e88ae4f98b34639149fc0115e82d0fd7c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-dippy.html": {
+    "name": "The Dippy",
+    "location": "Craven Arms",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354869121.webp?k=3444ae5228c3454004d347dd75ad167f24c809056ba75df5546515b1e23b665b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bank-house-b-amp-b-bishop-39-s-castle.html": {
+    "name": "Bank House B&B",
+    "location": "Bishops Castle",
+    "score": "9.3",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100143516.webp?k=efa50d596f46f75a7f1c9bfccd26c790357d80a660f55415d92fb44e1396686e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shepherds-loft-dorrington.html": {
+    "name": "The Shepherds Loft",
+    "location": "Dorrington",
+    "score": "9.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268719308.webp?k=cf4bab68f9644e92bb10b64de120a7a0f33913bd6a025775d82f962058c96336&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-elegant-apartment-in-heart-of-ludlow-town.html": {
+    "name": "Cosy, elegant apartment in heart of Ludlow Town",
+    "location": "Ludlow",
+    "score": "8.8",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294409021.webp?k=2c404ad72fbd2bc80078feb2ef8fa5a72a7aadd9e1f2b361267a413050cd2c0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/round-house.html": {
+    "name": "Round House",
+    "location": "Church Stretton",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279165288.webp?k=8e54dd9e33cc05933426c064e12d8cde9a7edca17863325d031ab934e7b54264&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baron-at-bucknell.html": {
+    "name": "Baron at Bucknell",
+    "location": "Bucknell",
+    "score": "9.5",
+    "review_count": "115 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42921626.webp?k=b4f3bc826b8dc9f9c31bc0048585e075f14ee221eb9f6f2dfe7adcdb67e40579&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/upper-letton-farmhouse.html": {
+    "name": "Upper Letton Farmhouse",
+    "location": "Leintwardine",
+    "score": "9.7",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/46083673.webp?k=a60d751a8e79798a8ddd95db157af22d012eca688e292ecb652e5f7ae85890d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sir-henry-sidney-ukc4033.html": {
+    "name": "Sir Henry Sidney-UKC4033",
+    "location": "Ludlow",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419653644.webp?k=5288b86cfd32ec2998b5e15cbd9a82372b1c446664bdb8d57426d9266efd56d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-hall-barn-2.html": {
+    "name": "Old Hall Barn 2",
+    "location": "Church Stretton",
+    "score": "8.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344487528.webp?k=b731f8a74412d27dbbd826e9253a35390851742910f58b7a2b67e5c79e0aeefc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/criftin-farm-house.html": {
+    "name": "Criftin Farm House",
+    "location": "Bishops Castle",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240239214.webp?k=fbb7fd84d1b10723e96012b30e6b49a66f3465cbe331039a6a9c87357b35f7f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/titchbourne-cottage.html": {
+    "name": "Titchbourne Cottage",
+    "location": "Clee Saint Margaret",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418749176.webp?k=a497dad6b0cc5f27acdc6ff405950b5ca3421d4acff909d1585d567ef6dc4b4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-school-house-burwarton.html": {
+    "name": "The old school house",
+    "location": "Burwarton",
+    "score": "9.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289853052.webp?k=7baf962b51b0126e83db43c3b3f7cca778cfa19a03ad0200085b5a539c335f58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-craven-arms.html": {
+    "name": "The Granary, Craven Arms",
+    "location": "Craven Arms",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344435079.webp?k=aa2eee300b2d95e59e00a54bed611a140b344cdb11a501c90c844bb4df98fe1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kwerky-cottage.html": {
+    "name": "Kwerky Cottage",
+    "location": "Lydbury North",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340054327.webp?k=e0c09d1814b0f4ea1dd55019bb664346002934498de3f54b0c26bb9f7afb9fad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/linnet-house.html": {
+    "name": "Linnet House, by RentMyHouse",
+    "location": "Ludlow",
+    "score": "8.8",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/138321731.webp?k=224426e839950b89ceb983d38f02c598bfa7957338132f6d4f63bb53b6cf8fea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeysuckle-cottage-minsterley.html": {
+    "name": "Honeysuckle Cottage",
+    "location": "Minsterley",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419695012.webp?k=0e4024c5877e104de10e2b62c64a4f1fd118c124f493c6667b00fa533e924a6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ludlow-vintage-airstream.html": {
+    "name": "Ludlow Vintage Airstream",
+    "location": "Ludlow",
+    "score": "9.8",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151599574.webp?k=b39a3e22fcf15be160089e0687a79afdf331e9dc7efc99f4cf1f6eccc87fe520&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodbatch-camping-amp-glamping-bishops-castle.html": {
+    "name": "Woodbatch Camping & Glamping",
+    "location": "Bishops Castle",
+    "score": "9.4",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263273461.webp?k=56e42c78bb1fb69c1adc7b32d1f58ff97fc76dfbeb94a2ca3428669b0f7e8aea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fiddlers-green-bucknell.html": {
+    "name": "Fiddlers Green, Bucknell",
+    "location": "Bucknell",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344448365.webp?k=61caafd26daa9725a575017c0ade98ac129ee9e5d42530c07e3172f734b53c5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wilstone-cottage.html": {
+    "name": "Wilstone Cottage",
+    "location": "Church Stretton",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268975481.webp?k=1efced944373d3b616eb09573a56b1314e3f322fad5c09fda292af17fbb61b10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roseland-ludlow.html": {
+    "name": "Roseland",
+    "location": "Ludlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364340944.webp?k=e727ebd428fe00235a79e2b6d86346afc0628a5c643db9e49e9950c655baa96f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-boyne-arms.html": {
+    "name": "The Boyne Arms",
+    "location": "Burwarton",
+    "score": "8.7",
+    "review_count": "166 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339647584.webp?k=ef0386acd397a452a2bec6f28e279b269d93dd237d13eccb05e031a7f9b7099b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-school-bakehouse-apartment.html": {
+    "name": "The School Bakehouse Apartment",
+    "location": "Bishops Castle",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240139735.webp?k=94c76cb38bb2219f61386177612d0dd6dd70a06f4e3367271b0ea48d344bf70c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-hall-barn-3.html": {
+    "name": "Old Hall Barn 3",
+    "location": "Church Stretton",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220006727.webp?k=483ee6665db255545ef71a91d8cc9f658ec5df887edf6dbb6b6de657c6ca2a22&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/callow-lodge.html": {
+    "name": "Callow Lodge",
+    "location": "Meadowtown",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418436960.webp?k=820513f258609cc239f6e44f8ecb5dc853c1fb99662ea7df4f369233d441c673&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robins-nest-craven-arms.html": {
+    "name": "Robin's Nest, Craven Arms",
+    "location": "Craven Arms",
+    "score": "9.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368088724.webp?k=213f1655e941f8196357957240dffc226549db90163e24b85aeef86a4df00624&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bicton-lea.html": {
+    "name": "Bicton Lea",
+    "location": "Acton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425552799.webp?k=f5ede75c7dff278dbf7838a14f8f7aff80502f866606ac49855885f1bbae1743&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/83-greenacres.html": {
+    "name": "83 Greenacres",
+    "location": "Ludlow",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364710730.webp?k=0d5abc9dede6d7ed4bb3a9ded2ed67059dc0ef9ba9f200386af2ed79d4b9bf92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grove-sprightly-barn.html": {
+    "name": "Grove Sprightly Barn",
+    "location": "Craven Arms",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419020839.webp?k=e8f46cbbfd1663788528ab519b627a61fe93edd1b1fb45aefe0b083d50a8c695&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fourwinds-farlow-near-ludlow.html": {
+    "name": "Fourwinds",
+    "location": "Silvington",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419763551.webp?k=747b82bd603632b66a8fa7501a372ef644c3fb29522ede22bfa17ecdc0be59d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/minton-lane-cottage.html": {
+    "name": "Minton Lane Cottage",
+    "location": "Church Stretton",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343292770.webp?k=73b97cf65aa82d2f68f2144b94af8bb99e1b9107aa8263e998991b22d6e55411&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-lodge-llanfair-waterdine.html": {
+    "name": "Garden Lodge",
+    "location": "Llanvair Waterdine",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418437894.webp?k=d6e79aaeaf4c97953eb8b17946173131cebeb57d37fa307bf5b6d50dea870770&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/caynham-court.html": {
+    "name": "Caynham Court",
+    "location": "Ludlow",
+    "score": "8.3",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/216571756.webp?k=fea793eed609e51d32d7a3ae9a0cb90f40f8b662ee29df1cc839f9cb53261e4f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillgate-house.html": {
+    "name": "Hillgate House",
+    "location": "Bromlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240133930.webp?k=8d43dc068aa076613d2a107faceb914e388355c8cb1ff22453bd5a3b2bb56e2b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hill-brow.html": {
+    "name": "Hill Brow",
+    "location": "Acton Scott",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434660757.webp?k=533c8413f6d854ef1d5c2e46772cfe1a29cb8fd7f09c799efa107697fa433790&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goosepond.html": {
+    "name": "Goosepond",
+    "location": "Wistanstow",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344423092.webp?k=ddba0b06907a4e549063074c459caea96572f595927d3a6fccbdb8fc42a8efcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rolling-hills.html": {
+    "name": "Rolling Hills",
+    "location": "Newcastle",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344425757.webp?k=6c7dcca711ea5899cd9b4d8ced21bc392497e8af252eb76586ba2ec1d9922be6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alder-lodge-craven-arms.html": {
+    "name": "Alder Lodge",
+    "location": "Craven Arms",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221609772.webp?k=c53838ea5bbd37fa2fcbabb795247bb436281f54060acc40a6bef6689ab10690&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ryelands-cottage.html": {
+    "name": "Ryelands Cottage",
+    "location": "Easthope",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344429787.webp?k=2b48d90009170146aafae26446592de6d63c87d27f9b6dd5a6ed55353779a973&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acorn-cottage-ludlow-ludlow.html": {
+    "name": "Acorn Cottage, Ludlow",
+    "location": "Ludlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344467485.webp?k=43f96bca563b77d461a79dc5520a68988bab716e5514bb5765a6fc73cf826886&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fairfield-ludlow.html": {
+    "name": "Fairfield",
+    "location": "Ludlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363232838.webp?k=2db4bd8b69215e3f9d6e8ada2d3d1fc6de0e4f41c2cfcf1f5115431279a7e434&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ferns-ludlow.html": {
+    "name": "The Ferns",
+    "location": "Ludlow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438335526.webp?k=5ab1f69183a8c3c9187d8029b2f74fd751c39f3b3bb13bff02580e0dc411126a&o=&s=1"
+  }
+}

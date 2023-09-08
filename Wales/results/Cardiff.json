@@ -1,0 +1,2850 @@
+{
+  "https://www.booking.com/hotel/gb/harlequin-gardens-by-ty-sa-5-bedroom-house-cardiff.html": {
+    "name": "Harlequin Gardens by Tŷ SA - 5 Bedroom House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377801330.webp?k=14fbc26b693f8839af065756b2e3507e645b5a69136520ce147dd17ce707bb58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sleeperz-cardiff.html": {
+    "name": "Sleeperz Hotel Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.0",
+    "review_count": "4,327 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56841895.webp?k=83a9d1598c88c3806b38b989900b72e175612f12568c81e5b7a476035623e159&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/futureinncardiffbay.html": {
+    "name": "Future Inn Cardiff Bay",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.2",
+    "review_count": "8,035 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301402144.webp?k=4f2997a266f8f8bdbea0324458822154b48ece4f9b7a94018b78a336da770d69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jimmys-way-by-ty-sa-beautiful-2-bedroom.html": {
+    "name": "Jimmy's Way by Tŷ SA - BEAUTIFUL 2 Bedroom",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356488501.webp?k=8f1462fb846edeee52a1ecd427c70c234ac06abe999936f45c1dc5fb07117e70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/levi-suite-by-koya-homes-cardiff.html": {
+    "name": "Levi Suite by Koya Homes",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434306304.webp?k=50e4a3cf90b772e4c3f75bb0b91e8830b5224b78a4c1dc4dc34c9f4a1231ded8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leonardo-hotel-cardiff.html": {
+    "name": "Leonardo Hotel Cardiff - Formerly Jurys Inn",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.9",
+    "review_count": "5,307 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/126218438.webp?k=838d4881679bcc661cbb7f23e40d54efd11379d4fec191fb454c2502472fab60&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/indigo-cardiff.html": {
+    "name": "Hotel Indigo - Cardiff, an IHG Hotel",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.9",
+    "review_count": "5,668 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246423532.webp?k=345e98cc6825bf894f686ae9a7e473d870f0753227b78b3d61b1ebeaff00d30a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiffparkplaza.html": {
+    "name": "Park Plaza Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.3",
+    "review_count": "5,666 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228897866.webp?k=f2cebeaabe022df25f47d2a35f5e5299c70dcc5e61a8b9ae2276c3354e45dc44&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/clayton-hotel-cardiff.html": {
+    "name": "Clayton Hotel Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.2",
+    "review_count": "5,563 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/192324024.webp?k=dbfdac47b3470d0c97030fbb672957b36eae77e79d8dff3051ca5bad272fc515&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-marriott.html": {
+    "name": "Cardiff Marriott Hotel",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.1",
+    "review_count": "3,054 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294402434.webp?k=7a01f25876311c1b4436853ee485f5e02b2a783ee38f117e99acc30ba80bfc00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/macdonaldhollandhouse.html": {
+    "name": "Mercure Cardiff Holland House Hotel & Spa",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.6",
+    "review_count": "5,131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252003578.webp?k=89b191ea5447f3943c617f6db18fef4fd7c4e2ceb9409b28ca8a0ca5b630b454&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mawr-terrace-by-ty-sa-new-2-bed-in-llandaff.html": {
+    "name": "Mawr Terrace by Tŷ SA - NEW 2 bed in Llandaff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337519268.webp?k=17ed6d560896ac3ee07c36c21fbc20a855708eb442f184c3c5df6c580bcca454&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/radisson-blu.html": {
+    "name": "Radisson Blu Hotel, Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.7",
+    "review_count": "4,567 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232804641.webp?k=d875938e81c103905d488aab2d30e5157cc79876aa281c79e201f41b7a884411&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/voco-st-davids-cardiff.html": {
+    "name": "voco St. David's Cardiff, an IHG Hotel",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.5",
+    "review_count": "4,158 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224869785.webp?k=e7d00de164d91f2b4c90f048b47e02fe3ba6390ac21bb217d69f55572ce88700&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilton-cardiff.html": {
+    "name": "Hilton Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.5",
+    "review_count": "4,347 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/16597906.webp?k=e23a4f66fc03c78d709f3621b1089e8be9398d680ad23e6740b607bcda84086f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sandringhamhotel.html": {
+    "name": "Cardiff Sandringham Hotel",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.2",
+    "review_count": "2,855 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299311717.webp?k=e5cd4b3a85655cf4bf9000a49d9903f258812db52ded15957e53f8dbda5a4e1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-inn-cardiff-city-centre.html": {
+    "name": "Park Inn by Radisson Cardiff City Centre",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.2",
+    "review_count": "3,627 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232802421.webp?k=b730d7e7139ecdb7f07249f1c573e3adec9658a1d7b2cf04fb7af64579ba7bfa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robyns-nest-by-ty-sa.html": {
+    "name": "Robyn's Nest by Tŷ SA",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.8",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342745232.webp?k=2fc44d913f2c49443a520193918840639beb680cb06099c1896874817a0270c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-wyndham.html": {
+    "name": "The Wyndham by MGroupSA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340499491.webp?k=6f928e0991892b1a9ebcbde1479d0d910b6dfbaab6f816cca8f516432dbe8b97&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coal-exchange.html": {
+    "name": "The Coal Exchange Hotel",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.4",
+    "review_count": "3,122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427395701.webp?k=204808ae1882eccf9a54f2acf9aa016205ab5fb93dce5d4307224621b19139a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-cardiff-city.html": {
+    "name": "Holiday Inn Cardiff City, an IHG Hotel",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.8",
+    "review_count": "2,209 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244413896.webp?k=c91b3b356d65b538a5cee6e89f7f976ac44c0d3a18afdffa3b304c49fddf8a39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quayside-apartments-cardiff.html": {
+    "name": "Quayside Apartments",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.2",
+    "review_count": "506 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282462115.webp?k=ec17251cb2d129a0324a962d8ad19eda1b5850e43eb5d2b153c9b1feffc6ae8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/milestone-house-cardiff.html": {
+    "name": "Milestone House by M-GroupSA - Free Parking, 10 Min drive to city, Large Spacious House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384009627.webp?k=ddf7e045401f93eceedf808b6a8069a5999dadbdcf213cfaa2566458f273bad7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/switchback-stays-serviced-apartments-cardiff-llandaff.html": {
+    "name": "Thompson Apartments by Switchback Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402232516.webp?k=b88b66e2f22f62e7d421fa06ea7fc63adadfe08860d555ad99ce78f836256b83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bigsleephotel.html": {
+    "name": "Citrus Hotel Cardiff by Compass Hospitality",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.9",
+    "review_count": "3,809 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132702135.webp?k=2267857400c087e886569ee4db801cbe43bbbf672bb0debcc05fe392e641c4a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverbank-penthouse-apartments.html": {
+    "name": "Riverbank Penthouse and Apartments",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.3",
+    "review_count": "126 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/126787487.webp?k=b4bc8e247471ee501ad2d027f41a3c7477d6630c38809e57e4e9414c85b0e4f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-moorwell-spacious-luxury-apartments.html": {
+    "name": "Luxe Apartments, The Moorwell, Parking, Gym - 10mins Cardiff City Ctr",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.3",
+    "review_count": "78 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332128372.webp?k=9806f5ecd3856f1b25afe8df682d1f395d64d2454bb236efee3b71c4aba8770e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-bay-apartment-cardiff123456789.html": {
+    "name": "Cardiff Bay Apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.9",
+    "review_count": "125 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162198848.webp?k=65f463b85fc92109838b6e5a9bc7149cb7661d22acbba85eb41a583e7a848338&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/edwardian-city-centre-full-house-for-big-groups.html": {
+    "name": "Edwardian City Centre Full House For Big Groups!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367099089.webp?k=3bc3b5f5d6542094365db65b48fe173d37093aff736d33521afcbab6aa676ba9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theangelhotel-cardiff.html": {
+    "name": "The Angel Hotel",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.4",
+    "review_count": "3,844 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257575077.webp?k=d3d776c3d2d6cf286ce29094febb01d25b991c55c8739391a773e6f41a0a7e8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sain-y-mor-boutique-seaview-room-by-staybc.html": {
+    "name": "Beachcliff Hotel",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "227 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353708778.webp?k=7251bce4d7102b303ff868572216f92b41531bef94929bca80bd69c68161df25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/express-by-holiday-inn-cardiff-bay.html": {
+    "name": "Holiday Inn Express Cardiff Bay, an IHG Hotel",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "7.9",
+    "review_count": "2,068 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262520649.webp?k=b3a0dae999e6097f32f93ad30a6464a93e267037936750378afca6b55c9def55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hanoverinternationalcardiff.html": {
+    "name": "Novotel Cardiff Centre",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.3",
+    "review_count": "2,889 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400263876.webp?k=85561198115d1def3db006a6f3963b626eee58559365145c33d6fe7950531bef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/73-by-coffico.html": {
+    "name": "No 73 by CoffiCo",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "671 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361119065.webp?k=0b6915cae5abba02a2fdb88898c7883e7a1e9909f4fb4eab054200904a9f5ad7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/merches-3.html": {
+    "name": "Riverside Gardens #3",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319794750.webp?k=64c4c340f368df318139c34789f13a6d06af5ca7ce8c809a9a892c70f10eebc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/airserviced-oakfield-apartments.html": {
+    "name": "Oakfield Premier Apartments - Fast Wifi - 5 mins City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "273 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327551488.webp?k=268f55b72123c795d39f04766fa0e86615648e35025a10b7e1855a3038acf5f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/top-floor-flat-2-min-taxi-from-cardiff-centre.html": {
+    "name": "The Elms - Close to City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327504421.webp?k=83f559c62677f1904609a4d7f1787b1027020ed160bd28ceb36cf02884c69cf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tane-s.html": {
+    "name": "Tanes Hotel",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.1",
+    "review_count": "947 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335247887.webp?k=fb8bf91aecff722998125cb2c3bca327697ac1cb1afec6e7248072d01d85d2ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-new-stylish-elegant-2-bed-apartment-in-the-city.html": {
+    "name": "Pass the Keys NEW Stylish & Elegant 2 Bed Apartment in the City!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278624933.webp?k=aed49570ac4dabef2abe55105bbf011f66ef907287dc53d1aa00ae22aeac3069&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-bedroom-house-with-sky-tv.html": {
+    "name": "3 Bedroom House in Canton with Sky TV and Easy Access to City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434475938.webp?k=b7565975746801b55ca006731127a3c53e8b2123166178e59359ca49ed5069da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-holiday-home-near-cardiff-city-centre-madoc-road-3-bedrooms-sleeps-up-to.html": {
+    "name": "Lovely Holiday Home Near Cardiff City Centre - Madoc Road 3 Bedrooms Sleeps up to 7",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379472920.webp?k=0e374943b9b0cafea3b09f593cee418570e2d31269ee1b9e1f61414108b2164d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/railway-cottage-cardiff.html": {
+    "name": "Railway Cottage",
+    "location": "Cardiff",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156265251.webp?k=456590496ed682a836f33a6cdca92cd6953a15424144005f3e921ae35cb52deb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/switchback-stays-serviced-apartments.html": {
+    "name": "Richmond Apartments by Switchback Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.5",
+    "review_count": "78 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262049014.webp?k=42f38cb9e2437f427176362fbd798e0fefb0cc8ff5daa21c23c2b7d7a099e258&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cf10-house-cardiff-city-centre.html": {
+    "name": "CF10 House - Cardiff City Centre",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.5",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220271456.webp?k=1800cb9846129ae70b404e5ec990f86393eb0c552c3d132a3004b41fbbd0f907&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bunkhouse-cardiff.html": {
+    "name": "BunkHouse",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.2",
+    "review_count": "683 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320510636.webp?k=787c7bf15a70c698d039e7ecb44899068067a9fea856684641b8fd47430dd3ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/black-door-apartments-roath-cardiff.html": {
+    "name": "Albany 2 by Black Door Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362724484.webp?k=0945c453b8ab4868553d14c9e7c989244e283421042c79671a62794ec9f0d21c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pontcanna-mews.html": {
+    "name": "Pontcanna Mews",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189258443.webp?k=331d560c2e5316a67b96c6dfedc0a72f7fb14210b2b208fd7500a95a201c6374&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northern-heights-flat-at-north-road-with-free-parking.html": {
+    "name": "16 North Road Flat 4 by Mia Living Free Parking On Site",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.2",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328033784.webp?k=d1137c8e3b0b6b13c09fdf8817daebb2c3d0bd3a7c7b92c98d03bbaedd2603d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-lovely-1-bed-apartment-in-pontcanna-with-parking.html": {
+    "name": "Pass The Keys Lovely 1 bed apartment in Pontcanna with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331733890.webp?k=f98eba636957c66e4596ddda5356cc537400bfaad826aa10ad1968b75b16fd77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-cardiff1.html": {
+    "name": "The Coach House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.8",
+    "review_count": "97 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218975227.webp?k=0784d19ee3a2a02c3ced7bce47c257773a3d4c4efee72856a0740657279700e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-super-central-spacious-2-bed-apartment-with-parking.html": {
+    "name": "Pass the Keys Super Central Spacious 2 Bed Apartment with Parking",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357922024.webp?k=a0a46012ce925d60cee16de73567e72e8b083cc09b1ffe637a9867b772440f33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mount-stuart-by-mia-living-luxury-2-bedroom-apartment-in-cardiff-bay.html": {
+    "name": "Mount Stuart by Mia Living (Luxury 2 bedroom apartment in Cardiff Bay)",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344078569.webp?k=ddc0429b73ff60ca151e15a8c3ac3f0657fc8b34c56241d7dc551a2bb9745b7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grosvenor-house-cardiff.html": {
+    "name": "Grosvenor house",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.9",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/55149314.webp?k=30aa97a6beee9a31002eab3db456c3328f8dc48f52db4888c669d1ff97b46702&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sophisticated-home-with-beautiful-amp-large-garden.html": {
+    "name": "Sophisticated Home with Beautiful & Large Garden",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398119774.webp?k=9841fba6a9fc8d01f5c95645a0147b627abd652e971b8e5c514393b9e52716f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-foretop.html": {
+    "name": "The Foretop",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.3",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/68771124.webp?k=083b1b924c4ecd32753332d7f330ab52c63b4f284ed11be580ad699c84e044b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-flat-10-mins-walk-to-bay-and-city-center.html": {
+    "name": "3 bedroom flat 10 mins walk to Bay and City center",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430353203.webp?k=10d414222f083cf7e7cff528875eb92de80fd320c70cf5328ac95bf7bd752ac5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-central-cardiff-gem-cardiff1.html": {
+    "name": "Stunning Central Cardiff Apartments",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424931311.webp?k=3c50d20b428d03756edc4fc15fffeebd6e517e5a56ecd65276d7a716794918fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ibis-budget-cardiff-centre.html": {
+    "name": "ibis budget Cardiff Centre",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.2",
+    "review_count": "6,168 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259508214.webp?k=824b7a70ad93a07b56e12ac1aaf7cc7576dcc5bd73219c0ad8c38e745a049ca0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-cosy-1-bed-space.html": {
+    "name": "Beautiful cosy 1 bed space",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431610373.webp?k=8c05134b0bf0a3c6dd7a5cd39b9a8b39e15d7f2a86201b2fc4c911357034e081&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penarth-town-terrace-close-to-cafes-beaches-cardiff.html": {
+    "name": "Penarth Town Terrace, close to cafes, beaches, Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423132759.webp?k=23239bb9ed1e1a985157f6378e389db1b818e323ef32737c6beb29e5a56af63a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kings-landing-by-home-host-short-walk-to-city-centre.html": {
+    "name": "Kings Landing, by Home Host, Short walk to City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417559177.webp?k=7aa947a277edad63fa2618e2bf310a7ce46ec47e9bcb3e198ac972c4d32dc66c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/room-in-a-friendly-home-in-a-quite-neighborhood-of-cardiff-rumney.html": {
+    "name": "Room in a friendly home in a quite neighborhood of Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419398421.webp?k=d268f09d58cbaf87cfd34359d56194f0705d2ad490089c9899e648265aed26e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-spacious-3-bedroom-apartment-in-trendy-canton.html": {
+    "name": "Pass the Keys Spacious 3 bedroom apartment in trendy Canton!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292337481.webp?k=3c8da5a5a6e35c03cd47a275938f0f1f1547f0f22d0a375a6b8f225d51971d14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bed-close-to-cardiff-city-by-mia-living-cardiff.html": {
+    "name": "Spacious 3 Bed close to Cardiff City by Mia Living",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413623742.webp?k=5aff2695cf08e0259fea6b8bf7f66fac635949d537e369ca2f150ee00ef4366e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aaron-wise-62-plantagenet-street.html": {
+    "name": "Aaron Wise - 62 Plantagenet Studios",
+    "location": "Cardiff",
+    "score": "8.3",
+    "review_count": "371 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/149461147.webp?k=43916be5f949f3f94a53e041be204ab0c1f57073017eded5c3cf31553f4fec79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cathedral-city-apartment.html": {
+    "name": "Pontcanna Luxury Apartment- 10 minute walk to the City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432523602.webp?k=538eff620a455c2f5f3b6d7d3f3d418199d9ed98e5854390afb8c1c46a842164&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-victorian-terrace-penarth-cardiff.html": {
+    "name": "Large Townhouse Penarth, Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374705755.webp?k=08bd903e4de37987b7f3c13ef818afcd7fcdfd29946b7af3ebb19f075e098153&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-centrally-located-detached-coach-house-cardiff.html": {
+    "name": "The Coach House, centrally located detached Coach House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.2",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340491718.webp?k=cd4882bc70332418ca63e0b94a9ec1db837e6b29b1b4a51f9dc4182c972122e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautifully-restored-victorian-2-bedroom-home.html": {
+    "name": "Pass the Keys Beautifully restored Victorian 2 bedroom home",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400549248.webp?k=c68a452a59194fb8205279022ee78078c571c91f0c43ca5a23bb8e39837a265b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/family-house-ready-from-20th.html": {
+    "name": "Spacious family home",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432997154.webp?k=95a0378ecb2a24e25bbaa9ea50ca702cc38205192bac83a21e1fb5297aa6db86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-2-bed-apartment-close-to-village-shops.html": {
+    "name": "Spacious 2 bed apartment, close to village shops",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424652063.webp?k=ccf76c503ed048c8b03f0063acac9a0fe9bbe02a9c21d7472876cb79d897ceba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-apartment-for-up-to-6-nr-centre.html": {
+    "name": "2 Bedroom Apartment for up to 6 Nr Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.5",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402877010.webp?k=9e076c2a536dbb593279fbec4ac3335e3403e3c1dd4f907201db532334dfdd20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/amazing-2-bedroom-flat-in-the-city-centre.html": {
+    "name": "HG Collection - Cardiff City Centre",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421186869.webp?k=d9195960af8504271281be7b363527a6fd3fed208694bb29e1f21b09b919626c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cardiff-apartment.html": {
+    "name": "The Cardiff Apartment",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.9",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343169225.webp?k=41febe53fb87c461b92db3e95d8317d7253a29b4fb45bb398e51b5faae350362&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkgate-cardiff.html": {
+    "name": "The Parkgate Hotel",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.7",
+    "review_count": "2,637 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326210927.webp?k=79e3de864be6eae266ba7e0d548b26e7b0eb8b2e5d17828c8f4213616d9cfc18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-gf-apartment-in-popular-pontcanna.html": {
+    "name": "Modern GF Apartment in Popular Pontcanna",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422202608.webp?k=d933e415ceeca02a93cd3edb3d8df574cae035035599bb90768949b1177bdbb5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/principality-view-apartment-two-by-solace-stays.html": {
+    "name": "Principality View Apartment Two, by Solace Stays",
+    "location": "Cardiff",
+    "score": "9.2",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364942015.webp?k=4e932d75ae8abd9addfa7bb53c34f6ae830cb254bf3d3a700779f9718746f716&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-sleek-1-bed-apartment-w-parking.html": {
+    "name": "Pass the Keys Sleek 1 Bed Apartment w Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425145656.webp?k=0981df929c1aa1d93542b0e22759a430274df6e8e07c98b84c23f5af8ee33e57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-duplex-apartment-in-cardiff-city.html": {
+    "name": "Spacious duplex apartment in Cardiff city",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376292685.webp?k=07617f38176bbc17a30129c5036af03554bbae82c7c9af26f20bc2e5b45ca1f3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bedroom-penarth-home-garden-amp-parking.html": {
+    "name": "Spacious 3 bedroom Penarth home, garden & parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390797356.webp?k=a3f6ee421df8a0a58f6beac23347eb1da003cc54f1d1cfc7279bed684c8c81bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-central-cardiff-gem.html": {
+    "name": "Boutique Central Cardiff Gem",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411010140.webp?k=b165fcf865a9fc66d2670a685a36ed90953f9b4006f3912edb88f85a5a9905d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-2-bedroom-apartment-next-to-the-city-centre.html": {
+    "name": "Pass the Keys Cosy 2 bedroom apartment next to the City Centre",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372229125.webp?k=7a63daaf3ccacf68601923444dbc6efce61c811d8d93ee1a8255ec380f0aacb5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/schooner-to-pint-2-bedroom-central-cardiff-apartment-with-private-parking.html": {
+    "name": "RD Stays Centre of Cardiff 2Bed Flat with Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "7.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415489185.webp?k=aec27e45573d4cc6f24999677280b5ee1478e2d3d360ad8f6c49f12fbc95b2e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/taf-penfro-cardiff-apartment.html": {
+    "name": "Taff Penfro Cardiff Apartment",
+    "location": "Cardiff",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399366443.webp?k=e4c76812a342ef3f5976374dbfcfac00900e6af19fa9f3d02079716e3b674b73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-house-with-private-garden-next-to-cardiff.html": {
+    "name": "Modern 4 Bedroom Detached House in Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.5",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356342895.webp?k=66fb5fb86bd99d8d51d41da17c45f5b986451eacde8cf670fad45745de7a2f4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-modern-light-2-bedroom-apartment-in-canton.html": {
+    "name": "Pass the Keys Modern & Light 2 bedroom apartment in Canton",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.5",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299995323.webp?k=92c4b246ff794d593eac15fe28e3624c3c0ce55021a0e099a5ee72c3c381d70d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/easyhotel-cardiff.html": {
+    "name": "easyHotel Cardiff",
+    "location": "Cardiff",
+    "score": "7.4",
+    "review_count": "2,954 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297684398.webp?k=4460b5b1a9eb2a25a48e9f94b743ac72c3eef5a47f8bab126ab87b5f7faab44c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-country-farmhouse.html": {
+    "name": "Entire country farmhouse",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430467543.webp?k=c4bf29862bd517c05464ba25e0617aadd55387a13707d3d2aa6d92f1b35248a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-center-house-cardiff-parking-permit-and-garden.html": {
+    "name": "City Center House, Cardiff, parking permit and garden",
+    "location": "Cardiff",
+    "score": "9.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405155706.webp?k=570b774aed80cfc1ee151072d852081ee62b81234c86720d64508967f513dec0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-apartment-river-view-cardiff.html": {
+    "name": "Waterside Studio Apartment",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401236397.webp?k=fca649080d18c44682e096b34581695895b4fa71ad6c8a3aaa58f1840f142ef9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-city-loft-apartment-great-location.html": {
+    "name": "Luxury City Loft Apartment! Great Location",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419448717.webp?k=c2f2c6a2f18a06b334b93976f5e2a03f0a161e405dd9fbba88b1f0d992293694&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maindy-rd.html": {
+    "name": "Maindy House by Stay South Wales - Sleeps 5",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379465665.webp?k=896809ece1291a0bf6947c6c2855f4fc099796cac8a816ee1915d3320072800a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/richmond-place-3-by-ty-sa-free-parking-cardiff.html": {
+    "name": "Richmond Place 3 by Tŷ SA - Central - Free Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377826757.webp?k=957ca86d157c84b2d5e85985e39fdc65961b07b4163786716285fef407bada19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/evita-apartments.html": {
+    "name": "Evita Apartments",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409965200.webp?k=ecdd6b7f0a7b3665e708324faa558afe9355b42a4446d1685ff44684527c2330&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-secure-2-bed-free-wifi-cardiff.html": {
+    "name": "NEW Cosy & Secure - 2 Bed - Free WIFI - Modern & Functional",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361110146.webp?k=135fcc5d12ab77c4d703a96e9d40434f7ddfdc3cf5a558f209abc0b5750bf17a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/35a-howard-gardens-cardiff-city-centre.html": {
+    "name": "35a Howard Gardens - Cardiff City Centre",
+    "location": "Cardiff",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421173219.webp?k=79d3074d4063df8784dc53a341595c7ed00d0565817705bbd18b60cfb3c12228&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pontcanna-by-black-door-stays.html": {
+    "name": "Pontcanna by Black Door Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362717447.webp?k=269d45ec2a93b598008bf841d07985a459f10d3c9c710e70f0be9eb7e3dcce35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rowsby-court-stylish-apartment-with-private-parking.html": {
+    "name": "Rowsby Court - Stylish Apartment with Private Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287229346.webp?k=5fe8447cc48193b4b734a0536d35ae86041cf9a5c7411e4143f4ea4f86e52200&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/village-hideaway-2-bedroom-apartment-north-cardiff.html": {
+    "name": "Village Hideaway 2 Bedroom Apartment North Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331712316.webp?k=b4de4cedd450a3ab1791c7e55180bf5fcd31c22c371773f63cce73fd64db172d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/principality-view-apartment-one-by-solace-stays.html": {
+    "name": "Principality View Apartment One, by Solace Stays",
+    "location": "Cardiff",
+    "score": "9.1",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346651809.webp?k=69e7cac8c1624b042b0b1512962c9a4e88bfa55021996a1e7caf15537ad41e21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/one-hundred.html": {
+    "name": "Number One Hundred Bed And Breakfast",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "356 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360128924.webp?k=68d5da6db3a9cf934a77ab3768aaa3742995af95011e1a8a7f9f7757edb9f49c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rd-stays-central-one-bed-apartment-with-electric-fire-place.html": {
+    "name": "Central Cardiff One Bed Apartment with Electric Fire Place",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427553002.webp?k=d9ff3824b4381a0f9ea2906aa558d003f71798b3f8d85532b7c427d407d675d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bedroom-and-2-bathroom-apartment.html": {
+    "name": "Luxury 2 Bedroom, and 2 Bathroom Apartment",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "7.0",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407821374.webp?k=392e689fe94b13847c89724d123ec1de612b5017fc951a03907fb21a95f759ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-comfortable-2-bedroom-and-1-sofa-bed-sleeps-5-casablanca-flat-4.html": {
+    "name": "Casablanca Flat 4 by Mia Living 2 BR with balcony",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329877705.webp?k=f949b6ce5d6e34d0284d46788289c411785b888c688acae13f237b7dc176d1ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hafan-y-ddinas-cardiff-apartment-cardiff.html": {
+    "name": "Hafan y Ddinas Cardiff Apartment",
+    "location": "Cardiff",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321342374.webp?k=6c44525b330b189eb286b7f4cc3acbce59e75500e0d5fcd88d2e082c59904385&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/high-view-serviced-apartments.html": {
+    "name": "High View Serviced Apartments",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.9",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344120965.webp?k=dd67db53e1c88fc87e98d9bebe67d9b613ce6bed54f1194605f5d038836e0837&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/principality-view-apartment-three-by-solace-stays.html": {
+    "name": "Principality View Apartment Three, by Solace Stays",
+    "location": "Cardiff",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363867052.webp?k=6a70df069485cb623d4af678fa70e95a1134f5ea9f5552aadb7188f71bd9dcda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-victorian-terrace-vat-registered.html": {
+    "name": "City Centre Victorian Terrace",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287837380.webp?k=c8cbccd52f2f93d8b3cdacaa1ee0db9bf2de7f863bea7938e62e7c6cce184653&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/riverstone-apartment-by-mgroupsa.html": {
+    "name": "Riverstone Apartment By MGroupSA",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433313245.webp?k=925856801d6bf420de19103639d987b640ef8c958235c8b9d88ef5de9cae077a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/salisbury-road-apartments-short-walk-to-city-by-property-promise-com.html": {
+    "name": "Salisbury Road Apartments: Short Walk to City! by PROPERTY-PROMISE.COM",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425029279.webp?k=2d53f99e313e3fd30824803887ea0968b7c138542ae59d4acd68475a27538c0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/duplex-apartment-for-up-to-13-near-city-centre.html": {
+    "name": "Duplex Apartment For Up to 13 Near City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.2",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294808247.webp?k=41298433e3bbd389c6d3188d24ae89f1e08842c02cde9009ecf001027e878436&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/principality-house-by-mia-living-3-bedroom-apartment-a-5-min-walk-to-pri-cardiff.html": {
+    "name": "Principality House by Mia Living 3 bedroom apartment a 5 min walk to Principality Stadium",
+    "location": "Cardiff",
+    "score": "6.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345787823.webp?k=8912c73761bfef9837e7902d994aed8fe1707f8f3a1067af77ea1ad360e76229&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/guildhall-place-by-ty-sa.html": {
+    "name": "St Mary's Place by Tŷ SA",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.4",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370605042.webp?k=4f54be310c4dac2e16b869e9e05bf5adc4e42dd4ae01c970b79179c08c6168f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gathering-ground-canton.html": {
+    "name": "Gathering Ground Canton",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420829058.webp?k=a73d148fb5975f249f5fcfcce3c1958a569bea0a5251e7a2fbf26ae931a4a93d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unique-coach-house-in-the-heart-of-cardiff.html": {
+    "name": "Detached Coach House in the Heart of Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.2",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278028720.webp?k=46c83ae95477abb0741db3340d6f0fff5722b3a68a325e78ed554dc42e9fc597&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-two-bed-home-by-property-promise-com-cardiff.html": {
+    "name": "Beautiful Two Bed Home by PROPERTY-PROMISE.COM",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420139054.webp?k=9e3249cafdedddc990c83e34964b356dee73c7be1ef25a09410445daa48ba868&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-2-bed-apartment-with-parking.html": {
+    "name": "City centre 2 bed apartment (with parking)",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433087686.webp?k=d2f1b2b05c6d7424a5a77ddd31d7baa250eeba7a8b87d368cbd3aa32a4cf00a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/millennium-embankment-by-ty-sa.html": {
+    "name": "Millennium Embankment by Tŷ SA",
+    "location": "Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409795966.webp?k=ecdc80ebc540ca03b86343b89c3bf693a43919908d2021426c3d753fecfcff93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-river-house.html": {
+    "name": "The Riverhouse",
+    "location": "Cardiff",
+    "score": "8.9",
+    "review_count": "611 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405684932.webp?k=0a0758e6a285339b22344ea401aaeabff6ecf2b19f1acfd03577d084b3a1f197&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/theroyalhotelcardiff.html": {
+    "name": "The Royal Hotel Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.0",
+    "review_count": "702 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245596652.webp?k=602a407add58bb7ac21d320999063c3dd7f64ffb6afd8b0aaf1ec0c68c6c9abf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bed-central-cardiff-loft-apartment-near-stadium.html": {
+    "name": "1 bed central Cardiff loft apartment near Stadium",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366974482.webp?k=ceed213fcb1c03b767344c163982f45d5f8acd9e03a4e35bd10cb61087aa5d6b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-city-centre-apartment-cardiff.html": {
+    "name": "Cardiff City Centre Apartment",
+    "location": "Cardiff Center, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431288539.webp?k=dbf3a229a22f4b36b36ef44bbe80741e433b1bca30c99759379a749fef2c144f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-skyline-long-stay-offer-luxury-flat-w-designated-parking.html": {
+    "name": "The Skyline - LONG STAY OFFER - Luxury Flat w/Designated Parking",
+    "location": "Cardiff Center, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433689203.webp?k=850ced7662dab49da923b7297a339ea9fcd8a978022fd939c2ff50a0907498a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-aspect-by-solace-stays-cardiff.html": {
+    "name": "The Aspect, by Solace Stays",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357130861.webp?k=bff21635481e8652b5608133bb6a6d58a5a9823a94b01dce121adf6f1152ebee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/north-road-juliettes-flat-with-free-parking.html": {
+    "name": "16 North Road Flat 3 by Mia Living Free Parking On Site",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.6",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328033142.webp?k=ad98e97bdb9f9440b77ff411423fb245cc3bb1098896261f133d25ea411a06d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-suite-in-cardiff-city-centre-secure-parking.html": {
+    "name": "Luxury Suite in Cardiff City Centre + Secure Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.6",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279778931.webp?k=c0d51247702797fe8b40ae4215de211b8e407afa65f7e34219503f365a2664a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inn-cardiff.html": {
+    "name": "Inn Cardiff",
+    "location": "Cardiff",
+    "score": "9.1",
+    "review_count": "484 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353476145.webp?k=426021af6e62fccb81401b2c23a7404847acd6f662c205d29782522d56029656&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-2-bed-apartment-in-the-heart-of-the-city.html": {
+    "name": "Stylish 2 bed apartment in the heart of the City",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.5",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326199811.webp?k=3713e238d3a4a3a3af8045624e00de8c6b9384c11cad74bba9da11ea30198b52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pixels-place.html": {
+    "name": "Pixel's Place",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409116925.webp?k=c786a746db5ba4a05eeea9282387ca089d4a72563f6490b41b7a99733e35ead4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ibis-cardiff-gate.html": {
+    "name": "ibis Cardiff Gate - International Business Park",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.5",
+    "review_count": "2,053 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/273906436.webp?k=a589dbe5555e2f9e902166e2e07f093965e7c32fc878b8d7d78d29ed5bd83e64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-up-to-9-close-to-centre-big-tv-wifi.html": {
+    "name": "Apartment up to 9 close to Centre, big TV and WiFi",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271259889.webp?k=c4b9cbb925d25136375238283a0dc2b19589f1c3223e07b3eef56181591d4382&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-house-close-to-stadiums-centre-w-parking.html": {
+    "name": "Modern house close to Stadiums & Centre w/parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210925818.webp?k=f7ed36717793503401b44e0abc5d7c113a3251e34a37be47b89e890ee020440d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beverley-cardiff.html": {
+    "name": "The Beverley by Innkeeper's Collection",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "1,858 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/214441967.webp?k=ff4f863a7ed78a0811f6c6d53c81b945cc09742b1e08d362a2f6d650161d6aae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maltsters.html": {
+    "name": "Maltsters",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.4",
+    "review_count": "667 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/52843398.webp?k=29d43d07bf3e0168c6259f8bfd4f169debf377aab7ffe83a7910203cdb61dd10&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boutique-central-cardiff-abode-cardiff1.html": {
+    "name": "The Hayes - LONG STAY OFFER - Central Cardiff Abode by CTO Serviced Apartments",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329213202.webp?k=1608599fc12a95a83e36c00f4fd91622ca969fba77074d36a8c7426912244b2d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/millenniumlodge.html": {
+    "name": "ML Lodge",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.0",
+    "review_count": "1,289 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/86904186.webp?k=57cf61b9d5529a5f2050c510d6a3af1a763f7e6fa645e37ad7654e9703dfb8a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/amazing-2-bed-2-bath-apartment-cardiff-city-centre.html": {
+    "name": "Amazing 2 Bed 2 Bath Apartment City Centre Free Secure Parking",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.5",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350688513.webp?k=0376db86e24fef3469def126f1c5df9eed865cb1c23d9de9c7e23c83795e43f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-city-studio-apartments.html": {
+    "name": "Bay City Studio Apartments by Staying-Away",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "136 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379880580.webp?k=62800188f86fe40f2dbac8a4052855e47982549bbb337736c1c4f5d521d9bdfa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shirley-stays-central-1-bedroom-apartment-sleeps-4.html": {
+    "name": "RD Stays Entire Apartment B",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414899185.webp?k=431494a562db23d7417c2fac93ee0b303fe41d582df83be02cebd393705a3a41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-up-to-4-people-city-center-location.html": {
+    "name": "Studio, up to 4 PEOPLE, City Center location",
+    "location": "Cardiff",
+    "score": "7.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356509570.webp?k=9fecc938f90c746708f8d12e3ea7e79d82348e2e5da60b6ff43928380658ea25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/138-campbell-drive-apartment.html": {
+    "name": "Campbell Apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.1",
+    "review_count": "69 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87476559.webp?k=f6a4bff486099aff1e0872ef8849270a772cd78330701b7857faf813b4fc28ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fully-furnished-and-stylishly-decorated-apartment-flat-2.html": {
+    "name": "18 North Road Flat 2 by Mia Living Free Parking On Site",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322847776.webp?k=5543da875392ecef5ef79be5137cb38911a14b89a85dffde8f2cee8710c0640e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baystay-cardiff-bay-apartment.html": {
+    "name": "BayStay Cardiff Bay Apartment",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "6.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407051732.webp?k=15415a65c63ac58cf6dc9b5304f0ff8178aacbe19cda323e55aba5c548d6139e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-and-cosy-house-in-cardiff-south-wales.html": {
+    "name": "Lovely and cosy House in Cardiff South Wales",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401171257.webp?k=b5d59c2f8fc3e114346d67cd3a30fbe6b58f98d1bca7becab88d058c9ede15fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-2-separate-rooms-and-1-sofa-bed-free-parking-amp-wifi.html": {
+    "name": "Apartment 2 separate rooms and 1 sofa bed Free PARKING & WIFI",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420960595.webp?k=8d11e70996500151c6f5943ac0a994a8dc71f9f3ff1900e93c40ccaf5d51ef5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-bay-apartment-cardiff12345678910.html": {
+    "name": "Cardiff Bay Apartment",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.5",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/224692642.webp?k=9c21684a2d3767524f6181754890cc057f747647916924b944e9fa0f67cc50c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-centre-grown-floor-luxury-apartment.html": {
+    "name": "Perfectly Located City Centre Apartment, Free Parking, Cable TV and WI-FI",
+    "location": "Cardiff",
+    "score": "8.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413615733.webp?k=853d68e59658a9c7c3ee116cde2fad5da77be3d9a32e076da924b8d9cc0ba989&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cwtch-cardiff.html": {
+    "name": "The Cwtch",
+    "location": "Cardiff",
+    "score": "9.4",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156266837.webp?k=a94ac512049a228c1201bc2fbfba13e785293be5908dbd6e80193904afbd2956&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contemporary-one-bedroom-apartment-in-the-heart-of-cardiff-bay.html": {
+    "name": "Brand New One Bedroom Apartment in Cardiff Bay",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204976362.webp?k=b8462368346dcb8cee6836a7addf49b63610d785e5a0fccf7a9e0b87dd5a0d55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-apartment-near-city-centre-and-the-bay.html": {
+    "name": "Modern Apartment near City Centre and The Bay",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395480971.webp?k=cba1b13d3d4c0a3db3f8e2e6b3cf2bb3e21d161b896e054848fc141c5b01cc5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bed-newly-refurbished-house-for-families-or-small-groups-of-6-person.html": {
+    "name": "Gorgeous 3 Bed House - Close to City Center - Free Parking for Multiple Vehicles - WorkSpace - Desk & Monitor",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407322583.webp?k=2afc2f0fd7ce506e87750883489bc8e4e3b1855bb3369c03bed7711d60c21bd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/premium-development-located-in-cardiff.html": {
+    "name": "For Students Only - Premium Accommodation at Eclipse Student Accommodation in Cardiff",
+    "location": "Cardiff",
+    "score": "7.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405991460.webp?k=a1497c460a688d83b42f8dfff750dd95ae972a3c8f94da32374e4370179fcf02&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-bay-flat-with-water-views.html": {
+    "name": "Cardiff Bay flat with water views",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400568159.webp?k=f19a0aa730d1ffcd61359907a424d12bc1d4566759285dffdb91f1af388a8cd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-two-bedroom-apartment-near-victoria-park.html": {
+    "name": "Stylish Two Bedroom Apartment Near Victoria Park",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.4",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275580592.webp?k=4d7d332500d6cc27b9b419abea6ce04c5ca37dfa334ffb1e9b0d427989c5f797&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/altolusso-city-apartment-cardiff.html": {
+    "name": "Luxury Cardiff City Centre Apartments",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.4",
+    "review_count": "167 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349719598.webp?k=2ff6e42b7b802200c72cae4b2cd676422ff398f910d7be7f6bb01d8c8464cb93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/albany-apartments-cardiff.html": {
+    "name": "Albany by Black Door Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.9",
+    "review_count": "75 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362704804.webp?k=5032be5eb924a3d9b876cb8eb0460dfacf9e87ed470fdca423fcfe53528a5ac5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sapphire-premier-apartments-w-secure-parking.html": {
+    "name": "Sapphire Premier Apartments w/Secure Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396522555.webp?k=1da55ea610da1d0607766bc55f39646ac220c50e953e911ce2e44fe68fcbad46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-apartment-in-the-city-centre-by-stadiums.html": {
+    "name": "Modern Apartment in the City Centre & by Stadiums",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215919914.webp?k=6c140bf51a2336b735f78843c7ddfd2ab5c1786af18376f15138b62c5b0fcd52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arabella-by-ty-sa.html": {
+    "name": "Happy Home by Tŷ SA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384741852.webp?k=edae042011270af652ab63244c072e0c65e494ec2f3c3d9749310ca1651f3bbb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-house-country.html": {
+    "name": "New House Country Hotel",
+    "location": "Cardiff",
+    "score": "8.5",
+    "review_count": "788 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291246351.webp?k=a041205d1b3b980f9da43ecbf83605a36812b6382e86a60e014593e3b5e9e511&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-city-centre-apartment.html": {
+    "name": "Charming City Centre apartment",
+    "location": "Cardiff",
+    "score": "6.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422925492.webp?k=33ba3034407e4520f927756ec023ece6b9acfd0ea77a3545da42386c31547afb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-home.html": {
+    "name": "Cardiff Home",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433724208.webp?k=3d9d0c9f0a37bc3adbcb7f97feeb8a9220b49894c85dd2a2d20263cd687c4505&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-b-merches-gardens.html": {
+    "name": "Riverside Gardens #2",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.4",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315314126.webp?k=d775ab0840c0d787fd9972307022b9ef128b1f2dfb099c314c476225552ffb70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/switchback-stays-serviced-apartments-century-wharf.html": {
+    "name": "The Townhouse by Switchback Stays",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.7",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335934212.webp?k=75b66f6bf49842db64da6101cbbed5f4d0a3b14c6467fbdac0324d29f19c9a89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cwtch-cardiff-bay.html": {
+    "name": "Cwtch Cardiff Bay",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406955901.webp?k=f44889391b46f4fee4f0e12516cfe86e2cd842d954e57251829e83f3ea90cee2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harrison-way-by-switchback-stays-with-free-parking.html": {
+    "name": "Quay House by Switchback Stays with free parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335958555.webp?k=b06ec7635b1a0a37b0e3dac54b16a8605b1f4494861558da441225bf9d0606a4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/greystones-cardiff.html": {
+    "name": "Greystones",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.8",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/198144380.webp?k=257e671f677daac6d170094f6c2fd36afe41ee69ff964d3f8200f2dea02b8db6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-two-bedroom-apartment-close-to-cardiff-bay-and-the-city.html": {
+    "name": "Modern two bedroom apartment, close to cardiff bay and the city",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/381907928.webp?k=77d1c274f758191a7d20b32651ae48f77ada4f2fa054a111a8438cf7ada5c309&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/quiet-two-bedroom-apartment-near-cardiff-centre.html": {
+    "name": "Quiet Two Bedroom Apartment near Cardiff Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251623629.webp?k=1fab2b06272f83ccc9fdda707b991f41e895c2c6b968096264f6417a815bd27e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-fairoak-road.html": {
+    "name": "Judy's B&B private home",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297555504.webp?k=a4ff797855126fac6f734dd8a178cd2f63c630c9df5fc36acc9b4483f2ef40ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cfeleven.html": {
+    "name": "Cfeleven",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.4",
+    "review_count": "130 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91707228.webp?k=a902fbc83021f8c3503a74e505b4f007c1e93d12ea8acdbf37a487f25b9330df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hansen-house-2.html": {
+    "name": "Hansen House 2 with Private Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.4",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220253746.webp?k=a5963730853f3f8abb5f63fc2035660890a17682f45b31822a9a53addf7568f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elgano.html": {
+    "name": "Elgano Guest House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348051614.webp?k=a06b212d5d896c9a0fee793e097046cf9e40aa062926eddb029c0381ac3e3c33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jrr-stays-flat-2-at-cardiff.html": {
+    "name": "JRR Stays - 2 Bed Apt Principality Stadium",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412630127.webp?k=5968d8b8d66a71451662e76b7b55c7a231b88d69b786646027a6d54e0c67329c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-deerview-lodge-with-hot-tub-cardiff.html": {
+    "name": "The DeerView Lodge with Hot Tub.",
+    "location": "Cardiff",
+    "score": "9.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346568665.webp?k=067202b3c02c0066406e81d19f4bea592a8e1c22872273f716ae47a743706a45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-luxury-ensuite-bedrooms.html": {
+    "name": "3 Luxury En-suite Bedrooms",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "521 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104376899.webp?k=e68bc7bc23fea9e8cdd4a0d85d82b35bba4f4769a17c4ae5ae01f78628c8ea5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/richmond-road-by-ty-sa-central-one-bedroom.html": {
+    "name": "Richmond Place 1 by Tŷ SA - Central - Private Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307592486.webp?k=ef47e2d7c00e3508f0eca77cf42316af7732b1c0c7a62a2be6f2a8070074969e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/de-courceys-cottages.html": {
+    "name": "De Courceys Manor Suites & Cottages",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.9",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127608140.webp?k=1a6dc44cad88888a690f3e49eae4987d79aa6963e4ff822a5eb29b946d1aec87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/richmond-road-guest-house.html": {
+    "name": "Richmond Road Guest House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "3.8",
+    "review_count": "431 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151437244.webp?k=f49f14672e5a366a3d33c1b4b56aa640ecd134c38c3203c00633d902b2d9e8b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/merches-gardens-1.html": {
+    "name": "Riverside Gardens #1",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319141869.webp?k=b886de51c4420617c569e4a1b1740d3e5890a8093464a055d672b93d0da75960&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/millennium-stadium-guest-house.html": {
+    "name": "millennium stadium guest house",
+    "location": "Cardiff",
+    "score": "4.6",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348487773.webp?k=9c50b786eafe8561d1675a9576fc785b8d9dea965ba0b69872e0a201358600e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/windsor-road-b-amp-b.html": {
+    "name": "Weaver's House B&B",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.6",
+    "review_count": "133 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88211420.webp?k=22ae42a614d0beb482aab7c02018aa8919452d37cbe3d07afc07eac88c4dadf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-a-wedmore-road-cf11-6sh.html": {
+    "name": "2 A Wedmore Road - CF11 6SH",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343694348.webp?k=40eb2880219fed9c2a573f015828fc0d0fa46db8bea44f3f70c6b3d9b7032200&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-view-cardiff.html": {
+    "name": "Castle view",
+    "location": "Cardiff Center, Cardiff",
+    "score": "3.3",
+    "review_count": "242 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241580892.webp?k=6bf82ee07d101ead7e6e20c15ac131dbe28bda1f3c381a912f77bc2002f99803&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/switchback-stays-serviced-apartments-cardiff-central.html": {
+    "name": "Railway Street by Switchback Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.1",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222338063.webp?k=d07dd015635d9bf97848b1a6fb4b16c4adf76060d5481ccd79e02e1f64b3dbf1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/court-road-house.html": {
+    "name": "Court Road House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "4.4",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112350625.webp?k=1750665b39b486bfe5eb94c7ff7c818f0f6cf6f625baa6a4d7ef0beff75260bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fabulous-penthouse-in-cardiff-city-centre.html": {
+    "name": "Fabulous Penthouse in Cardiff City Centre",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.0",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390822572.webp?k=e9ff609bc55afeac80ae0650d072d544d9e9b2bfa70e738734dfc58f3155518b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dray-court-luxury-2-bedroom-apartment.html": {
+    "name": "Dray Court - Luxury 2 Bedroom Apartment",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356288235.webp?k=3fbbd3c4950270d96fcf034665e16ef6a2354f9206ca712b625327230ee4c270&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whitchurch-house-by-switchback-stays.html": {
+    "name": "Whitchurch House by Switchback Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353924586.webp?k=708d6eaa86cb37a8d10732e60571dbd0942b66320d9c2b1f06dfa2a0c82fa197&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dougies-den-by-ty-sa.html": {
+    "name": "Waterside by Tŷ SA",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362871631.webp?k=7487bb57d1dba52b20d03bd07fe8a7eb2bac9851d044bf1de1d1c2af34c90289&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/adamsdown-lodge-by-ty-sa.html": {
+    "name": "Adamsdown Lodge by Tŷ SA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/342697076.webp?k=a2b405f4e61b400cb433f05dae6198fed303472de6a654876d8252117cdf5592&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/216-glyn-eiddew-ivy-vale.html": {
+    "name": "216 GLYN EIDDEW (IVY VALE)",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.9",
+    "review_count": "96 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306527365.webp?k=d1d97c83a0740c9da6210aa3872c625138053fcf3545d5ad134c42997a71056a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abode-brook-street.html": {
+    "name": "Cardiff City Centre Millennium Stadium Accommodation",
+    "location": "Cardiff",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399541321.webp?k=2b4a2af5777ff95c7829d9bdb5819d8c83e3093b1601208530827d1a91b07c06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marina-apartment-stunning-location-free-parking.html": {
+    "name": "Marina Apartment - Stunning Location - Free Parking",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438044108.webp?k=70da77f01027a36d186ee089becb3f81f49195e5616820dbf964b142e324c63d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-b-by-ty-sa.html": {
+    "name": "The Coach House B by Tŷ SA",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437700354.webp?k=7e968c9f862b7a1f5d6c52d098f61bd14ef85cad53f2196e3a7bec2b228a1074&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-a-by-ty-sa.html": {
+    "name": "The Coach House A by Tŷ SA",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437615676.webp?k=1bdc71198fca6ce74998579c3254467b06e18600a0a302ffabbce39874daa992&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stadium-way-by-ty-sa-cardiff-central-with-parking.html": {
+    "name": "Stadium Way by Tŷ SA -Cardiff Central with Parking",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437576887.webp?k=82baa1c42ac3446c69f8e4736403f6e54d983ef455d648c5a03bcc411685eb78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-large-detached-4-bedroom-house-with-a-big-garden.html": {
+    "name": "Pass the Keys Large detached 4 bedroom house with a big garden",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435879063.webp?k=e5d6f174f1d76e4a2286b12e156ca7e6090ebba450f3d004c2c5d61f23e15f2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-2-bed-apartment-with-parking.html": {
+    "name": "Pass the Keys Cosy 2 Bed Apartment with Parking",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435864645.webp?k=d30c9b71c3a38756f693692c5befc6ecdb236ba6002d0d62bffb799fee60d677&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-2-bed-apartment-with-parking-in-the-bay.html": {
+    "name": "Pass the Keys Beautiful 2 Bed Apartment with Parking in the Bay",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435864232.webp?k=f8f370294d89e70ed3564cebfda2ae0640bbe944520922dabf853fdc03071fe8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-lovely-3-bed-house-with-parking.html": {
+    "name": "Pass the Keys Lovely 3 Bed House with Parking",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435862449.webp?k=df69b45ba052826404f75a53f7681c3bfe8c888961edb8ca7b2881b4117d2f7e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mount-stuart-by-mia-living-luxury-1-bed-apartment.html": {
+    "name": "Mount Stuart by Mia Living Luxury 1 bed apartment",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422336762.webp?k=8b1d7809d34e18828ef6b83244ecdfc4728dcfe4caab284966b4dd82cb93f521&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/welsh-homestay.html": {
+    "name": "Welsh Homestay",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.3",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348344884.webp?k=ecb3cfcf00d177150868c208a30aac561d4e1dffa88ea3cba53d6a211fa298b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-one-bedroom-apartment-cardiff.html": {
+    "name": "Modern One Bedroom apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336710234.webp?k=b90c6746e4e29e69712cc634adf253a9ecc60b46d0ca92b91d118a084ea72b77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/four-bedroom-house-close-to-city-centre.html": {
+    "name": "Four Bedroom House Close to City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295532859.webp?k=b905da293bf47ee1bf3f610deedbc52b26a370d549cfcef099b70258ec85d694&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-lofts-spacious-and-with-parking.html": {
+    "name": "Three bedroom Apartment by SPO Properties Serviced Accommodation Cardiff - City Lofts Cardiff, Spacious with parking Ideal for Families or Contractors",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328701079.webp?k=3676ebd569938c06e03f54c6e32bcd3fbb2f3d100acb89cc0d381c58a6d5aeb7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-hamilton-st-top-floor.html": {
+    "name": "Relax In Comfortable & Stylish Pontcanna Apartment, Free Private Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275184743.webp?k=ef37a3d689e08d782f9639fe36033289d81408512c3bbf0389521bbf231360e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/superb-detached-coach-house-in-peaceful-location.html": {
+    "name": "Superb Detached Coach House in Peaceful Location!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252154410.webp?k=03115d22d8d59909bf3c449c7a2ee5559b0aec2d77e3c6b3ca18dff8378910df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-most-central-apartment-in-cardiff.html": {
+    "name": "The Most Central Apartment in Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.8",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253304514.webp?k=554cac65c6add8e7373ea7cff647c57e3b651cd703f69b4da41f858deefda43c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pickfords-galley-and-restaurant-with-rooms.html": {
+    "name": "Pickfords Hotel",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.2",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437228878.webp?k=16bbf62ad2e5e350d4eacaa8cd6a2730be543a958666b5f8f7b0a453ad9edd05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/8-person-4-bedroom-light-warm-amp-modern-apartment.html": {
+    "name": "8 Person, 4 Bedroom Light, Warm & Modern Apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249635917.webp?k=9d8b8b437a84ddba35d48bbc62fd03e48605572687b0294edb37fc04653a6377&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-2-bedroom-apartment-in-central-cardiff.html": {
+    "name": "ENTIRE 2 BEDROOM APARTMENT IN CENTRAL CARDIFF",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.3",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380223290.webp?k=b24d29ce95f822204453b2b573c8abe7fa33043f7feaceabf9e239a58f52956e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/treharris-street-1-by-ty-sa.html": {
+    "name": "Treharris Street 1 by Tŷ SA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347075635.webp?k=a875b7ed0097ddfc368cd14c2f7ffe6bc72089d8c3f5055885e4e74173cc428d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-two-bedroom-apartment-close-to-centre-cardiff.html": {
+    "name": "Beautiful Two Bedroom Apartment Close to Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251601912.webp?k=f54498c0857c96d693b787c52bf3e3e981c797206f06f04f71ea565247e4118b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-garden-apartment.html": {
+    "name": "Central City Garden Apartment",
+    "location": "Cardiff",
+    "score": "8.6",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324177666.webp?k=380e06a989063cdd1fd6dad4afeb2b9255fdbfeacf91526e1cbaa88be8ed113d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/altolusso-city-living-by-home-host-city-centre-with-free-parking.html": {
+    "name": "Altolusso City Living by Home Host, City centre with free parking",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418862140.webp?k=d297bb58c7f7bfee1d9db883ea4e398d15156a96c4c95d0d2400f3b0cc0457bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-bay-cardiff.html": {
+    "name": "River Bay",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416802575.webp?k=e23e0cb08088892019abeae8aa67994251d8852bcba3339954bceacd7c6e333c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/relax-in-stunning-apartment-in-leafy-victorian-area.html": {
+    "name": "Relax in Stunning Apartment In Leafy Victorian Area",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323218811.webp?k=ef25ce8f45abf97e4d7f2500e0543823156ba88b4556c55623ab71e712209876&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-2-bed-flat-with-courtyard.html": {
+    "name": "NEW Spacious 2 Bed Getaway - Private Courtyard! - Underfloor Heating",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354747043.webp?k=e29fbfbfcf06481721bef9a3c13ae1bf9cb46611109d17d462ecb112727474eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-lovely-1-bed-apartment-with-parking-close-to-city.html": {
+    "name": "Pass the Keys Lovely 1 Bed Apartment with Parking close to City",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341451966.webp?k=6c5b4b9267b9ec459119325e5c79beaaa5526573b7fe9bc7cf81a3c635725e72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/villa-mimosa-near-cardiff-city-centre.html": {
+    "name": "Your Home to Home Luxury Cardiff Accommodation",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264956103.webp?k=2996c7de4ed2c1d99dea66c7813db6a6fe286bfb4e3e3080afb796a35687c448&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-view-luxury-apartment-with-parking.html": {
+    "name": "The View - LONG STAY OFFER - Modern Central Apartment and Parking by CTO Serviced Apartments",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329213075.webp?k=743912a00daf3bf816e988ddcf049a5d8954cbea15d9ad162aab33953b99753c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bed-close-to-cardiff-city-by-mia-living.html": {
+    "name": "Spacious 3 Bed close to Cardiff City by Mia Living",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403789337.webp?k=ad7dfcfb85b11cc0d04ac1b6b26dd6e67e11e95f7eda5ac5fd3d7e53cf2219b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfy-house-with-parking-for-multiple-vehicles-and-great-transport-links.html": {
+    "name": "Ty Cerrig - Comfy House with Parking for Multiple Vehicles and Great Transport Links",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334757047.webp?k=7cd5905d88255c2a02d73a16beb77bfbf7a75b2c99d873679ab4ec3d63cfa4eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-suites-9-new-aparthotel-in-cardiff.html": {
+    "name": "Tŷ Suites 9 - NEW Aparthotel in Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354113273.webp?k=d6663aa60b6f206330b9ed20acca5eeba969e2a1714e7ea1e476ad5d4b5b2abb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/villa-mimosa-4.html": {
+    "name": "Villa Mimosa 4",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282558653.webp?k=11862996fc05fb7985aeb8d0a4da588dc41d887d6cc4763baa9e72444a3a6828&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-2022-light-amp-airy-3-bedroom-getaway-wifi-netflix-comfort.html": {
+    "name": "NEW Light & Airy 3 Bed Getaway - Wifi - Netflix - Comfort",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354766524.webp?k=45162fc2aa20d6c3f56bdba144954071388d4a00c6943847979c9ffdaa79c7e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/villa-mimosa-2.html": {
+    "name": "Villa Mimosa 2",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299907209.webp?k=b12bc580561e947c80c255ab42ead8ca88f134c783495c04131d4cdd52f9432b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/waterways-dyzyn-living-pet-friendly-balcony-secured-parking-b2b-long-stay.html": {
+    "name": "Waterways - DYZYN Living - Pet Friendly , Balcony & Secured Parking - B2B Long Stay",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324294785.webp?k=c39387a97e3be9bbcc83b50cffbc6597396a71183a70e9a77c72b5497bb77c78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aspire-apartment-15-by-mgroupsa.html": {
+    "name": "Aspire Apartment 15 By MGroupSA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433344865.webp?k=34ff76b6dbdd411eba4c29a55128ed10d0aa81e50cc4571bf40849633ea606dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-spacious-house-off-road-parking-internet.html": {
+    "name": "4 Bedroom Modern Spacious House by Gurkha Stay at Cardiff With Off-Road Parking & WiFi",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433882787.webp?k=625069da76d7818b83b6cb75ab3e76b502e4f8bd19aef935724cf5a7c635e387&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contemporary-cardiff-flat-with-courtyard.html": {
+    "name": "Contemporary Cardiff flat with courtyard",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405649320.webp?k=b7733a36b48604b4ccabe41cd8e61cc43bdf1bdfbd475b054d0d2852249ddcdf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ksuites-moira-terrace.html": {
+    "name": "K Suites - Moira Terrace",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.3",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365044127.webp?k=cb173bbb535e9feea1d94df21f03821d4ce3eed3a05ec43f43bea2d76121cdf8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/principality-place.html": {
+    "name": "Luxury Stadium Place - Fast Wifi - Free Parking",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404527327.webp?k=6a64ffef51edbe48e62f56ca4b25814593bd435f050c9ef20c16d1dbde43804c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bed-flat-near-to-cardiff-and-cardiff-bay.html": {
+    "name": "3 bed flat near to Cardiff and Cardiff Bay",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400929789.webp?k=6dddaa2394d45b7512fd970a7d9aaa8af779bddb8206514cd08e8a9a74ae9c34&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lush-gated-cardiff-apartment-with-fast-wifi-parking.html": {
+    "name": "CH Lush Gated Cardiff Flat with Fast Wifi & Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.0",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338265787.webp?k=d90d61e29f6ac0162968590cdf6f33511d13a0ca3789aeca2f462a6360bbf7b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-gallops.html": {
+    "name": "The Gallops",
+    "location": "Cardiff",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227454511.webp?k=8de8825f7ac6181d11c06da2f9cc3379747013ad914d2eef987eaa8a4e30f43b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-71-by-switchback-stays.html": {
+    "name": "No.71 by Switchback Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433913685.webp?k=1ec451acea246429e0a19f364e85ddecd78693b1899f2f66cf32309a36010f86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hansen-court-gated-complex-with-parking.html": {
+    "name": "Hansen Court - Stylish Bay Apartment with Designated Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "9.0",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283403249.webp?k=7d4ccb290849155a407c76380e93cf237a13ef57ce14e707ebe56d91022279a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-llanfair-by-home-host-cardiff-city-centre.html": {
+    "name": "Luxurious Llanfair, by Home Host, Cardiff City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408415638.webp?k=7aa98669d2be62ba8fd8f36c14c1c91185f194a4e0b28662d91764817d2bd740&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-homested-dyzyn-living-3-bed-parking-garden.html": {
+    "name": "The Homested - DYZYN Living - 3 Bed - Parking - Garden",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414223282.webp?k=a7273b92e0b43473b2789e910c54a6d0ed1b271e09deb3703b619cd3b875c59f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bedroom-apartment-next-to-bay-with-parking.html": {
+    "name": "Modern 2 Bedroom apartment next to Bay with Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "7.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270043346.webp?k=4cefaa341fe52a4e4e04394db56744f20062a4e4a1e21df16a00b0be974ff9bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/free-parking-comfy-3bed-house-8mins-to-centre.html": {
+    "name": "FREE PARKING - Comfy 3bed House - 8mins to centre!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.4",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310800369.webp?k=8eb3f03c57eb2f1b8057d8d4928fab961b7ce0d4f2ac0f468fd33d610fe76a00&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-detached-annex-near-village-with-shops-pubs.html": {
+    "name": "The Annex - Private, Detached with On-Street Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281848874.webp?k=290d0fd618b26ebe43dd251881441b3188f2ead78cbf4ce78c8b01d32f60e0a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cathedral-road-c-by-ty-sa.html": {
+    "name": "Cathedral Road C by Tŷ SA",
+    "location": "Cardiff",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374213189.webp?k=3841af77655530f701e908470525aabbf6ca91269277cec0c7cead6a170a5cad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-golomen.html": {
+    "name": "Y Golomen",
+    "location": "Cardiff",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81200241.webp?k=37ced7af2650e7411f19aa11772f610f6f03a948afa25643adcac05e1251f613&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-family-home-in-desirable-penylan-parking.html": {
+    "name": "Stylish family home in desirable Penylan + Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390373655.webp?k=e9d2e9dd31b819fa35f42d5100b83ff730bd1d8bd8caad0db4f020ff435ea920&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/free-parking-new-private-apartment-7mins-from-city-centre.html": {
+    "name": "FREE PARKING - New Private Apartment, 7mins from City Centre - by StirkMartin",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/275736455.webp?k=6993586ad03e4ff98ecba4c6f63e99a69ecf17beaf9c72002f9e72288ff94059&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pontcanna-mews-cardiff.html": {
+    "name": "Pontcanna Mews",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415032831.webp?k=dbc507c5c864739daa6ffda32259405c2e6c848dc419554de0231677e6d218a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/7-soudrey-way-cardiff-cf105fw.html": {
+    "name": "7 Soudrey Way, Cardiff - CF105FW",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422269031.webp?k=ce33d518d860d858c4139621e14f0acdd352f0afa14818ea40e617d719fa65fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rhiwbina-house.html": {
+    "name": "Rhiwbina House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420604327.webp?k=eed49093825c8ffdad67e6b9894d3afaac748b29e9221f26a22be07dd63e8307&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/amazing-1-bd-next-to-principality-stadium-castle.html": {
+    "name": "Amazing 1 BD Next To Principality Stadium & Castle",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.2",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285496568.webp?k=e6989c8e6682fcf8d837df29c34dce856bf4fb34b9df8d5a3ab3fbb7661154dc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aspire-apartment-21-by-mgroupsa.html": {
+    "name": "Aspire Apartment 21 By MGroupSA - Free Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433367718.webp?k=77fccfb02ad1ee1c3b3456d71583a1025f7b287ebd10d438b7061f5140dc49b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-cardiff-3bdr-house-w-3-parking-spaces-walking-distance-to-stadium-wmc-ci.html": {
+    "name": "Atlantic House",
+    "location": "Cardiff",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434687727.webp?k=4a352632d828f06b24fb245fff9fed0255baff17ad5e66040753d8cdf8fe4ac5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-edwardian-2-bedroom-house-with-parking.html": {
+    "name": "Beautiful Edwardian 2 Bedroom House with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231873346.webp?k=b32a8bfd3d9f15fbeb8737911a1fae4dcb54813499828b344e0e87ca6120c645&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/drws-nesaf-cardiff-townhouse.html": {
+    "name": "Drws Nesaf Cardiff Townhouse",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399370786.webp?k=a1f316f955e66dc364cb60c037b4cbd1aa3027f222e5580a07c023373a56ae89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-2-bed-flat-in-leafy-location.html": {
+    "name": "Pass the Keys 2 Bed Flat in Leafy Location",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415041264.webp?k=236c92f3cf6effc2f7d5921d0f73cd0c228bdadc24d376180e797fcf2e129a1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dyzyn-living-book-28-nights-get-3-free-cardiff-bay-fast-wifi-designated-cardiff1.html": {
+    "name": "DYZYN Living - Long Stay Serviced Accommodation - Cardiff Bay - Fast WiFi - Designated Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350125544.webp?k=c3da38f4f4c52926c3003f4f18bea41de46ee43931242f978499ba07b950d870&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-two-bed-with-sea-views-cliff-view.html": {
+    "name": "Luxury one bed with sea views - Cliff View",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438301106.webp?k=2f556bc7fb5b7c41bedff21320de84ef4b535817d970c5fbb7b4fc4b551c0a59&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/contemporary-cardiff-getaway-in-central-location-cardiff.html": {
+    "name": "The Loft - Central Contemporary Getaway",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281768916.webp?k=d72b80b97bd91cbbb36d2d23e2b58404e66325f959a703365080f668821a7ef9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-cudyll-coch.html": {
+    "name": "Y Cudyll Coch",
+    "location": "Cardiff",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/129982213.webp?k=95ddc955c76f74441065f719b04808b3c510b6f4c7b1a3462ffff29abea92a3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-stylish-apartment-with-parking.html": {
+    "name": "Modern, Stylish Apartment with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418327656.webp?k=a7072dfd701d0909fb72d5c8f250484b86a1fc2b7a8033c917353aeca884ae2c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-5-lockkeepers-court-by-mia-living.html": {
+    "name": "Flat 5 LockKeepers Court by Mia Living",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411743581.webp?k=396e6cf7c0024d84e4bd7da2b065eebad1e6d76d0d354efa6112417023daf605&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/higgihaus-5-7-bed-large-house-hens-stags-big-groups-best-location.html": {
+    "name": "higgihaus #5 7 Bed Large House Hens Stags Big Groups Best Location",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "8.4",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334637952.webp?k=10f877881624e1c6908fe9fdaad689c5d99611f2cc98f7b4236eb9c99892cc82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/serviced-apartment-city-centre-and-stadium-2br-6-guest.html": {
+    "name": "Serviced Apartment City Centre and Stadium. 2BR - 6 Guest",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344100042.webp?k=1473466f78f066597fc3814a7b00b6134c73c3d35ba890be6032353d46d4019b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/henrys-flat-cardiff-cardiff.html": {
+    "name": "Henry’s Flat Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395264362.webp?k=6f274c3ee7b913a2f115630de887ee080e0466494d33fef1b15f9e16fd0879b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-river-view-1-bed-serviced-apartment-in-cardiff-city-center-free-parking-by-dyz.html": {
+    "name": "River View - 1 Bed Serviced Apartment in Cardiff City Center - Street Parking - By DYZYN",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311137596.webp?k=2cdc34a70c17c2405791d51db161165f2b9b4016e57b451ee8458664f1fd4acd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-4-bedroom-free-netflix-central-location.html": {
+    "name": "Spacious 4 Bedroom, Free Netflix, Central Location",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433875863.webp?k=5b102f57d676a8ebe92ec4cde698a46f393e34f4325b0378c16c1f52e35ed0ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cedars-place-by-home-host-walking-distance-to-city-centre.html": {
+    "name": "Cedars Place, by Home Host, walking distance to city centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418880132.webp?k=e9d067bde050f27fc8df58abbf9323aa489b585d169cce32122136df9b3f7d8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-two-bedroom-home-with-parking.html": {
+    "name": "Pass the Keys Cosy Two Bedroom Home with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425144427.webp?k=d3a342f30d0a42a2b7fbe68c2b1239b8c0b66637a15acc81851bcf47dd4f19f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-railway-house-cardiff1.html": {
+    "name": "The Railway House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327174525.webp?k=996337c579a18060f1f618f5a2b32f4e16968357eda7e1cee3b817bd0666ef3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxe-and-charmant-3-bed-apartment-beautiful-views.html": {
+    "name": "Luxe and charmant 3 bed apartment beautiful views",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438311456.webp?k=61cf061cc1d8e16dce2a4614ef7c1d5e7fd48ec58899fcdfa9a0434a92c1515c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-holiday-home-in-cardiff-sleeps-4great-area.html": {
+    "name": "Holiday Home in Cardiff and Sleeps 5 Great Area",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348485582.webp?k=3deeb545396c5b4dcc7daf0eba5140e42c179059c5526b78741d80e496dca19c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newly-refurbished-2-bed-flat-in-city-centre.html": {
+    "name": "Newly Refurbished 2 Bed Flat in City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426324871.webp?k=9af6d9e765f2c11891407ff71b8d8ac4079341c2acdf1b0fa470463b9fbd8ec2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-two-bedrooms-wifi-newly-refurbished.html": {
+    "name": "Central, Two Bedrooms, WiFi, Newly Refurbished",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271004514.webp?k=956e4cd7d839be7bf05e1744042b6f4bc6d2a5a5a68ad50d58135ceef53447bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-light-spacious-2-bedroom-apt-in-trendy-canton.html": {
+    "name": "Pass the Keys Light & Spacious 2 Bedroom Apt in trendy Canton!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292337590.webp?k=72303477d9f06920278f3f2ea86ba45b784915d39f5e4653860dc0093fa8f5bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ninian-park-ground-by-home-host-cardiff-city.html": {
+    "name": "Ninian Park Ground, by Home Host, Cardiff City",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419056361.webp?k=0dd542f87e23318ee86223b3bcb62b1045fced02523e053881cdba432ff9fc87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-side-flat-with-free-parking-on-site.html": {
+    "name": "16 North Road Flat 1 by Mia Living Free Parking On Site",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.2",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327968178.webp?k=101c861b0543dcee86abd614344aeadf6be914554deccf54025197d447258f98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/413-david-morgans-arcade.html": {
+    "name": "Executive Short Let Cardiff City Center - Minutes From Central Tran Station and all the city has to offer",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340387154.webp?k=40ccbaf9ab9fd1d4483d07b7a1425de68c6215f07e4467e8c85bf80066d17940&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-aprtmnt-for-upto-8-nr-centre-uni-amp-parks.html": {
+    "name": "2 Bedroom Aprtmnt For Upto 8 Nr Centre, Uni &Parks",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271393179.webp?k=d05fe547f86b434b05a532b3dc2c6bc296ab51c0f69ac3f277b6f41b21083e6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfortable-one-bedroom-apartment-near-centre.html": {
+    "name": "Comfortable One Bedroom Apartment Near Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251625676.webp?k=e1cc715f722182ebc68b78eb5bde0a8d0c071ee50b971be344f6a84a29294bb8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-city-view-2-bed-city-center-apartment-with-free-parking-sleeps-6-by-dyzyn.html": {
+    "name": "City View - 2 Bed City Center Apartment With Street Parking - Sleeps 6 - By DYZYN",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285804517.webp?k=678d1b7543c72d9b66a70b34ba07c6d7490182e8f683fce7212380784b50946d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-3-bedroom-house-with-garden-and-parking.html": {
+    "name": "Lovely 3 bedroom house with garden and parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341316478.webp?k=d994319a49a02a74d89c376b70e6bf70824feb5a846045eee92d509e26abbaa9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cozee-apartments-cardiff-city-centre.html": {
+    "name": "Cozee Apartments, Cardiff City Centre",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438473322.webp?k=676886831bda2e00599f643844b0885bbd4dce3f564d4dfb6fcf07d708239487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-spacious-two-bedroom-home-with-parking.html": {
+    "name": "Pass the Keys Cosy Spacious Two Bedroom Home with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417012548.webp?k=b9123c8303382a768c96768fc6cb602efb4c3cb11326f1e394b1b1c35f3b99e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-duplex-in-the-heart-of-cardiff-sleeps-8-cardiff.html": {
+    "name": "Sleek Modern Central Cardiff Apartment",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434187187.webp?k=b49d19dfb19f42d4c269f9367f382bd4fe9c247e4820ec3e8dc93bb2e24f03b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-apartment-central-cardiff.html": {
+    "name": "2 bed apartment, Central Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425123306.webp?k=af9ef8285b695a435a5477aa0c8d3a7703a6ea9db6dc7927c500380da8092eae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/excellent-location-in-pontcanna-near-bute-park.html": {
+    "name": "Excellent Location in Pontcanna near Bute Park!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227178551.webp?k=654e22f401d950a75de11048ef33ad1e03929c48b1a9c229c71c0b6af853fb1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lock-keeper-by-mia-living.html": {
+    "name": "Lock Keepers Court by Mia Living Spacious 2 bedroom apartment with parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "5.9",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304989351.webp?k=7171915b9a0c518102510d4d073ce03134c398a140914d3f0eafb226dc9ca2d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/partridge-apartment-by-solace-stays.html": {
+    "name": "Partridge Apartment by Solace Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398466564.webp?k=1aa8ab6e5810d0bd57c91ed77ce06c4305cb754e5ef20f2a6cc8b1a665c07947&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/north-road-parkside-flat-with-free-parking.html": {
+    "name": "16 North Road Flat 2 by Mia Living Free Parking On Site",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328034398.webp?k=551e23502e875cdfb5659696fc57f9f45773fc447eb7fc6d49d382773b4e5506&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/very-spacious-three-bedroom-apartment-with-parking.html": {
+    "name": "Very Spacious Three Bedroom Apartment with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252115353.webp?k=84c5ff72bde1c183179598efb856eb7a4f3709ee95acebc7d2e5dbcf8d505727&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-edwardian-house-for-up-to-16-guests.html": {
+    "name": "Large House near Victoria Park For Groups, 10 mins bus to City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.1",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297031764.webp?k=3c9767b7a4fc8fd720946745a2f30311e13411ff1050f73a0b32a7e6f75c954c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/taffs-view-by-ty-sa.html": {
+    "name": "Taffs View by Tŷ SA",
+    "location": "Cardiff",
+    "score": "7.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332748112.webp?k=8ebc6060e7d72efd9175e09116ab0fc4b35e24d861e9af2697b7677108f18bc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-hamilton-street.html": {
+    "name": "Stunning Apartment In Peaceful Central Neighbourhood, Free Private Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274725935.webp?k=fa79958baae95ed7d9b248d3f4533e3e320befe4ba26522f848207d40837bebe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-3-short-lets-roath-cardiff.html": {
+    "name": "The Hideaway 3 - Short lets Roath Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405828040.webp?k=68fd2a38d406cbe26d8e69db4bf74a38333256d1c049d3ee753ed26ede14f716&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/free-parking-twobedroom-cardiff-bay-townhouse-by-property-promise.html": {
+    "name": "Free Parking: TwoBedroom Cardiff Bay TownHouse by PROPERTY PROMISE",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436898267.webp?k=64fe9742d222c3881ddc97efa737f2f53574a0fa0c382ea31938b46aaad7ea96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-super-clean-super-stylish-arabella-house.html": {
+    "name": "New Central Super Clean Cardiff House",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.7",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237294805.webp?k=a5888739ef69a3658392355c7b7dc871f1161a744e3cc61533a17d2534be17c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-3-under-the-clock-by-stay-south-wales-sleeps-4.html": {
+    "name": "No. 3 Under the Clock by Stay South Wales - Sleeps 4",
+    "location": "Cardiff Center, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429206419.webp?k=7afa2169524a4fe6c51abef63e782f4bef5827501f3d91353797e9e41818cff1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-the-perfect-canton-retreat-spacious-and-modern.html": {
+    "name": "Pass the Keys The perfect Canton retreat, spacious and modern",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "5.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289232666.webp?k=e4043fc63bd2bd7622ce4d2bbc67b34aaa686983f83c1f382487eea3078be4d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-comfortable-2-bedroom-1sofabed-1zbed-in-the-lounge-area-sleeps-6-casablanca-fl.html": {
+    "name": "Casablanca Flat 1 by Mia Living 2 BR",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "6.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329875899.webp?k=6b514069a10a3e24b9fa46a2abcba7c7dfff4e03032492f4b3355395b84f6afa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-2-bed-ground-floor-flat-cardiff-city-centre.html": {
+    "name": "Entire 2 bed ground floor flat Cardiff City centre",
+    "location": "Cardiff",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406048405.webp?k=d756005fee9c854673d97a2b47ed986ec4a17ec52bd1fca611b55b3113e16c1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-pontcanna.html": {
+    "name": "The Coach House - Pontcanna",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186809412.webp?k=18f5b9f651c610219a25cfb9127f6a1fcd28bc9f7c738666704e630066fdab50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/one-double-bedroom-available.html": {
+    "name": "One double bedroom available",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "3.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412298796.webp?k=6553e4f5eababfa21cd8cffde51b6d7609423d63322345435e1bebcd13d0764a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-apartment-nr-city-centre-uni-amp-parks.html": {
+    "name": "2 bedroom apartment Nr City Centre, Uni & Parks",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271394662.webp?k=3f180042464c30bc5d9deebd6d3c912765fb66e08bd2bc778f070f93fa1ea4f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-modern-apt-in-the-city-close-to-stadiums.html": {
+    "name": "New modern Apt in the City & close to Stadiums",
+    "location": "Cardiff Center, Cardiff",
+    "score": "9.3",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245826946.webp?k=5466e432498b64ba04666037d632f7a7ad04f3aacda305ad10a9a5af52e4fdbc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-2-bed-apartment-in-cardiff-bay-with-parking.html": {
+    "name": "Pass the Keys BEAUTIFUL 2 Bed Apartment in Cardiff Bay with Parking",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351964850.webp?k=3fbce3fbc2d258c36cf44269fa5d5261ddc3b4af7d3f7b94b7d00fbbd9ed1594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leafy-llanfair-ground-by-home-host-cardiff-centre.html": {
+    "name": "Leafy Llanfair Ground, by Home Host, Cardiff Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408409640.webp?k=05abe8ed0720d41c002b37f7865d17d7f895d6085040f5ff798225b19a6cfe62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-studio-in-a-supurb-area-of-cardiff.html": {
+    "name": "1 Bedroom Studio in a Supurb Area of Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "5.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412740128.webp?k=e51931b4ef5b3e7ff2150ec70fc7e5d15d41dfae444e1b5e1c097fc772753fab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bay-view-by-ty-sa-luxury-2-bed-apartment-best-location-in-cardiff-bay.html": {
+    "name": "Bay View, by Tŷ SA - 2 Bed Apartment Best Location in Cardiff Bay",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "6.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285947175.webp?k=e68bf4ce856bd9a5355ba0b2fa19d85ce5f2e56ed78c02afd9fadc0b3def5dc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dumfries-by-mia-living-1-bedroom-apartment-with-balcony.html": {
+    "name": "Dumfries by Mia Living 2 Bedroom apartment with balcony",
+    "location": "Cardiff Center, Cardiff",
+    "score": "7.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343994264.webp?k=b8d685133d2332d703b6646ba44379f48519904104fd36cc106d996e7f03b83b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-1-bedroom-apartment-cardiff.html": {
+    "name": "Beautiful 1 Bedroom Apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.6",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327219426.webp?k=1ee71b32ac25acda25a3b07e7ab91cec334ec1c4cf61c15b15934497b2211a9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-suite-life-cardiff-bay.html": {
+    "name": "The Suite Life - DYZYN Living - Pet Friendly - Gym, Pool & Parking - B2B Stays",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324105864.webp?k=ca6e664fd8890a193ca5a936c746bdbe83a623b3c2a98bdeb60fc7cbe9f4047e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-4-bedroom-home-with-garden-near-city-centre-cardiff.html": {
+    "name": "Luxurious Modern House With Garden Close To City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417845187.webp?k=522c3e6b1dc77cc86e561837ba405056c76750fe33e2f5a89c319ca9ebd8575a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burnabys-home-by-home-host-free-on-street-parking.html": {
+    "name": "Burnaby's home, by Home Host, free on street parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417908426.webp?k=1166c796a48412f44369bd7c0b3e0144023f436363d88f5f441597ac6c406d25&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tynant-house.html": {
+    "name": "Tynant House- Modern 3 bed house- City centre and FREE parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100361292.webp?k=c4d4b7814124e0a6d1b32c6eae36e9690b9503da4829365a43221aadbf31aa86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/minister-house-apt-2-by-ty-sa.html": {
+    "name": "Minster House Apt 2 by Tŷ SA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343770285.webp?k=adc0ee760b2939f998b16c7ef956cd1dc937c4960368688d84fa7c855d381588&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/westgate-heights-by-mia-living-2-bedroom-apartment-in-cardiff-centre.html": {
+    "name": "Westgate Heights by Mia Living 2 bedroom apartment in Cardiff Centre",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346564027.webp?k=7937b3fbda62596e93348f7aabeec03d3c983c86450a6c0ba865a9168f2b534c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/space-for-up-to-8-10-mins-from-centre-parking.html": {
+    "name": "Space For Groups, 10 mins from centre with parking!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271252857.webp?k=2d0138bd014764f017e8a9fbe341a5fe1f9be703bbbc681d91c0369c39feccc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bed-1st-floor-apartment-cf241.html": {
+    "name": "Lovely 2 Bed 1st floor Apartment CF241",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429101551.webp?k=1a89c453ecef43aea7695bc38fab4196af33f89cf450cf264c9e9ebb4701afda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-stunning-2-bedroom-apartment-in-heart-of-pontcanna.html": {
+    "name": "Pass the Keys Stunning 2 Bedroom Apartment in Heart of Pontcanna",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389188041.webp?k=3baf57000c2a49540b0712e019cfa8dbe9eb712e56195148c135a8b41b70dda7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedroom-apartment-near-city-centre-cardiff.html": {
+    "name": "Lovely 2 Bedroom Apartment Near City Centre",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369171999.webp?k=b227aade3b9102393624087c021a12eafa5a48a04424fe9833812e22bca7969e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lower-cathedral-road-apartment.html": {
+    "name": "Lower Cathedral Road Apartment",
+    "location": "Cardiff",
+    "score": "4.7",
+    "review_count": "147 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/76259776.webp?k=3f06d7fb4f0246ea0179b2b50d5b12de80949c6f8427dbc70176d7c9d4d8721c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-apartment-near-in-cardiff-bay.html": {
+    "name": "Caldely Island House by Mia Living 2 BR, 2 bathrooms with balcony overlooking the Marina!",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "4.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334532185.webp?k=dc7dbcd0206b0ccd6a62702e489298841f42c93544cb40b26caa1d83808ce89c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pen-dinas-cardiff-apartment.html": {
+    "name": "Pen Dinas Cardiff Apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156115481.webp?k=2f40d4ddb4d484432f7275ef34d0edc92f87a3213347d6b6b28487d943c70837&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/figtree-cottage-penarth.html": {
+    "name": "Seaview Cottage",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.7",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/136795752.webp?k=50b1cb680adbea9c7bfa0da573fe5b47f0816cf5b816c55abac16816421238b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-city-centre-apartment-lifestyle.html": {
+    "name": "Cardiff City centre Apartment lifestyle!!",
+    "location": "Cardiff Center, Cardiff",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406914453.webp?k=16b139635bf25ea93b15b99277ecb3d99364b3c9b9bb2dd749af55f8fc919477&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barn-apartment-4.html": {
+    "name": "Barn Apartment 4",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279666448.webp?k=21b6dc15aa32359b39694bb8e526bbdbf3afeae18dc214704b06d1e653a77002&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-1-bed-apartment-in-the-city-centre.html": {
+    "name": "Spacious 1 Bed Apartment In The City Centre",
+    "location": "Cardiff",
+    "score": "7.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431597319.webp?k=3df28374a4ac7cbecaecd2448de40187d6257bf53891a1d734b5c9ef3946f177&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-luxury-apartment-with-free-private-parking.html": {
+    "name": "Two Bed Apartment - Free Private Parking - by PROPERTY PROMISE",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.0",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310561649.webp?k=b9d241425b6531dd0b33ce273bb5b84cdbb67c2db168d4e2da9631d5d5879914&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dyzyn-living-heath-hospital-fast-wifi-great-location.html": {
+    "name": "DYZYN Living - Heath Hospital - Fast WiFi - Great Location",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432145527.webp?k=5a0d93c2f32f7a3e460a3ae691349993a97a61f27adf61fca3ba1e284b38ae6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/graces-getaway-by-ty-sa.html": {
+    "name": "Graces Getaway by Tŷ SA",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.3",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351460348.webp?k=bbc8a41ee92cf1584226d2ed5af33326cc14ba96fed08fd4d967833319293cd3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/no-2-the-clock-tower-by-stay-south-wales-sleeps-6.html": {
+    "name": "No 2 Under the Clock by Stay South Wales -Sleeps 6",
+    "location": "Cardiff Center, Cardiff",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429204278.webp?k=12039665885b72d90603b761d98a40fbcfc3be0c064a6cb778c50e547d8c3949&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideout-2-dyzyn-living-roath-park-garden.html": {
+    "name": "The Hideout 2 - DYZYN Living - Roath Park - Garden",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405130991.webp?k=74ade483b3c0b7bf820e705a536e34d2d484b8870d541773dfd2bccaf92be4ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/airserviced-wilson-house-2-bedroom-with-private-terrace.html": {
+    "name": "City Retreat, 2 Bed House with Cloudstream Hot Tub",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.7",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245300933.webp?k=c4084965e6554ea2f1b00ea7af29b04a09462b0c9af472e62454635bc286483f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/5-bedroom-house-near-cardiff-city.html": {
+    "name": "5 bedroom house near cardiff city.",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373695322.webp?k=b9e6c4bffde683024209dc127ae60c10f5831bcdad0b9babd153933dbb755954&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-and-modern-4-person-apartment-in-city-centre.html": {
+    "name": "Bright and Modern 4 Person Apartment In City Centre",
+    "location": "Cardiff",
+    "score": "6.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271120659.webp?k=9b48e436361cc499e31983fb07034c17eec973c4b04a1a990e4cdc6cf4aef092&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fast-broadband-budget-stay-free-netflix.html": {
+    "name": "Fast Broadband, Budget Stay, Free Netflix.",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.3",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322576433.webp?k=78e54af77fbe44a4370ca173d0234b2a3bea053a3f3ce352949d2fdfa949b1f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/20-ashdene-close.html": {
+    "name": "Cosy and Characterful 1 bedroom townhouse with big south facing garden in Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374246602.webp?k=836e7c3e6e3ff78bc8a4a756cd038861ee8b6866fbe80f42c2d1f7b07c80b57b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardiff-university-apartment-w-47-heating-roku.html": {
+    "name": "Cardiff University Apartment FireTV",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427065599.webp?k=73b5946301048a98e73c5464efc45da38fcfa7295a7e6670fdc87e4dc6f139e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ninian-studio-double-bed-central-cardiff-flat.html": {
+    "name": "Big Value Bedsit - Fast WiFi & Free Local Parking By PROPERTY PROMISE",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "5.7",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308753095.webp?k=f6af856338b7666adcfc040ecc9d65d913554cfe31b3f0cbf5059bfdf6801916&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bute-park-apartment-w-47-heating-private-bathroom.html": {
+    "name": "Bute Park Apartment w/ Heating + Private Bathroom",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "6.8",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279373966.webp?k=0456bf39974eaa22a986a8500ecb699995bf08c69c1427d4c20a0fe84f386754&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/river-bay-beautiful-2-bed-house-in-cardiff.html": {
+    "name": "River Bay Beautiful 2-Bed House in Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326056218.webp?k=ddb6ff3c55f47be9791b71327f517d1480a412aa4e701f6b2586428fd75827ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-gate-street-near-stadium-cardiff.html": {
+    "name": "West gate Street near Stadium Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420096554.webp?k=e183dc9bbdb11eba274d8777a01a81d45b207bc5fa759b3bc44b26b469543f28&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayes-by-mia-living-2-bedroom-apartment-in-central-cardiff.html": {
+    "name": "The Hayes by Mia Living 2 bedroom apartment in central Cardiff",
+    "location": "Cardiff Center, Cardiff",
+    "score": "6.8",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348073305.webp?k=c2547584b4ec3463f91b2d1fba515e1f63dd9b42b8990381cdb29ded16d9c144&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hunter-street-by-ty-sa-2-bed-in-cardiff-bay.html": {
+    "name": "Bay Heights by Tŷ SA - Cardiff Bay",
+    "location": "Cardiff Bay, Cardiff",
+    "score": "6.5",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295549788.webp?k=304908fd98b5f1540482294aaf1fb6a0935297cf219aee7b54e121ff58ea31d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/millview-luxury-4-bedroom-penthouse-in-cardiff.html": {
+    "name": "MillView - Luxury 4 Bedroom Penthouse in Cardiff",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326206986.webp?k=f885fdf2ea028c7e075bbdd33738b5e9694bb4ac08692ab787f5cf5999c95ab2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/howard-gardens-1-bedroom-apartment-in-cardiff-city-centre.html": {
+    "name": "Howard Gardens - 1 Bedroom Apartment in Cardiff City Centre",
+    "location": "Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421147775.webp?k=947bd74dbfe22e159b2fbc834f5b1471e7c438c702a3199b030b75ffbed66c98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/smart-centrally-located-home-for-1-4-people.html": {
+    "name": "Smart central apartment, 5 mins from centre",
+    "location": "Cardiff",
+    "score": "6.7",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220395668.webp?k=49ed04603f95bec5a07189446a5235ebc3f651f9d82dc024093f0b73f69e7239&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/self-catering-accommodation.html": {
+    "name": "Self Catering Accommodation",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "4.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206798454.webp?k=ac8d82b0ad7b9ea8254511789aef22149b5ec4bb86cf292e414daa3fd1252662&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-spacious-and-modern-3-bedroom-house-with-parking.html": {
+    "name": "Pass the Keys Spacious and Modern 3 Bedroom House with Parking",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399112020.webp?k=5dbcefc16f7c87edf917d2a0e6db370b555e850ca2200931a521c0bfd1d4f1ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/13-victoria-road-apartment.html": {
+    "name": "13 Victoria Road Apartment",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "8.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165303896.webp?k=5e19fbe9e3ca98a25b9a574af62c97d232066eb54f86aedc730af6c21691f9b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broadway-apartments.html": {
+    "name": "Broadway apartments",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "2.7",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348962591.webp?k=f398980bd6338743d5b60bc3dfc960e041f89e15ef30ace7854be737f455dd04&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bridal-room.html": {
+    "name": "The Bridal Room",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279666366.webp?k=77de9bc7ad72e201347d7c4a6fc095aaede204e9dd6833a8d6b119fce1b6fe76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-double-room-in-cardiff-for-girls-only.html": {
+    "name": "Private Double Room In Cardiff for Girls only",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399378123.webp?k=9c1d89e833a7bf9f6b3eef4ab211fccfc3d93bc6b6455714edd8e083189d4d35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/copthornecardiff.html": {
+    "name": "The Copthorne Hotel Cardiff",
+    "location": "Cardiff Outskirts, Cardiff",
+    "score": "7.4",
+    "review_count": "1,354 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/192876148.webp?k=a3d4ae50a55ddf85bc8187dcdffae441af51b74a80906537e403d0fc30c73069&o=&s=1"
+  }
+}

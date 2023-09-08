@@ -1,0 +1,106 @@
+{
+  "https://www.booking.com/hotel/us/comfort-inn-trolly-square.html": {
+    "name": "Comfort Inn Trolley Square",
+    "location": "Rutland",
+    "score": "7.6",
+    "review_count": "461 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336491899.webp?k=9a089a8548b4bba2b7b3e36f2a728bce49c20d30b7a013d8fe52e40e94504146&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/best-western-inn-suites-rutland-killington.html": {
+    "name": "Best Western Inn & Suites Rutland-Killington",
+    "location": "Rutland",
+    "score": "8.2",
+    "review_count": "218 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/116527875.webp?k=d0a6b1c85b92ac0e2d25f6c5870fb93d3528d691700ebc338fe3ea292b37e74f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/red-roof-inn-of-vermont.html": {
+    "name": "Days Inn by Wyndham Rutland/Killington Area",
+    "location": "Rutland",
+    "score": "6.1",
+    "review_count": "745 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135459132.webp?k=158b8cc2e09c115516134577aae53a708039c80d2b1c10de6d2a77680e7268fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-rutland.html": {
+    "name": "Hampton Inn Rutland/Killington",
+    "location": "Rutland",
+    "score": "8.3",
+    "review_count": "108 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/94036807.webp?k=22df34e40ad50381f37d3a76937dadda02ca3cd53795b720504d6d9303d6c456&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/vermonts-beauty.html": {
+    "name": "Vermont's Beauty",
+    "location": "Rutland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438239362.webp?k=11364b80054aa8337b8dac615f5a42aa7b65ef621d552954a83551a4c7740ef9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ramada-limited-rutland.html": {
+    "name": "Quality Inn Rutland",
+    "location": "Rutland",
+    "score": "5.6",
+    "review_count": "104 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211483650.webp?k=cfda9aad4ef10b412896a7970099f157509ecc0507f2d18f7b3fb58b1c23501e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/spacious-rutland-townhome-w-fire-pit-walk-to-town.html": {
+    "name": "Spacious Rutland Townhome with Fire Pit- Walk to Town",
+    "location": "Rutland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/235478993.webp?k=45c7e7e152bc04d9bba1f2a51c71dc1a38d585a9d651357583e5b0d266ee11b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/calimont-meadows-outdoor-hot-tub-pet-friendly-minutes-to-killington-and-pico-mou.html": {
+    "name": "Calimont Meadows - Outdoor Hot Tub- Pet Friendly - Minutes to Killington and Pico Mountain",
+    "location": "Rutland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394065112.webp?k=89cb07b9a3077d74027729f6b0c76bff0fd09ea1c936f7ebb624170a32024339&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/green-knolls-haven.html": {
+    "name": "Green Knolls Haven",
+    "location": "Rutland",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383143458.webp?k=4cffb4dab6cc2016ba7268797fe146f0fd41549b520b2ce86e9d9c390b83541f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/charlies-cabin-cabin.html": {
+    "name": "Charlie's Cabin cabin",
+    "location": "Rutland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367206566.webp?k=7fa5d2eedbb9bf29502fba1aa29cbc4667e66e6f9a35dbecdf0992a1c65fad50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/h-amp-k-acres.html": {
+    "name": "H&K Acres",
+    "location": "Rutland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436669263.webp?k=84f8dfcb454c372d2a6368da87ce01a04f4123756adbe97c9554afea4da56ec0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rutland-retreat.html": {
+    "name": "Rutland Retreat",
+    "location": "Rutland",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398232759.webp?k=a80b6f3d5ee541437680b1d5aeac3724e0f49a6f6bade3e84ea17a0bb16ef744&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/downtown-duplex-unit-2.html": {
+    "name": "Downtown Duplex Unit 2",
+    "location": "Rutland",
+    "score": "5.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320627015.webp?k=5ba99cfc61344c6e9fa489209f200833d421f0e05cc16d9560626c4f25f94e2f&o=&s=1"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "https://www.booking.com/hotel/us/doubletree-claremont.html": {
+    "name": "DoubleTree by Hilton Claremont",
+    "location": "Claremont",
+    "score": "8.0",
+    "review_count": "247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239573563.webp?k=2c474648aff01347fc53f9799231508a05594429d661aa2ade2f218765ce20d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/claremont-and-tennis-club.html": {
+    "name": "Motel 6-Claremont, CA",
+    "location": "Claremont",
+    "score": "6.5",
+    "review_count": "400 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146004650.webp?k=ca093936950c6dda1a73b8f167ccd654e55153283d33ff4b2797d0501a0e87ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/claremont-lodge.html": {
+    "name": "Claremont Lodge",
+    "location": "Claremont",
+    "score": "7.7",
+    "review_count": "95 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250932760.webp?k=fd1199e1b07a8ddf8bde97ba94d12631140a297523667db7f42dee7b00607429&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/casa-425.html": {
+    "name": "Hotel Casa 425 + Lounge, A Four Sisters Inn",
+    "location": "Claremont",
+    "score": "8.9",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13318681.webp?k=0558336121ac76e5d6aa34b58df07fa18fc1f3f143c12c8d2c87bf85f764db2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/furnished-cozy-two-bedroom-apartment-with-gorgeous-mountain-view.html": {
+    "name": "Eves Rentals",
+    "location": "Pomona",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423208009.webp?k=9a6c97644d585e915c245fb9ece9c0d24f5f7ffa28094f9dcf842d4e0a02b727&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sheraton-fairplex-conference-center.html": {
+    "name": "Sheraton Fairplex Hotel & Conference Center",
+    "location": "Pomona",
+    "score": "8.7",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427559073.webp?k=b05b39003bc9e54a42b5da22ea31f1bd5b121f6e0207611d7bbc3eeec472d010&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/super-8-upland.html": {
+    "name": "Super 8 by Wyndham Upland Ontario CA",
+    "location": "Upland",
+    "score": "5.9",
+    "review_count": "548 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132448266.webp?k=5a6c1846b021bc7b99a9241bca7d7f5a0680f32bd5d6a31348df0476d3f2193a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/passport-inn-pomona2.html": {
+    "name": "Passport Inn",
+    "location": "Pomona",
+    "score": "4.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410684982.webp?k=b122af9342e2290d3f49345c1dd864bb1c49ea914ac2d37b004b71ad5cb32d83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/galleria-montclair.html": {
+    "name": "Galleria Inn Montclair/Ontario",
+    "location": "Montclair",
+    "score": "7.6",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110933344.webp?k=6c9f61dd4959bf34b8a2d631512122a6610460ec21d4aacddb6d9945fdfae6a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-hideout-minutes-from-downtown.html": {
+    "name": "Cozy Hideout Minutes From Downtown",
+    "location": "La Verne",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417837313.webp?k=652902303278afba3e4eecfd8aacc05806097e54177ca8916521b1e76a0a17c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/garey-motel-pomona.html": {
+    "name": "GAREY MOTEL",
+    "location": "Pomona",
+    "score": "6.7",
+    "review_count": "406 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349862300.webp?k=e31b901b113ffc15633a336ad6555284551ccc44403eb378f9e5c1df0771a398&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/royla-motel.html": {
+    "name": "Royla Motel",
+    "location": "Pomona",
+    "score": "4.5",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35459958.webp?k=f4be8b9ac806a8604d51218596c9612a362da128c1b9208776c080b7dd8cd8fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/deluxe-inn-pomona1.html": {
+    "name": "Deluxe Inn",
+    "location": "Pomona",
+    "score": "3.6",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334971430.webp?k=b1febebc48fc330318c3356abc62dc4f88f764c9ccc0e349b0768166ebeb03e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfort-inn-pomona.html": {
+    "name": "Comfort Inn Pomona Near FairPlex",
+    "location": "Pomona",
+    "score": "6.9",
+    "review_count": "273 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170438641.webp?k=02961f9a204f8afbd554f80cee3ec2361d0dff494c52cbb0e135e8ee6d855d4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sands-motel-ontario1.html": {
+    "name": "Sands Motel",
+    "location": "Ontario",
+    "score": "4.9",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411960366.webp?k=5e24696678b6acfb8877338ae086e6db6d80b9b8ffc7f714eb9a55c711f314ce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/lemon-tree-motel.html": {
+    "name": "Lemon Tree Motel",
+    "location": "Pomona",
+    "score": "4.3",
+    "review_count": "200 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/9553771.webp?k=7f9bdac83d42ac8b3434d855ae89bf2f063b277ec2d75017d952a368c4ffec83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/econo-inn-ontario.html": {
+    "name": "Lotus by Hotel Inn",
+    "location": "Ontario",
+    "score": "4.9",
+    "review_count": "207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219708380.webp?k=bfb48d0b21f48373fa2642a213b7f605cd3e95dcd078eebe652428111c943682&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/american-inn-ontario.html": {
+    "name": "American Inn",
+    "location": "Ontario",
+    "score": "5.0",
+    "review_count": "94 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34969460.webp?k=b27ee8479d3570f0c299dc692a243fc7cf6ba99fd48fedd3f058c3390ed6c1b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/classy-socal-spanish-villa-pool-grand-piano.html": {
+    "name": "Classy SoCal Spanish Villa-Pool and Grand Piano",
+    "location": "Ontario",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237450628.webp?k=28b435cdc26ec8feebf3fe21e190fde4eb4bd2bc12c3df349efc6a92b9b43fb4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hilton-garden-inn-pomona-ca.html": {
+    "name": "Hilton Garden Inn Pomona, CA",
+    "location": "Pomona",
+    "score": "8.8",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410440055.webp?k=9604d9d85a994d572a6b9014266cf7c3a6b96408477cf540105d4ccb31871854&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/guesthouse-inn-amp-suites.html": {
+    "name": "SureStay Plus Hotel by Best Western Upland - Ontario North",
+    "location": "Upland",
+    "score": "8.5",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406454725.webp?k=6519b0bef4026b6b532bdd0b47f1504da7aca8f6dcf12ddce3e05eda9b723fab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/chino-12266-central-avenue.html": {
+    "name": "Motel 6-Chino, CA - Los Angeles Area",
+    "location": "Chino",
+    "score": "5.6",
+    "review_count": "404 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79796218.webp?k=c6ba7471287b38e5f8cb5f343757b0eb78d8da040ecff1872f849c2213544460&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/chino-motel-chino1.html": {
+    "name": "Chino Motel",
+    "location": "Chino",
+    "score": "7.1",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350800534.webp?k=0d49165bf85234caf408af917c09d12451b80d530b914d399cddf2aa126b1b59&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/eclectic-ontario-getaway-with-private-hot-tub.html": {
+    "name": "Eclectic Ontario Getaway with Private Hot Tub!",
+    "location": "Ontario",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405152253.webp?k=5309dd339b70b5068ec5d9ed9d3a11e75574b10d9aacbe5cbc691c245b71570f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/holiday-inn-express-suites-san-dimas.html": {
+    "name": "Holiday Inn Express Hotel & Suites San Dimas, an IHG Hotel",
+    "location": "San Dimas",
+    "score": "7.5",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429325964.webp?k=7684c54b63366c73ee60a5027008a80c0ad0ccc2930bbbd6afb3b1610657eaf5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/motel-6-los-angeles-pomona.html": {
+    "name": "Motel 6-Pomona, CA - Los Angeles",
+    "location": "Pomona",
+    "score": "6.2",
+    "review_count": "588 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79801821.webp?k=96dedaf921a5b3abf767556d2379aac3d1f5f5278f726f0a7cb4e396bae79112&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mountain-inn.html": {
+    "name": "Mountain Inn",
+    "location": "Ontario",
+    "score": "6.1",
+    "review_count": "150 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/60555555.webp?k=edc19f98e6fab2344e2a00a32072deecb59271ac63b13f1c10936a52fcb9483b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/days-inn-ontario.html": {
+    "name": "Days Inn by Wyndham Ontario Airport",
+    "location": "Ontario",
+    "score": "5.6",
+    "review_count": "445 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135442928.webp?k=3d725edd9cd796a961813a034d433aff10c2eb2184702c9dd0e5520b2282b405&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rodeway-inn-ontario-airport.html": {
+    "name": "Express Inn & Suites",
+    "location": "Ontario",
+    "score": "5.2",
+    "review_count": "367 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393078020.webp?k=61c3676a9b24dea6d804a9a3084473a6dc5f2f4c13a98e8ffebfc6760a5e4c48&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-quiet-amp-convenient-with-great-location-ontario.html": {
+    "name": "Cozy Quiet&convenient with Great location",
+    "location": "Ontario",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385653743.webp?k=445ec99398c6ae718c093ece5a309daa5180d3f9fa1f1bf13a99eda6ef135f5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/la-quinta-inn-and-suites-pomona.html": {
+    "name": "La Quinta by Wyndham Pomona",
+    "location": "Pomona",
+    "score": "7.9",
+    "review_count": "1,589 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251952294.webp?k=4c8aa02851f441f4c354e849967a30d43e9396ba63fbffde8c31a850d5b21880&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/doubletree-hilltop-pomona.html": {
+    "name": "Doubletree By Hilton Pomona",
+    "location": "Pomona",
+    "score": "8.4",
+    "review_count": "304 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/208933960.webp?k=c5c055da8d7584b16fa59db57d71493e11b4de619e606cd50c55f1eb8c574594&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfort-suites-near-fairplex.html": {
+    "name": "Best Western San Dimas Hotel & Suites",
+    "location": "San Dimas",
+    "score": "8.4",
+    "review_count": "254 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143070894.webp?k=89c86c6c23ef3a3c6b43694ccb7f313ae879c5eb060480397408e52b0b0a1067&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hampton-inn-suites-chino-hills.html": {
+    "name": "Hampton Inn & Suites Chino Hills",
+    "location": "Chino Hills",
+    "score": "8.5",
+    "review_count": "292 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92156953.webp?k=68ad1ef20b80012ae1bd3bd7282ae8c6dc8a2700a61682f35571fe4ffc4169eb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/red-roof-inn-san-dimas.html": {
+    "name": "Red Roof Inn San Dimas - Fairplex",
+    "location": "San Dimas",
+    "score": "7.1",
+    "review_count": "759 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271065627.webp?k=eb843d4d0488a1dbe92532211026de9733c66031db5357f70e75c2a92428d5b3&o=&s=1"
+  }
+}

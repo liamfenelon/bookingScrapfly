@@ -1,0 +1,282 @@
+{
+  "https://www.booking.com/hotel/ie/the-abbeyleix-manor.html": {
+    "name": "The Abbeyleix Manor Hotel",
+    "location": "Abbeyleix",
+    "score": "8.1",
+    "review_count": "888 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222674237.webp?k=9cec7487fd206db18b8812bfaca4a630cfee235e14307cef395655087d1e23d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/heritageportlaoise.html": {
+    "name": "Midlands Park Hotel",
+    "location": "Portlaoise",
+    "score": "8.7",
+    "review_count": "2,449 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295387497.webp?k=8a02dcc883e3b6a5f8feb3c1f3c4e6cc6f388a7593aaf9917cdcbcff4245b8b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/comfortinnportlaoise.html": {
+    "name": "Maldron Hotel Portlaoise",
+    "location": "Portlaoise",
+    "score": "7.8",
+    "review_count": "1,461 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288017616.webp?k=9b9f06a626a84ef3a5b99e3237140ddbec2b5f18c9e91d26c36a1269ed1e11ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-heritage-golf-spa-resort.html": {
+    "name": "The Heritage",
+    "location": "Killenard",
+    "score": "8.8",
+    "review_count": "1,599 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322610356.webp?k=fe772bc408d761efc44b4b05e62674cec2fdf0cf26e42d3a301cae3fcb1b050e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-killeshin.html": {
+    "name": "The Killeshin Hotel Portlaoise",
+    "location": "Portlaoise",
+    "score": "7.9",
+    "review_count": "1,096 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144599125.webp?k=dc0902ce3cca5165038586f24c6b8cd39753fa21f83070762e10b47a72b351e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/inch-house-ireland.html": {
+    "name": "Inch House Ireland - Guest Rooms & Entire House",
+    "location": "Stradbally",
+    "score": "8.6",
+    "review_count": "187 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346554610.webp?k=1b692355410824e7e026a81ae24f5a1ac2a9c1edc6c2a0dbbba9a7f90a7d0dce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/adorable-cabin-in-the-countryside.html": {
+    "name": "Adorable Cabin in the Countryside",
+    "location": "Portlaoise",
+    "score": "9.6",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376159331.webp?k=df9059ca6a49dca41757078af6b84bc24d7145f021fe34a401ae8d51c02ca2a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ivyleigh-house-portlaoise.html": {
+    "name": "Ivyleigh House",
+    "location": "Portlaoise",
+    "score": "9.1",
+    "review_count": "226 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/28525204.webp?k=460be68b61e42ae9321494f8490aa45fa7efad17dede851df07eb44ee962c2c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lazy-lodge-glamping-pod.html": {
+    "name": "Lazy Lodge Glamping Pod with Hot Tub",
+    "location": "Portlaoise",
+    "score": "7.6",
+    "review_count": "85 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320048733.webp?k=55028c91fa92ade3d8f75042990d215ae2821b4171ddcfb31dfb9375271e197c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kearneys-cottage-b-amp-b.html": {
+    "name": "Kearney's Cottage B&B",
+    "location": "Killenard",
+    "score": "9.6",
+    "review_count": "121 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334562752.webp?k=a6c40208dbf5b4ce982300972f2b805913d9e7f68295b6bd24edb10ada85ca0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballycarnan-lodge-portlaoise1.html": {
+    "name": "Ballycarnan Lodge Self Catering Accomodation",
+    "location": "Portlaoise",
+    "score": "7.9",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355862566.webp?k=4e4ffedef17ebf2c1a5a3463f71e13b42fbaf773adb5dddc7de8eb23d6be1080&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/weir-view-bed-and-breakfast.html": {
+    "name": "Weir view Bed and Breakfast",
+    "location": "Durrow",
+    "score": "9.4",
+    "review_count": "103 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/151727909.webp?k=aa1d98c7a2da57d567615cae6edfa8349c7384435d9a17f12503979323ef9445&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harry-potter-themed-guest-suite.html": {
+    "name": "Harry Potter themed guest suite with outdoor hot tub",
+    "location": "Portlaoise",
+    "score": "8.1",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370594155.webp?k=f4e0090f0a736f4f75a734c85b365eb3d76e54b7300f8f68277f6798f1199fff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-min-to-castle-durrow-7-min-to-abbeyleix-manor-15-min-to-portlaoise.html": {
+    "name": "LittleField B&B Durrow, Laois",
+    "location": "Durrow",
+    "score": "9.4",
+    "review_count": "114 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409370805.webp?k=e26d4ece84a95a6d66c21dc050bca08f443633616e5ab33ea0a11c2d0dd9b61e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashbrook-arms-townhouse-and-restaurant.html": {
+    "name": "Ashbrook Arms Townhouse and Restaurant",
+    "location": "Durrow",
+    "score": "9.4",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/35961471.webp?k=f182ed4ea32e1c9298fb669e4bad1397c50db7d14256d2c80be5307e4170d257&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/killenard-self-catering-accommodation.html": {
+    "name": "Killenard Self Catering Accommodation",
+    "location": "Killenard",
+    "score": "9.9",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364839622.webp?k=d4df145f31d67b386db1e10d8d9aeac6074fb989a08f23037aa4fda154eee3df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/barrow-view.html": {
+    "name": "Barrow View B&B",
+    "location": "Mountmellick",
+    "score": "9.5",
+    "review_count": "184 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/33586574.webp?k=4cf54534fd04f4a261360995f240436c90359a074ca046529096261fda8a0b76&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/blackhill-woods.html": {
+    "name": "Blackhill Woods Retreat",
+    "location": "Abbeyleix",
+    "score": "9.2",
+    "review_count": "188 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261535812.webp?k=f8101ebca6285741940b02b311b2280ac4190c3a253b00e2224559929bf9d37e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-yoke.html": {
+    "name": "The Yoke",
+    "location": "Ballybrittas",
+    "score": "9.4",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395434586.webp?k=7e99161d31b500caa68aaccbbffed2855a7087e43facc689daa342a6647cfa74&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/roundwood-house.html": {
+    "name": "Roundwood House",
+    "location": "Mountrath",
+    "score": "9.5",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310380596.webp?k=27ca6779619f001aa880d593164d47970ceffe62fe0a581872925bf4f0ccae46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brielle-house.html": {
+    "name": "Brielle House",
+    "location": "Mountmellick",
+    "score": "9.4",
+    "review_count": "55 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89588853.webp?k=2b6348b73ee5cfd852f00c91ab85b920389c66b1c96ed7471d190543928c4ef4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/country-cottage-portarlington.html": {
+    "name": "Country Cottage",
+    "location": "Portarlington",
+    "score": "8.5",
+    "review_count": "88 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205263391.webp?k=481dd58e5edda240465f01761ed79c956a009dc1311f6cb27d0c35705c873d17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/country-studio.html": {
+    "name": "Country Studio",
+    "location": "Portarlington",
+    "score": "8.9",
+    "review_count": "79 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250059797.webp?k=e4bdaaf74a4f3b363b11d8e804dfe5fd9b8f467dbd4f3d86843e2f86d621e26e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/preston-house-county-laois.html": {
+    "name": "Preston House",
+    "location": "Abbeyleix",
+    "score": "9.5",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293166165.webp?k=8ae2732d776f68819ff5ab7ac2708f9a9c802cb2f154942b932a11afcaab5a32&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/magical-stay-hottub-and-glamping-experience.html": {
+    "name": "Self catering magical guestroom with outdoor hot tub",
+    "location": "Portlaoise",
+    "score": "7.8",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352460692.webp?k=7cbaf2ec08d892a856e08e55449ddb1725175b943fa5ab6f3399ac88402fb306&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/summergrove-house.html": {
+    "name": "Summergrove House",
+    "location": "Mountmellick",
+    "score": "9.4",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407136175.webp?k=84a36e2f05038686204a3a7701a07e6396597df1deacfd5b96a9d5c5170494b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/esker-hills-homestay.html": {
+    "name": "Esker Hills Homestay",
+    "location": "Portlaoise",
+    "score": "8.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399630733.webp?k=a90a883144fa2ab944fb9850464358a196d765a9c88e829ce0f57eb6fca63742&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glamping-for-grown-ups.html": {
+    "name": "Glamping For Grown up's",
+    "location": "Portlaoise",
+    "score": "6.9",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390502694.webp?k=e05093bcdec086c84213357af8014584470313fdfa3c1ae4a292db00d558694e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glamping-for-outdoor-lovers.html": {
+    "name": "glamping for outdoor lovers",
+    "location": "Portlaoise",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415358286.webp?k=36172409ecd1625df81c5f7f3c0ab003e01cf0e8dffddcf89274361dd5b42543&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballyrider-house-stradbally-laois.html": {
+    "name": "Ballyrider House Beautiful Triple Suite",
+    "location": "Inch Cross Roads",
+    "score": "8.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304578957.webp?k=2a06b904fde96b988faa53cf367d9a47b292eaf3983bc0ac4a0ff9f787021222&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/coach-house-portlaoise.html": {
+    "name": "Coach House",
+    "location": "Portlaoise",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388010004.webp?k=db94db185b0d56ea7deb8933027c5a24eee7e74eaea140d850e7392ca717930d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/countryside-homestay-near-vicarstown.html": {
+    "name": "Countryside Homestay near Motorway",
+    "location": "Ballybrittas",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385686020.webp?k=37a03793ea91dc1db96f83164b76a26862056244cc9ca844ccdcad8879468390&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-appartment-kilmullen.html": {
+    "name": "The Gate House",
+    "location": "Bergins Bridge",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412572266.webp?k=22915b75912b659e3b42d795907a24674e7c9e23164705c0f9f833b250497d5f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fearmore-view.html": {
+    "name": "Fearmore view",
+    "location": "Kildare",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434335089.webp?k=24e5341775e9e2829ce8fd74c66867a4513d06c2a33f41d7a0251f982004d66c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-canal-side-b-amp-b.html": {
+    "name": "The Canalside B&B at The Auld Shebeen Bar",
+    "location": "Athy",
+    "score": "8.8",
+    "review_count": "195 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318781844.webp?k=760dea214df38b10548ea92e311fdca1f3f6fd783c9b34b42e04a6e426a0d8c1&o=&s=1"
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "https://www.booking.com/hotel/ie/imperialcork.html": {
+    "name": "Imperial Hotel Cork City",
+    "location": "Cork",
+    "score": "8.7",
+    "review_count": "2,740 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378018216.webp?k=626aca109330b1947c7d59140b6e6ae12f3d8af1a54455fe95158c3b6c7282ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/gabriel-house.html": {
+    "name": "Gabriel House Guesthouse",
+    "location": "Cork",
+    "score": "8.8",
+    "review_count": "2,561 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142505227.webp?k=86db6aa6a023183f2f19db2710d8f0d7da03a55801e0bfa4e8eddbfae1599322&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maldron-southmall-cork-city.html": {
+    "name": "Maldron Hotel South Mall Cork City",
+    "location": "Cork",
+    "score": "8.5",
+    "review_count": "3,914 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/160726138.webp?k=565a44661188a96ce7ba902a38b320820b33f4574ab74e32570cdd8bbaac22da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cork-international.html": {
+    "name": "Cork International Hotel",
+    "location": "Cork",
+    "score": "8.7",
+    "review_count": "2,373 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65349688.webp?k=b23cb33591b00cb3b65e4a6b9f78984536f63cb6cdbb65c089e188a51b45ec0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/juryscorkhotel.html": {
+    "name": "The River Lee Hotel a member of The Doyle Collection",
+    "location": "Cork",
+    "score": "8.7",
+    "review_count": "1,407 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295989646.webp?k=5bfc31013489255acaaef071be1873a95b74145091a0bba248193fc5a48dac3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/jurys-inn-cork.html": {
+    "name": "Jurys Inn Cork",
+    "location": "Cork",
+    "score": "7.9",
+    "review_count": "5,724 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231165651.webp?k=b99177ca4202929e3eb2c95392107ca2028f70de9b65ae8939306f16d67ee363&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-townhouse-cork.html": {
+    "name": "The Townhouse",
+    "location": "Cork",
+    "score": "8.5",
+    "review_count": "1,228 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/189859978.webp?k=e3b977a88983bc080bdf52d5d294650d84d50829f703c7873a47db5c7dd17761&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/belvedere-lodge.html": {
+    "name": "Belvedere Lodge",
+    "location": "Cork",
+    "score": "8.1",
+    "review_count": "1,778 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260253016.webp?k=b83d547a74716553ddba5032a3d2639b1b43dcbcbc314be19fed6a94584d3085&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-metropole-hotel.html": {
+    "name": "The Metropole Hotel Cork",
+    "location": "Cork",
+    "score": "8.3",
+    "review_count": "2,683 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/138865741.webp?k=848f2867e013e304a2a9e4055741916306169d4e939a5ab00863e45e9a4954b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rochestownpark.html": {
+    "name": "Rochestown Park Hotel",
+    "location": "Cork",
+    "score": "7.6",
+    "review_count": "3,729 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336221949.webp?k=f0f9c74dd172e2f1638efe5b01489d6243c602e0c2a60866d8bb92011c0f53d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shandon-bells-cork.html": {
+    "name": "Shandon Bells Guest House",
+    "location": "Cork",
+    "score": "8.0",
+    "review_count": "2,284 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/30446783.webp?k=ce94efd984bb2dc7380d22ceff872a12bcf3efa1936f5f8d89f67a222199f333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/radissoncork.html": {
+    "name": "Radisson BLU Hotel & Spa, Little Island Cork",
+    "location": "Cork",
+    "score": "7.4",
+    "review_count": "2,846 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232817786.webp?k=164d6bd1b466a07d0346965456fb4e92747ac72c22bbbc143e6dda3319abcc01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/qualityhotelcork.html": {
+    "name": "Maldron Hotel Shandon Cork City",
+    "location": "Cork",
+    "score": "7.6",
+    "review_count": "2,275 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/45242467.webp?k=d171a8c55c6ed45b380c4f9ae9de4934ed2dd25a753ff0c078c95a174e46a86c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/moran.html": {
+    "name": "Clayton Hotel Silver Springs",
+    "location": "Cork",
+    "score": "7.4",
+    "review_count": "2,140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357458136.webp?k=9ea61e185c357101176e21dd6f37a97291d6f06437cf7ed46f211db8bffa6ed1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ambassadorhotelcork.html": {
+    "name": "The Address Cork (formerly Ambassador Hotel & Health Club)",
+    "location": "Cork",
+    "score": "8.0",
+    "review_count": "1,138 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265649719.webp?k=c93b4a189e2cd327be0952a4b28df26850ee792b0aa7ecbd0b4c318a66001107&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/amnis-house.html": {
+    "name": "Yugo Amnis House",
+    "location": "Cork",
+    "score": "7.7",
+    "review_count": "823 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421405816.webp?k=d767d24f2ff384e0218b991d9510225346d6976f92c4d38ecae4fb7f575183d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lancaster-lodge.html": {
+    "name": "Lancaster Lodge",
+    "location": "Cork",
+    "score": "8.2",
+    "review_count": "1,543 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288807687.webp?k=c3bb13c1d8ff67463b03aac2a3ab1da279fc71567becdb5669b9f446fb2da9b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clarioncork.html": {
+    "name": "Clayton Hotel Cork City",
+    "location": "Cork",
+    "score": "8.1",
+    "review_count": "3,400 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/16097644.webp?k=351f89173ca462c1017c66ccfd505a3e806e55865516f696f978670676e53e21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-dean-cork.html": {
+    "name": "The Dean Cork",
+    "location": "Cork",
+    "score": "8.6",
+    "review_count": "2,421 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300404918.webp?k=46ad503b9a8d641b5850c913bf56e3133149b568a0fae3afd142e70054ad909a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/anam-cara-b-amp-b.html": {
+    "name": "Anam Cara B&B",
+    "location": "Cork",
+    "score": "8.5",
+    "review_count": "748 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/159571524.webp?k=62b4451570474429b2ef2e2a8944bc296fe6d3cb2e4b5b0ab4359da0368f8567&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hotelisaacscork.html": {
+    "name": "Hotel Isaacs Cork City",
+    "location": "Cork",
+    "score": "8.6",
+    "review_count": "1,910 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/52220199.webp?k=4d02865efa571a9c86b9f8ddcd3a662c146135667989cd768a40f833ad26c3f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carole-ville.html": {
+    "name": "Blackrock Carole Ville Guesthouse",
+    "location": "Cork",
+    "score": "9.5",
+    "review_count": "273 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215426995.webp?k=4e492a7c7811b25cd7f148e5534b9ba5c682f952de06ee40ec2b58b1981faca9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-coach-house-douglas.html": {
+    "name": "The Coach House Douglas",
+    "location": "Cork",
+    "score": "9.5",
+    "review_count": "109 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181907044.webp?k=ff5d00310b7ae7f9b87ccd2beb084a2b82f3c6495d0696bdfdd8f9689e27fd1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sheraton-fota-island-golf-resort-and-spa.html": {
+    "name": "Fota Island Hotel and Spa",
+    "location": "Cork",
+    "score": "8.8",
+    "review_count": "1,425 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257222526.webp?k=51b9b9dba977bc37fde92790d79ec15167a3738ed6883d89efd21ad2ab68d39f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/university-hall-apartments.html": {
+    "name": "University Hall Apartments - UCC Summer Beds",
+    "location": "Cork",
+    "score": "8.5",
+    "review_count": "210 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/133252316.webp?k=2af7dfe28c87c49c03ede7a619691b0d869a86ca73903164ee051f2ac3fc5a7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-kingsley.html": {
+    "name": "The Kingsley Hotel",
+    "location": "Cork",
+    "score": "8.9",
+    "review_count": "2,160 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339073318.webp?k=dc9d027e37f93869788ec5567f2761f14d4ebd8b6df77604650a8ff0b03fe533&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lee-point.html": {
+    "name": "Yugo Lee Point",
+    "location": "Cork",
+    "score": "8.0",
+    "review_count": "1,266 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421407709.webp?k=cb80e29d9daff6280d7be9989a1102fe0c901c18bc9c61b51c9dcf1ca3a3533c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/capella-at-castlemartyr-resort.html": {
+    "name": "Castlemartyr Resort Hotel",
+    "location": "Cork",
+    "score": "8.6",
+    "review_count": "1,180 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/11476353.webp?k=04ebf5d25ebcfe204b4c8a2209d0a8f0e8df4df338fb8dd5ecde415efcf47666&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/river-view-apartment-suite.html": {
+    "name": "River View Apartment Suite",
+    "location": "Cork",
+    "score": "9.5",
+    "review_count": "152 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296687792.webp?k=75a626dfc5fc193e1ec65f1708aff86ef28b3399817674e97a2380426ae9704e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/parade-house.html": {
+    "name": "Elizabeth Fort",
+    "location": "Cork",
+    "score": "9.3",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/176563879.webp?k=206849b4c7a69b3c9edd30994f9a40d29bee0e686b1c18cd62da67e5f6bcd672&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-montenotte.html": {
+    "name": "The Montenotte Hotel",
+    "location": "Cork",
+    "score": "8.8",
+    "review_count": "1,535 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336367574.webp?k=e6cd0ae218c0d2c48373026758f9e11c1de3ee0002226e7a2145fc33bcccf49e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashley.html": {
+    "name": "Ashley Hotel",
+    "location": "Cork",
+    "score": "6.2",
+    "review_count": "706 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384633136.webp?k=40b7a19379e04bbcc75a1ea43baf8875b8205f1b2d8dda3285446e6a86a08782&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/coach-hill-house.html": {
+    "name": "Coach Hill House",
+    "location": "Cork",
+    "score": "8.8",
+    "review_count": "161 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/121059224.webp?k=b88e9e64ecc1c5cfdbc98a68283bcfb36a29481723bcb81e66fef1c5a2d03683&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/belvedere-house-cork.html": {
+    "name": "Belvedere House Cork Guest House",
+    "location": "Cork",
+    "score": "8.3",
+    "review_count": "404 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349121715.webp?k=8790657ec3cbb9b13df169788a6908cf5de1a86dfd216a57b1860c4a13bb5965&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/orielhouse.html": {
+    "name": "Oriel House Hotel",
+    "location": "Cork",
+    "score": "7.6",
+    "review_count": "2,146 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/54569607.webp?k=8289bb74e838dc540a0235c08e9e70adbb39b526eba774aa4b4e31663af63c95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/quiet-countryside-retreat.html": {
+    "name": "Quiet countryside retreat",
+    "location": "Cork",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433435934.webp?k=c55d9c6fb068981ed5a376a6bd476eeb8d5dee090142f4bb4763d7863f86c86c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/crawford-guest-house.html": {
+    "name": "Crawford Guest House- ScholarLee Living Apartments",
+    "location": "Cork",
+    "score": "7.3",
+    "review_count": "400 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15414464.webp?k=f55f563e4e43bd198c9f4e5d88612acd5bac7d9e233689067623704f688380b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/apartment-2-oakleigh-house-donnybrook-cork.html": {
+    "name": "Apartment 2 Oakleigh House",
+    "location": "Cork",
+    "score": "8.2",
+    "review_count": "73 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142812986.webp?k=65a5a3d37ebb9a0b9ffc22dc5fa2a4881a8915beb712df688fd702dbb58c0a4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maryboroughhouse.html": {
+    "name": "Maryborough Hotel & Spa",
+    "location": "Cork",
+    "score": "8.3",
+    "review_count": "775 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269806627.webp?k=21b13700501c565c7b61de4bf0f3bde5aed7a1fc0d4932bfc447c35067ab5c75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rezz-cork.html": {
+    "name": "REZz Cork",
+    "location": "Cork",
+    "score": "7.0",
+    "review_count": "2,472 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332639187.webp?k=415a6145923d98c67a78827e5dd5c007315af93c2442773fa4b7a22121b254e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/redclyffe.html": {
+    "name": "Redclyffe Guesthouse",
+    "location": "Cork",
+    "score": "8.4",
+    "review_count": "1,230 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/262386344.webp?k=0ed388f2b458801c0df5376fe290154b6a92c54f517488a83247023654637a4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lovely-apartment-in-cork.html": {
+    "name": "Lovely apartment in Cork",
+    "location": "Cork",
+    "score": "9.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367863576.webp?k=b7d8583146961c4925b29d71c2348319b9d1ebeb552da5ec693de14196429cde&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-grasslands-holiday-home.html": {
+    "name": "The Grasslands Holiday Home,",
+    "location": "Cork",
+    "score": "9.7",
+    "review_count": "172 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307579688.webp?k=c538fd88ec9f0a61462a79c73cf34be193e448f7874befc13bfd0e1e89a1bf98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/barnabrow-country-house.html": {
+    "name": "Barnabrow Country House",
+    "location": "Cork",
+    "score": "7.6",
+    "review_count": "243 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/178567330.webp?k=f841d59b12088178e7d4b1cd169d0d5ce098dc55487e4b4f3fe7c398d94f9895&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/historic-hideaway-in-cork-city-centre.html": {
+    "name": "Historic Hideaway in Cork City Centre",
+    "location": "Cork",
+    "score": "8.0",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100578085.webp?k=24d46c31728ea9c2feef6decde61b5a136e8775f2b333973ef564df20142b6b2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/apartment-3-oakleigh-house-donnybrook-hill-douglas-cork-cork.html": {
+    "name": "Apartment 3, Oakleigh House, Donnybrook Hill, Douglas Cork",
+    "location": "Cork",
+    "score": "9.1",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173602938.webp?k=5bc246ec1f6ccca39fb093b37b9e927b212a1e25eee2b0f896a793a3f2c75979&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fortwilliam-farm.html": {
+    "name": "Fortwilliam Farm T12DNN2",
+    "location": "Cork",
+    "score": "9.1",
+    "review_count": "93 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318540972.webp?k=7df9c85eefd094f17d803dc1f80b2d7beda4aa2375982b08eebbc1d82de1ae40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-bed-waterfront-property-close-to-courtmacsherry.html": {
+    "name": "2 BED WATERFRONT PROPERTY - CLOSE TO COURTMACSHERRY",
+    "location": "Cork",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359887962.webp?k=1275815f47a21abbb95cc3968c17e2fb31ce5116138df017b00d9b7d619fef3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fernway-residence-entire-property-cork.html": {
+    "name": "Fernway Residence entire property",
+    "location": "Cork",
+    "score": "7.9",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403853030.webp?k=6d9df996f2fccccb24b545876a500d3c62c310b9b31e1ba77acb7b354908a24e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ucc-crows-nest-apartments.html": {
+    "name": "The Crows Nest - UCC Summer Beds",
+    "location": "Cork",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411207502.webp?k=b18481761b4064d05f52111a1e51d3da0bd78883a5648fc7f0b008e6f89b1768&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/melbourn-point-cork.html": {
+    "name": "Yugo Melbourn Point",
+    "location": "Cork",
+    "score": "8.2",
+    "review_count": "111 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421406420.webp?k=3d3b905f2bfaa6e29a44d3c13a4cb351278b0e2da4ff1730c37f935161f58473&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/davmar-b-b.html": {
+    "name": "Davmar House",
+    "location": "Cork",
+    "score": "8.5",
+    "review_count": "141 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/1791082.webp?k=2bb9f2545bf71415caca9f51f25b5f378d96274fbe844c0c85c1859ae678f1a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/oakleigh-house-apartment-1.html": {
+    "name": "Oakleigh House, Apartment 1",
+    "location": "Cork",
+    "score": "8.4",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144915257.webp?k=8616462ea78c9c656208c6441f8ba4d27124d26d01fa76bedac282d5557382c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hayfieldmanor.html": {
+    "name": "Hayfield Manor",
+    "location": "Cork",
+    "score": "8.9",
+    "review_count": "203 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/41246635.webp?k=28bffd24d8ca116c3a5544482a0cee98cdabd3854d5c56d82017152be5c730bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/one-bedroom-apartment-in-innishannon-village.html": {
+    "name": "Mariners Rest One Bedroom Apartment in Innishannon Village",
+    "location": "Cork",
+    "score": "9.1",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363661562.webp?k=2aede1dab8ffd6857567e818f7ec2877fcb74abb26594338334a992006001a43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-2-bed-cottage-next-to-fota-wildlife-park.html": {
+    "name": "Cosy 2 bed cottage next to Fota Wildlife Park",
+    "location": "Cork",
+    "score": "6.7",
+    "review_count": "42 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337711382.webp?k=f1f098612c052e665497bfbec6a4dd4a4c89319065286580120cdde043deb13c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beautiful-amp-quiet-countryside-setting-in-kinsale.html": {
+    "name": "Beautiful & Quiet Countryside Setting in Kinsale",
+    "location": "Cork",
+    "score": "9.2",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348025007.webp?k=04ce815aa413f3f9d0cd6a017ccba0252ef9d780904312df051c735b214a61b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cable-island-bed-and-breakfast.html": {
+    "name": "Cable Island Bed and Breakfast",
+    "location": "Cork",
+    "score": "9.1",
+    "review_count": "214 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309310133.webp?k=bb6ab80cf92bf970635dfe29e913e952d55b2e23c81c8e1f74cf2aaa87d8e4c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sheilas-tourist-hostel.html": {
+    "name": "Sheilas Tourist Hostel",
+    "location": "Cork",
+    "score": "7.4",
+    "review_count": "2,906 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259920015.webp?k=c2f016b5f955c0a3c0ec17ec453bcdd16cdc1489665d6ac541884f887173dd1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/idyllic-inchydoney-beach-cottage-amazing-views-5-minutes-walk-to-the-beach.html": {
+    "name": "Idyllic Inchydoney Beach Cottage - Amazing sea views, path to beach!",
+    "location": "Cork",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/187175287.webp?k=a7db61ac32dcf560062401430c89ed572589feaca7caeb32d2a5c5dfc025e265&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/station-view-tavern-cork.html": {
+    "name": "Station View Tavern",
+    "location": "Cork",
+    "score": "7.0",
+    "review_count": "332 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300344607.webp?k=899800cf66da242d6215cdbd6307ba2420c350e256e79ab60f0374a6d1121eee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/39-camden-wharf.html": {
+    "name": "39 Camden Wharf",
+    "location": "Cork",
+    "score": "8.4",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/53140725.webp?k=cca21cd05b62f974dc7131d0df919ca90ac5f80dc11e1ca53e6b4d6efb3a8f54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridge-cottage.html": {
+    "name": "Bridge Cottage",
+    "location": "Cork",
+    "score": "9.0",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243931561.webp?k=90529c7152d3f04f0701a2f577c50563084e4e0d8ecd43b6c16d0282e4cb1706&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lakeside-lookout.html": {
+    "name": "Lakeside Lookout Bantry",
+    "location": "Cork",
+    "score": "8.7",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298418433.webp?k=bd4a1def8ec6fd09d759965b89b0955268474e5397d696a38a3f290093f96af7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/willoughby-house.html": {
+    "name": "Willoughby House",
+    "location": "Cork",
+    "score": "9.7",
+    "review_count": "100 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307501669.webp?k=31425a9a71518505ba21f960538af7e1897d3c575475a888716a8884d83d70f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-bedroom-home-by-the-sea.html": {
+    "name": "4 bedroom home by the sea",
+    "location": "Cork",
+    "score": "9.0",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345473010.webp?k=42e0fb343fc85833a4a3458f3eb12e647dc7a91c8f13c9f93463adeba80b5df4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stunning-4-bedroom-house-in-bantry.html": {
+    "name": "Stunning 4 Bedroom House in Bantry",
+    "location": "Cork",
+    "score": "9.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/139904411.webp?k=1a790c2e47cd63b569a9d98203bd19ec1984b6ceb27a50275c785c778ab465e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/strand-awaits-holiday-home.html": {
+    "name": "Strand Awaits Holiday Home",
+    "location": "Cork",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345402258.webp?k=0f4d41d6daf5c6bbdc54f7f8473cca7a339a9672b77388c1b24aae14e69db3f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glenbower-house.html": {
+    "name": "Glenbower House",
+    "location": "Cork",
+    "score": "9.2",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113951320.webp?k=b360b3a2705ef7d3f0fe7f55471a01ca9d91fb1f1c3df1b771db7b5abd90fd1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shanagarry-47-ballycotton-glamping-pod.html": {
+    "name": "shanagarry / Ballycotton Glamping pod",
+    "location": "Cork",
+    "score": "8.8",
+    "review_count": "136 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/204555191.webp?k=5e791e95e849a867442b01f0f7cd32d05908aa00a49f343a446749d5212b65f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/one-bedroom-apartment-innishannon.html": {
+    "name": "Apartment Innishannon Mariners Rest",
+    "location": "Cork",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/401856474.webp?k=ff6eeed48fcf19d872e31fe5c6e328bf27508058d18275257e699328e35b40d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/affordable-room-and-shower.html": {
+    "name": "Crescent Apartments",
+    "location": "Cork",
+    "score": "6.4",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379315973.webp?k=c136f47b7e9e7a8a1efe614896278e3df792be29c96154ffd636ff8a3132df21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-long-acre.html": {
+    "name": "Meelin cottage",
+    "location": "Cork",
+    "score": "9.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/374810701.webp?k=7f1e3cfa8371b23651cfc3d5671c46351a738296fd3a40a190c185a7acb1f4f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/nana-39-s-house.html": {
+    "name": "Eileen's House",
+    "location": "Cork",
+    "score": "9.9",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253852107.webp?k=9edb5e6a01e0b2cd6d41a4e01ae7f7d5510ff873681e79fd5591fcef1ee3b4f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-boathouse-cork1.html": {
+    "name": "The Boathouse",
+    "location": "Cork",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408396932.webp?k=1382fd0945434221ac060c5dda5b39f060ad6e23c053d06a0fde4012544f6235&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-strand-awaits.html": {
+    "name": "The Strand Awaits Apartment",
+    "location": "Cork",
+    "score": "9.1",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301415358.webp?k=4a441b9b5e2e085b48c53c5b9a6c75e9f99a2796356fa2f09e4fca7a1f44796c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/destiny-student-cork.html": {
+    "name": "Destiny Student - Cork",
+    "location": "Cork",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435560987.webp?k=542ebdb9206b4d43f52e96d96a7d6a31b8684805ece3f0909e606b0f0b83a005&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/inviting-10-bed-lodge-in-bengour-west.html": {
+    "name": "Peacock Farm Estate Self Contained Lodges",
+    "location": "Cork",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434188343.webp?k=62210949561bd780eab44b5ede69a419c4368daccb03d7d745aceab75830527d&o=&s=1"
+  }
+}

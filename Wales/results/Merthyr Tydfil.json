@@ -1,0 +1,538 @@
+{
+  "https://www.booking.com/hotel/gb/cheerful-3-bedroom-near-bikepark-wales-merthyr-tydfil-town-centre.html": {
+    "name": "Cheerful 3-bedroom Near Bikepark Wales Merthyr Tydfil Town Centre",
+    "location": "Merthyr Tydfil",
+    "score": "7.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372866744.webp?k=796ad59bd8fa49ac3462d3f4815eb15055344bf4509e348a630a8480e4214039&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-39-place-at-dowlais.html": {
+    "name": "James' Place at Dowlais",
+    "location": "Merthyr Tydfil",
+    "score": "8.6",
+    "review_count": "383 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209789308.webp?k=fbca6b59b18efa2a26e94a4336d8ef0f63686ad733205b37ffec20545d142589&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studios-at-glenthorne.html": {
+    "name": "Studios At Glenthorne",
+    "location": "Merthyr Tydfil",
+    "score": "9.2",
+    "review_count": "345 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/50012151.webp?k=e58cba811526e974ed758e9277aa7d4d902928133bb410f31c53bf42fba81391&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brynawel-guest-house.html": {
+    "name": "James' Place at Brynawel",
+    "location": "Merthyr Tydfil",
+    "score": "9.3",
+    "review_count": "137 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305648039.webp?k=49bce49fc2a7c2b9aee2de03d38ff67651f3a982fce94bdf38e7c3c014c76c44&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/43-bbescapes.html": {
+    "name": "43 BBEscapes",
+    "location": "Merthyr Tydfil",
+    "score": "9.1",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246280764.webp?k=3407d8a6b5faa8bce58b80aa355cfaf40ee5a99539c93105a8d63e8cc8818b52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-shed.html": {
+    "name": "The Shed",
+    "location": "Merthyr Tydfil",
+    "score": "9.6",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357046216.webp?k=05fcc17cae883662c71ec9e82ad476f42824110438e8b3e1efeb110a547e2284&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bed-house-just-1m-from-bike-park-wales.html": {
+    "name": "Family friendly, Modern House just 1m from Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "8.9",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292738289.webp?k=f77b372d8e78d97801e793d999abe1ae1c0b55447d714e655384c9c28e80bb63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/station-house-merthyr-tydfil.html": {
+    "name": "Station House",
+    "location": "Merthyr Tydfil",
+    "score": "9.3",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428996396.webp?k=6ced72b14e5ab9d7764a59b9c91cab5418b410c7c0fdb9cdf9db49b213ba1cfc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bessemer.html": {
+    "name": "Bessemer Hotel",
+    "location": "Merthyr Tydfil",
+    "score": "7.9",
+    "review_count": "778 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242862525.webp?k=88615c14be9012918420f356e763d21b62f7b658e7f83a99972dc7d1fb36b0a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/family-3-bed-house-bpw-with-private-garden.html": {
+    "name": "** family 3 Bed house BPW, with private garden **",
+    "location": "Merthyr Tydfil",
+    "score": "8.1",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315050269.webp?k=8b633e6a51fce857d1153aab72a654e5264037fb8aa8d71936af91eb27f54330&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nant-ddu-lodge-spa.html": {
+    "name": "Nant Ddu Lodge Hotel & Spa",
+    "location": "Merthyr Tydfil",
+    "score": "7.5",
+    "review_count": "1,052 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120059952.webp?k=2e9e09c4e2694378be8a828705e607b03c0f611b082af041dacd4a45340a6c95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llwynonnguesthouse.html": {
+    "name": "Llwyn Onn Guest House",
+    "location": "Merthyr Tydfil",
+    "score": "9.1",
+    "review_count": "353 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/95867014.webp?k=1451eb9d1c74e708e9d22570bd7fb0829b50bc6d99b7a8b54c106c60ee051573&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/immaculate-1-bed-apartment-in-merthyr-tydfil.html": {
+    "name": "Immaculate 1-Bed Apartment in Merthyr Tydfil",
+    "location": "Merthyr Tydfil",
+    "score": "9.8",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399139278.webp?k=538cb0a7f53f456d935508ea8ce4dfff7dcb305206d6f91ae82ddf0216aab264&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penrhadwfarm.html": {
+    "name": "Penrhadw Farm",
+    "location": "Merthyr Tydfil",
+    "score": "9.2",
+    "review_count": "328 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/478558.webp?k=c3825b1e5e4ab5ba791c3f045bcdce31350abfe8525f644d5c9a9eeb74861af6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cheer-full-two-bedroom-cottage-in-merthyr-tydfil.html": {
+    "name": "Two bedroom cottage in Merthyr Tydfil town Centre, 8 min drive to Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424293340.webp?k=a5a5980fc3d8edfecb76da2a75265f338c99ec30527971b86811d208c5950dc0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-family-bungalow-parking-bike-store-bpw.html": {
+    "name": "Large family Bungalow, parking & Bike Store BPW",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295234014.webp?k=359aaf28a7b08403c26602e0fc2f707fa65541852c7aaf20cc0b13380e3349bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/welsh-private-getaway-home-10mins-to-bikeparkwales.html": {
+    "name": "Welsh Private Getaway Home - 10mins to BikeParkWales",
+    "location": "Merthyr Tydfil",
+    "score": "8.9",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410824734.webp?k=af05b5bfed28a66dfe0f22993367ebf0d0d3ecb58bea1db347152f9749edd250&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-croft-boutique-home-3-miles-from-bikeparkwales.html": {
+    "name": "The Croft boutique home 3 miles from BikeParkWales",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422653244.webp?k=e9d73c3ece9911e1bd56dc9d4b0ec4945f250ccd7f72ba5b815b84660f5e4249&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-merthyr-tydfil.html": {
+    "name": "The Lodge",
+    "location": "Merthyr Tydfil",
+    "score": "8.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345394445.webp?k=31932254914ac4d1816c07d4354f779c7ffaab663a2318c7842c540e89a02b0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-place-bike-park-wales-and-the-brecon-beacons.html": {
+    "name": "James’ Place @ Bike Park Wales and The Brecon Beacons",
+    "location": "Merthyr Tydfil",
+    "score": "9.0",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305228227.webp?k=736a2d5496662904bd066255b63807f44d00da329bdc9191cd7ea0dfabdf3acb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/viaduct-view-cefn-coed.html": {
+    "name": "Viaduct View - Cefn Coed",
+    "location": "Merthyr Tydfil",
+    "score": "9.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402017054.webp?k=15753cf6c34dbea4b2309f94e7cef17d209027a95263669eee337e6f10574e4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/perfect-location-3-bed-serviced-apartment-with-bike-storage-for-bpw-close-to-bre.html": {
+    "name": "Perfect Location 3 Bed Serviced apartment with Bike Storage for BPW. Close to Brecon Beacons",
+    "location": "Merthyr Tydfil",
+    "score": "9.3",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364979425.webp?k=780146bd1f0eb3cff89aecd69b81b63adf047621b58fea9bbb4722211e24b612&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-amp-comfortable-4-bedroom-home-with-patio-amp-secure-bike-storage.html": {
+    "name": "Stylish & comfortable 4 bedroom home with patio & Secure Bike Storage",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406788772.webp?k=243d013fc3956999623884205add4a3a1699965ea42942a089d28ff3ca72a73a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coronation-house-by-solace-stays.html": {
+    "name": "Coronation House by Solace Stays",
+    "location": "Merthyr Tydfil",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387345782.webp?k=497221e04c37c61e48680c1a65d5d27a5548defea61ac47f887789f09bae0763&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inviting-studio-apartment-in-merthyr-tydfil.html": {
+    "name": "Gorgeous comfortable Apartment on the High Street",
+    "location": "Merthyr Tydfil",
+    "score": "8.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417768401.webp?k=141ea9017a9b50addb9b1c767acf711135d221058d523379a3d848b341f0df0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-39-place-at-castle-cottage.html": {
+    "name": "James' Place at Castle Cottage",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337524531.webp?k=ca690ba702f5a8c44d39ce2840b0492d534143324230bc38ccb2345948ce2f55&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bedroom-studio-apartment-merthyr-tydfil.html": {
+    "name": "Lovely 1 bedroom studio apartment - Merthyr Tydfil",
+    "location": "Merthyr Tydfil",
+    "score": "9.3",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350620977.webp?k=1972269f38b2b09a495ca99de2eab3643445df3c6d5ccb12ac9f06acc1cd325a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hilltop-house-tv-in-every-bedroom.html": {
+    "name": "Hilltop House - TV in Every Bedroom!",
+    "location": "Merthyr Tydfil",
+    "score": "6.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362479494.webp?k=8234e56d759635e7bda62d749708542b44c168b67a4b274d9145fd7396d4d49b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-4-bedroom-house-near-town-centre-with-bike-store-perfect-for-bike-park.html": {
+    "name": "Beautiful 4 bedroom house near town centre. With Bike Store Perfect for Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402106300.webp?k=8389f0c80ddcd4b068cd5af31f602d23652527464494fced3f73b7a4265ba60a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chapel-merthyr-tydfil.html": {
+    "name": "The Chapel",
+    "location": "Merthyr Tydfil",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345394722.webp?k=cd15c166ae743941d4ba3eb46d76e0a832599ab1987c9b6fc62e91e393a435dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ash-cottage-merthyr-tydfil.html": {
+    "name": "Ash Cottage",
+    "location": "Merthyr Tydfil",
+    "score": "9.5",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/183392726.webp?k=462d4f2bfcf937a03833ad2eda45dde88be91311efc4ec8033477893ba7364b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-cottage-near-brecon-beacons-national-park-amp-bike-park-wales.html": {
+    "name": "3 Bedroom Cottage Near Brecon Beacons National Park & Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399561186.webp?k=55a392bd67f0f219cbda3764d7bf3f6e3a47dccbad818ad8957797d39d34af06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rj-s-house.html": {
+    "name": "Rj s house",
+    "location": "Merthyr Tydfil",
+    "score": "9.2",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257025216.webp?k=199c89060a8542676ec404abd38a5773f6615e903a231c97ea0798caeb3c1d2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bike-park-lodge.html": {
+    "name": "Bike Park Lodge",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226299168.webp?k=269d7b283f349c7c0a112e76a13d468a35506be5454599ec106501009b073eea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/perfect-location-2-br-serviced-apartment-nr-bike-park-wales-brecon-beacons.html": {
+    "name": "Perfect Location 2 BR serviced apartment Nr Bike Park Wales & Brecon Beacons",
+    "location": "Merthyr Tydfil",
+    "score": "8.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354458732.webp?k=a1ceaaf060091d35ff67bf098b80f2579f60497672bea562c61fd26760e0e0f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/picturesque-2-bedroom-minors-cottage-near-bike-park-wales-amp-brecon-beacons.html": {
+    "name": "Picturesque 2 Bedroom Miners Cottage Near Bike Park Wales & Brecon Beacons",
+    "location": "Merthyr Tydfil",
+    "score": "8.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358568360.webp?k=1ec6fa5f2f8300423068318fe7f3eeeac8158bc96f5c3a98dd63ed42db36a847&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queen-bee-amp-b.html": {
+    "name": "Queen Bee & B",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "100 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318853785.webp?k=8fb4c3866f22513156f616d4342fbf23ab7bb381ab185ef79e6f42c84b365df3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bee-hive-merthyr-tydfil-merthyr-tydfil-county-borough.html": {
+    "name": "Bee Hive Merthyr Tydfil",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258978764.webp?k=4f3cc293b28da132fab1acc470313139afe8350332a6a4ef4f1b3bb56371ebeb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/winchfawrlodge.html": {
+    "name": "Winchfawr Lodge",
+    "location": "Merthyr Tydfil",
+    "score": "8.9",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13599355.webp?k=00ef0249c1a23b08edd03a376020c3936ca49a9569fa1152c316279b362f7c0e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-calaerig-merthyr-tydfil-county-borough.html": {
+    "name": "Ty Calaerig, two bed family home",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/341291555.webp?k=c6fe267a66294e9871cabb1420006db72fc158c34826e3165e8ada38a54199f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hamilton-house-by-solace-stays.html": {
+    "name": "Hamilton House by Solace Stays",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414125570.webp?k=bce20565b242a36eefe06772df913132cfe4c3faeae6255ec13d1721663d6877&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/new-ty-bunc-3-miles-from-bikepark-wales.html": {
+    "name": "NEW!! Ty Bunc (3 miles from BikePark Wales)",
+    "location": "Merthyr Tydfil",
+    "score": "8.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400596428.webp?k=1802d75c1ec93f4173bcd9c9d116560a816000ef88ab7533e508ab5125c408dd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bedroom-cottage-near-bike-park-wales.html": {
+    "name": "Modern 2 bedroom cottage near Bike Park Wales.",
+    "location": "Merthyr Tydfil",
+    "score": "9.1",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350848976.webp?k=ba97e98446bb6366015b71b56201b354ab8ff9c4bd54e2fd4129d5d8b6e5b1e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-antelope-merthyr-tydfil1.html": {
+    "name": "The Antelope Hotel",
+    "location": "Merthyr Tydfil",
+    "score": "9.2",
+    "review_count": "286 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296567586.webp?k=0f035cb0cbfbcf758a34217799bb4516fc1b343a5dc970e9561c2ec9094e2e89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-tiger-inn.html": {
+    "name": "The Tiger Inn",
+    "location": "Merthyr Tydfil",
+    "score": "8.5",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/328224160.webp?k=6d9fb1bc5126afc5582100816725e64a73f5f5726b803301eeb5ac9acd630a7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-39-place-pontmorlais.html": {
+    "name": "James' Place @ Pontmorlais",
+    "location": "Merthyr Tydfil",
+    "score": "8.6",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384521578.webp?k=e3fcb99dfb8bce2fd29a095a3f46e7fa01df37c6487f90ca0473c4ebf6ad0148&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/la-cantera.html": {
+    "name": "La Cantera",
+    "location": "Merthyr Tydfil",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429699314.webp?k=ed9f93f852f40e8c746ea1c4e2d63beb723df1ef49e96518e064b12de6098094&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/make-this-your-base-tv-in-every-bedroom.html": {
+    "name": "Make this your base! TV in every bedroom!",
+    "location": "Merthyr Tydfil",
+    "score": "7.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362477839.webp?k=dcda93478dacd64ba77fd15ed1f5e59de43eaf00ab3b575130c6c96c68ec504e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tafftrail-bunkhouse.html": {
+    "name": "Taff Trail Bunkhouse",
+    "location": "Merthyr Tydfil",
+    "score": "9.4",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154793123.webp?k=7ec1fa67020aa63f392dbce14f12db1e2249d76787e6661c11ade906ceed43ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/celtic-bunkhouse.html": {
+    "name": "Celtic House",
+    "location": "Merthyr Tydfil",
+    "score": "8.5",
+    "review_count": "110 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/215331643.webp?k=4867214d16cb8dab258ae6a06d488d82cea2f0d0258d04e814bf63b5abfaeece&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-cottage-for-6-for-brecons-and-bike-park-wales.html": {
+    "name": "Wyndham House for Brecons and Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "6.5",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/197105215.webp?k=68d96ff7a14c6562e3b8399e5a7e6b2504eee1ffa5cc659c93f87d3c20e5d30f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-2-bedroom-serviced-apartment-with-bike-storage-perfect-for-bike-park-wal.html": {
+    "name": "Central 2 Bedroom serviced apartment with Bike storage. Perfect for Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359561729.webp?k=96c8eefc6b8245e7f2f8f2849c8b68efbe35b51d81a6da162b3b20c281772dde&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-39-place-the-brecon-beacons.html": {
+    "name": "Hiraeth at the Brecon Beacons",
+    "location": "Merthyr Tydfil",
+    "score": "9.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264995522.webp?k=29bd5263e146a947e1f9d29342d070484120dcdddb55f1fc788afadcf36edd3d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rare-find-3br-detached-with-garage-bike-park-wales-amp-brecon-beacons.html": {
+    "name": "RARE FIND 3BR Detached with Garage Bike Park Wales & Brecon Beacons",
+    "location": "Merthyr Tydfil",
+    "score": "8.8",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350419196.webp?k=45b0afbf529de80d10045b6166bd64b2ecf19c462be428b73e5da7192e1674c0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/delightful-bungalow-with-garage-nr-brecon-beacons-amp-bike-park-wales.html": {
+    "name": "Delightful bungalow with Garage Nr Brecon Beacons & Bike Park Wales",
+    "location": "Merthyr Tydfil",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373277204.webp?k=fd859be1b58f5472497db7bb04993202b5b66e4edb761e4a490584d80a904716&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/angus-studios-for-bike-park-wales-and-brecons.html": {
+    "name": "Angus Studios for Bike Park Wales and Brecons",
+    "location": "Merthyr Tydfil",
+    "score": "6.7",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279983173.webp?k=ed9fd106a87ef290e8cb79ddf5dcc807e91403e4d8e08dd42bbc1c11fdc7923f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sleepystays-3-bedroom-modern-central-location-bpw-zip-world.html": {
+    "name": "SleepyStays 3 Bedroom, Modern, Central Location. BPW, Zip World",
+    "location": "Merthyr Tydfil",
+    "score": "7.7",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329611879.webp?k=19e950ab561023d42d5898793eb8d71de5f3a0311931b843227ceb80a4a78728&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/falls-cottage-by-solace-stays.html": {
+    "name": "Falls Cottage by Solace Stays",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379823567.webp?k=bad5c4aa7807da1bbe7a77a494387ea93bad551c161fcee054db0645537cc78a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-model-home-sandbrook-villas.html": {
+    "name": "Luxury Model Home, Sandbrook Villas",
+    "location": "Merthyr Tydfil",
+    "score": "7.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82259655.webp?k=89606529c64c9512195a287ba1ec6de1d07efdafb739f3b071d6b7082869d107&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bridge-place-spacious-home-with-plenty-of-beds.html": {
+    "name": "Bridge Place - Spacious home with plenty of beds!",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421102549.webp?k=c2f0c47088bb6dcc345fd480d0873aa0d96d98206c689be5eac0ce4cf2eabfdf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-39-place-at-the-taff.html": {
+    "name": "James' Place at The Taff",
+    "location": "Merthyr Tydfil",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330953234.webp?k=2ec5d6d5b26185fffee2cf4766f0f24a1bd2d9397dea1bb1b25d9590d89fc416&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bike-park-lodge-2.html": {
+    "name": "Bike Park Lodge #2",
+    "location": "Merthyr Tydfil",
+    "score": "8.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362876939.webp?k=a2be2d6350fd77cfe3717f55f8d70313a0ca6e1a30a72fbbb3eb2f8a638dd448&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/taff-valley-cottage-by-staystaycations.html": {
+    "name": "Taff Valley Cottage by StayStaycations",
+    "location": "Merthyr Tydfil",
+    "score": "8.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364578048.webp?k=3885a8a48c7a1f4e36c16806fbe60193d82aed683c531c488071ed3978f6ef44&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/charming-cottage-style-3-bedroom-property.html": {
+    "name": "Charming Cottage style 3 bedroom property",
+    "location": "Merthyr Tydfil",
+    "score": "8.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327501926.webp?k=bf17c55c20c6711699b345f8eaa7f2bdbdf26965a4dd80aa019fa49d9a78c10a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/6-bedroom-home-with-large-garage.html": {
+    "name": "6 Bedroom Home with large garage",
+    "location": "Merthyr Tydfil",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400045140.webp?k=113398fc48fd77b87afd24ac6b7a9c12c461e4e6712f17093271025e19f44b93&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jrs-place.html": {
+    "name": "Jrs place",
+    "location": "Merthyr Tydfil",
+    "score": "8.8",
+    "review_count": "50 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256923782.webp?k=ac0ca770e21abb85a43a67d932152550fad4a2b2f3233c0ca2e80802210ec950&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/chapel-cottage-pontsticill-brecon-beacons.html": {
+    "name": "Chapel Cottage",
+    "location": "Merthyr Tydfil",
+    "score": "5.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418021474.webp?k=65c6fd11dc3b05b33d1fd622eef1782872519d0472c75393a2aeef6eacfccbe9&o=&s=1"
+  }
+}

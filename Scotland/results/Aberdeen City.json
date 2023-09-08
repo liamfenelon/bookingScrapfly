@@ -1,0 +1,634 @@
+{
+  "https://www.booking.com/hotel/gb/jewellery-guest-house.html": {
+    "name": "Jewel Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "557 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323394941.webp?k=1eadb0be2f269d01f01df4151b010a0da89ab6cb9b4ee94d3fdf0641da50ef99&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/station.html": {
+    "name": "The Station Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.2",
+    "review_count": "6,035 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252164021.webp?k=c5eb2b330beb6aa4b8ebd3c885b8da4bac94ae4eb7abedaba41d5b9a54631ce5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/leonardo-hotel-aberdeen.html": {
+    "name": "Leonardo Hotel Aberdeen - Formerly Jurys Inn",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.9",
+    "review_count": "4,800 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/28162644.webp?k=e577651edd55098c9d36699fc7b7deacc95eddd2f3f180ca0662a2abea26b0ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/zinn-apartments-city-centre-aberdeen3.html": {
+    "name": "Zinn Apartments - City Centre",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.7",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117486001.webp?k=12589918d2708a90093180da01bb78e50b136c2ff22750f671d35198edaefec4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/expressbyholidayinnaberdeencitycentre.html": {
+    "name": "Holiday Inn Express Aberdeen City Centre, an IHG Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.6",
+    "review_count": "3,727 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428579233.webp?k=7e855e6d9870f888df75d79af855de80328de215d0ac0a5dfe6691f82b7410d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ibis-aberdeen-centre.html": {
+    "name": "ibis Aberdeen Centre – Quayside",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.1",
+    "review_count": "3,294 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251928856.webp?k=8e31338a7638e5ad6b638fb445f39ce0e3fadca75ead1d1fa4d61e1195c79c8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-inn-aberdeen.html": {
+    "name": "Park Inn by Radisson Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.7",
+    "review_count": "1,648 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232819154.webp?k=6881fd4511033ea8bd74b5c46d8b97ff3a5039cb54eaef7478db32381b1f7b46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/residence-inn-by-marriott-aberdeen.html": {
+    "name": "Residence Inn by Marriott Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "2,382 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117557170.webp?k=a67f02a6951535a3c78a639eab0f707ab1ebff2a38e32007e1a22bd40d3dcbb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mercure-aberdeen-caledonian.html": {
+    "name": "Mercure Aberdeen Caledonian Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.5",
+    "review_count": "1,742 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/97589949.webp?k=b14af41aa56f5971bf1800e0fc4ebce4c943ec9f13537ef601041e4b48876edf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberdeen-douglas.html": {
+    "name": "Aberdeen Douglas Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.6",
+    "review_count": "918 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/30618492.webp?k=88f436fc6620290c625879857f5be6d7294e3c7c35d88f9606d1f5faa5a3fc30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marischal-apartments.html": {
+    "name": "Marischal Apartments",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.8",
+    "review_count": "518 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332274280.webp?k=317694feb060d97aee8e696154b78a0f1414ccc0046fafe55b4e3fc08b2538c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-craibstone-suites.html": {
+    "name": "The Craibstone Suites",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.4",
+    "review_count": "588 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186287602.webp?k=7c5497dccfd37983f80534374ae99fa602dc85ba7049b6e612976e14f3cd8017&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberdeen-kennels.html": {
+    "name": "BrewDog Kennels - Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "251 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242550318.webp?k=21a5944148a87d0f2d14b251166eaac0a1af8be1de027c82516ab1e9813f00c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skene-terrace-apartments-aberdeen.html": {
+    "name": "Skene Terrace Apartments",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.6",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111249148.webp?k=339ab3e113d58b5e5d2d99662622c04d766326e2a4c66a7e5b8f32d369f8dd14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberdeen-city-centre.html": {
+    "name": "Siberia Bar & Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.2",
+    "review_count": "745 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245861599.webp?k=d0ab580a779fc3d8c77fd3119eecbcd10b1ba828566a7e5cbb313b6dbe447555&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/copthornaberdeen.html": {
+    "name": "Copthorne Aberdeen Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.0",
+    "review_count": "957 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/154475473.webp?k=fbf8e387ffb2fc7ff4bc0b2fb6e28b730b10dc4153143e57fae489e02cc15941&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/royal-athenaeum-suites.html": {
+    "name": "Royal Athenaeum Suites",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.1",
+    "review_count": "440 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/36024627.webp?k=094e62cb0fc91d8323a036b7b42d536c24759bc3dff5ff227a8f46b4ed3e8863&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rox.html": {
+    "name": "Rox Hotel Aberdeen by Compass Hospitality",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.0",
+    "review_count": "211 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119146604.webp?k=7433d06c282f3f1d178734ef462ebe07c0ee9efd699f4f410fb81517d2b7f50e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sandman-signature-aberdeen.html": {
+    "name": "Sandman Signature Aberdeen Hotel & Spa",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.6",
+    "review_count": "4,763 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413660263.webp?k=033f96516b4b64294d2e2688c1eac82edaf65219c078f415fc52be318e485ce7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victoria-court-aberdeen-city.html": {
+    "name": "Victoria Court Suites - Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.5",
+    "review_count": "440 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300345676.webp?k=cc57911503f13adbcdef8555dd4fa966c5bfdcac0773effee7a737d8f025fbe3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/portland-street-apartment.html": {
+    "name": "AB11 Apartments - Portland Street",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.2",
+    "review_count": "136 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/42457202.webp?k=475ecff46ee0bc6b646712a13513098fea213e301dea7b35942bdc38c7ab0369&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queens-apartments-aberdeen.html": {
+    "name": "Queens Apartments - City Centre, Free Private Parking, Sea View, Balcony",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.6",
+    "review_count": "69 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338818526.webp?k=44722bad893e140e08e7dbc5743e9b53037c4e00999d0fb65b2e3c5ae011f54e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/portland-street-aberdeen.html": {
+    "name": "City Centre Orange Apartments - Portland Street",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.2",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186023208.webp?k=20b8cde08818e8e454cd28ae3d38281a6bcc89f07c2478389e674137135d3a71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-amp-spacious-apartment-in-city-centre.html": {
+    "name": "Modern & Spacious Apartment in City Centre",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334338458.webp?k=746433abac8ee611c73027459d9c936896f601cb07b4686bb1cf00249b4bf9e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fraser-house-apartment-3-bed-home-away-from-home.html": {
+    "name": "FRASER House Executive 3 Bedrooms Apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.1",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316298280.webp?k=ca401f0398ff51e5520c483e3741fd601002f68cb155fbd31178e76cdad38b1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crown-guest-house-aberdeen.html": {
+    "name": "Crown Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "6.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110878144.webp?k=ccf591f37e91be10c324a2079e343ef45f522f66826a4f0fc8aebdb6046af3ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aspect-apartments.html": {
+    "name": "Aspect Apartments City Centre",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.3",
+    "review_count": "91 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/33380144.webp?k=8fd691966efbb9d77c6d1a1511dd2a16eddc70fec8d6db133132d5272e352e9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-period-property-in-the-heart-of-the-city.html": {
+    "name": "Stunning period property in the heart of the city",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.6",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297092576.webp?k=b974f7f5c03ba3d9ecbae681dc60a1d2443db9e6f79f26c9b3fd14dfeb2d1663&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-point-dandara.html": {
+    "name": "The Point - Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.0",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362610356.webp?k=a85c1a4c799ba033b87293f9d1fb2be74cc0146af15b7cc1206ef157bbccb29c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rennies-court.html": {
+    "name": "Rennies Court",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370021789.webp?k=0b94978cdee2a757806a030ca82d73c9740e104dd1cdd8ced755fa3a2279bfdf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2br-w-panoramic-views-high-ceilings.html": {
+    "name": "Luxury 2 bedroom city centre apartment with panoramic views and high ceilings",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.2",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329002932.webp?k=14c78d70c7ddf15ce4b134051c0d94a6426da3207b150c97158e39876032223f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-1-bed-city-centre-apartment-in-aberdeen.html": {
+    "name": "Spacious 1-Bed City Centre Apartment in Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322052466.webp?k=6d24c89bd827fe002bbcd59ed724a2d1bc4c4e1742d1e5c6f7b84f296a96f4d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coffee-house.html": {
+    "name": "The Coffee House Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.5",
+    "review_count": "800 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111005262.webp?k=32fd5e891143966e82ea558518ded7a3b1d25077411d6a39cf8c69e09dafb34b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bluetree-apartments-guild-street.html": {
+    "name": "Bluetree Apartments Guild Street City Center",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.4",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/77122955.webp?k=965255ec5a8ac4931fca3da0e32dc9707f9084fb173e8ab1e9755c06e6e7fc69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rennies-court-union-square.html": {
+    "name": "Central Spacious 2 Bedroom by Union Square Free Parking",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.8",
+    "review_count": "91 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/229804612.webp?k=940c9afd26b83b475406dec5e1bb2fdd18f8632a7400d8c4ee4cf89fb11a13d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/adelphi-suites.html": {
+    "name": "1 & 3 Bedroom Apt by Sensational Stay Serviced Accommodation - Adelphi Suites",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.4",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288751219.webp?k=eea3465716a12183c5c1d9dc5ec1514968e3840e4a4b17915fdd265dccd3ce54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fraser-house-apartment-3-bedrooms.html": {
+    "name": "Heart Of Aberdeen City Centre 3 Bedrooms Apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.4",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309316325.webp?k=8f8e66f0806854d658f065c03929f55ca3b2a8fe92a6ec88c6ec522c4f8f1b8a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/historic-city-centre-apartment.html": {
+    "name": "Historic, City Centre Apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.7",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332274472.webp?k=c5a666dd441328ba5b675d54a5a1398ca694e80261ba99f1ba97a92320a51ef2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-view-aberdeen.html": {
+    "name": "City View",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.3",
+    "review_count": "153 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/247238666.webp?k=be61b86c8616f9928b37292d569f66a2aa4c46fed5cb3fdb9abcd9edad61f0fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fraser-house-apartment.html": {
+    "name": "Flat 34 Fraser house apartment city centre apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.3",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263079602.webp?k=bed8dc3f2ddc0ab90eecda470647dac95ea7dbf15e76e8c6795b89c17eb60947&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-globe-inn-aberdeen1.html": {
+    "name": "The Globe Inn",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.8",
+    "review_count": "675 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/172314102.webp?k=06af53ae399d3ed017b3a170eb94ae631cb959231af39f8cd92eb81176e149cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/soprano-st-magnus-court.html": {
+    "name": "Aberdeen House Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "6.5",
+    "review_count": "1,134 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347796136.webp?k=8a29498c739075ac302c30aea4cd7e34162ee2f1a4053d2f3e021a2479ac4352&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/prime-located-modern-apartment.html": {
+    "name": "Crown Central Apartments",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.5",
+    "review_count": "147 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433247536.webp?k=35a0e8b86c9c2bab143100ea5615116d387bffdb6cf0aba2e522c0b228bf803a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tiramisu-house-luxury-2-bed-apartment-in-aberdeen-centre.html": {
+    "name": "Tiramisu House - Luxury 2 Bed Apartment in Aberdeen Centre",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413260609.webp?k=17ebe37e8e69ae9b8c5a7d533c0740ba5644b7a4a2d44b1ddc7ea259dc82cfae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-city-centre-flat-in-traditional-building.html": {
+    "name": "Beautiful city centre flat in traditional building",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413222635.webp?k=9c4776b721f56c95722879b780465e381553c8a1d622255c086590fbece603c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkhill-luxury-serviced-apartments-city-centre-apartments.html": {
+    "name": "Parkhill Luxury Serviced Apartments - City Centre Apartments",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "107 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261234611.webp?k=bc68d032c4593ee04a2be76f6bd328e60876469d2a089d788a2803d37e5a36a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lochnagar-guest-house.html": {
+    "name": "Lochnagar Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.0",
+    "review_count": "521 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304752019.webp?k=49cd1e60851a994602f13476b30ee9a6d9cea14199cafa5dbb87acffd43f73b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/butlerigh.html": {
+    "name": "Butlers Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47277528.webp?k=f473b891f9e5ce9e476c2731df7416d1edc7ca9814fa1e05f0622a9702890002&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-royal-crown-guest-house.html": {
+    "name": "The Royal Crown Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.5",
+    "review_count": "259 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311066381.webp?k=6575d4eaf955211ef6450bac54d8a57fa21b26231e19718cc5b97e35c6f9216b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberooms.html": {
+    "name": "Aberooms",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.9",
+    "review_count": "84 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360648259.webp?k=bf90b8239e5949476e1b476ed63bf8c1f71def6d981ba9f420825778ad473c78&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/market-street-apartments-grampian-lettings-ltd.html": {
+    "name": "Market Street Apartments ✪ Grampian Lettings Ltd",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428814539.webp?k=11ee61f6a3a54314172c6afa348178424796459a27c6a2d6ddb689da56e4480e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-chapel-street-apartment-aberdeen-city-center.html": {
+    "name": "Chapel Street 42B First floor 1-bedroom apartment, Aberdeen city center",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.8",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375799661.webp?k=838630dd957b1dd26ff33e8514fdc4f18a51e54a18e3737486b1ee736e2b46ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/atticus-central-guest-house.html": {
+    "name": "Atticus Central Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.4",
+    "review_count": "112 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/57669591.webp?k=5449e3ca5ea453a89222960b70d6f56e8318e3418e89f1d537491d878963b60f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/terra-nova.html": {
+    "name": "Terra Nova Hotel",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.6",
+    "review_count": "299 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207262615.webp?k=b5d685767a4c05eab5ec97dcccca082764ccf0b6ee07befcabfadd24250cdd87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/raeburn.html": {
+    "name": "Raeburn",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.8",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240511420.webp?k=ecb8a66374efacbc91f6ab920a4f0fb5020394d99d9292ec6c9216a2a33ff1f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-3-bed-apartment-in-aberdeen-city-centre.html": {
+    "name": "Luxury 3 Bed Apartment in Aberdeen City Centre.",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.7",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406718911.webp?k=66163e7eb86a3de3df2742735a504867f79188ad32568b8d463706d3d9abc0c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gales-guesthouse.html": {
+    "name": "Gales Guesthouse",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.1",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75355590.webp?k=6981c11ef79d2ee1087a9dc9d9e14a64a4159270fd123bf23abee3440afd6127&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-aberdeen.html": {
+    "name": "The Cottage",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.3",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132703750.webp?k=a048b6f8f6102648abd5042897cd701477756d6bcc7682f14981370a957e5ce5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-brentwood-aberdeen.html": {
+    "name": "OYO Flagship Brentwood",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "6.3",
+    "review_count": "751 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227954370.webp?k=24e592b2d1f84abfaa4367de17a85585f8ef13ac6bb4b588531d20af4ac9804f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-street-apartments-grampian-lettings-ltd.html": {
+    "name": "Castle Street Apartments ✪ Grampian Lettings Ltd",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430415061.webp?k=247af0170cd8c915d2bcc73df53777f351efe640317a383b88edcae8d4f57d1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roselodge-guest-house-aberdeen-city.html": {
+    "name": "Roselodge Guest House",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.5",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429947908.webp?k=c2ce0ff24737e4170486fa83c7f865db98c68126cf37df63805a60a1494c938d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/inviting-1-bed-apartment-in-aberdeen.html": {
+    "name": "One Bedroom Blissful Apartment in Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376917450.webp?k=56088a1f4125f8bfebfb8b14ab7de002bc42597fe9448cf7fb43ed4c33fde6ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-executive-relocation-2-bed-apartment.html": {
+    "name": "Stunning Executive relocation 2 bed apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.6",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322380832.webp?k=e6218da19994806662efd8b36a7b83f6af2f553e84fad051a0cec6038f50761e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/silver-stone-suite-in-the-heart-of-aberdeen.html": {
+    "name": "Silver Stone Suite - in the heart of Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383365810.webp?k=a46ba39a950c870efc8e84158f705c9d358a5e2e43a04918ebe068e00ab3939a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bego-39-s-apartment.html": {
+    "name": "Bego's Apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/69315430.webp?k=2aedf017a470ecabdb917d08c335df94cfdad51b313b369a5a46763e9c70ff68&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-terrace-apartments.html": {
+    "name": "Castle Terrace - Resident Parking - Panoramic Views",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421060197.webp?k=7e957090ebdb42ca5a2af69a53921a207f8e00d211790281ceca9b1a9612e70f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mearns-apartments.html": {
+    "name": "Mearns Street Apartments - Grampian Lettings Ltd",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.3",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375756569.webp?k=c87907dfdec73bc614acc75630e723db7a0fc4c6101498eca4a1bf16bc432761&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vibrant-city-centre-living.html": {
+    "name": "Vibrant City Centre Living",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389440591.webp?k=f225df37b915c2bdf602257911d4f37a686221e37a66a5954b305435c2a516fa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kings-lodge-aberdeen-city.html": {
+    "name": "''Kings Lodge'' - Modern apartments in City Centre with Free Private Parking",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.9",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420649296.webp?k=7893ec7b8b68e7d1444e66906646b69fc7246a7ca2e32968a7eb67c69712597c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/meadowlets-4.html": {
+    "name": "Justice Street Apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "6.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331427624.webp?k=29ec334e350c59d127d3e2edff22646327eae4f6f19bed5b830c1839909b32fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/town-and-country-chapel-street-apartments.html": {
+    "name": "Town and Country Chapel Street Apartments",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "9.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303458955.webp?k=93c6e35f5db6c8bc1b4c4b31d0d2c84f5b8bee1b8695412d63461b4e34d8c97a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-flat-in-rosemount-47-city-centre.html": {
+    "name": "Modern Flat in Rosemount/City Centre",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "6.9",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162007280.webp?k=e6b62c6fa97349f475b7cff11d70e5851c16951a0c601b655048ac95b8cc2cf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haven-aberdeen-city.html": {
+    "name": "Home away from home",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "3.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377845811.webp?k=6a3ee81886a7f3c5fb3262113ee805340485dfd9cddcf1397d3e572ad0797aa1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/james-streets-one-bedroom-apartment.html": {
+    "name": "Jay's Apartment Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.6",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346677773.webp?k=939b0d90e1e2b07f83b3589ac2cf39f6c3442addcfbd8039180e293da66820a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-union-street-apartment.html": {
+    "name": "Union Street Apartment",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "6.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/90435469.webp?k=f0b5ee204835cdadbd717b0e8bcf823a22cafa32d57308cfc55aa9377309bd3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-street-aberdeen.html": {
+    "name": "Castle Street",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395824392.webp?k=ca5e71fffed51538ba34809499b1d08921214fb469bd0a811acb15fa4e983f3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/scardroy-aberdeen.html": {
+    "name": "Scardroy Aberdeen",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111605245.webp?k=6863fbe58627d3009f1ff9bd91167b62be4af5183fa912ae84f59ebbb5bd7725&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thegrampianhotel.html": {
+    "name": "Carmelite Hotel; BW Signature Collection",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "7.7",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261049183.webp?k=0796e4b84140cb8ac65aed5d041a95cf04667fb1a3238c64e39acef754cbf874&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfy-home-aberdeen-city.html": {
+    "name": "Comfy Home",
+    "location": "Aberdeen City Centre, Aberdeen",
+    "score": "8.7",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268186107.webp?k=dadda29de52ed782e144039664be27d5cbcd5c931aa92d29db1ae8d11fc88b4a&o=&s=1"
+  }
+}

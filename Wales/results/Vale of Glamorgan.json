@@ -1,0 +1,874 @@
+{
+  "https://www.booking.com/hotel/gb/lanelay-hall.html": {
+    "name": "Lanelay Hall Hotel & Spa",
+    "location": "Hensol",
+    "score": "8.8",
+    "review_count": "820 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156070750.webp?k=9ef8dd3474f6598e5c3dc65f6e29c6b7d64479682316a1081b161c729a24c56d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/goodsheds-by-urban-space.html": {
+    "name": "Goodstay Aparthotel and Holiday Lodges by Urban Space",
+    "location": "Barry",
+    "score": "9.0",
+    "review_count": "156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266955932.webp?k=a3d302353b5be1ad2f13ad71a76a55e2ca694513765037cd2c02c2cf824c9618&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/days-inn-cardiff-airport.html": {
+    "name": "Celtic International Hotel Cardiff Airport",
+    "location": "Barry",
+    "score": "7.6",
+    "review_count": "1,241 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/86766102.webp?k=b8570d56249fdd9e846163ae99235263b7bdd0344c3545b9fe6aac6ad5b4b984&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mount-rooms.html": {
+    "name": "The Mount Rooms",
+    "location": "Barry",
+    "score": "6.9",
+    "review_count": "3,406 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/104399356.webp?k=9f515d844b930b8042a07e64b93b28d6be0696b9ea3ae3d21b4b324ae99e610b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-lodge-coastal-retreat-s-c-village-views.html": {
+    "name": "Orchard Lodge -Coastal Retreat, S/C, village views",
+    "location": "Saint Brides Major",
+    "score": "9.7",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348321947.webp?k=402839130b0573345176db5e8c2482cba2eb4030ea4c3e27484c2386d98143b7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glyndwr-vineyard.html": {
+    "name": "Glyndwr Vineyard",
+    "location": "Cowbridge",
+    "score": "9.0",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/90474441.webp?k=5e17ea2afe4a981adbc9f9a660760b13e3e1e55ad27702ce644550bfe03f50b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bear.html": {
+    "name": "The Bear Hotel",
+    "location": "Cowbridge",
+    "score": "8.2",
+    "review_count": "442 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403729435.webp?k=95f126dd311d52ac6a3111ad4de0260017a3e0fb3804857ac425c2c1478cd19a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-home-in-llantwit-major.html": {
+    "name": "Lovely home in Llantwit Major",
+    "location": "Llantwit Major",
+    "score": "9.3",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340036736.webp?k=17f66526a9ccfa4b41ed9d94b713ecd3b47af99460e0bebc23994a4bfb1e9f71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/captivating-coastal-1-bed-cottage-in-south-wales.html": {
+    "name": "1-Bed Cottage on Coastal Pathway in South Wales",
+    "location": "Gileston",
+    "score": "8.6",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292165156.webp?k=79854b3c63ab2ab53196d72ec389098961faeb24f7287e021f8049846698c17b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-knap-by-ty-sa-waterfront-views.html": {
+    "name": "The Knap by Tŷ SA - Waterfront Views",
+    "location": "Barry",
+    "score": "8.1",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297465559.webp?k=ad9dc36568386d14eebfefc9db85448f46c872165511323f75289ce2d3fe4e18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/228926.html": {
+    "name": "Tadross Hotel",
+    "location": "Barry",
+    "score": "7.6",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161982226.webp?k=74732615f3c1f2fdc6a0efa01cfc759de8a796d91ced32692965005ed9132400&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vale-hotel.html": {
+    "name": "Vale Resort",
+    "location": "Hensol",
+    "score": "7.8",
+    "review_count": "542 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/4080009.webp?k=9f6dca67ee21b8ae634f6e3e98865cb66131d9384b3cc6df4b216fde428302a2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sea-dream-lodge-coastal-location-sea-views-self-contained.html": {
+    "name": "Sea dream lodge -coastal location/sea views/self-contained",
+    "location": "Southerndown",
+    "score": "9.7",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353474033.webp?k=685a37df87e203a8af4f863f0cffd2158c6a949f08a5f5979590ff7ec43679fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fox-and-hounds.html": {
+    "name": "Fox And Hounds Llancarfan",
+    "location": "Barry",
+    "score": "8.4",
+    "review_count": "501 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373045334.webp?k=b79287f202c63a9db8e5172245a5b7631fe70632f5b8cdaa6a833e82daa77dfb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-bakehouse-wine-street.html": {
+    "name": "The Old Bakehouse",
+    "location": "Llantwit Major",
+    "score": "8.9",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248298991.webp?k=804e226b7b05f7b90975fd2fc75136caf7f229f1f499934f15d4e99e4a33bffd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gail-39-s-guest-house.html": {
+    "name": "Gail's Guest House",
+    "location": "Barry",
+    "score": "8.8",
+    "review_count": "468 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299388508.webp?k=635cd9377b7e90424ffc8ba84396a1da83bd36ea09341ec2c4766da2c6424d13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunnyvale-vale-of-glamorgan.html": {
+    "name": "SunnyVale",
+    "location": "Barry",
+    "score": "9.4",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267519847.webp?k=ef97d810e9dbad874e14382286952a0f5740a1a6586989b47e75ffc8273bada9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aberthaw-house.html": {
+    "name": "Aberthaw House Hotel",
+    "location": "Barry",
+    "score": "9.3",
+    "review_count": "263 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294503964.webp?k=214034907041fa53bb4acdea043ffe95a52f6c426f826ccb11dbf0b203767525&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-apartment-in-barry-waterfront.html": {
+    "name": "Modern Apartment in Barry Waterfront",
+    "location": "Barry",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421472507.webp?k=656236576b7849c546d2bb49760bd9162038f2520479ab34339cad90aa20b521&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-newly-converted-barn-in-idyllic-location-in-st-hilary-cowbridge.html": {
+    "name": "Beautiful newly converted barn in idyllic location in St Hilary, Cowbridge",
+    "location": "Cowbridge",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366879949.webp?k=0be877ac57a79e81574a6f2a085e6b33f45b833534d8747413a973d2b3df1f19&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-roost-on-rock-road.html": {
+    "name": "The Roost on Rock Road",
+    "location": "Barry",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413391320.webp?k=4dc4bcd09da8d2ae7d10a9439e5c2313139ffc72aaa254e29de6a71c2784bbc8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vale-guest-house-vale-of-glamorgan.html": {
+    "name": "The Anchorage & The Tackleshed",
+    "location": "Llancarfan",
+    "score": "9.6",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96355586.webp?k=b4a7494e7f67e8a12528141c6988ad811198679a63535a5158de9cb061ef3eb7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/a-happy-home-in-barry.html": {
+    "name": "Haven House Rooms, Barry",
+    "location": "Barry",
+    "score": "8.9",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315754712.webp?k=3a78ac3b0300d6a1c8b2a53ce1ca3db069f0dbcd7cf04bafd8c7a4f98f2162ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gileston-manor.html": {
+    "name": "Gileston Manor-Self catering",
+    "location": "Saint Athan",
+    "score": "9.0",
+    "review_count": "157 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426590987.webp?k=c982899790c0e2dd8e87861e293f9a7580f5b70999c3ed71b39687e1fe493913&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-hart-llantwit-major.html": {
+    "name": "The White Hart",
+    "location": "Llantwit Major",
+    "score": "9.1",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309096664.webp?k=8c98d6ddcb15ccfbf4d90f480cc66068fd6828be7241acd1cb16b52eb9a55270&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/great-house-guest-house.html": {
+    "name": "Great House Guest House",
+    "location": "Llantwit Major",
+    "score": "9.7",
+    "review_count": "168 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/175493258.webp?k=058e842900629368e03940cddf8324cfdeb11f0c72b66e772f5cb0bea03cdf71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/81-eastgate.html": {
+    "name": "81 Eastgate",
+    "location": "Cowbridge",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/145510344.webp?k=68c520f80781511f0e704828e5886ee64fe494adda76261fe046c1591c9d8ac1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/duffryn-mawr-self-catering-holiday-apartments.html": {
+    "name": "The Loft at Duffryn Mawr Self Catering Cottages",
+    "location": "Hensol",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267695260.webp?k=86005231c2c7096ccd13252df659dc5651ad267b5346a5f1ed3ec13e1b92e3f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/judah-suites-apartment-by-koya.html": {
+    "name": "Judah Suites by Koya Homes",
+    "location": "Barry",
+    "score": "8.8",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438403617.webp?k=677ab294fc88da6df49f64dd59bce70d5301996b63b235f5922412fde0686e20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llanerch-vineyard-hensol.html": {
+    "name": "Llanerch Vineyard Hotel",
+    "location": "Hensol",
+    "score": "9.0",
+    "review_count": "398 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384327935.webp?k=4e8cfb59d1ce606c782be3c7618aa1b5eae80453685729ed1a075bcf85cd6c91&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-horseshoes-inn-nr-barry.html": {
+    "name": "Three Horseshoes Country Inn",
+    "location": "Barry",
+    "score": "8.5",
+    "review_count": "454 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249022967.webp?k=d8180adf4b49b166a9d57428f74fb1d6b5d5fddab4d61405d6b5615296575045&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barryvingin-by-mia-living-close-to-beach-free-parking-modern-2-bedroom-apartment.html": {
+    "name": "BarryVinGin by Mia Living Close to beach, free parking, modern 2 bedroom apartment",
+    "location": "Barry",
+    "score": "8.3",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389685612.webp?k=485ace803e262fbeb4401b147519ab4746b0c4dec58588e2643d18ccf4e76089&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barry-island-beachfront-getaway-with-private-parking.html": {
+    "name": "Barry Island Beachfront Apartment - Stunning Bay Views and Private Parking",
+    "location": "Barry",
+    "score": "8.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379503638.webp?k=c01a8ace4bc7b60387eb78a79d2ce64877e7fab70cf81de5ea4e5739f442c4cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-cottage-in-cowbridge.html": {
+    "name": "Beautiful Cottage in Cowbridge",
+    "location": "Cowbridge",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399909884.webp?k=3c8cc80bfa43c8cd6737be8756dddc3fe9220ef62952eadb85518acc6255947d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victoria-inn-cowbridge.html": {
+    "name": "Victoria Inn",
+    "location": "Cowbridge",
+    "score": "9.3",
+    "review_count": "315 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111289686.webp?k=bc967b523570ee81fa2a8bc192779e0c2ce76b8b9c4e9680dd521f895442f0ea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oaklands-a-cosy-cottage-in-pretty-hamlet-near-the-coast.html": {
+    "name": "Oaklands, a cosy cottage in pretty hamlet near the coast.",
+    "location": "Flemingston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433590532.webp?k=aa1101336135df8a8f9577676083e2ee39d4783a02257e927d9aa9b237cbe1ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/swallow-cottage-at-duffryn-mawr-cottages.html": {
+    "name": "Swallow Cottage at Duffryn Mawr Cottages",
+    "location": "Hensol",
+    "score": "8.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/198533301.webp?k=2fde8e29a82b6ea8e97d7a6fa3f2a5a5803d9f8b7b4da40de87e3a7cd0a0c35e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ash-cottage-llantwit-major.html": {
+    "name": "Ash Cottage",
+    "location": "Llantwit Major",
+    "score": "8.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371829264.webp?k=101825d4fa4f3951cb6f4895a99457c4fb7cba506ed8fd5ca3af2a5b2d1f6076&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-stable-cottage-vale-of-glamorgan.html": {
+    "name": "2 Stable Cottage",
+    "location": "Llancarfan",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411226306.webp?k=860350b868a47cc9f059a75e4f55fa7f1fa120cb8aab36699fad2a4824916fcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cheese-store-gileston-manor.html": {
+    "name": "The Vault, Gileston Manor",
+    "location": "Saint Athan",
+    "score": "8.5",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305860588.webp?k=adaf49e627d9498b9813ce6dce9bd990529d06f6c799bf671b86028671124006&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cowbridge-cabins.html": {
+    "name": "Cowbridge Cabins",
+    "location": "Cowbridge",
+    "score": "8.1",
+    "review_count": "247 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/61972841.webp?k=58b5e5f5d70b664673c485d3f1316775a15e28467f5123a7942d8f6965909a59&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-2-bedroom-coach-house-near-barry-beach.html": {
+    "name": "RD Stays Beach 2 Bed House - only 27 min train to Cardiff Central",
+    "location": "Barry",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413117990.webp?k=ad2f571bb01187a740b36eaa65c28410f824d838b37286ef6d26d8d0714a6aa4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-walk-family-escape-in-the-charming-coastal-town-of-barry.html": {
+    "name": "East Walk - Family Escape in the Charming Coastal Town of Barry",
+    "location": "Barry",
+    "score": "9.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345217005.webp?k=8a46b64d3b58584a69ca88175e654c4f59bccd71e3d60ee5efb44a432920a29f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/acorn-camping-and-caravan-park.html": {
+    "name": "Acorn Camping and Caravan Park",
+    "location": "Llantwit Major",
+    "score": "8.9",
+    "review_count": "95 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142184877.webp?k=0ea5e9adc13c79cc3a5850c0457436232067a14950fbdbe6c71b0b07cb8c2254&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/myfanwy.html": {
+    "name": "Ewenny Cottage",
+    "location": "Ewenny",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432692992.webp?k=bd3a2fcd3c4f86bfb18b3ccfa1d2647f5a8372e78ea8a8320588f926e5b1816d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-stable-at-pancross-barn.html": {
+    "name": "Beautiful 3 bedroom cottage in Vale of Glamorgan",
+    "location": "Barry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428779204.webp?k=1c8e31bfdf4beb26db4f3ba310b918f1dc58c3ae4a56ed3bf69337c0ddc0eb4b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-stables-y-barri.html": {
+    "name": "The Stables",
+    "location": "Flemingston",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361325539.webp?k=da0807dc06db22efb7bc4de1a3f4053067a00cec4bec0d4711f16dabc7f33346&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haveli.html": {
+    "name": "Haveli Hotel",
+    "location": "Hensol",
+    "score": "7.6",
+    "review_count": "313 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/13182180.webp?k=90b9b33ae9bce03545af2f5fefe996b39f3dd04002301d8827c4c008c65b9270&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apple-tree-apartment.html": {
+    "name": "Apple Tree Apartment",
+    "location": "Hensol",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411492493.webp?k=29a826e7f1f7969912714c08f15e88fd4ec5c5a86aed7ac385ab4b28efe11a9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newcourt-b-b.html": {
+    "name": "Newcourt B & B",
+    "location": "Llantwit Major",
+    "score": "8.8",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3305738.webp?k=e1ac47de18c693c4ed3dd58960b8596363cd2066ac4b41bbb51066cb2e6411cd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pen-hill.html": {
+    "name": "Pen Hill",
+    "location": "Llantwit Major",
+    "score": "9.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344412368.webp?k=1b946208733f8ec55a5689aac86a9e0c6beb41a7793a8058c3a91f692f8d7fc4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-beachfront-apartment-with-sea-views-amp-parking.html": {
+    "name": "Apartment 5 - beachfront Barry island apartment with sea views & parking",
+    "location": "Barry",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400591100.webp?k=dea00f684987fd0cfbd4d4bd319c985cfe60bf531aa48f00aa9b84cab266499b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/uwch-y-llyn.html": {
+    "name": "Uwch-y-llyn",
+    "location": "Bonvilston",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/78334925.webp?k=b807ad3038521a6e8d75d3ef7436e738065a1352010257b9e886e07c603056c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/nythfa-3-plough-harrow.html": {
+    "name": "Nythfa - 3 Plough & Harrow",
+    "location": "Cowbridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398611597.webp?k=9faaf6d5a8ee3c6654c23912b52a180a82113d6fea3f4cc0d7aa298bccfbe8e3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tathan-herd.html": {
+    "name": "Tathan Herd",
+    "location": "Flemingston",
+    "score": "8.4",
+    "review_count": "122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190676914.webp?k=5afcc320e0fc86294b19e74210465637d0fba76ac17b10a3a620b2b5422fb9f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-duffryn-mawr.html": {
+    "name": "The Hideaway at Duffryn Mawr Self Catering Cottages",
+    "location": "Cowbridge",
+    "score": "8.6",
+    "review_count": "112 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270072945.webp?k=5e9e011781be9d9e370fd841c10763c07ba68f04ed3403aa00e8c31bbf8f2912&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-taffin-puffin.html": {
+    "name": "Apartment Llawr Un",
+    "location": "Peterston-super-Ely",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209850483.webp?k=899a90afb9a18fa853e1406e8052be5eead8a93d7d04ded79f5f6305110e0560&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/college-cottage-llantwit-major.html": {
+    "name": "College Cottage",
+    "location": "Llantwit Major",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395493528.webp?k=8a65903cb255c61a52ba5a09d684af7a4c27cdce2420040c2c4bb18d4fad9f6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/17th-century-cottage-on-farm-in-vale-of-glamorgan.html": {
+    "name": "17th Century cottage on farm in Cowbridge, Vale of Glamorgan",
+    "location": "Bonvilston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425611069.webp?k=40be4dc947806f6a709e6b85c800500a6481b4e1b7fcadd0ff993ca631b026a9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hollyhock-cottage-rhoose.html": {
+    "name": "Hollyhock Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405132834.webp?k=d0d9133be0458a595d79ed509c2258764c05bf994caf8e0f5488977e23f789b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-lion-cowbridge.html": {
+    "name": "The White Lion Cowbridge",
+    "location": "Cowbridge",
+    "score": "9.6",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362106045.webp?k=e4da6dff819ea2b9ab5f1cac62b95ec9c87023b2434339d932bb59db60cb90c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/17-eastgate.html": {
+    "name": "17 Eastgate",
+    "location": "Cowbridge",
+    "score": "9.2",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312605974.webp?k=72cecf2cd686322c48f8e36eec4f893a079eacd2aac2a538138f57c6785985c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-st-brides-major.html": {
+    "name": "The Hideaway",
+    "location": "Saint Brides Major",
+    "score": "8.8",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378148425.webp?k=6732839a79c9e4e1de6d5000c5766c44fff8d407f8702c873ca182e06e22b9f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/east-monkton-farm-cottage.html": {
+    "name": "East Monkton Farm Cottage",
+    "location": "Wick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395892534.webp?k=ea6e69035aaa8d4bfeff43eba75c31c1cd7ec9c2ec7a132b7995a26ca3767b51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vale-park-rhoose.html": {
+    "name": "Vale Park Hotel",
+    "location": "Barry",
+    "score": "9.0",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132170740.webp?k=c7775e672e54438166f2e5d392285c59d8c835e45fea2c5eb2476951b5818c2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-cowbridge.html": {
+    "name": "The Lodge",
+    "location": "Cowbridge",
+    "score": "8.8",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265624211.webp?k=d2dfaec9a23dd0fe6088caa039664cf89dbaa2a46feb737f0fc36cc6f0bbaff9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trefechan-4-plough-harrow.html": {
+    "name": "Trefechan - 4 Plough & Harrow",
+    "location": "Cowbridge",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398611667.webp?k=81fd9c3354436e35cfc4016de11d70bb1545fdde97ff5157ac52b71d9f16db58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-1-bed-bungalow-in-dinas-powys-wales.html": {
+    "name": "Beautiful 1-Bed Bungalow in Dinas Powys Wales",
+    "location": "Dinas Powis",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387637512.webp?k=fa6e0caf7bce1334a0cc7a293c7bf763902bbf5f2ed8b5449359e047461980d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-townhouse-with-sea-views-near-cardiff.html": {
+    "name": "Spacious townhouse with sea views near Cardiff",
+    "location": "Barry",
+    "score": "9.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348821348.webp?k=b905c565cb01ce37ca7fbb522136e0d3640d216079ecc4e2b888315f0040138d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2bed-annexe-nr-vale-resort-golf-amp-spa.html": {
+    "name": "2Bed Annexe nr Vale Resort, Golf & Spa",
+    "location": "Ystradowen",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424907791.webp?k=6cc14ed474aa42d07a050996168aad0d01290f48fe33d888104016b21495edba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-bakery-gileston-manor.html": {
+    "name": "The Bakery, Gileston Manor",
+    "location": "Saint Athan",
+    "score": "9.0",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263123465.webp?k=f2cdd97609ea4203b26317ce13b94cd109c1cf801378f77bc76f3850f9e7a0a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ger-y-llyn.html": {
+    "name": "Ger-y-llyn",
+    "location": "Bonvilston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/78332477.webp?k=c86410868bd713ea9a6a0dd723afac53a6d7d3d87fd09bfcc83cfa476e507f80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-beautiful-4-bedroom-house-with-sea-views-and-parking.html": {
+    "name": "Pass the Keys Beautiful 4 Bedroom House with Sea Views and Parking",
+    "location": "Barry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377036229.webp?k=5c0f861027a34167e1fc2b2e98478abd155b5a2e34b17f0d8be1dd9d704cbac2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-cosy-2-bedroom-apartment-in-barry-with-parking.html": {
+    "name": "Pass the Keys Cosy 2 Bedroom Apartment in Barry with Parking",
+    "location": "Barry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400560695.webp?k=bee5b689b0f654651cf26f37a6908dc5ce82c81d6d6096a18823c069361281f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plough-and-harrow-3-uk33763.html": {
+    "name": "Plough and Harrow 3- UK33763",
+    "location": "Monknash",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394320810.webp?k=8196a3909123139d1461c923c959dd941d25e41749cd773ab59f570100468183&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-farm-cabin-in-the-heart-of-wales.html": {
+    "name": "Luxury Farm Cabin in the Heart of Wales",
+    "location": "Cowbridge",
+    "score": "7.9",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279157814.webp?k=2cc632735d4efd45565463db32a1340eec9d636d92b6a780e0c5ceec69642a75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aubrey-cottage.html": {
+    "name": "Aubrey Cottage",
+    "location": "Cowbridge",
+    "score": "9.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294517454.webp?k=53b8e0a4e85a09c6f3fde7006a1be470f2d2556688b6808b27e02b91d2fa2d83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/budget-studio-barry-island-dog-friendly.html": {
+    "name": "STUDIO - LONG STAY - FREE PARKING - WASHER - NETFLIX - Welcome Tray",
+    "location": "Barry",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335507269.webp?k=ee6a4cb50c917f69115c246ba6611199979f4ff4c070bce084013e54dac85bee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartments-wales.html": {
+    "name": "LARGE FAMILY APARTMENTS - Barry Island - FREE Parking - Complimentary Tray, Super Fast Wifi, SMART TV",
+    "location": "Barry",
+    "score": "9.1",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353214858.webp?k=6930805f80251f62ec2ea35f431c61aed1757a9d78826e6a774884c389f85db2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-little-west-bungalows.html": {
+    "name": "1 Little West Bungalows",
+    "location": "Southerndown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399685612.webp?k=accbcf6f68454f876ab12863fd529afedae143e1170f3b9bc2be2d9467db99bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plough-and-harrow-1-uk33761.html": {
+    "name": "Plough and Harrow 1- UK33761",
+    "location": "Monknash",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/394939912.webp?k=19bd369cd8581c5b993e2e0618fc5180517d0d17f8e2a9e40763960379bf3926&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-spacious-4-bedroom-home-with-parking-garden.html": {
+    "name": "Pass the Keys Spacious 4 Bedroom home with Parking Garden",
+    "location": "Barry",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388725000.webp?k=64defa755d33723d4301e188ebbc8f9a9523f5420bb4dd6918c33376fd0e4610&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-tammy.html": {
+    "name": "Apartment Llawr y Llyn",
+    "location": "Bonvilston",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/209850847.webp?k=58bcea280469401758c66cd34d29936806965404a994fcb6db89deda544a5ca6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/maison-108.html": {
+    "name": "MAISON 108 - NETFLIX - WIFI TV's - DVD LIBRARY - LOG FIRE - Welcome Tray",
+    "location": "Barry",
+    "score": "9.3",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354101422.webp?k=4b1e60135703279732c3b60e764a17ea17a565921ae998513ba10360e27f65b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plough-and-harrow-4-uk33764-monknash-near-cowbridge.html": {
+    "name": "Plough and Harrow 4 UK33764",
+    "location": "Monknash",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408156408.webp?k=7c9bde83e25d8881b9cbfb5cc08fc5ca6ede93aed8bb675242ce5eabc8073a96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plough-and-harrow-2-uk33762.html": {
+    "name": "Plough and Harrow 2- UK33762",
+    "location": "Monknash",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395460537.webp?k=d95489c3d7ee1fced749efdcfa35010c0a0ffac3d76fe1f15c55fd48ce2d5a8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-home-taffs-jampin.html": {
+    "name": "Holiday Home Cwm Tawel",
+    "location": "Pentyrch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242095083.webp?k=30595a67346180c0e0b5bed61b1125dad29b8bd6d294237daaa8a5405e04acff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-carriages-gileston-manor.html": {
+    "name": "The Carriages, Gileston Manor",
+    "location": "Saint Athan",
+    "score": "8.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263120600.webp?k=e9c76e687afdd5cebeee7a6a3f557bc64c4668fd3040de6f6798537ddb275e1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/countryside-cabin-in-cowbridge.html": {
+    "name": "Countryside Cabin in Cowbridge",
+    "location": "Cowbridge",
+    "score": "9.2",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267322407.webp?k=157fa687e8094c55cb7955336ccae7180e5786a058853cc610760d9150248b5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/violet-cottage-rhoose.html": {
+    "name": "Violet Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405135910.webp?k=807645db99d884ef85b82b4b9bdc15d01cb70d47387658cb902f63cc230daab3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/peony-cottage-rhoose.html": {
+    "name": "Peony Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405134720.webp?k=b0b18f946796639b16de57f565418538085c4a1adfc452684d901bd271855ebb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hyacinth-cottage-rhoose1.html": {
+    "name": "Hyacinth Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405133875.webp?k=1e3d7b0beb429c5e919c63fe6fe95b9871f9e95a00da9a2018d6211286f90135&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dahlia-cottage.html": {
+    "name": "Dahlia Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405281131.webp?k=756e42be6b0fbfdd951dbb45847043c29e53d1557a685ac4c30ad3fca87eb396&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/carnation-cottage.html": {
+    "name": "Carnation Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405131665.webp?k=ba5ee649ae85b72e67f90464ee95c1da611b0e7d7296e266143551cda368ea6e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/amarylis-cottage.html": {
+    "name": "Amarylis Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405130366.webp?k=085618ddca1a39f525760683cc8abb7ce34a33c4e4355a3af5dad117abd0f185&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alium-cottage.html": {
+    "name": "Alium Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405129289.webp?k=e8882d4c9540c1cdf9a0d1f4aa1504d352e0129d5779c4b7e6b748871939838b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queen-anne-manor.html": {
+    "name": "Queen Anne Manor",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404881502.webp?k=ffea3426336607e1861e411f8ba0ba7e82dc51e28709ffeb0a5a7a29ab5daf58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queen-anne-estate.html": {
+    "name": "Queen Anne Estate",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404876276.webp?k=f3764e54beeda429e71ffdc4b7052738696b58c84b0faecd1a75b916c3bc459e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/camassia-cottage.html": {
+    "name": "Camassia Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043739.webp?k=601684e54c9c47d38cd9873329721f31e04ca10c5bbb21daf80f35db557526f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunflower-cottage-rhoose.html": {
+    "name": "Sunflower Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043405.webp?k=df4edf49f35c15ca0fcf40c20c7b584ee0d37009ddeb4d47bb8815483146556c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bamboo-cottage-rhoose.html": {
+    "name": "Bamboo Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043701.webp?k=2f6224772f095b35ed8216bbd208d198b3d3e0101d2b194e9555fff458b07a56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/muscari-cottage.html": {
+    "name": "Muscari Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043580.webp?k=45a6a5dac41c4958fdbaaef1c17c549ee4ee854d2ecf3b5dc1528f2e9a613882&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lotus-cottage.html": {
+    "name": "Lotus Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043601.webp?k=2af07b06821b42cc90c161ca8e9084377721cf6d8f841204d92261247dddab29&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mimosa-cottage.html": {
+    "name": "Mimosa Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043550.webp?k=4d7ef8aea8a8b5a4abbc0d5b4d19994ca43697bae45df50180b6f6f04cad6a75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fritillaria-cottage.html": {
+    "name": "Fritillaria Cottage",
+    "location": "Rhoose",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400043541.webp?k=456523cd312194c5a6ed38fb882c1e540da3f5ae1480a22ee96b9fda29b345a0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ewenny-farm-lodge.html": {
+    "name": "Ewenny Farm Lodge",
+    "location": "Ewenny",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/432357081.webp?k=c4a73e7344c49b6d8a6ae5e072010fab3888681ac70a68df6c0a6d183f5f9546&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llety-cariad-2-plough-harrow.html": {
+    "name": "Llety Cariad - 2 Plough & Harrow",
+    "location": "Cowbridge",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398611694.webp?k=a50325a4dc8852a26b2c9e67f0a335d320bf68a533604e799b3e619048d21409&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ysgubor-y-coed.html": {
+    "name": "Ysgubor y Coed",
+    "location": "Pentyrch",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/78630184.webp?k=4d956bc4f4e0eb21e50376a450b5048e5ee0d725b6c2d5f315b36b97c66bb14a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gileston-manor-barry1.html": {
+    "name": "Gileston Manor Luxury B&B",
+    "location": "Barry",
+    "score": "8.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400529116.webp?k=989c015778aa982a7f8039dc941b9f90dac11538f1e1f9cc93e3ba92e95d0db7&o=&s=1"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "https://www.booking.com/hotel/ie/the-george-boutique.html": {
+    "name": "George Limerick Hotel",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.4",
+    "review_count": "4,177 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305446676.webp?k=2ac4b7d0da873982702cba4401d9501346aae41242552d3166ddad58082fad81&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-bedford-townhouse.html": {
+    "name": "The Bedford Townhouse & Café",
+    "location": "Limerick City Centre, Limerick",
+    "score": "9.2",
+    "review_count": "1,336 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170210569.webp?k=c640da6f157e5e48a08d2492304b2bad309bc2e95565927311b1fcc3b55829a3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/radisssonsaslimerick.html": {
+    "name": "Radisson BLU Hotel and Spa, Limerick",
+    "location": "Limerick",
+    "score": "8.0",
+    "review_count": "2,321 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232817076.webp?k=036aac2b96c26da3c3dc64616c1ec3044707e7792559c50c3734e741b0291988&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/limerick-city-hotel.html": {
+    "name": "Limerick City Hotel",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.2",
+    "review_count": "1,839 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211550536.webp?k=9a5a5d0f9e8c2935fe09353273b005dfbed15756833202ffab08ff5f857f4bd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/quality-leisure-centre-limerick.html": {
+    "name": "Maldron Hotel & Leisure Centre Limerick",
+    "location": "Limerick",
+    "score": "7.2",
+    "review_count": "1,615 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/164721086.webp?k=0cf59e8f3bbe04b4e6f8ac22a486e780beddd2ea35ecde9714d7a5a17c43a61f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/limerick-strand-hotel.html": {
+    "name": "Limerick Strand Hotel",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.5",
+    "review_count": "1,627 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311389435.webp?k=c3894c836dcf273656fec8486dbbb2b8331144cb00424f84d769797f7c871245&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/absolutehotel-com.html": {
+    "name": "Absolute Hotel Limerick",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.8",
+    "review_count": "2,156 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274399026.webp?k=e1da14056b855cd1a3d6c70d6fa424f49dd4af7d73da0afba52632c1243d070f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clarionhotellimerick.html": {
+    "name": "Clayton Hotel Limerick",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.2",
+    "review_count": "1,924 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284030495.webp?k=b369686534ce141070bb4b373bc622a10f72b19a423ee58afe4a3993da000c43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brennan-court-guesthouse.html": {
+    "name": "Brennan Court Guest Accommodation",
+    "location": "Limerick",
+    "score": "8.8",
+    "review_count": "320 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89380936.webp?k=cdfe59a92d1f1a68376ffaf6b161ce83f1af579f1f8693c564f8968213061df8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/boutique-hotel.html": {
+    "name": "The Old Quarter Townhouse",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.2",
+    "review_count": "3,243 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268535318.webp?k=3573f0714fabb6bb069556e114b367316171e9390483405e75597adc17d49fee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/southcourthotel.html": {
+    "name": "Great National South Court Hotel",
+    "location": "Limerick",
+    "score": "8.1",
+    "review_count": "1,112 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271219137.webp?k=9a712a58e2526aa58137a8c7400dd80ec1651f7635a618c35349c105ad04b194&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castletroy-park.html": {
+    "name": "Castletroy Park Hotel",
+    "location": "Limerick",
+    "score": "8.4",
+    "review_count": "1,295 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298547399.webp?k=18f71b7a1e504c2263a277944d52998caee7b050bcf229429bc9c4d133fafed0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/great-national-kilmurry-lodge-hotel.html": {
+    "name": "Kilmurry Lodge Hotel",
+    "location": "Limerick",
+    "score": "8.2",
+    "review_count": "1,036 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/130532082.webp?k=954951544fc159529c3ef8ee10b8c5f0e57a67a6b7820ad46b535f6574b4a8e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/greenhillslimerick.html": {
+    "name": "Greenhills Hotel Limerick",
+    "location": "Limerick",
+    "score": "7.8",
+    "review_count": "1,229 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261686031.webp?k=48c5d407c521a01a449d18d016b89b22dc3fde73292f4563ff79fba7810ba059&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/woodfield-house.html": {
+    "name": "Woodfield House Hotel",
+    "location": "Limerick",
+    "score": "8.1",
+    "review_count": "1,292 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/87068114.webp?k=81ff5152244106e1252cb7dceb9e54f6e635a9732d3c2b2d319e394c1a88f22d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/travelodge-limerick-castletroy.html": {
+    "name": "Travelodge Limerick Castletroy",
+    "location": "Limerick",
+    "score": "7.1",
+    "review_count": "1,366 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/56914563.webp?k=d2f4288f5d86cf353770ccde551a552a69d4dcfebe0e11b1519ae8f4af527bf7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-savoy.html": {
+    "name": "The Savoy Hotel",
+    "location": "Limerick City Centre, Limerick",
+    "score": "8.5",
+    "review_count": "1,854 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299174215.webp?k=e5e72cf1a7a141577499e8add588c89fbe8b08eb3b98d2a8af21c750fa21549d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rathkeale-house-limerick.html": {
+    "name": "Rathkeale House Hotel",
+    "location": "Limerick",
+    "score": "8.1",
+    "review_count": "307 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285220571.webp?k=3c5f12c915c964db0f9624380ede8dd5f7c09d5ba3c11e9089e1b63a56ba79e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castletroy-park-suites.html": {
+    "name": "Castletroy Park Hotel Suites",
+    "location": "Limerick",
+    "score": "8.9",
+    "review_count": "595 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298537011.webp?k=939460085db4a5fa791a68405d77ea4ee1d4764261f26a5d27cd04ae16a53bfe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dromroe-village-university-of-limerick.html": {
+    "name": "Dromroe Village University of Limerick",
+    "location": "Limerick",
+    "score": "8.6",
+    "review_count": "323 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/291864585.webp?k=baf7fc93549a0af626120afce7ac82bddf8dcd4483769396d04268409bcd9ffe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castleoakshousehotel.html": {
+    "name": "Castle Oaks House Hotel",
+    "location": "Limerick",
+    "score": "8.0",
+    "review_count": "754 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/299945546.webp?k=d0d26a20d931457d3dc3a29ea4852533efc52808d6795aa10174aa655ae80e33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/one-pery-square.html": {
+    "name": "No.1 Pery Square Hotel & Spa",
+    "location": "Limerick City Centre, Limerick",
+    "score": "9.1",
+    "review_count": "209 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/180586116.webp?k=f274f53868ac7959aacf6471844fbb843adee85495b35fa5b792b5a1ed88896c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/elegantly-restored-apartment-in-historic-limerick.html": {
+    "name": "Elegantly Restored Apartment in Historic Limerick",
+    "location": "Limerick City Centre, Limerick",
+    "score": "9.7",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/257899746.webp?k=fb7780ff6f39d38d42a509e0637054fafff29c88c9b05a0f2a5a4e7b30b0528c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/katies-cottage-limerick.html": {
+    "name": "Katie’s Cottage",
+    "location": "Limerick",
+    "score": "9.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406130453.webp?k=90e9171b0975da1fcac5e8362c9da4b0d010645614bb413050d255aa45ae09bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hazel-cottage.html": {
+    "name": "Hazel Cottage",
+    "location": "Limerick",
+    "score": "9.8",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127874527.webp?k=1cc69d3abbeed28af10d627cf31f8af86850e279ae4082fb46f8ba4fd4750a95&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shelbourne-house.html": {
+    "name": "15 Shelbourne Road",
+    "location": "Limerick",
+    "score": "8.1",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388562822.webp?k=12b1f4dd1f36945eeb14fe0c8c8b520696dff2ef7d4779877dcf98128bcb1237&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-bedroom-15-min-to-limerick-city-quiet-retreat.html": {
+    "name": "4 Bedroom, 15 min to Limerick city Quiet Retreat.",
+    "location": "Limerick",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363427330.webp?k=5e64b113e6cee3501b9c04a057e0a9114bead79d630fb47efa72211a9f60993f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lyntom-house-b-amp-b.html": {
+    "name": "LYNTOM HOUSE B&B",
+    "location": "Limerick",
+    "score": "9.6",
+    "review_count": "122 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/210313964.webp?k=c933dfd9ac3d8e19c51acaf3cd700889cf366597ab38774c5d9836d842bdb49c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/breathneach-house.html": {
+    "name": "Breathneach House",
+    "location": "Limerick",
+    "score": "9.4",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307895903.webp?k=48a9918b80f6dcb92efd7a1921cd61fe58a1abb483b534f2e5db11f4d879e44b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/no-1-fishermans-wharf.html": {
+    "name": "Adare Luxury Riverside Apartment",
+    "location": "Limerick",
+    "score": "9.3",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/105995254.webp?k=6e2217bd5b7c04efed0da960000c0d1e77af2d00631cde5c1ab157c224a847ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/butterfly-cabin.html": {
+    "name": "Butterfly cabin",
+    "location": "Limerick",
+    "score": "9.2",
+    "review_count": "128 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243620911.webp?k=e01698a90a9e0b60df16662ae1afde1435ab7fadbf3e60e678b4aaa69c76524c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/mount-eagle-sleeps-24-with-hot-tub.html": {
+    "name": "Mount Eagle - Sleeps 24 with Hot tub",
+    "location": "Limerick",
+    "score": "9.6",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338577367.webp?k=12169f3cce8ceb66dc85908c14ce954fd85730c92deb08f5c364930d15a4633e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cheerful-two-bedroom-cozy-cabin-in-countryside.html": {
+    "name": "Cheerful Cozy Cabin in Countryside",
+    "location": "Limerick",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389133513.webp?k=4ef0881e43fa1898dbb46d959afab72f18fc34fd79ce03036b892110f25cfa3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sporting-lodge-shanagolden.html": {
+    "name": "Sporting Lodge Shanagolden",
+    "location": "Limerick",
+    "score": "8.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/298432227.webp?k=a7a02d5e63ece051bcbbec969e9e1aa86fac5ae56132404c911374b225e529c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/private-ensuite-room-limerick-city-stay.html": {
+    "name": "private-ensuite-room Limerick city stay",
+    "location": "Limerick",
+    "score": "9.2",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268217170.webp?k=2e17179c4ca38d7a19e6b161803059d7e83598f791c370921d4be338120d5111&o=&s=1"
+  }
+}

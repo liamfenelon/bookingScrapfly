@@ -1,0 +1,242 @@
+{
+  "https://www.booking.com/hotel/us/the-griswold-inn-essex.html": {
+    "name": "The Griswold Inn",
+    "location": "Essex",
+    "score": "8.6",
+    "review_count": "154 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96573928.webp?k=ccfa8c582eb4d8a375be3a6dcdbb7fee91909f2106c03a3bee73486469acfc89&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/downtown-essex-apartment-steps-to-river.html": {
+    "name": "Downtown Essex Apartment - Steps to River!",
+    "location": "Essex",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396224934.webp?k=777c1c6d45b45bd7b0894a6012c07def549c7af55373afc20ae3c2b456bdd99f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/deluxe-private-suite-w-firepit-amp-kitchenette.html": {
+    "name": "Deluxe Private Suite w/Firepit & Kitchenette",
+    "location": "Centerbrook",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433999311.webp?k=be38148bec17d2338fde77dc44a00b62254671e9de6a917fb6b6ee0b5b227a86&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-copper-beech-inn.html": {
+    "name": "The Copper Beech Inn",
+    "location": "Ivoryton",
+    "score": "8.4",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/191048565.webp?k=315cdb3a77ee2c86044c61bc280107b0c744e209e59083474ce9c436b629eb24&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/hotel-essex-rd-old-saybrook.html": {
+    "name": "Quality Inn Old Saybrook - Westbrook",
+    "location": "Old Saybrook",
+    "score": "7.3",
+    "review_count": "298 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228107591.webp?k=e117da56aa1e0c1736d4c4714e6f9a0af835e972523a6a24adf3bf50ed7670ed&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-ivoryton-inn.html": {
+    "name": "The Ivoryton Inn",
+    "location": "Ivoryton",
+    "score": "6.3",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271190585.webp?k=e5c42113475359189004bf87283c61d56aaecad4354c28efc0a6aa74dfdf646a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/riverwind-inn-bed-and-breakfast.html": {
+    "name": "Riverwind Inn Bed and Breakfast",
+    "location": "Deep River",
+    "score": "9.9",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186436270.webp?k=88896bed27e85e2caadccf36cc18b1a13f601b885fecfe5eb73ca8ab656941b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/liberty-inn-old-saybrook.html": {
+    "name": "Liberty Inn Old Saybrook",
+    "location": "Old Saybrook",
+    "score": "7.4",
+    "review_count": "169 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113203909.webp?k=99ee567bffe8e041a86cdacb0f6516f831c31caf6ff20af8abefdb18280e6331&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/old-lyme-inn.html": {
+    "name": "The Old Lyme Inn",
+    "location": "Old Lyme",
+    "score": "9.1",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100558278.webp?k=1aad7191d8cd5cd3f40133bf0d7ef6f422f8ac867ddd721e8645a0cba52da514&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pier-blue-guesthouse.html": {
+    "name": "PIER BLUE INN Old Saybrook - Essex",
+    "location": "Old Saybrook",
+    "score": "7.4",
+    "review_count": "850 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236923134.webp?k=549de408e9e7c6bc0d427167112c78a1fa799c17b0e69f28ff586547aa3b536d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-millhouse-downtown-chester.html": {
+    "name": "The Millhouse Downtown Chester",
+    "location": "Chester",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379836961.webp?k=ddd1aaa2524f1a46e677fdb0e2ca16b7b6d3164a7df0a254acf6513719fc6432&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/econo-lodge-inn-and-suites-old-saybrook.html": {
+    "name": "Econo Lodge Inn and Suites Old Saybrook",
+    "location": "Old Saybrook",
+    "score": "6.2",
+    "review_count": "98 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/169817203.webp?k=5028b92ba5098f7efda9b6db16c000c9ed384818334b1116192e16261462dd40&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/super-8-motel-old-saybrook.html": {
+    "name": "Super 8 by Wyndham Old Saybrook",
+    "location": "Old Saybrook",
+    "score": "6.6",
+    "review_count": "362 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156622050.webp?k=eb1f92e51510da1afe1b5c324b72fb2631d46fd82c2c9fb4125b293bb8fac15c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/saybrook-manor-beach-house.html": {
+    "name": "Saybrook Manor Beach House",
+    "location": "Old Saybrook",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67719986.webp?k=e0a8c10d0b7da4a837dea415fae2742532f579ed14108f33f04fb69aecff9435&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sweet-summer-beach-house-in-saybrook-manor.html": {
+    "name": "Sweet Summer Beach House in Saybrook Manor",
+    "location": "Old Saybrook",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438497480.webp?k=1bd203d2426d39cd15926c35a09c0f690d2aece0007bc1b2d3e7c1643d06342e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sweet-summer-old-saybrook-vacation-rental.html": {
+    "name": "Sweet Summer Old Saybrook Vacation Rental",
+    "location": "Old Saybrook",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346148363.webp?k=cbbbbe3ac6366c350f48498584c6fdf8eeff105507c60a5cf0fa9fa5cfef9ce4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/saybrook-manor-house-walk-to-cove-beach.html": {
+    "name": "Saybrook Manor House, Walk to Cove Beach!",
+    "location": "Old Saybrook",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237549943.webp?k=ce1a3b32444f8d5d440a9c33f848bd25276ee7048849b4b52476f5e7f796319a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/saybrook-point-inn-and-spa.html": {
+    "name": "Saybrook Point Resort & Marina",
+    "location": "Old Saybrook",
+    "score": "8.9",
+    "review_count": "392 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/308639282.webp?k=978e04253a6b3a1c7b14fe91e1c7712f61cf01c8d4ca739165387a729c352ba8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/waters-edge-resort-and-spa.html": {
+    "name": "Waters Edge Resort and Spa TimeShare",
+    "location": "Westbrook",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213844187.webp?k=78d102962285dfb1f08792d0fded92893500c6149e62bf57b1f9c2a4f67f7eae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/grandmas-cottage-with-sunroom-walk-to-beach.html": {
+    "name": "Grandmas Cottage with Sunroom Walk to Beach",
+    "location": "Old Saybrook",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398183648.webp?k=b48ecbdf718aafbe5b0b34e4ce9f69cd119532250fa5e3759dfaa5ff77e95090&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/water-s-edge-resort-amp-spa.html": {
+    "name": "Water's Edge Resort & Spa",
+    "location": "Westbrook",
+    "score": "8.4",
+    "review_count": "680 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/182354281.webp?k=82bb08b7d10dbaa9bad7fd534aecb4672b3017a6af4288145c42fe0cfb91136c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/westbrook-inn-bed-and-breakfast.html": {
+    "name": "Westbrook Inn Bed and Breakfast",
+    "location": "Westbrook",
+    "score": "9.3",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399120740.webp?k=d0ac2f8c7d9196fa964dbe5543b4a719c3690f14623816c00c83c874ea803588&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/westbrook-home-with-ocean-views-walk-to-beach.html": {
+    "name": "Westbrook Home with Ocean Views - Walk to Beach",
+    "location": "Westbrook",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360623688.webp?k=1f33e2f9045bb7436a8c3a73bbc6ba2c83c701bdd59ddcba236fa8e1f0d6d3d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/charming-old-saybrook-cottage-less-than-1-mi-to-beach.html": {
+    "name": "Charming Old Saybrook Cottage Less Than 1 Mi to Beach",
+    "location": "Old Saybrook",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393512502.webp?k=e5bb8d88565af88e6fba1529a65e1aa35d514bb6134f9bbe51a40a4eab4f6042&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/shore-road-inn.html": {
+    "name": "Shore Road Inn",
+    "location": "Lyme Station",
+    "score": "8.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157162344.webp?k=290633f98a1aaa0092e847526bd2bb6e5240d4ed0daefd1bf4f4ebcf72958361&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/boardman-house-inn-east-haddam12.html": {
+    "name": "Boardman House Inn",
+    "location": "East Haddam",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/172944460.webp?k=2d99e5b1ec96a0df8b88a189e2486dd1174fcfe76bc110eac00846d015da419a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/clinton-motel.html": {
+    "name": "Clinton Motel",
+    "location": "Clinton",
+    "score": "8.0",
+    "review_count": "143 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/51532292.webp?k=19e1e5f90e6a283d4ef025aa1b44b6517379045a6dbb481e3f107267524b63e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-viola-cottage-clinton.html": {
+    "name": "The Viola Cottage",
+    "location": "Clinton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343391326.webp?k=287d1b4afb9c0b9b74b6ae3c88adbb373ea7f670c3318c1855d82c32764c69bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-kaitlyn-cottage.html": {
+    "name": "The Kaitlyn Cottage",
+    "location": "Clinton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/343758400.webp?k=3c7c8d9c6bd1e05387298b0e3ec3dab176964196f3a4650666e25c58309d9488&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-sharlene-cottage.html": {
+    "name": "The Sharlene Cottage",
+    "location": "Clinton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238175944.webp?k=2e69c2b6f96efb163d76780ee5175ba023d0424eed9640ce07773b90cfd0e79f&o=&s=1"
+  }
+}

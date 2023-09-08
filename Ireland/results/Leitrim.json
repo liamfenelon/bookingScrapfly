@@ -1,0 +1,818 @@
+{
+  "https://www.booking.com/hotel/ie/the-courtyard-apartments.html": {
+    "name": "The Courtyard Apartments",
+    "location": "Carrick on Shannon",
+    "score": "8.5",
+    "review_count": "343 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/203080148.webp?k=ede5a6c5d6633779be4e71fc77ac2fc2f53c2608cfd259773061e2077882fecc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-landmark.html": {
+    "name": "The Landmark Hotel",
+    "location": "Carrick on Shannon",
+    "score": "8.3",
+    "review_count": "932 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119455735.webp?k=63e5ff20e9cd0ff364061ea176b82d3092850a81131f1e2b9f74f4d779ba6c96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bush.html": {
+    "name": "Bush Hotel",
+    "location": "Carrick on Shannon",
+    "score": "8.5",
+    "review_count": "1,532 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245670614.webp?k=c832edea6946436704fbba89f18f65f18d3da62f82241e5620beaeb9d384f930&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/13-lord-leitrim-court.html": {
+    "name": "Lough Rynn Rental",
+    "location": "Mohill",
+    "score": "9.1",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/96634018.webp?k=6c9f0f35be77edf7690cac3a876106484fec9c81968f3a1242abac0804908fe5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carrick-plaza-suites.html": {
+    "name": "Carrick Plaza Suites and Apartments",
+    "location": "Carrick on Shannon",
+    "score": "8.6",
+    "review_count": "715 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/41477750.webp?k=b6139fea71750eee71d03d36f611b5fb7d82b90f30f9f8213e75285395842f9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lough-rynn-castle.html": {
+    "name": "Lough Rynn Castle",
+    "location": "Mohill",
+    "score": "8.9",
+    "review_count": "692 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245888566.webp?k=1d86f699bbd436b5d15151f8e8971211eee75400bdb9a4669959300241898e70&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beautiful-cottage-with-gardens-patio-amp-fireplace.html": {
+    "name": "Beautiful cottage with gardens, patio & fireplace",
+    "location": "Dromahair",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384937431.webp?k=047b0fefb43105e2bd0d2a2811242dab59d43940da2b8f6e050aadeda0ed71b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/aisleigh-guest-house.html": {
+    "name": "Aisleigh Guest House",
+    "location": "Carrick on Shannon",
+    "score": "9.1",
+    "review_count": "649 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/28700609.webp?k=a87fba15151e3f1a5c716e0f717ceaf0ee82f4b7fa1b8dca5b342ac65282555f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterfront-self-catering-houses.html": {
+    "name": "Waterfront Self Catering Houses",
+    "location": "Carrick on Shannon",
+    "score": "8.9",
+    "review_count": "91 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158914499.webp?k=4eb6506628524c1abe2dee8d9b93b019fdb9b59e326335228e64279eca7b0f3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/four-seasons-carrick-on-shannon.html": {
+    "name": "Topper's Rooms",
+    "location": "Carrick on Shannon",
+    "score": "8.9",
+    "review_count": "321 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310428698.webp?k=3bd6a425152a14c62c321ff2f2d84021ab4063173685f8268bbf46564014d28f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/house-lakeview.html": {
+    "name": "Lakeview House",
+    "location": "Castlefore",
+    "score": "9.8",
+    "review_count": "56 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/112899217.webp?k=f549da19174e45e4660065714bad384b4bb56e8d39ff665ec6ef248c88378d98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/22-drumcoura-lake-resort-holid.html": {
+    "name": "22 Drumcoura Lake Resort Holid",
+    "location": "Ballinamore",
+    "score": "9.7",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274301924.webp?k=a15c54b6683cbab247dc82fe6c12121eba049bae3cfd76bc3120c4a8ae4a936c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/14-drumcoura-resort.html": {
+    "name": "14 Drumcoura Lake Resort",
+    "location": "Ballinamore",
+    "score": "8.5",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/126904602.webp?k=014101cedfa59e8a2ef18f87f2b043c4d3848fb556b28331f1bd31f24e08b9c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-leitrim-inn-and-blueway-lodge.html": {
+    "name": "The Leitrim Inn and Blueway Lodge",
+    "location": "Leitrim",
+    "score": "8.7",
+    "review_count": "279 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304517210.webp?k=8e62a1e3e79f47eb04c986cf7fd1a48e968cd38c8506a7ac13cb895ff8b4abca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/a-little-gem-by-the-boardwalk.html": {
+    "name": "A little Gem by the Boardwalk!!",
+    "location": "Carrick on Shannon",
+    "score": "9.1",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/386942586.webp?k=30b9244ce0a7a4996c86adc457cce3090fc5a761ffa25c7c5790ac74dcc06821&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/river-edge-b-amp-b.html": {
+    "name": "River Edge B&B",
+    "location": "Jamestown",
+    "score": "9.3",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/111444837.webp?k=14111fc59d192a7f9541b1db8993ec199e149f9e211d278309349e37d08e9e9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/garadice-view-farm-house.html": {
+    "name": "Garadice View Farm House",
+    "location": "Ballinamore",
+    "score": "9.4",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188878588.webp?k=881e208edec3fcfa0bba3d8544baa2746fae719acaa5a0f9a7482f7ea1ba60d0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clancys-of-glenfarne.html": {
+    "name": "Clancys Of Glenfarne",
+    "location": "Glenfarne",
+    "score": "8.9",
+    "review_count": "166 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324333120.webp?k=6dd9116790690ebe644797c3ed06a992c8da98d93fff8c70e416699039ed3fe2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pat-tadys.html": {
+    "name": "Pat Tadys",
+    "location": "Manorhamilton",
+    "score": "9.6",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297337202.webp?k=06978f34b459e104007d5c3ce2dc309d07569112cdac40278bdbb8e0484a9f9e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/4-archway-court.html": {
+    "name": "4 The Archways",
+    "location": "Carrick on Shannon",
+    "score": "9.6",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348707652.webp?k=66b06bff7a15432ac99fb8691a88dd5196b441886c5f12abfb5bf0df8b43352b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-copper-still-bar.html": {
+    "name": "The Copper Still Bar",
+    "location": "Dromod",
+    "score": "8.6",
+    "review_count": "165 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/43102654.webp?k=c5bd89f6d5900a828d74bb1ab926247ea6ee5747e0ac8cf40cde8be00ce48f46&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cnoc-na-ri-cottage.html": {
+    "name": "Cnoc na Ri Cottage",
+    "location": "Ballinamore",
+    "score": "9.8",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/77789459.webp?k=456c7d319da4bedda2fea49c0fe07e0b206a0d6434821f6fef934e2c8cf074c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hartley-house-b-amp-b.html": {
+    "name": "Hartley House B&B",
+    "location": "Carrick on Shannon",
+    "score": "9.8",
+    "review_count": "128 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/155450856.webp?k=ae611d5d9089b58a4321eb1b79275ac99f19b223ea37acf74e8d8d77594a2b38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brians-home.html": {
+    "name": "Errew Lodge",
+    "location": "Mohill",
+    "score": "9.3",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388625864.webp?k=81329589cdc8f3b293a99a0a2d281f7ccae1cdd0d6fee5d74e8e39b6f8c6a299&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carraun-cottage.html": {
+    "name": "Carraun Cottage",
+    "location": "Manorhamilton",
+    "score": "9.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435903175.webp?k=edcea8a33d57ae76829dc69d45b12af36e85fc55775eb88478d239190a386fd5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/garden-view-self-catering-lough-rynn.html": {
+    "name": "Garden View Self Catering Lough Rynn",
+    "location": "Mohill",
+    "score": "9.2",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/67472889.webp?k=fced1ea4286a9cd9975c9f508cd01ea8b4958ebea68a068549b74d54c3db1c02&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sionna.html": {
+    "name": "Sionna",
+    "location": "Keshcarrigan",
+    "score": "9.0",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/93758099.webp?k=599710806ece8fea20fbad5807a22ce2a6f21766f836dc2383b127b0bd9e81e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-brandywell-dromod.html": {
+    "name": "The Brandywell",
+    "location": "Dromod",
+    "score": "9.3",
+    "review_count": "359 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/152124148.webp?k=d90163c29065f60c2bbc5c0814075e10efeedc70ed92a8eca851b91e7d422391&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ash-lodge-leitrim.html": {
+    "name": "Ash Lodge Leitrim Village",
+    "location": "Leitrim",
+    "score": "9.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/166450566.webp?k=1469b82ea75f3f437a96857e8d774a4dbf82febb7335d3e77e00f0378730ae5a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-2-bed-5-mins-from-carrick-next-to-waterfall.html": {
+    "name": "Luxury 2 bed 5 mins from Carrick next to Waterfall",
+    "location": "Carrick on Shannon",
+    "score": "9.9",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344796193.webp?k=0e20c3bcb971fdedb4bb56264ca16b06cf0c25f97c20c74e2bbbce6aaeac7a9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glebe-house-mohill.html": {
+    "name": "Glebe House",
+    "location": "Mohill",
+    "score": "9.3",
+    "review_count": "140 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/31910698.webp?k=ec00d10d97cf61551edd3cc9d71b6a77f137c0bd354b105e9bb997253e01e410&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/10-crofton-court-lough-rynn.html": {
+    "name": "Woodside Self Catering Lough Rynn",
+    "location": "Mohill",
+    "score": "9.6",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107352218.webp?k=833550e48a38faaa8f14d7883aefd97db567c90de8ae8e124d04068b7a760db3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fern-lodge-drumcoura-lake-resort.html": {
+    "name": "Fern Lodge. Drumcoura Lake Resort,",
+    "location": "Ballinamore",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430561291.webp?k=b06290379441f4813581626f30694d5ce88ad834d2f63f3c8a4ca8543c23415e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lough-rynn-house.html": {
+    "name": "Lough Rynn House",
+    "location": "Mohill",
+    "score": "9.4",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/94606378.webp?k=e843946f2c0fd4da6f4752fadac031d956008de61570c1b709fac07f6cafb7ac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/five-glens-inn.html": {
+    "name": "Five Glens Inn",
+    "location": "Manorhamilton",
+    "score": "8.1",
+    "review_count": "326 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310728613.webp?k=972f9d7c81ceb6f10c48bc7a4d41187916c02ab1b9a29e7fa3cb6421d59e7372&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/leannas-lodge.html": {
+    "name": "Leanna's Lodge, Keshcarrigan",
+    "location": "Leitrim",
+    "score": "9.5",
+    "review_count": "101 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/345282044.webp?k=d79df9a2856d075ed0020a9bf8b2de7bbc4c785f8bc4075774729515ee003c14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/1-station-view.html": {
+    "name": "The Railway Lodge",
+    "location": "Carrick on Shannon",
+    "score": "9.6",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/165119359.webp?k=6d4b1aed34d4c8eb7f3cb308c8b104ba6561f685cb336ab5a1bca0d4bf65648a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lough-rynn-self-catering.html": {
+    "name": "Lough Rynn Self Catering",
+    "location": "Mohill",
+    "score": "9.6",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82258627.webp?k=fca9f9df3dd120150dc7a50e10b811adb078997b50ccf7be6c868d2c6fba4847&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-old-granary-drumshanbo.html": {
+    "name": "The Old Granary at Little River",
+    "location": "Drumshanbo",
+    "score": "9.5",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297513839.webp?k=af17765c279498eb46f08efd55da7b0bf410169cbf7104239b65f0a6be4a0e85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/no-17-mountain-dale-tullaghan.html": {
+    "name": "No 17 Mountain Dale",
+    "location": "Tullaghan",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242517867.webp?k=384ced8117aae54949b3c4e45c3e43d387887cb704d320b56c0bda51fe01cec8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/archie-39-s-rest.html": {
+    "name": "Archie's Rest",
+    "location": "Drumshanbo",
+    "score": "9.1",
+    "review_count": "64 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127020529.webp?k=cbc0effe7312ea6086a0982039d48c9af6c5ca0362a21b49a458134154b7f098&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/swiss-cottage.html": {
+    "name": "Swiss Cottage",
+    "location": "Mohill",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242632651.webp?k=7c77bb85b6f6f58cae4770f5bac140e9ec7e7f0952672c6eb5723076e6acf456&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/glenkeel-cottage.html": {
+    "name": "Glenkeel Cottage",
+    "location": "Manorhamilton",
+    "score": "9.5",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301985197.webp?k=ee0caca8384713232d500467b767158cf5b378584d0e0e48a462cf34d4036b91&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/warren-lodge-boutique-cottages-dromod.html": {
+    "name": "The Garden Cottage of Warren Lodge boutique cottages",
+    "location": "Dromod",
+    "score": "9.3",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372649002.webp?k=c6da483faba57dc145f745361aa8625cfb14fda6c645b84ffe287f820bfa4efc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/warren-lodge-boutique-cottages.html": {
+    "name": "The Pine Tree Cottage of Warren Lodge Boutique Cottages",
+    "location": "Dromod",
+    "score": "9.7",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372649162.webp?k=6f9b8efcc8457226e0c26179a6e1a61e105f254732ec240ba523560c43b391cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/benbulben-view-tullaghan.html": {
+    "name": "Benbulben View",
+    "location": "Tullaghan",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140688727.webp?k=77a3cdb2e5f4f1b55e8ede3a0c268c5804fe862ba1c60b917fa0edf662c37926&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hawthorn-hideaway-manorhamilton.html": {
+    "name": "Hawthorn Hideaway, Manorhamilton",
+    "location": "Manorhamilton",
+    "score": "9.7",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344455314.webp?k=5e535216ce18d71a040bfe6bd47ccb7528841d0687cee4210c1ef6b26a9b36b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/riversdale-farm-guesthouse.html": {
+    "name": "Riversdale Farm B&B",
+    "location": "Ballinamore",
+    "score": "9.2",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/41360490.webp?k=8b55e4853c77a7628fe91a4d0b5e463e19da0b2137a724547b867b373145e2d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/19-drumcoura-resort.html": {
+    "name": "19 Drumcoura Lake Resort",
+    "location": "Ballinamore",
+    "score": "7.2",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238028055.webp?k=bdf9e963deaeb703932e5ef28942943b7703e843977da4814b679b56b08e28b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/drumhierney-lodge.html": {
+    "name": "Drumhierney Lodge",
+    "location": "Leitrim",
+    "score": "9.5",
+    "review_count": "43 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/82300870.webp?k=a9246d0d968af4d62702ced966c10e9f8e8e74df350e604f6955a42c0a6303da&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/waterfront-apt.html": {
+    "name": "Waterfront View Apartment",
+    "location": "Carrick on Shannon",
+    "score": "9.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266758411.webp?k=3114fc93b938bb79a63d229af398650ce7c85c286678efbff76b1fc763700822&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ramblers-rest-manorhamilton.html": {
+    "name": "Rambler's Rest, Manorhamilton",
+    "location": "Manorhamilton",
+    "score": "8.4",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355065263.webp?k=804c9ef4e4c61e32faa7a65d9008e40e15912b02a3da3e6a49fe7c660bd5609d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/paddy-macs-self-catering-holiday-pub.html": {
+    "name": "Paddy Mac's Self Catering Holiday Bar",
+    "location": "Drumshanbo",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346049370.webp?k=d69f1f894c8f7717a5667b180b736ddad61392a12be6f960c0f348e8b60006bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/riverview-carrick-on-shannon.html": {
+    "name": "Riverview",
+    "location": "Carrick on Shannon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420387433.webp?k=e32bde6a2160c2563537e1aae1b9b7b5228c2f5324bb5d1d80258b0b25237721&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/belle-view-house.html": {
+    "name": "Belle View House Self Catering",
+    "location": "Mohill",
+    "score": "9.9",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79868145.webp?k=7a7898ac29fbc55b5413b6e48641dfedb3d0a8a48df47b1bfe6b19ef07e0969e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dreamescape.html": {
+    "name": "Drumcoura Dreamescape",
+    "location": "Ballinamore",
+    "score": "9.1",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287803798.webp?k=cb19bf0b80b0ecb27ba267d709c07c29f8fae0a45892e2df41106fc924998cc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/maggies-cottage-manorhamilton.html": {
+    "name": "Maggies Cottage",
+    "location": "Manorhamilton",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351613357.webp?k=adb6fef1fdd26127328181bb13070c0de0a8f8938b3ec83b1c3de703d1fd1333&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-potters-lodge.html": {
+    "name": "The Potters Lodge",
+    "location": "Carrick on Shannon",
+    "score": "9.7",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312757980.webp?k=7581b6081d676a69c01171ccb9b374aad41fcc6ef0ff4b9ce1dd5281c9436b1e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dromod-lodge.html": {
+    "name": "Dromod Lodge",
+    "location": "Dromod",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/296697762.webp?k=6ea1b5748ab184e8bb7e28f798451972bb8b7ba1bfc0cb3d0a529f75d01a06b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/warren-lodge-accommodation.html": {
+    "name": "The Old Schoolhouse of Warren Lodge Boutique Cottages",
+    "location": "Dromod",
+    "score": "9.5",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410798961.webp?k=d823e712147968aa6854e1f0eb5eab4e36241a6915362700f9f554bccdf830f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-self-catering-lough-rynn-castle-estate.html": {
+    "name": "Emerald Charm, Luxury Self Catering, Lough Rynn Castle Estate",
+    "location": "Mohill",
+    "score": "8.9",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/150288356.webp?k=9554356a2108a0ef37afd11eb9ffcca72d69ad5a42203669cae0cbc79c720414&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ridgerock-accommodation.html": {
+    "name": "Ridge-Rock Accommodation",
+    "location": "Carrick on Shannon",
+    "score": "8.8",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319428762.webp?k=1f06d3ee95276f4a80f444c009290124efc544b20471dd1778ebaac05917d55b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/shannon-oasis.html": {
+    "name": "Shannon Oasis",
+    "location": "Carrick on Shannon",
+    "score": "7.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264051148.webp?k=4623618069f561082ca411af664e6a276fe347b1c1f2a989b80694d72046bae2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/drumcoura-bungalow.html": {
+    "name": "Drumcoura Bungalow",
+    "location": "Leitrim",
+    "score": "9.1",
+    "review_count": "54 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261756790.webp?k=4c0deb495d822c4f007ff1202b1ea9b163922a4eba44320c796c77404ade52ef&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lilys.html": {
+    "name": "Lily's",
+    "location": "Manorhamilton",
+    "score": "8.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/198946868.webp?k=460844d1abd2ccd1e34dddb30ccd7e2d33af8c127e40ffded961490899b76a75&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridge-house-carrick-on-shannon.html": {
+    "name": "Bridge House",
+    "location": "Carrick on Shannon",
+    "score": "8.9",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/135908808.webp?k=41375bc2686829df9fc24139ff24bc1a2d08f0fe7a3376979bbb6f9cfc10c9c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/eileens-aughavas.html": {
+    "name": "Eileen's, Aughavas",
+    "location": "Cloone",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344300429.webp?k=7b14ce2dc6365c083ead5baaf96d5e677b7c19b1c9a127bb523b64e3f0d12e15&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-seaside-3-br-sunsets-surfing-fishing-and-more-tullaghan.html": {
+    "name": "Cosy seaside 3 BR.Sunsets surfing fishing and more",
+    "location": "Tullaghan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403172922.webp?k=8f85a093e6c11c9d6f576eb2d8007336da3758a69e2388b88c25333ada1c9101&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/five-bedroom-waterfront-house.html": {
+    "name": "Five bedroom waterfront house",
+    "location": "Carrick on Shannon",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369652139.webp?k=b08d1728acafdcdc3a5da56fe5f4dfb85c6ea1e6bd295bc11257ad903a64d800&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-koze.html": {
+    "name": "The Koze",
+    "location": "Leitrim",
+    "score": "9.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367236472.webp?k=31526fabb87bd6429c0dbb0f0411dd65586542342e4dd13e501fbef95e321eac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-hen-house.html": {
+    "name": "The Hen House",
+    "location": "Carrick on Shannon",
+    "score": "7.9",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246697819.webp?k=37e4fceeaa94dac16f28662a14a90709123516c429ad4f2ddf774016f6c881bd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/home-on-the-river-shannon.html": {
+    "name": "Home on the River Shannon",
+    "location": "Rooskey",
+    "score": "9.2",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315399072.webp?k=b8fb1691291baf3ae178ec99216c91958d5ac92abefe773cb9eafad64e445acc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cottage-ideal-for-family-39-s-amp-private-lake-access.html": {
+    "name": "Cottage ideal for Family's & private lake access",
+    "location": "Leitrim",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321917714.webp?k=d5278bd07b3137b2bf960488ffa5869f14e9ce6a48732db3a73b754e7d161ae2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/canal-bank-house.html": {
+    "name": "Canal bank house",
+    "location": "Bellanaboy",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288523384.webp?k=1cd705ae27a7cc2703e48d949927dc64c4a3b42df6cd79b04334dca4e71035df&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/holiday-home-dromahair-eir011003-f.html": {
+    "name": "Cottage, Dromahair",
+    "location": "Dromahair",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334152168.webp?k=f2a98f10e8691b75ef39251d144dcfc62fb328a64d38b39d850eaeb589f73dbf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/farnaught-farmhouse-apartment-lough-rynn-mohill-co-leitrim3.html": {
+    "name": "Farnaught Farmhouse Apartment, Lough Rynn, Mohill",
+    "location": "Farnaght",
+    "score": "9.7",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402000927.webp?k=39c1459f40f8b8d875eb4c809c973b5a5c5dc4960e168e28bfc3a4e6db56b4e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/impeccable-4-bed-house-in-drumshanbo.html": {
+    "name": "Slieve Anierin House",
+    "location": "Leitrim",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389247256.webp?k=0b19a7f627206f901e8268a3234590e9c970686f312cf7178618553ee0f89abe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/19th-century-town-centre-luxury-holiday-home.html": {
+    "name": "Parisian Style Townhouse",
+    "location": "Carrick on Shannon",
+    "score": "9.4",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304981225.webp?k=04ee44f609834352f5a605d6e022fd058a2af40afcd11599f75b01d6eef414f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rinnacurreen.html": {
+    "name": "Rinnacurreen",
+    "location": "Carrick on Shannon",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350665623.webp?k=4a4b1956fe91705ad20f53515b285fa5c40638113d6c4465e5abac4494925b7c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/beautiful-modern-home-in-the-heart-of-leitrim-leitrim-village-co-leitrim.html": {
+    "name": "Beautiful modern home in the heart of Leitrim",
+    "location": "Leitrim",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306244415.webp?k=e69e309273f9f9142bfa878822213aa236b4c59fcf6accf00338b0a213cff508&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/john-amp-margarets-place-ballinamore.html": {
+    "name": "John & Margarets Place",
+    "location": "Ballinamore",
+    "score": "9.6",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/286586429.webp?k=4733dc38be1087b220deced507a62efa41d2c48882407eb725c90b88960ae5e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-old-school-house-carrigallen.html": {
+    "name": "The Old School House",
+    "location": "Carrigallen",
+    "score": "8.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350448432.webp?k=849b2f69e4f24838826a5d17b7f2acf19303fe448e1197fbcb1ba29521b01819&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lakeview-house-ballinamore.html": {
+    "name": "Lakeview House",
+    "location": "Ballinamore",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110822781.webp?k=7efbaea101edc9bb6dd5303cd8faf3e7c4158bb80ed0a6f07de2640ead77c8bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cnoc-suan-aughavas.html": {
+    "name": "Cnoc suan, Aughavas",
+    "location": "Carrigallen",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344465568.webp?k=64b38167b2a9b9ce97f6f2c070ce64d73087b3e4700013bb8081e5b36ba206c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/2-castle-cove-dromahair.html": {
+    "name": "2 Castle Cove, Dromahair",
+    "location": "Dromahair",
+    "score": "9.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384155357.webp?k=ad0c4ea79684025eca6dd15d69e33ac01cfef84f923dc296f0cd00fba3a380bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/apple-tree-cottage-rooskey.html": {
+    "name": "Apple Tree Cottage",
+    "location": "Rooskey",
+    "score": "9.5",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302725831.webp?k=d845061f194051a5f3ef050b15a2b6db112ea10d7a1209fb4a4ce9da7af269e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/manor-holiday-home.html": {
+    "name": "Manor Holiday Home-Sleeps 8",
+    "location": "Manorhamilton",
+    "score": "9.4",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302794657.webp?k=99b51afbcc5bb0887f9b389b324d7e9330f25c2b17f9526853390e6a1cd52106&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridge-house-accomodation.html": {
+    "name": "Shannon Bridge House",
+    "location": "Leitrim",
+    "score": "9.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244865228.webp?k=621e4be8a40d8acffee2db215ef2ece77d530ec079b5f52dd72d50c90f0f90c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/24-beds-in-carrick-on-shannon.html": {
+    "name": "24 Beds In Carrick On Shannon",
+    "location": "Carrick on Shannon",
+    "score": "9.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312425787.webp?k=46856389bdfef434fe62234c58ec17ed78aa75b515fea7399a1361f95b9bf1d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lake-view-drumcoura-lake-resort.html": {
+    "name": "Lake View Drumcoura Lake Resort",
+    "location": "Ballinamore",
+    "score": "9.1",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267742238.webp?k=e31a6ab115a0d3ede4fd1b7d6959ec1b8ea45a008a2f0acc6abce5c23c9049ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/black-antler.html": {
+    "name": "Black Antler",
+    "location": "Balloor",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428705582.webp?k=c2097f772c6f9e5e56a8009179daefd9ffe934ace03e17582dcf025b28945024&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/21-park-lane-carrick-on-shannon.html": {
+    "name": "21 park lane Carrick on Shannon",
+    "location": "Carrick on Shannon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385461005.webp?k=f2bef772e2890bb5da53056510a24f7855baa823df8e80da45a2590e1a88d889&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bridgefield-house.html": {
+    "name": "Bridgefield House",
+    "location": "Carrigallen",
+    "score": "8.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/123852082.webp?k=d603b69b9046cf44570965230e1b37a07e95d5866a2d62085050cb0e4772fdb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bluebell-house-manorhamilton.html": {
+    "name": "Bluebell - House",
+    "location": "Manorhamilton",
+    "score": "8.9",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307832778.webp?k=583ab154ed82c89b1320aa47ac949ec97f07a2aa24cdfa4e5c8f75a3bbf8e38c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lough-aduff-lodge.html": {
+    "name": "Lough Aduff Lodge 5 minutes from Carrick on Shannon",
+    "location": "Leitrim",
+    "score": "9.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354195628.webp?k=05126623faf5167a08a11b29317180d91176154e40e7325fac15b7657ddc8dc9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/stunning-seafront-townhouse-with-sauna.html": {
+    "name": "Stunning Seaview Tullaghan",
+    "location": "Tullaghan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361393452.webp?k=2762222cd446e622a3e09d34cce60d6c1c39c9468d10b51b3357974ec3df1f20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cortober-cottage-carrick-on-shannon1.html": {
+    "name": "Cortober cottage",
+    "location": "Carrick on Shannon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367386618.webp?k=725bb05c4c54bfbc4a2e5124198d92e7d9bdb2f402d2a9fa79704bb825a19a9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/babs-cottage-leitrim.html": {
+    "name": "Bab's Cottage",
+    "location": "Leitrim",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/281751079.webp?k=720231c7bc2fae694dd5d9eac2b58db4ac96dfce415667eaa536c70a92d784fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/annies-cottage-ballinamore.html": {
+    "name": "Annie's Cottage",
+    "location": "Ballinamore",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350381977.webp?k=94ad72a4018bb5e47971880672994ee994b4cedf1a7564927feacccf02e082f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/holiday-home-manorhamilton-eir01015-p.html": {
+    "name": "Cottage, Manorhamilton",
+    "location": "Manorhamilton",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339125417.webp?k=14881f1926136432c9160f48d974d2382bcbdf6b4008c0f6716b59c280f8db3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/atheiri-cottage.html": {
+    "name": "Atheiri Cottage",
+    "location": "Fenagh",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350448621.webp?k=3a98a8f47b016162dc103fc9bed7c7af60574738d0767ea2b4f737715b09f1a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/main-street-apartment-carrick-on-shannon.html": {
+    "name": "Main Street Apartment",
+    "location": "Carrick on Shannon",
+    "score": "9.1",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266754964.webp?k=b87032a6b9e674078721f734ae1db4619c67e60abf982ed892abbb466cec0a8f&o=&s=1"
+  }
+}

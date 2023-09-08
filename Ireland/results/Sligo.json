@@ -1,0 +1,434 @@
+{
+  "https://www.booking.com/hotel/ie/sligo-park-leisure-club.html": {
+    "name": "Sligo Park Hotel & Leisure Club",
+    "location": "Sligo",
+    "score": "8.8",
+    "review_count": "1,265 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157237700.webp?k=8bad8847273ae1c92ffb02e849a06cba31989d5c81fd48eb9b46ccc69d2ac3a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/radissonsligo.html": {
+    "name": "Radisson BLU Hotel & Spa, Sligo",
+    "location": "Sligo",
+    "score": "8.4",
+    "review_count": "3,404 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/232818070.webp?k=fecda3a6b25cee711bfe0017e1bd84535bd334f7044e8d5e6d62c48411b73631&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/18-cartron-bay.html": {
+    "name": "Tranquility B&B",
+    "location": "Sligo",
+    "score": "8.6",
+    "review_count": "358 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310722436.webp?k=9af9cef6bb44b6af9be5375b94e4695c354f978ac8e3df5ec7887590fd4f3381&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-residences-st-angela-39-s.html": {
+    "name": "St Angela's Lakeside Aparthotel SALA",
+    "location": "Sligo",
+    "score": "8.7",
+    "review_count": "1,007 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/29119331.webp?k=3da5cf8f6519b6d9ba988ef9f309cdba3be2979c6bc452172a43069bb8b2b35f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-glasshouse.html": {
+    "name": "The Glasshouse",
+    "location": "Sligo",
+    "score": "8.5",
+    "review_count": "3,668 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/1939493.webp?k=105318878cd08992ba8a1bea587ab44020b214b64a9d335f8342e665680baa39&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/13-pearse-tce.html": {
+    "name": "13 Pearse Tce.",
+    "location": "Sligo",
+    "score": "9.1",
+    "review_count": "49 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/188855423.webp?k=a47d4a394bfa914abacc3defe22381022f997236607981a8dcbd93c454fd9cb6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bookingsriversidehotelleisurecentre.html": {
+    "name": "Riverside Hotel",
+    "location": "Sligo",
+    "score": "8.5",
+    "review_count": "3,836 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297156017.webp?k=90bd944fc43ebb223417020d44f9334500a355ffa07c35b2edb418b193339236&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/clarionhotelsligo.html": {
+    "name": "Clayton Hotel & Leisure Club Sligo",
+    "location": "Sligo",
+    "score": "8.1",
+    "review_count": "2,403 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330609135.webp?k=0fdbe4b34c12d4d06fba8c944b63fcb55c38ca2544e8515db7c9de7681ce119c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castledale.html": {
+    "name": "Castledale",
+    "location": "Sligo",
+    "score": "9.5",
+    "review_count": "433 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/89718280.webp?k=c2fcae000e79da8f419700f12e010fe28a69fc59f768374ace023d0216b189db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/quay-st-apartment.html": {
+    "name": "Quay St Apartment",
+    "location": "Sligo",
+    "score": "9.1",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347134070.webp?k=2e1bc05ac0e00b654ab224af9d3d662bece8ef741b3bbb40fe26593744a335ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sligo-southern-leisure-centre.html": {
+    "name": "Sligo Southern Hotel",
+    "location": "Sligo",
+    "score": "7.5",
+    "review_count": "1,427 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/19173198.webp?k=a1765b92056292395a9a6a2ff2aa5e21576c95a6333f4c0199969a671c8bbdc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-driftwood.html": {
+    "name": "The Driftwood",
+    "location": "Sligo",
+    "score": "9.3",
+    "review_count": "588 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/121211936.webp?k=644d5077545ee071124177eee4038fbfde92da281a089211e97d0f93b7b342c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/strandhill-lodge-and-suites.html": {
+    "name": "Strandhill Lodge and Suites",
+    "location": "Sligo",
+    "score": "9.0",
+    "review_count": "573 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305156136.webp?k=549ed379e00e593a37a945082b291889d1e96abff0af3a383b974a8c95fbd1b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/white-birds-townhouse-in-sligo-town-center.html": {
+    "name": "White Birds Townhouse in Sligo Town Center",
+    "location": "Sligo",
+    "score": "9.6",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/339328066.webp?k=d62f7e143707e818167c26d3e93a67ec2601a1a325aacedcbd2236c9d6fd6b65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/newly-built-1-bedroom-apartment-in-stunning-area.html": {
+    "name": "Newly built 1 bedroom apartment in stunning area",
+    "location": "Sligo",
+    "score": "9.8",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361702423.webp?k=87a1c95ba80f601d91ef093a8c667df976fd30c03b69f14f3f944ecc82ab4c4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/union-place.html": {
+    "name": "Union Place",
+    "location": "Sligo",
+    "score": "9.2",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270938826.webp?k=4fc18a50a346e0244a306130d7a5fb441c2829711b48b344109c1509b0378b20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/luxury-home-in-the-heart-of-sligo.html": {
+    "name": "Doorly Park",
+    "location": "Sligo",
+    "score": "9.1",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220001234.webp?k=a9605ae40c1bc147cc66dc406eb63e8f25de187b3514dcbac701999a3591976c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castle-dargan.html": {
+    "name": "Castle Dargan Hotel",
+    "location": "Sligo",
+    "score": "7.8",
+    "review_count": "883 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380037178.webp?k=73986d0b99959a857cbb33c59aa55c88045b1c63ea8e9e8d5012665f33416fc3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/innisfree-guest-house.html": {
+    "name": "Innisfree Guest House",
+    "location": "Sligo",
+    "score": "7.4",
+    "review_count": "269 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368787181.webp?k=e3623faa028a6c477bec9d83fbd95af5b7f4b928a27d0a2240a6304edaec1a6a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/pearse-lodge.html": {
+    "name": "Pearse Lodge",
+    "location": "Sligo",
+    "score": "9.7",
+    "review_count": "220 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/160093515.webp?k=004f1d784acc906cb960fc57f7ff7f610c998bbc5bdaa673ec5fb22625aa6d9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lilys-3-bedroom-country-home-with-large-garden.html": {
+    "name": "Lily's - 3 Bedroom Country Cottage with Large Garden",
+    "location": "Sligo",
+    "score": "10",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399756300.webp?k=9eec40c96d3104e6a02ccb835a9bd67f969e3249ed76dc9b5115f255714294fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sligo-city.html": {
+    "name": "Sligo City Hotel",
+    "location": "Sligo",
+    "score": "8.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/62465800.webp?k=4585a7f400c951f8980673c3a84c63234098140fddd56130d1d10a8266d09a66&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/heathfield-house.html": {
+    "name": "Heathfield House",
+    "location": "Sligo",
+    "score": "9.6",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384600500.webp?k=3f99ebf8cd82c0157b03b06a477f712fad1032f86eff1a14eaeeccc636925151&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rent-a-room-sligo.html": {
+    "name": "Old Fort B&B",
+    "location": "Sligo",
+    "score": "8.4",
+    "review_count": "230 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/121090455.webp?k=86c3e415a68f2083d39c0b99fc8c2fed2d5a0ec374dacc495694bab6609192b1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/yeats-village.html": {
+    "name": "Yeats Village",
+    "location": "Sligo",
+    "score": "8.5",
+    "review_count": "97 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297955862.webp?k=bad7514c5198756bf2ea72aac7a2c98ec6e69ee7f33824dc3bd66186a2017c05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-grove-sligo.html": {
+    "name": "The Grove",
+    "location": "Sligo",
+    "score": "7.5",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346597687.webp?k=0b521afcb7fdcfc06192d76c71133e8ba647aa80311a25701a3e9c761d0c576d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lilac-manor.html": {
+    "name": "Lilac Manor",
+    "location": "Sligo",
+    "score": "9.6",
+    "review_count": "40 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238405745.webp?k=dd838f2aa8d0252e08b270b7b0f037a4b10de9b5a58117a61e4047552542c787&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rosemount.html": {
+    "name": "Rosemount",
+    "location": "Sligo",
+    "score": "9.0",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411585027.webp?k=e87695edd7cbece39b07444d8cfc688e97b218156252ffb7a5caf4d2e1ff2d0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fantastic-private-self-catering-upstairs-apartment.html": {
+    "name": "Fantastic private self catering upstairs apartment",
+    "location": "Sligo",
+    "score": "9.6",
+    "review_count": "67 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409991711.webp?k=b0ab86cc54257e4dc8039556367adab6d9438d32f5b61e43d2022a1bdc2acb33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/grogagh-hill-cottage.html": {
+    "name": "Grogagh Hill Cottage",
+    "location": "Sligo",
+    "score": "9.7",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346421412.webp?k=55819b47661519475c7be255c9b61cca4af4f8e32379a80e749be33b63d5fd63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/easkey-house.html": {
+    "name": "Easkey House",
+    "location": "Sligo",
+    "score": "8.8",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336984748.webp?k=ab7c7ccb32f08ef313b02156654f13659118c9caa336d20b5dcfc7709cd2778f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/patricias-country-cottage.html": {
+    "name": "Patricia’s Country Cottage",
+    "location": "Sligo",
+    "score": "8.7",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365594917.webp?k=80509a448bfc972f336e0301edb2be539eee2d79b4e50a71df5c952b9b254e7e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ard-nua-village.html": {
+    "name": "Ard Nua Village - Campus Accommodation",
+    "location": "Sligo",
+    "score": "8.4",
+    "review_count": "129 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/9055335.webp?k=5ea02f64244968f02bca5d351f087f28dc6b362d978ba86d48b516fb1690600b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/garavogue-villa.html": {
+    "name": "Garavogue Villa",
+    "location": "Sligo",
+    "score": "9.1",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294625118.webp?k=834dae2c22c11f9e063cf00707b87abf047ffb76811e1f2742c9c3e2e355e135&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/daffodil-lodge-sligo.html": {
+    "name": "Daffodil Lodge",
+    "location": "Sligo",
+    "score": "7.9",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411238968.webp?k=dec91d1fd6f8e7f6a7a80d3cd4d6501338131e2032cadff80af97067cad0edcc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/easkey-hostel.html": {
+    "name": "Easkey Hostel",
+    "location": "Sligo",
+    "score": "8.7",
+    "review_count": "218 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315506980.webp?k=665bc9a7a116c4d2a7efd1e02209f5828b2ba82dd66f45c953d57800c836a6e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/markree-castle-sligo.html": {
+    "name": "Markree Castle",
+    "location": "Sligo",
+    "score": "9.3",
+    "review_count": "141 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181868578.webp?k=72cbfc85fca76e59e692f032e707ffba80972ebacdc73723f5181a5a7286ea1d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/carrowkeel-cabin.html": {
+    "name": "Carrowkeel Cabin",
+    "location": "Sligo",
+    "score": "9.2",
+    "review_count": "177 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269577067.webp?k=22f73e75ede96ec6f633037daaefdab4f22b0c163edc527928309e8684c57d33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castlebaldwin-country-residence.html": {
+    "name": "Castlebaldwin Country Residence",
+    "location": "Sligo",
+    "score": "8.2",
+    "review_count": "72 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316124836.webp?k=c68b44986d03a939fa9e9a7684364a24ce1a6cddc27388b2d059d6841e69a6a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bright-3bed-sleeps-9-w-patio-5min-walk-to-town.html": {
+    "name": "Bright 3bed sleeps 9 with secret garden 5min walk to town",
+    "location": "Sligo",
+    "score": "9.8",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349344682.webp?k=1e5d75089fbce954aceae9d54e88418c792dab25ce408bdd1df269f46fecee3c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/atlantic-way-apartment-sligo.html": {
+    "name": "Atlantic way Apartment",
+    "location": "Sligo",
+    "score": "9.4",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372892129.webp?k=806b22a77e429d7867e43d8e93e473e301acf4c7a0466650541f98101aa4b104&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/kathleens-carrowkeel-cottage.html": {
+    "name": "Kathleen's Carrowkeel Cottage",
+    "location": "Sligo",
+    "score": "9.8",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399602004.webp?k=0a7e6be878329479bf12bb1e15cf4fa4cbd54905ac425fa90acfbdb4bf1e80b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sligo-wild-atlantic-cottage.html": {
+    "name": "Sligo Wild Atlantic Cottage",
+    "location": "Sligo",
+    "score": "9.4",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/347482512.webp?k=d9d63b6aafa166be35561603874a9eebd641983af5268eb1c94648139f2124e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/harbour-view-mullaghmore-sligo.html": {
+    "name": "Harbour View, Mullaghmore, Sligo",
+    "location": "Sligo",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365173464.webp?k=bfc292a9b5e390f459b35a5848dd0a80e8b23adb89d6c13c1c2713f48ca0c984&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/surfers-apartment.html": {
+    "name": "Surfers Getaway - Room Staycation",
+    "location": "Sligo",
+    "score": "7.7",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231398840.webp?k=f42a05a43c539d2251de395c079d7aad18f585d87d31aa995e0c0a90fb44804d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/lislary-cottage-on-wild-atlantic-way.html": {
+    "name": "Lislary Cottage on Wild Atlantic Way",
+    "location": "Sligo",
+    "score": "8.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361655569.webp?k=c06706ce31f00f3b545753d87149f0917872d7561d3e038dce77c0a7f21c5f7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/st-edwards-hill.html": {
+    "name": "St. Edwards Hill",
+    "location": "Sligo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430841016.webp?k=9f781a33ad420f4465b59156f01037c4cfcc154339a52cef2f8d0c94d3058897&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/sligo-sea-barn.html": {
+    "name": "Sligo Sea Barn",
+    "location": "Sligo",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334447543.webp?k=166e3bd4a0a7992a5483c399fbb8f3f1e34bfb51911da1084f7f929d9e6a3a94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/cosy-family-home-in-strandhill.html": {
+    "name": "Cosy family home in Strandhill",
+    "location": "Sligo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437717980.webp?k=61b9e53d4b1085da8d40c8071d4e8e8778e42d88bb80d130625eada2b1cdfb12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/st-edwards-overlook.html": {
+    "name": "St. Edwards Overlook",
+    "location": "Sligo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/430871550.webp?k=84eca4e735eb20c26171c5ac24e5883309eb4b8090a8c8edcea43313eaa16565&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/fantastic-city-centre-property-in-sligo.html": {
+    "name": "Fantastic City Centre Property in Sligo",
+    "location": "Sligo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423775608.webp?k=230dc44ca959973d7cc441da48722b11fcc239139d20e7c01b85f5a6b41cf809&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/avondale-sligo12.html": {
+    "name": "Avondale",
+    "location": "Sligo",
+    "score": "9.7",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/99535380.webp?k=7c48ca52346d70b3654a1a09d0d90930dc106393c121bbd58ac7b29b14578bcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/haven-pod-easkey.html": {
+    "name": "Haven Pod Easkey",
+    "location": "Sligo",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436964608.webp?k=074df70bdf4dc7ce1f23f76cc2558af7f8bd8e54107804ddf4f8306d5e686ae0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/teapot-lane-sligo1.html": {
+    "name": "Teapot Lane Glamping - Adults only",
+    "location": "Sligo",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362619201.webp?k=09f45ea952de7f0da080acf24297e3651b43e1fadf6b4d9ea43ae9279fed6116&o=&s=1"
+  }
+}

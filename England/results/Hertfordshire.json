@@ -1,0 +1,2010 @@
+{
+  "https://www.booking.com/hotel/gb/leonardo-hotel-watford.html": {
+    "name": "Leonardo Hotel London Watford- Formerly Jurys Inn",
+    "location": "Watford",
+    "score": "8.3",
+    "review_count": "5,456 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/117825123.webp?k=88095b33bb6a82631ed002d2087cb00f01776430d9915755307d992b710bf9a8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/express-by-holiday-inn-stevenage.html": {
+    "name": "Holiday Inn Express Stevenage, an IHG Hotel",
+    "location": "Stevenage",
+    "score": "8.0",
+    "review_count": "2,731 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260270295.webp?k=ce576a2c97417c3ff4b3fd4fa600ff6b4e0a5b39e024bc771a6fc9a26ae8c996&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/manorgroveshotel.html": {
+    "name": "Manor Of Groves Hotel",
+    "location": "Sawbridgeworth",
+    "score": "7.4",
+    "review_count": "2,531 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14545173.webp?k=775298496bf3c94e4d0490d5d4995cfa7d6c3ecb9dbd82adccaf317cb00e94f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shendish-manor.html": {
+    "name": "Shendish Manor Hotel",
+    "location": "Hemel Hempstead",
+    "score": "7.6",
+    "review_count": "2,954 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/14532726.webp?k=71c1e22d035728e1baf4840251013839e9250e22bef1e06b1bf8dd4f47b6da8b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ebhihemelhempstead.html": {
+    "name": "Holiday Inn Express Hemel Hempstead, an IHG Hotel",
+    "location": "Hemel Hempstead",
+    "score": "7.9",
+    "review_count": "2,888 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258342446.webp?k=7b39d0735c80f23576181e89ae990633205aeac65129915508c804a56d279edc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spinners-end.html": {
+    "name": "Spinners End",
+    "location": "Watford",
+    "score": "8.5",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244155769.webp?k=10915b3e6cfdcfd8fef4a9643ce8951a459d3b82e9c10c2e06534e59bf607091&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-london-watford-junction.html": {
+    "name": "Holiday Inn London Watford Junction, an IHG Hotel",
+    "location": "Watford",
+    "score": "8.2",
+    "review_count": "2,204 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244772501.webp?k=f4eff19c974a3b4c002d12c47e9e47e340448cde0733e8d9b51b2022eb40a9a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/three-tuns-ashwell.html": {
+    "name": "Three Tuns Ashwell",
+    "location": "Ashwell",
+    "score": "7.7",
+    "review_count": "92 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274316483.webp?k=65feff5398694a3610a909d27930525c500b9af84737f0890a5c5bd916c6b3bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/needham-house-little-wymondley.html": {
+    "name": "Needham House Hotel",
+    "location": "Hitchin",
+    "score": "6.8",
+    "review_count": "452 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271236455.webp?k=8273eaf78e9fdfdc13b4abf535ecd963fa6f0e0db3db11ee2df44b0bd8c67b4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-hemel-hempstead-m1.html": {
+    "name": "Holiday Inn Hemel Hempstead M1, Jct. 8, an IHG Hotel",
+    "location": "Hemel Hempstead",
+    "score": "7.9",
+    "review_count": "1,889 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270789736.webp?k=047a75902ab1aba6cac1e721529bcfe28af968243421acade86eb1f118795419&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/boxmoor-lodge-restaurant.html": {
+    "name": "Boxmoor Lodge Hotel",
+    "location": "Hemel Hempstead",
+    "score": "8.4",
+    "review_count": "1,163 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/20090513.webp?k=132446495d88b12f518c181475f5ed24ede54cd7d862ee0f48b1c7c700d0e7fb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/villgae-elstree.html": {
+    "name": "Village Hotel London Watford",
+    "location": "Elstree",
+    "score": "7.7",
+    "review_count": "1,165 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324834576.webp?k=2b355dc4400e8dfc02f6b6f3cc899fc91e1a0510fba7fe51614f213f45c27340&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comforthotelstalbans.html": {
+    "name": "The Samuel Ryder Hotel St Albans, Tapestry Collection Hilton",
+    "location": "St. Albans",
+    "score": "8.4",
+    "review_count": "1,691 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334275044.webp?k=4cb3d09b81df0ff55fae74f14d3926e2dff00fa153b53e2b4b8748178f4c4de8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corus-the-green-man-hotel.html": {
+    "name": "Green Man by Chef & Brewer Collection",
+    "location": "Harlow",
+    "score": "7.2",
+    "review_count": "1,601 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411420651.webp?k=bf1882e1543fd65b64d8176a9e30924f30cf54c23e5de1e8b5fd5eed9be350c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sopwell-house.html": {
+    "name": "Sopwell House Hotel",
+    "location": "St. Albans",
+    "score": "8.1",
+    "review_count": "628 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269804477.webp?k=df5cb72f136a851dc60a26f97a44637af53b48c2b831619f60f37fbdd4e10524&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-stevenage.html": {
+    "name": "Holiday Inn Stevenage, an IHG Hotel",
+    "location": "Stevenage",
+    "score": "8.1",
+    "review_count": "788 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268481417.webp?k=b93c09172df7466f23585f124438c4cd04f815caf8171e31160566528021130a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-express-st-albans-m25-jct-22.html": {
+    "name": "Holiday Inn Express St. Albans - M25, Jct.22",
+    "location": "St. Albans",
+    "score": "8.5",
+    "review_count": "2,392 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226119161.webp?k=ee2d213e07765a63be51d7df9fafb688a730d60636a623f94c2af7fadf0d7d73&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-4-bedroom-house-free-parking-borehamwood.html": {
+    "name": "Luxury, 4 Bedroom House, FREE Parking, Borehamwood",
+    "location": "Borehamwood",
+    "score": "9.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428032756.webp?k=6ac193268d98de45e671cfd1cf28232e83362dd3c0ec15a5ae1a93447e9351ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/white-hart-st-albans.html": {
+    "name": "White Hart Hotel",
+    "location": "St. Albans",
+    "score": "7.6",
+    "review_count": "1,053 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47662206.webp?k=8aa4e8cd94f2a56ef0b9c7b13818b8bf9cdaf22a29c2ea9b0ac69fb7956583c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/vibrant-ensuite-rooms-hatfield-sk.html": {
+    "name": "Vibrant Ensuite Rooms, HATFIELD - SK",
+    "location": "Hatfield",
+    "score": "6.9",
+    "review_count": "105 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351110729.webp?k=1c94e52502ac6f7b45dbba37d1ba1cc190f98513d647be76f9aacecb4f0efd18&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/marriott-hanbury-manor-country-club.html": {
+    "name": "Hanbury Manor Marriott Hotel & Country Club",
+    "location": "Ware",
+    "score": "7.6",
+    "review_count": "892 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433342205.webp?k=c35d032a85889ac5497743baa04564a5ab8f70d9739d07308dafdc28bebae114&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roydon-mill-motel.html": {
+    "name": "Roydon Marina Village Hotel",
+    "location": "Roydon",
+    "score": "7.9",
+    "review_count": "971 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241893232.webp?k=f8b98e6dd379a0df7665158ff8dd9ee640f7ae761dde80f99bddb11a702f1bbb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/doubletree-by-hilton-london-elstree.html": {
+    "name": "DoubleTree by Hilton London Elstree",
+    "location": "Borehamwood",
+    "score": "7.8",
+    "review_count": "956 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423170195.webp?k=3a41b546c2598c247adefa6eb4f7560b332ef9c08c2c9baa54b5c505c1ca455e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/downhallhotel.html": {
+    "name": "Down Hall Hotel",
+    "location": "Bishops Stortford",
+    "score": "7.8",
+    "review_count": "674 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363514009.webp?k=83bbaa9a29dbed9703508cd54eb272f0bf41a357b12891e89db511fdaf4f9915&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pendleymanor.html": {
+    "name": "Pendley Manor",
+    "location": "Tring",
+    "score": "7.9",
+    "review_count": "1,117 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/147846678.webp?k=f800727f2150afcc5b9230e3bcd10b12e7a45a893ef059bf00d20a782463e9be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-express-harlow.html": {
+    "name": "Holiday Inn Express Harlow, an IHG Hotel",
+    "location": "Harlow",
+    "score": "7.9",
+    "review_count": "1,685 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226140488.webp?k=e62c3a99f73a065ebe6f601f17a4a30aa4f702703bf3c332df1706ec9e64b93b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/roydon-marina-village-lodges.html": {
+    "name": "Roydon Marina Village Lodges",
+    "location": "Roydon",
+    "score": "8.6",
+    "review_count": "305 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/292076729.webp?k=f984ee80b8af734b99a82c64f5cf3f85623d08911ce9f299eb9a9c66b2829f51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-broadway-letchworth.html": {
+    "name": "The Broadway Hotel",
+    "location": "Letchworth",
+    "score": "7.9",
+    "review_count": "1,043 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303242275.webp?k=e0c0e1567ef433cee356fa893badb93742f9beedd5e4cb959b3498488baebbb7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/baileys-farm.html": {
+    "name": "Baileys Farm",
+    "location": "Kings Walden",
+    "score": "9.3",
+    "review_count": "314 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/227731849.webp?k=a6d1d4d2471fc774b3bc8eb2c7f6c618e8d0ee3d4f7934f6ad7f6df08e6ee23a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pear-tree-inn-hertfordshire.html": {
+    "name": "Pear Tree Inn",
+    "location": "Welwyn Garden City",
+    "score": "7.7",
+    "review_count": "281 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/109874657.webp?k=8a5d6aa1f74028aa81964942843b076d4dbca5f747d71c25bf6aaf71c927f06d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oldbullinn.html": {
+    "name": "Old Bull Inn",
+    "location": "Royston",
+    "score": "7.9",
+    "review_count": "476 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/10371743.webp?k=ee5fe829da7467f0da094d65fc8177dbe4306eddf94e1b06e27e532d5254a811&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harlowstansted.html": {
+    "name": "The Harlow Hotel By AccorHotels",
+    "location": "Harlow",
+    "score": "6.4",
+    "review_count": "1,730 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327169069.webp?k=e5389dc08d349a550b3f72cc50eab1ee39266d293c54ce124b92278851e4c35d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-one-bedroom-apartment-in-garston-watford.html": {
+    "name": "The Bluebird - Luxury Apartment",
+    "location": "Watford",
+    "score": "9.1",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239149515.webp?k=cfdba6d8e09cc419d772e3e8c8eea119b99012ec9a3574b702ac642381656961&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/redwings-lodge.html": {
+    "name": "Redwings Lodge Baldock",
+    "location": "Baldock",
+    "score": "6.9",
+    "review_count": "1,661 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309596656.webp?k=2f87614c23c49d5bbc7ec4c3c7d7ad5f20838e508d98f03a191b4bfcf44223c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holiday-inn-express-london-watford-junction.html": {
+    "name": "Holiday Inn Express London - Watford Junction, an IHG Hotel",
+    "location": "Watford",
+    "score": "8.0",
+    "review_count": "3,055 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226118860.webp?k=9e272515b2d828b25507b2c02636ab1e49d478ba4f3bf9508d7a1f9cafe2c250&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/letchworthhallhotel.html": {
+    "name": "Mercure Letchworth Hall Hotel",
+    "location": "Letchworth",
+    "score": "6.5",
+    "review_count": "1,748 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267020211.webp?k=449e0d86b9a5819acb22ca609b975c7637e28619d44f21697ba40738a4277777&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hertford-house.html": {
+    "name": "Hertford House",
+    "location": "Hertford",
+    "score": "8.1",
+    "review_count": "427 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/243294971.webp?k=f16ee2803498a624d65934f502259a07949118e6fac4c1d73fba5f24a39d50bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/239-241-flat-a-watling-street.html": {
+    "name": "239-241 Flat A Watling Street",
+    "location": "Radlett",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435892887.webp?k=65294e47158afdf708667d0bcfd403e534baeb2927d97b3118646128e6bc891c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mercure-london-north-watford-hunton-park.html": {
+    "name": "Hunton Park Hotel",
+    "location": "Kings Langley",
+    "score": "5.7",
+    "review_count": "2,767 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/251956719.webp?k=9d1ab335b4c2dd1a73a81133395592ff98a9a3c41c0de6f963f0cfb6dc8889f6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/whitehousehotel.html": {
+    "name": "Best Western White House Hotel",
+    "location": "Watford",
+    "score": "7.7",
+    "review_count": "2,281 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/157863089.webp?k=ec2c076b4a063961a5c002a456d80463be49af97dca8d240e5bcda83794e4867&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/market-hill-apartments.html": {
+    "name": "Market Hill Apartments",
+    "location": "Royston",
+    "score": "8.5",
+    "review_count": "108 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236955641.webp?k=d810bd9aaae80360dd2d9c7c21433865bd759dc389704566a95fec104c0c9510&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/flat-3-miyla-view.html": {
+    "name": "The 'Pinky' - Beautiful 1 Bed Apartment in Hatfield - FREE Parking - Near University",
+    "location": "Hatfield",
+    "score": "9.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313415350.webp?k=2ad1d11bd487427d63819ab40cea13e5919ff88a5c41a62d862b5279e2a03028&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-comet-london-hatfield.html": {
+    "name": "The Comet London Hatfield",
+    "location": "Hatfield",
+    "score": "8.5",
+    "review_count": "824 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/202062408.webp?k=9485251b0f19522bff21f52fcde4b73da33875e3587d961b11240260ae0cf2a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pennyfarthing.html": {
+    "name": "The Penny Farthing Hotel",
+    "location": "Berkhamsted",
+    "score": "7.6",
+    "review_count": "793 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424458595.webp?k=2072bc89fca2e497e6b19b0859e7344212d5bb081af323d51d802d12bb38df7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pages-and-guesthouse.html": {
+    "name": "Pages Hotel and Guesthouse",
+    "location": "Harlow",
+    "score": "7.1",
+    "review_count": "1,097 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226838422.webp?k=c27555079bff2a95c3358836fc851da90df18218ce9aaed958e75b993e18b398&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/corushotelstevenage.html": {
+    "name": "Hotel Cromwell Stevenage",
+    "location": "Stevenage",
+    "score": "8.2",
+    "review_count": "818 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91453626.webp?k=c597e9658142491c050c54f90bc66972470a28378c9dc1089a3f4717653274cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ibis-borehamwood.html": {
+    "name": "ibis London Elstree Borehamwood",
+    "location": "Borehamwood",
+    "score": "7.8",
+    "review_count": "2,364 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/132675866.webp?k=153495279221134be163897de7ac3ba41cd807eed7164bc8ad25ae6c925d9dda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kings-arms-berkhamsted.html": {
+    "name": "Kings Arms Hotel",
+    "location": "Berkhamsted",
+    "score": "7.7",
+    "review_count": "485 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161161055.webp?k=64d5043f28aeb6f9235b71d37eeecb0c575a72269188a2e7abf054380e93aa65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/benslow-lodge.html": {
+    "name": "Benslow Music",
+    "location": "Hitchin",
+    "score": "8.4",
+    "review_count": "211 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/346427479.webp?k=8ad17fb8f8d746707c418b266190ecd02c19ef37f14cfc4a5e7f308a8b51f301&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harpenden-house.html": {
+    "name": "Harpenden House",
+    "location": "Harpenden",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/101281895.webp?k=d06ea24f28c0586ae9fdb0d538b3df93bfa14d2e1c7ef42b79fc968bc5e7484c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/days-inn-stevenage-north.html": {
+    "name": "Days Inn Stevenage North",
+    "location": "Baldock",
+    "score": "7.2",
+    "review_count": "1,224 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/65445340.webp?k=e3e8b98e63797632e0e98d78002044463c07fbc009dcf5593d4f5c3b3b56b473&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunhotel.html": {
+    "name": "Sun Hotel by Greene King Inns",
+    "location": "Hitchin",
+    "score": "6.3",
+    "review_count": "989 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338417246.webp?k=755a221ba135c21fa46dc68560c912cfbaa2013a354e01091cfd8067d4a1532c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/banyers-house.html": {
+    "name": "Banyers House",
+    "location": "Royston",
+    "score": "8.5",
+    "review_count": "493 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267753240.webp?k=18fde615cf138288f7d8092760478e60da837952e184398299d589c678a704c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/portfolio-apartments-welwyn-town-centre.html": {
+    "name": "Portfolio Apartments - Welwyn Town Centre",
+    "location": "Welwyn Garden City",
+    "score": "8.9",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335171711.webp?k=db08f43a38d666d760695632ea9413d825b23a1e8a95f9a6a517c93ac6dc05f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/high-street-apartments-by-syl.html": {
+    "name": "Amazing CENTRAL High Street Self contained Apartments by SYL",
+    "location": "Watford",
+    "score": "8.5",
+    "review_count": "89 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288715402.webp?k=9bee44cd57e31feb58f25faa8e64e17f700a295fae5c79b148d8ee6f07bcbb0d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/redwing-rise.html": {
+    "name": "Redwing Rise",
+    "location": "Royston",
+    "score": "9.1",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261569961.webp?k=431259b71b8e8f4baf7b88e5a260485b530ae0a764697f6d27b0e7342d59fcab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-amp-spacious-2-bed-annex-with-private-garden.html": {
+    "name": "Luxury & Spacious 2 Bed Annex with Private Garden",
+    "location": "Potters Bar",
+    "score": "8.9",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326907262.webp?k=d755b9e0e2a51a3d9d76279747c7df6983ad01949530d0cb1a5d34e1d3e51ee6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/welcome-home.html": {
+    "name": "Welcome Home",
+    "location": "Royston",
+    "score": "9.1",
+    "review_count": "90 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406971069.webp?k=e4805c4c69de9516b908610d3de49d30d7654502170298923139b88838576031&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tewin-bury-farm-tewin.html": {
+    "name": "Tewinbury",
+    "location": "Tewin",
+    "score": "8.7",
+    "review_count": "644 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/380793363.webp?k=ae8811bbe79677492480680eca437f5f6b8560b09d52a8b09156880b55d87dce&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/daysinnsouthmimms.html": {
+    "name": "Ramada London South Mimms",
+    "location": "Potters Bar",
+    "score": "7.0",
+    "review_count": "2,521 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/75977142.webp?k=c2d0b2df7ea36d2b35320e48673c5b52b78ea648edc301b871bfadc15658199f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-walking-distance-to-harry-potter-studio.html": {
+    "name": "2 Bed - walking distance to Harry Potter Studio",
+    "location": "Leavesden Green",
+    "score": "9.2",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397144831.webp?k=4cde8232720951134927f2a71caabdc59668511ab034493f622ebba399305f9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/derbyshire-house.html": {
+    "name": "Portfolio Apartments - St Albans City Centre",
+    "location": "St. Albans",
+    "score": "8.3",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131336660.webp?k=e4f3b5f0b02cd52b9aa103ccd0f132b85a2b3b05758109d0ed5182bad5fee48e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hunters-meet.html": {
+    "name": "Hunters Meet",
+    "location": "Bishops Stortford",
+    "score": "7.9",
+    "review_count": "506 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/93425866.webp?k=be93cf7135d7a69e08393df201b4b6809163883d6772de57064f676af0901d7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ricky-road-guest-house.html": {
+    "name": "Ricky Road Guest House - NEW \"Wizarding Studio Room\" Available to Book Now",
+    "location": "Watford",
+    "score": "9.2",
+    "review_count": "216 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414153325.webp?k=472c283680df03eb33dcac6119776f430827d0a27cb58cb1a92cd0b837d751c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/keyfield-terrace-serviced-apartments.html": {
+    "name": "KEYFIELD TERRACE SERVICED APARTMENTS",
+    "location": "St. Albans",
+    "score": "7.9",
+    "review_count": "174 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/213405213.webp?k=112f4d16af9e9e5c0ba5d9137a20df26a93428bc505e9999a8a76fe1b2acf068&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-bedroom-serviced-house.html": {
+    "name": "Two Bedroom serviced house",
+    "location": "Cheshunt",
+    "score": "8.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/387352723.webp?k=e9c50ea2c934fe0a7c6445c4d53c64ae36c628cbf9e9296b8a5d240253667dda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-domek.html": {
+    "name": "The Domek",
+    "location": "Ashwell",
+    "score": "9.2",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158252039.webp?k=aaa6bfe344a9f70fbf1bda0d4b72b578a9b9931ad4e1fce690cffd738f8f53a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oval-view-2-bed-sleeps-4-6.html": {
+    "name": "Abodebed Oval View Apartments",
+    "location": "Hemel Hempstead",
+    "score": "9.0",
+    "review_count": "92 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/118094520.webp?k=09e762774bf87ad714bbd0005da4c380a354e550ca768d8ddd3656edd5616f35&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-white-horse-hertfordshire.html": {
+    "name": "The White Horse",
+    "location": "Hertingfordbury",
+    "score": "8.5",
+    "review_count": "123 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/116426855.webp?k=fd7a8ea5f9716225710cc3b24ad61155acee2e562742281b1c3bf8b89ac0c2f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-king-s-lodge.html": {
+    "name": "The King's Lodge Hotel",
+    "location": "Kings Langley",
+    "score": "7.3",
+    "review_count": "717 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/2720173.webp?k=a44051c408955eb4bceb42f1cff662cf3446efa95d0a2a0bd7903a0b8acfc47a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-michael-s-manor.html": {
+    "name": "St Michael's Manor Hotel - St Albans",
+    "location": "St. Albans",
+    "score": "8.1",
+    "review_count": "228 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404138949.webp?k=d4083ebdc1d6cfd23f0a0899ac3765417e27639afb61e20c52f6480cab63d211&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aubrey-park-hotel.html": {
+    "name": "Aubrey Park Hotel",
+    "location": "Hemel Hempstead",
+    "score": "6.6",
+    "review_count": "1,571 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/120212431.webp?k=3764945e31a3732c18d7cafb36073681a623013dc515a8d244d4ea517c48e2e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/smart-rooms.html": {
+    "name": "Hatfield Sleepover LOW RATES",
+    "location": "Hatfield",
+    "score": "5.3",
+    "review_count": "701 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/205338996.webp?k=d5b1ceb78a1484f182fa7e203209d4bf62d64b5552f0b3c4656901b5bc02a6fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hertford-serviced-apartments-peymans-hertford.html": {
+    "name": "Hertford Serviced Apartments by Payman Club",
+    "location": "Hertford",
+    "score": "8.0",
+    "review_count": "59 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199948220.webp?k=78fd347f0ab8a9d32bcc689a19d073df4e9ca44d2da3b75cb951e52c8c0f93b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-flat-easy-access-to-stansted-airport-london-and-cambridge.html": {
+    "name": "Spacious ground floor studio flat - easy access to Stansted Airport, London and Cambridge",
+    "location": "Bishops Stortford",
+    "score": "8.4",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245099334.webp?k=bd4cf77ded0a2e0733a90a0e17740d2d134dcaf7c5ef8e563b0f50db08e69e21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-newnham-white-housedock.html": {
+    "name": "The Newnham White House",
+    "location": "Baldock",
+    "score": "9.8",
+    "review_count": "58 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190275807.webp?k=481fef03f4ef09fb3d503b3afd05886be3beb25d24cb916a4045770f2fda8c0b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/k-d-tower-lux-apartment.html": {
+    "name": "K D Tower Lux Apartment",
+    "location": "Hemel Hempstead",
+    "score": "9.6",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406008641.webp?k=e6d95c16380ff70e17a8ba87a82c8d3fa6b985b1cc212c3186c24541fbd3d4f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dog-and-whistle.html": {
+    "name": "Dog and Whistle Pub",
+    "location": "Hertford",
+    "score": "7.2",
+    "review_count": "343 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/30668901.webp?k=d9fc503ffb5e6e5302e39eaa16b919454a8aa918592fd041b7c0b8093b7097e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-brewers.html": {
+    "name": "Two Brewers by Chef & Brewer Collection",
+    "location": "Kings Langley",
+    "score": "8.1",
+    "review_count": "1,421 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324579721.webp?k=6d5988bda6917ec82edf6ce7275807e154992da94e9c31f22cdc4c2af6c08286&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fairway-tavern.html": {
+    "name": "The View",
+    "location": "Welwyn Garden City",
+    "score": "7.7",
+    "review_count": "398 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/131498745.webp?k=dfdb39a9df34273b7ce7ae74198e26d25320c94641ef3ed3bf9afaf51bd59f7a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/handleys-court.html": {
+    "name": "Abodebed - Handleys Court",
+    "location": "Hemel Hempstead",
+    "score": "9.1",
+    "review_count": "160 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271869517.webp?k=7e34fd5e96e800e488e6999c6f735c8179ac52ec14fa5e287790209a12c2865c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/briar-mews.html": {
+    "name": "Briar Mews",
+    "location": "St. Albans",
+    "score": "8.0",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/138900522.webp?k=0dbcca2859e73d5584dfd8272f8dcea6fda67bdb8840adb79a36a3d33ee704e1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/redcoats-farmhouse.html": {
+    "name": "The Farmhouse at Redcoats",
+    "location": "Stevenage",
+    "score": "8.8",
+    "review_count": "199 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416381421.webp?k=1b941a1bc580a69427cfd336f657a3c8afb98b80dcaeb221de61d2379ca790cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-grove-hertfordshire.html": {
+    "name": "The Grove",
+    "location": "Chandler's Cross",
+    "score": "8.3",
+    "review_count": "83 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/156960842.webp?k=639f558a9d3d734ff4bc6e43fadedf4976a9ab91bc968b8028c09df3b763b993&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gemini-eton-1-nr-watford-junction-m1-and-m25.html": {
+    "name": "Watford Gemini - Eton 1 - Nr Watford Junction, M1 ,M25",
+    "location": "Watford",
+    "score": "8.9",
+    "review_count": "99 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289542145.webp?k=d688afd4f824ed6cb152dc10c14be6073295e4bfd1408a358e980701eaa1b4e0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apton-court.html": {
+    "name": "2 Bedroom Apartment Apton Court",
+    "location": "Bishops Stortford",
+    "score": "7.4",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134290419.webp?k=fa18aabe7f209c7258d320b8cf5666fc7f8e34fa64f81b160feab29a2e54124c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mv-watford-central.html": {
+    "name": "2 Bedroom Apartment at Modernview Serviced Accommodation Watford Central",
+    "location": "Watford",
+    "score": "8.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295074868.webp?k=8a9d55763c4456b0a0bf07a1ddf72f09344dcd687d1aa115cb3f6f13838a96f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bed-apartment-with-en-suites.html": {
+    "name": "SPACIOUS 3 Bed APARTMENT WITH EN-SUITES & PARKING!",
+    "location": "Watford",
+    "score": "8.5",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/414358445.webp?k=18e75b72120b22bf423bcd930db632d1f1910c32c6cfc8714e4e7ccbb723a747&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/yha-lee-valley-hertfordshire.html": {
+    "name": "YHA London Lee Valley",
+    "location": "Cheshunt",
+    "score": "7.7",
+    "review_count": "203 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/69896842.webp?k=429d60699a2a30e561bfc55b5bc13f292102c70bd65bb0886857b73c58e1fb01&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-flat-nearby-train-station.html": {
+    "name": "COSY 2 Bed APARTMENT NEARBY TRAIN STATION!",
+    "location": "Watford",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423618616.webp?k=2b1cdb3ed47e15ccb3e9e53fa02ffde6c0d8a6c3638fe66521336822aad8871e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chequers-inn-woolmer-green.html": {
+    "name": "The Chequers Inn",
+    "location": "Knebworth",
+    "score": "8.8",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349685756.webp?k=26eb02bd0d37000bc36e7eea0d67fbd8c15bd0e8975526f55158f2b2a7072bc6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/121-studio-apartment-amp-terrace.html": {
+    "name": "121 Studio - Central Private Apartment, Terrace & Full Kitchen - Airport & Train Shuttle",
+    "location": "Bishops Stortford",
+    "score": "9.0",
+    "review_count": "80 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378209614.webp?k=507f8b62e5afbe701712621168566aad8e86219b4d1577f2de72e187960fc7e7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/harrys-house-muggles-welcome-too.html": {
+    "name": "Harry's House (Muggles welcome too!)",
+    "location": "Watford",
+    "score": "9.2",
+    "review_count": "189 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411043422.webp?k=eb0d19bd5268d39cfa51ec08b22452adc242ec090d1ae160a251856f75a03be2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/grade-i-listed-luxury-apartment-in-hertfordshire.html": {
+    "name": "Grade I listed luxury apartment in Hertfordshire",
+    "location": "Ware",
+    "score": "9.2",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/366369764.webp?k=defc6d896a28bfcf075ed92b474b375783839103be7d3090c6017534fc155945&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bedford-arms.html": {
+    "name": "Bedford Arms Hotel",
+    "location": "Rickmansworth",
+    "score": "8.3",
+    "review_count": "310 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/278598813.webp?k=a1e2017ba847f35865bb158b5551159034c53d3babdf186b16242d9d6b8e304c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stevenage-serviced-apartments.html": {
+    "name": "Stevenage serviced apartments",
+    "location": "Stevenage",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435256778.webp?k=d95e7e7f8154512dd008343a4602bbab42bd91b7afbad65797bd27924e6be20c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-luxe-apartment-essex.html": {
+    "name": "stylish luxe apartment",
+    "location": "Harlow",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423434419.webp?k=6f05c050ede1e18ccf694a29b763b3f71ed1c60d77e7b147c26e67de7809fa57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/champneys-tring-ltd.html": {
+    "name": "Champneys Tring",
+    "location": "Tring",
+    "score": "6.6",
+    "review_count": "161 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27259441.webp?k=ca8ccd5a3a350978b4cc89482918865ef41fbda6b7baed55f407872ff6f9effd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bedroom-apartment-near-train-station.html": {
+    "name": "Luxury 2 Bedroom Apartment Near Train Station",
+    "location": "Welwyn Garden City",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415448443.webp?k=17989f930dcdc7057e5680892bf9e7e51f796efae00095252bb00c9d6001c06d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-peters-mews.html": {
+    "name": "HomefromHolme St Peters Mews",
+    "location": "St. Albans",
+    "score": "8.6",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88932300.webp?k=246d9d5998a7e03a9b0ce2884bc4b452ecdc9de22ed6300c6ea459992396c71a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fox-at-willian.html": {
+    "name": "The Fox at Willian",
+    "location": "Letchworth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433848129.webp?k=375f24e68c01c66903ddc579c6252becca0661c4e852ac99f33b2030cc97770a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-app-in-central-welwyn-garden-sleeps-4-welwyn-garden-city.html": {
+    "name": "Luxury app in central Welwyn Garden, sleeps 4",
+    "location": "Welwyn Garden City",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423631373.webp?k=d2216b30e94c82bb83b9221accbe7abb732452210dffb043d979ba29f4639a90&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/velvet-1-bedroom-apartment-clockhouse-hoddesdon.html": {
+    "name": "Velvet 1-bedroom apartment, Clockhouse, Hoddesdon",
+    "location": "Hoddesdon",
+    "score": "8.7",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255708359.webp?k=1d38a549817d883c052bde9d905efe6852b8780eef31a018206cb0e54dd587cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-annex-apartment.html": {
+    "name": "Beautiful Annex Apartment with off street parking",
+    "location": "Potters Bar",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417555952.webp?k=e905176e56b84c1ec9c8df2876de81684a9bf64d44f96bf6fcc9588fe79612de&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-apartment-mill-court-harlow-harlow.html": {
+    "name": "2-bedroom apartment Mill Court, Harlow",
+    "location": "Harlow",
+    "score": "8.9",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/166270470.webp?k=61550780fb1a2888e4f6731872346a770744676dbf1a7138e6fde5afe1d50af0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-4-bedroom-treasure-home.html": {
+    "name": "Beautiful 4 Bedroom Treasure home",
+    "location": "Hemel Hempstead",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416203566.webp?k=9c8251d982dda9bd415ab113b50ea9694cbb8f1ff5d0c5a53e2cf7934495428c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lodge-farm-bed.html": {
+    "name": "Lodge Farm Bed & Breakfast",
+    "location": "Hitchin",
+    "score": "9.0",
+    "review_count": "190 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300932142.webp?k=c333b2dcaf95a9dca8a0ab8f02fa43c2c71e6388e6905a45a45ae3de93a4e1f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hatfield-2-bedroom-apartment.html": {
+    "name": "RGM Hatfield 2 Bedroom Apartment",
+    "location": "Hatfield",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435306988.webp?k=37cdebafce32b91b01eb9b89fcf3d93e7d49011ce0d1007fed53b6215e8ff2be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ridgmont-plaza-41.html": {
+    "name": "Victoria Street Apartments 2",
+    "location": "St. Albans",
+    "score": "8.5",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/226824328.webp?k=ba8fd4f8f45fb150985472e2c45969c2536e2ced007165275d92dd6b43ed5a13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sutton-court.html": {
+    "name": "Station Suites",
+    "location": "Watford",
+    "score": "9.7",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/74444378.webp?k=1eb693a68607d9f0267f7f3fc7ee6dc9d61867fb9a79772db1c2e7f42e8f828e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-amp-modern-central-hitchin-with-parking.html": {
+    "name": "Stylish & Modern: Central Hitchin - with Parking",
+    "location": "Hitchin",
+    "score": "9.3",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/250342295.webp?k=8711ef1b9a2893f7df93a0c5ff3520dfd49c3ca5fe7081827ebc1357fe7e30db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-home-flat-perfect-for-contractors.html": {
+    "name": "Entire home/flat perfect for contractors",
+    "location": "Bishops Stortford",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433706512.webp?k=531f8f69dfd2106bb36917ac6be998521e1dd3a1e44bd8e2160932eae60086cb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wellbrook-rooms.html": {
+    "name": "Wellbrook Rooms",
+    "location": "Tring",
+    "score": "7.6",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371293704.webp?k=fb27d6db463256736b76c5f42fbcb38712b3dffd16c16eb39acb7883332af0b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-luxury-2-bedroom-townhouse-in-central-st-albans.html": {
+    "name": "Pass the Keys Luxury 2 Bedroom Townhouse in Central St Albans",
+    "location": "St. Albans",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413511039.webp?k=14e2ddf92b25b35e548e7919c442ae48df3b6373d83d45f6fc95f0561a25e101&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bed-apartment-with-free-onsite-parking-in-enfield.html": {
+    "name": "Modern 3-bed apartment with free onsite parking in Enfield",
+    "location": "Cheshunt",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405125546.webp?k=4ef1058efa461c69be50af856bac0e7a4f38192927e290bd382a5e7e41439e3e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/furnished-2-bed-apartment-st-albans-city-centre.html": {
+    "name": "Beautiful 2 Bed Apartment St Albans City Centre",
+    "location": "St. Albans",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420676995.webp?k=991b54744ab8ec395e3d9d26a25941b3bb90dd858d2317eae739ca286fb29823&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hillcrest-lodge.html": {
+    "name": "Hillcrest Lodge",
+    "location": "Stevenage",
+    "score": "6.0",
+    "review_count": "104 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/221783700.webp?k=c66ea5c807802d584fde8fa7146887368254e11152eee3f728255a7979d000d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-annexe.html": {
+    "name": "Garden Annexe",
+    "location": "Redbourn",
+    "score": "9.9",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403944645.webp?k=1c96b404a23829d1e5d548988d32e956ddb9dfc33dd3bf7d7bce1d742bd20298&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bedroom-st-albans-apartment-free-wifi-parking.html": {
+    "name": "Top Floor Luxury 2 Bedroom St Albans Apartment - Free WiFi & Parking",
+    "location": "St. Albans",
+    "score": "8.5",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304991693.webp?k=684d337fbc9758ff4cce49bd5f130c4100fbcb415871c41b1ef87f52bc8f8d2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosey-2-bed-cottage-with-pool-20-mins-from-london.html": {
+    "name": "Cosey 2 Bed Cottage With Pool 35 Mins From London",
+    "location": "Harlow",
+    "score": "10",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425903357.webp?k=6392d7d7b1570b82c8b7cbc2b7949a43607a7252d6ddd7a0a3b842108267f410&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bed-by-letchworth-town-and-free-parking.html": {
+    "name": "Swift Close Contractors & Leisure Apartment by Leecroft Stays",
+    "location": "Letchworth",
+    "score": "5.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/422989264.webp?k=830b9aee258bf37327e04fb4bf892c6313cfd16597d115ace2604a55af1762a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gracenote-properties-free-parking-free-wifi-suitable-for-professionals-and-contr.html": {
+    "name": "Gracenote Properties Hemel Hempstead - serviced apartment with FREE parking",
+    "location": "Hemel Hempstead",
+    "score": "7.4",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363256214.webp?k=00a409571d0b24c32de1a33633b71c92400235c742321bd68008db0258589bfc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ragged-hall-lane.html": {
+    "name": "Ragged Hall Lane",
+    "location": "St. Albans",
+    "score": "9.2",
+    "review_count": "112 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383872107.webp?k=d06baa849888e96f9577e9856739d82cf3dacd9d8df974db6c27b1a9a6d31ac9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-3-bed-house-internet-garden-parking.html": {
+    "name": "STEVENAGE - SPACIOUS & COZY 3Bed House with Parking, Wifi, Garden",
+    "location": "Aston End",
+    "score": "7.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/353790285.webp?k=d9e88d61ac8b1e5288bef87425e08447a68cfbfe4cc9796a880e46317e773ed4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/city-2-apartments-watford12345678.html": {
+    "name": "Watford General Suites",
+    "location": "Watford",
+    "score": "8.7",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/113902706.webp?k=219fcd6c8289a3bf1d502e05016c7955fdaa214b60c99b6a0980dc9531701a41&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-3-bed-new-house-sleeps-7-stevenage-with-free-parking-amp-large-garden.html": {
+    "name": "Stevenage Contractors x8 New 3 bedroom House Free Wifi, Parking, Towels all inclusive & Large Garden",
+    "location": "Stevenage",
+    "score": "9.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362541151.webp?k=d9a01094e66a569abd005c9bde828600dc3e858bef3abaa5aeaf028e2bc14e71&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/birch-community.html": {
+    "name": "Birch Cheshunt",
+    "location": "Cheshunt",
+    "score": "6.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397617267.webp?k=53b73f58409d2a95cba28c482a2280eb030046edd7aa773cfa9ada33775e7939&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/watford-central-serviced-apartments-watford123.html": {
+    "name": "Watford Town Centre, Serviced One Bed Flat with choice of King or Twin Beds, Sleeps Up To 4 Sharing, FREE WiFi and FREE Movies",
+    "location": "Watford",
+    "score": "6.9",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238064491.webp?k=01f82d245ee95484db866bcbf5355b5a6eafd0ca8ca63165cc1ab2be96e74955&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-albans-one-bedroom-luxurious-flat.html": {
+    "name": "Maplewood properties - St Albans one bedroom luxurious flat",
+    "location": "St. Albans",
+    "score": "9.4",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/282388803.webp?k=9e73c0a5ef227aca7b408f608bfdb72293a82bf2a273fcb3c9b84a786318edc5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunshine-place-st-albans-st-albans1.html": {
+    "name": "Sunshine Place St. Albans",
+    "location": "St. Albans",
+    "score": "8.7",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404204294.webp?k=87190a5ef375b0582da7c36bcd9b2c02ff7151a282478e9c263abdd20aa10c9d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parkway-hertfordshire.html": {
+    "name": "Parkway",
+    "location": "London Colney",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404885888.webp?k=42ced55cf4fb07b51f391b0a87d36f86a236f34c017c12e6a153a63907d3a4ba&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-apartment-in-essex.html": {
+    "name": "Cosy Apartment in Essex",
+    "location": "Harlow",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426921412.webp?k=ac2c083f0c07246fe87d0eaf5a6cbb72cd261e96e305500b188e0ded634f5782&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bedroom-2-bathroom-new-apartment-watford-town-centre.html": {
+    "name": "2 bedroom, 2 bathroom, New Apartment Watford Town Centre",
+    "location": "Watford",
+    "score": "9.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/312585692.webp?k=2959b342cd0d05e60026346ee7b3bceef566afa02d0c5826ed2c7af37266fc64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-jester.html": {
+    "name": "Zaheer's Hotel",
+    "location": "Baldock",
+    "score": "5.6",
+    "review_count": "166 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252092542.webp?k=c62566777e2996b03093f3187b5c52712344bd847ff23febb51e20d697fdd1b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/large-entire-house-by-watford-harry-potter-studios.html": {
+    "name": "Large Entire House by Watford & Harry Potter Studios",
+    "location": "Garston",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320748600.webp?k=200e91353b72219528f6c2501f1978b5d9fae19ea0102bf1e5acc34f5c4c8524&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hagrids-hut.html": {
+    "name": "Hagrid's Hut",
+    "location": "Watford",
+    "score": "9.3",
+    "review_count": "82 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411103749.webp?k=b74f1119f5d7be618a270ad7bd44adbccdff4d95e754721aaa1e828547813b3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pine-chalet-room.html": {
+    "name": "Pine Chalet Room",
+    "location": "Hexton",
+    "score": "7.4",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400556686.webp?k=ad1b0d73e92b59016f4e7290dc8f3ca4513cc4c31837b1e87f1874f377ecb5f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/wellrose-barn.html": {
+    "name": "Wellrose Barn",
+    "location": "Hertford",
+    "score": "9.2",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/168419450.webp?k=5b741904b1b8532909f025a68a2509ed5c4ad5543d8f909fec8b5ec559d3b117&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-stevenage-town-centre-apartment.html": {
+    "name": "Luxury Stevenage Town Centre Apartment",
+    "location": "Stevenage",
+    "score": "9.8",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400591294.webp?k=fe592b06245caaad281fc836053d3cdb30cf2b7af14c97f5062ce7214f5d3f51&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-character-2bed-cottage-in-st-albans-wifi.html": {
+    "name": "Stunning character 2bed Cottage in St Albans Wifi",
+    "location": "St. Albans",
+    "score": "9.2",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/361436420.webp?k=0931dd2428ad871b48109e50e69d11460f1072d712711007021cfd79eb9d2cdd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-metalworks-by-ritual-stays.html": {
+    "name": "The Metalworks by Ritual Stays",
+    "location": "Hemel Hempstead",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331323779.webp?k=5fc20371c6e7e0dbf25a4fa4b401ec1b951b3b3c3fa1872b0f3a42f3cc78b707&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fairview-cottage-watford.html": {
+    "name": "Fairview Cottage Watford",
+    "location": "Leavesden Green",
+    "score": "9.2",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/358032034.webp?k=bfa6b8aafe69754836af6360df3ce8e9520f302e1b4baf1f350e3949f69cce43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cole-green-lane.html": {
+    "name": "StayZo Cole Green Lane Accommodation- FREE Parking",
+    "location": "Welwyn Garden City",
+    "score": "9.1",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/144523834.webp?k=cd54162759058ddf01867db4af6a12faaa2be09c8bbbf25127d41f1b6331b3c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stevenage-luxury-apartment.html": {
+    "name": "Portfolio Apartments - Stevenage Town Centre",
+    "location": "Stevenage",
+    "score": "6.6",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/252383080.webp?k=b95041cb01c3adf2d296a30a7ed0230f047554ce1a470327118f9cc68e269e79&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bedroom-apartment-large-balcony-with-views-central-based.html": {
+    "name": "Luxury 2 bedroom Apartment, large balcony with Views central based",
+    "location": "Stevenage",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419575473.webp?k=4e5bf96e0f8b344ea6188914a756cfe2315beb73b277b9ff49e1e660d002873e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-and-modern-studio-apartment.html": {
+    "name": "Lovely and Modern Studio Apartment.",
+    "location": "Borehamwood",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397247088.webp?k=0ce3fb2ea8de3a9e0eeb879c703c1bc135276e62160d28b55af3c53c8465fece&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/romantic-modern-apartment-with-jacuzzi-bath.html": {
+    "name": "Romantic modern apartment with large air Jacuzzi bathtub",
+    "location": "Hemel Hempstead",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433670884.webp?k=6cd37a8d1ab852900983b1dad9885c487a7c28288c7c6e6513e5ada9e7262ddc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-flat-next-to-the-river-stort-sawbridgeworth.html": {
+    "name": "Studio flat next to the river Stort, Sawbridgeworth",
+    "location": "Sawbridgeworth",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411225676.webp?k=3c0a0ac2a34fc30f637c5ec50f22352f55be7007c554250e3872d53e0f73cd33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxurious-apartment-welwyn-garden-city-business-park.html": {
+    "name": "NIKSA Serviced Accommodation - Welwyn Garden City Business Park",
+    "location": "Welwyn Garden City",
+    "score": "9.1",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/184737027.webp?k=b87084d7eed2da76ba9281a49d653c93a93edb38eaaeb12a19c9a71c74b6014f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1-bedroom-apartment-with-balcony-hoddesdon.html": {
+    "name": "1-bedroom apartment with balcony, Hoddesdon",
+    "location": "Hoddesdon",
+    "score": "8.3",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267999046.webp?k=b762013e04a851a811c382c8524baa8474131112a97ca80a861d89b56a6124f8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-film-studio-appartement.html": {
+    "name": "The Film Studio Appartement",
+    "location": "Leavesden Green",
+    "score": "8.8",
+    "review_count": "70 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/259780566.webp?k=e875b8370516fe5c6952525eae4289eea24fad41c68da798f9f5ba3f9c83f47a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beech-chalet-country-hideaway-in-hitchin.html": {
+    "name": "Beech Chalet In Pegsdon Hills",
+    "location": "Hexton",
+    "score": "8.6",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307661022.webp?k=a9856244afee17ceb17b9ef3fa71f54e8323c3b5b56d767b9c55f238aefd354f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-albans-city-centre-apartment.html": {
+    "name": "St Albans City Centre Apartment",
+    "location": "St. Albans",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372800117.webp?k=b25cb6ba0b632a5edf759390b4d7add61f1136a2654f48bb78985c90450f1c99&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/studio-apartment-harlow.html": {
+    "name": "Studio Apartment Harlow",
+    "location": "Potter Street",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405659839.webp?k=63bd5f7006c5bf7a56bea9a41fc90ee2f75c445727b1c07fea1fe4136a5f3690&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/central-stevenage-luxury-2-bed-apartment.html": {
+    "name": "Central Stevenage Luxury 2 Bed Apartment",
+    "location": "Stevenage",
+    "score": "9.1",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/337295470.webp?k=4b616762b0c33a31451335a9ff3b71edce4e33fbdbeb541b9483615ac988d547&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-and-spacious-london-home-for-families-or-groups-of-workers.html": {
+    "name": "29 mins to Kings Cross Families or groups of workers Deals for Long term stays",
+    "location": "Borehamwood",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/424957264.webp?k=2621fdd45dfc29bd7c04144d712e9b79f5e1798964a700e405d8edd5e5238484&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookeduk-homely-3-bedroom-townhouse-in-hertford.html": {
+    "name": "Outstanding 3 Bedroom Townhouse in Hertford",
+    "location": "Hertford",
+    "score": "8.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/365857951.webp?k=d1c12776b30e1dfed66f27181619d93f261557b2cdab8a5cf1d42d6e2f0ac5e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/home-farm-glamping.html": {
+    "name": "Home Farm Glamping",
+    "location": "Elstree",
+    "score": "9.3",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304981182.webp?k=8caa963b08e052fe085bcf4d3398ff0750d56537563a40a6bd1838389c3d31b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pinewood-cottage-watford.html": {
+    "name": "Pinewood Cottage",
+    "location": "Watford",
+    "score": "8.7",
+    "review_count": "44 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397638629.webp?k=bccef8fb370a0ae479dda300e092f53f493c684190f2886e8c553609924dce8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lodge-in-pegsdon-hills.html": {
+    "name": "The Lodge in Pegsdon Hills",
+    "location": "Hexton",
+    "score": "8.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383636543.webp?k=e2953a8c84bed51acf098a9f06e5eb3c1e9d40365a74fc72daecf32a3a456dcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skyline-serviced-apartments-colestrete.html": {
+    "name": "Skyline Serviced Apartments - Colestrete",
+    "location": "Stevenage",
+    "score": "2.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125983238.webp?k=483483f3aa08f705d91f12cb2234c6da2454a973f8d3c8794a4000cb5b62afa0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tudor-house-goff-39-s-oak.html": {
+    "name": "Tudor House - Double Room - En suite",
+    "location": "Goffs Oak",
+    "score": "7.2",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/400516879.webp?k=b7ffee10d3ce7fbd61f09c31f77bd03cf49504fafab8652848ef904686d41d42&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-1-bed-flat-with-separate-entrance-amp-parking.html": {
+    "name": "Comfortable 1 Bed flat with Air Con",
+    "location": "Borehamwood",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398060075.webp?k=7842fbb6036b5887d11930c61582d970f41cc2fb8bc23655f81992134050e4db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookeduk-lovely-2-bedroom-flat-in-hoddesdon.html": {
+    "name": "BookedUK: Lovely 2 bedroom Flat in Hoddesdon",
+    "location": "Hoddesdon",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402877421.webp?k=f5cbbd17a13d5966e03b3979ac8064747d1fb1bad389d123cb59d7a4dd0188ff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/barn-in-beautiful-countyside.html": {
+    "name": "Barn in beautiful Countyside",
+    "location": "Watford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431742029.webp?k=bb001dd9499ec4322161a48b9753a1ebe863ffa4de52b5c5b50dbe7f60a6c167&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/attic-room-goff-39-s-oak.html": {
+    "name": "Tudor House - Double Room - Shared Bathroom",
+    "location": "Goffs Oak",
+    "score": "5.9",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377266947.webp?k=1ec49670806a2bf4c5353231d0f7be8ef3de5be5356854e28fcbca62654f3e92&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/14-theobald-street.html": {
+    "name": "Double bed room Theobald street",
+    "location": "Borehamwood",
+    "score": "7.4",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371029234.webp?k=91c4c51b260e8f5e9093b50c22710ae01755271867be72e2f6e1e381acd05ba0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/13-grove-road.html": {
+    "name": "13 Grove Road",
+    "location": "Hitchin",
+    "score": "9.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416842642.webp?k=0501370b5aea9c9bc4bf44758aac4076e98c049e0d3da5e13fdce5477e56f1f0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-apartment-stevenage-hertfordshire-5-guests-leisure-business.html": {
+    "name": "2 Bed Apartment in Stevenage Hertfordshire By White Orchid Property Relocation Short Lets & Serviced Accommodation Sleeps 5 Guests Leisure & Business",
+    "location": "Stevenage",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376331286.webp?k=37b07ad6d220ecbaae211093a6f21355454156f55b0a09d26d4a3470f3e27ebe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-stylish-cosy-and-central-1-bed-flat-with-parking.html": {
+    "name": "Pass the Keys Stylish Cosy and Central 1 Bed Flat with Parking",
+    "location": "Rickmansworth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423671573.webp?k=8d6407f62a6be79b264f93c2cba4716666c8bbbc54a0991a52346059431e60cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookeduk-delightful-1-bedroom-apartment-bishops-stortford.html": {
+    "name": "BookedUK: Delightful 1 Bedroom Apartment - Bishop's Stortford",
+    "location": "Bishops Stortford",
+    "score": "7.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279157338.webp?k=f6d480e4c60aac2e4c0f680e717f154690189e9cf00f5e89b41456333d759e1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oaklands-hatfield.html": {
+    "name": "StayZo - Oaklands",
+    "location": "Hatfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/194973989.webp?k=eac25b715b3d9c2c6b3c0803933a26f26238fdf489a7417c067a0b3ea96380e2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beehives-cottage-at-woodhall-estate.html": {
+    "name": "Beehives Cottage at Woodhall Estate",
+    "location": "Hertford",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375803467.webp?k=cc0a42434c0d940d26374e4f0fda0f0f62c5ab296a437f3ab46fe8aed00813a7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/narrowboats-on-the-grand-union-near-hemel-hempstead.html": {
+    "name": "Narrow Escape - 50ft Boat on the Grand Union Canal, near Tring",
+    "location": "Tring",
+    "score": "8.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390640909.webp?k=17e313565382e2350e9b2ed011fdacef3e25bd134192067f0a79654a723ed30c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/velvet-2-bedroom-apartment-clockhouse-hoddesdon.html": {
+    "name": "Velvet 2-bedroom apartment, Clockhouse, Hoddesdon",
+    "location": "Hoddesdon",
+    "score": "8.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264953787.webp?k=e9de47f6aaac2bc751f0244f6b312d05d6ba7f69cc5ddb0c525cf5062177b159&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/broxbourne-two-bedroom-apartment-close-to-amenities.html": {
+    "name": "Broxbourne Two-Bedroom Apartment Close To Amenities",
+    "location": "Hoddesdon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/211029822.webp?k=38eb34d01cbf25c0c2d94cde30020ff39a3527c53fa688deca981c53d9535927&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stevenage-king-size-bed-by-jm-short-lets-amp-serviced-accommodation-that-sleeps.html": {
+    "name": "Stevenage-Brand New-1 Bed Apartment Sleeps 4-WIFI-Parking- By JM Short Lets & Serviced Accommodation",
+    "location": "Stevenage",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376346647.webp?k=11d755bc0f673666c0f5176f343a25d00f763f2fb46db5faf022c824b9c661a1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bright-airy-one-bed-flat-in-town-centre.html": {
+    "name": "Bright & airy one-bed flat in town centre",
+    "location": "Bishops Stortford",
+    "score": "9.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334784718.webp?k=9f954ed4bb1410881990d44c6b05538b2bb045852e741dd28a905086024d5bbc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modernview-serviced-accommodation-1-bedroom-watford-central-f10.html": {
+    "name": "Modernview Serviced Accommodation 1 Bedroom Watford HighStreet F10",
+    "location": "Watford",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/330006215.webp?k=c6ca02ff9cd7a16d9be7f8ab82248e0ab1414f33c28c487bb706702ceb8dd432&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-apartment-great-location-with-parking.html": {
+    "name": "Luxury Hitchin Apartment, Great Town Centre Location - With Parking",
+    "location": "Hitchin",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236021710.webp?k=e8dd3c21920abb27f9666534e94a2a880ca55dd9c4b0cc41d1342aa364798622&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/old-house-hemel.html": {
+    "name": "Old house Hemel",
+    "location": "Hemel Hempstead",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362175699.webp?k=ca602e23103e2449e157bd75318e75c83fc19ffd7320d271d290c5fc343b9fe5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/aspen-chalet-country-hideaway-in-hitchin.html": {
+    "name": "Aspen Country Chalet In Pegsdon",
+    "location": "Hexton",
+    "score": "8.2",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302655089.webp?k=77b00dd9d068183303f00d14a27c61c8bcd961027bc72952cf11a75c79975c7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/haygarth-apartment.html": {
+    "name": "Haygarth Apartment",
+    "location": "Knebworth",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/423687512.webp?k=1a9c41cdf58b7048f08ad5cf9cbb00af6c5d4d61d029f779a2e881b8b274d5d8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/king-pin-corner.html": {
+    "name": "King Pin Corner",
+    "location": "Stevenage",
+    "score": "6.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385229076.webp?k=0e8f928f89e71c3fa161ba6705cbed8be0b86740172cca44d96fbea16ad4e247&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/remarkable-2-bed-apartment-in-hatfield.html": {
+    "name": "2 Bed Apt Near Hatfield Station Free Parking",
+    "location": "Hatfield",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/335920800.webp?k=eec570b7e238361721a0a2600045357d4daa15d82108689a4e67a0bdf562ac7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/watford-centre-spacious-2-bed-and-2-bath-penthouse.html": {
+    "name": "Watford Centre - Spacious Penthouse",
+    "location": "Watford",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88756928.webp?k=0cde3019d6807530f24edd0f2a6202e74b42ac1d83a1409dcad93e54c7f14b1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hidden-gem-luxury-5-bed-near-warner-bros-studios.html": {
+    "name": "HIDDEN GEM! LUXURY 5 BED NEAR WARNER BROS STUDIOS",
+    "location": "Radlett",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336042151.webp?k=5da5e41e2179be168a4012f442db82b77523e2bb2364f4eb755e10279554f434&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hampson-house-stevenage.html": {
+    "name": "Hampson House Stevenage by PAY AS U STAY",
+    "location": "Stevenage",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/246979891.webp?k=1e6907a16065d640732d2e7a37d146aca1f28ed3961cfcce9782b1414de98718&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stansted-airport-luxury-apartment-bishops-stortford-millars-one-loft-2.html": {
+    "name": "Stansted Airport Luxury Apartment Bishops Stortford Millars One Loft 2",
+    "location": "Bishops Stortford",
+    "score": "7.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301461503.webp?k=4f2b615117202fed6a6505eb6231c0b1cb1610b2c698025410af5fa5dc8fcb63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hitchin-st-annes-2-bedroom-coach-house.html": {
+    "name": "Hitchin - Millstream - 2 Bedroom Coach House",
+    "location": "Ickleford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315800355.webp?k=30e310ab3820d42b21907d020ea5b85d2a4f7f2812b2196196707e9564ed3c2b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fairlands-lodge.html": {
+    "name": "Fairlands lodge",
+    "location": "Stevenage",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426527510.webp?k=d4f1bfce20c3d2ce1d6e01b2b0916872c528c9346c0af44ab049a2f847ee2487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mpl-apartments-woodside-house-by-harry-potter-studios.html": {
+    "name": "MPL Apartments - Woodside House by Harry Potter Studios",
+    "location": "Watford",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367720127.webp?k=3ea582ed1dc0895c5ec9aa4208bb169e27836dffca82b334b0c03b55cd6037ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/niksa-serviced-accommodation-welwyn-garden-city-one-bedroom.html": {
+    "name": "Niksa Serviced Accommodation Welwyn Garden City- One Bedroom",
+    "location": "Welwyn Garden City",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263672427.webp?k=49070a733bb0ce5e5f81e064cc18f0ea391c1f5da527161637f62138607a7cc2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beech-road-apartment-st-albans.html": {
+    "name": "Beech Road Apartment St Albans by PAY AS U STAY",
+    "location": "St. Albans",
+    "score": "6.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371939570.webp?k=d74fd613d3de3dfffa92221e7a8187a267607e3fd3820b6f6719275d59c5025b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-arches-watford.html": {
+    "name": "The Arches Watford",
+    "location": "Watford",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391315856.webp?k=bde1f46e3c7eb9a4235d0731f3c74d1f7f2ca94fc3a8f984db413fe2b1b81a82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/newly-renovated-flat-with-own-private-garden.html": {
+    "name": "Amazing newly renovated flat Town Centre Harry Potter",
+    "location": "Watford",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403221517.webp?k=8ba2498e830300fa37229f2701799568b646f3e67475d072692f0c14139a67fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-2-bedroom-apartment-bookeduk.html": {
+    "name": "BookedUK Modern Apartments",
+    "location": "Bishops Stortford",
+    "score": "6.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395447001.webp?k=395f04b733108786b336e043d8e78a7f577bc94741d18bdee5bf8d87bbf45fc1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-luxury-family-friendly-3-bedroom-home-in-harpenden.html": {
+    "name": "Pass the Keys Luxury Family Friendly 3 Bedroom home in Harpenden",
+    "location": "Harpenden",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436847576.webp?k=b44b7efaf967a8a21525e931ca3da9b7474b0ae8bebf9149a98e5817f9250f9b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/luxury-5-bedroom-serviced-house-leavesden-with-4-bathrooms-and-parking.html": {
+    "name": "Luxury 5 bedroom Serviced House Leavesden With 4 Bathrooms and Parking",
+    "location": "Leavesden Green",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/320432486.webp?k=932c9bb8c9b0092853adea10e083578910af8c95bc12360a5411918332cc0238&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deluxe-2-bedroom-st-albans-apartment-free-wifi-parking.html": {
+    "name": "Deluxe 2 Bedroom St Albans Apartment - Free WiFi & Parking",
+    "location": "St. Albans",
+    "score": "8.0",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304993536.webp?k=f918935c9d8df5f818062d0f246e85073b73590dfd33943210cef076f8a6eeda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-barn-sarrett-near-rickmansworth.html": {
+    "name": "The Barn",
+    "location": "Chipperfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420054370.webp?k=dadd32a9b43a6596a6c79988af060ca75d9bb58cbd15d9ca47c3151940033126&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-bell-tents-hatfield-park-farm.html": {
+    "name": "Forest Side Glamping Herts & Essex",
+    "location": "Bishops Stortford",
+    "score": "9.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425957551.webp?k=e3edb75f7e90f9749393d3cbeb403ceb3f4c14ea694a6cb41f3b3ba0bac14891&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/platform-south-town-centre-stevenage.html": {
+    "name": "Platform South - Town Centre Stevenage",
+    "location": "Stevenage",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405958426.webp?k=01bce067d5ea4b9d26680008b652a2f578377bc7edb820cdaf81d8f5ba54b6a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/free-parking-central-contractors-leisure.html": {
+    "name": "Free Parking - Central -Contractors - Leisure",
+    "location": "Hatfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421269537.webp?k=b4e5ba028cb88d78f538b8f3c55094da6f98c26c79e1293fd484d1c92fbb32c2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/unique-living-in-victorian-water-tower.html": {
+    "name": "Unique Living in Victorian Water Tower",
+    "location": "Benington",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362463420.webp?k=6593c517255f29b78c7a0d56eae38763ae4be599636fd4c6b5d44efda65dd1a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/garden-studio-annex-w-free-parking.html": {
+    "name": "Garden Studio Annex w/free parking",
+    "location": "Hemel Hempstead",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415806510.webp?k=feb589ca1ca2d0279fa2c8928cd8819e24739d731d79f527aeb516990bc75995&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookeduk-cheerful-1-bed-apartment-sawbridgeworth.html": {
+    "name": "BookedUK: Cheerful 1 Bed Apartment - Sawbridgeworth",
+    "location": "Sawbridgeworth",
+    "score": "8.6",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/280376436.webp?k=435d5d373f591f1953e1077a692067d44aad7615e5c4e82a80e0bb14f083d338&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-stylish-family-friendly-3-bed-home-in-borehamwood.html": {
+    "name": "Pass the Keys Stylish Family Friendly 3 Bed Home in Borehamwood",
+    "location": "Borehamwood",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/435876004.webp?k=20b1864681da2cd6d148a94e26feb68d8299a6ca1cb7ab90467bb8c2cf0d838f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-monthly-discount-family-contractors-business-by-fobis-suites-short-lets-am.html": {
+    "name": "4 Bed Monthly Discount Family Contractors Business By Fobis Suites Short Lets & Serviced Accommodation Hatfield",
+    "location": "Hatfield",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428211700.webp?k=4bb9bef6280825770f981403e92373e3ddfdf9c2f7d7a068bab7df73137db1d4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookeduk-bright-and-airy-apartment-in-stevenage.html": {
+    "name": "BookedUK: Bright and Airy Apartment in Stevenage",
+    "location": "Shephall",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384013848.webp?k=c6967687114cf87e23e6c9fdb0f627bf0b46ce47a0506e99531f547c847d68b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/candlefield.html": {
+    "name": "Beautiful entire house, close to Harry Potter Studios",
+    "location": "Leverstock Green",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/277890406.webp?k=1d967b97f868882ef21492a9b0ab41e507cdbe32de628d0abf6f2bbfde7d1e6d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ideal-for-country-holidays-and-trips-to-londons-tourist-attractions.html": {
+    "name": "Ideal for country holidays and trips to London's tourist attractions",
+    "location": "Hemel Hempstead",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293405429.webp?k=6769d371b7e215e93b08702ea4375df408934071ff59f42e4f251cd47ed51a14&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/watford-cassio-luxury-modernview-serviced-accommodation.html": {
+    "name": "Watford Cassio Luxury - Modernview Serviced Accommodation",
+    "location": "Watford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338273670.webp?k=28406c36fcd6f5cede55cfdd70558853bfc2f7cfd1972556c95de0679fd7e86a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/eton-house-watford.html": {
+    "name": "Eton House",
+    "location": "Watford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415183806.webp?k=43523e99f4967fb3bfee021bd955891cbd56b9738738e9bb36cc185ebf477ab2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cozy-loft-in-bushey-20-mins-by-train-to-euston-london.html": {
+    "name": "Cozy Loft in Bushey, 20 mins by train to Euston London",
+    "location": "Bushey",
+    "score": "6.5",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336913694.webp?k=b6f87e3b60ff62a39b64aab2732ed32ea59d883f44dfb9dddbcef3ec0d0b7db1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-fieldbarns-at-bullocks-farm.html": {
+    "name": "The Fieldbarns at Bullocks Farm",
+    "location": "Bishops Stortford",
+    "score": "9.7",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/181316489.webp?k=3104d8f912c07b631a4a21b9c2bceae68465286a4e6ee49073a67ae9dbbe34db&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ziggurat-house-the-enchanted-night-uk33607.html": {
+    "name": "Ziggurat House - The Enchanted Night - UK33607",
+    "location": "St. Albans",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395745854.webp?k=29f283454fc0cda1ce95d27072bb21a646148ed6e1af99c9e3363e7b45799e17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/skyline-serviced-apartments-flat-b-rockingham-way-stevenage.html": {
+    "name": "Skyline Serviced Apartments - Flat B Rockingham Way",
+    "location": "Stevenage",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325145618.webp?k=53a512e5b995499c65210ed558d50e8eb4ed3bbac10e31500da05d65f4c33322&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-pastures-lodge.html": {
+    "name": "The Pastures Lodge",
+    "location": "Stevenage",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/434400847.webp?k=00e91adc454f503ddea58b0379c9d29ac40fb605bfe9848684602d4003af853e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hp1-1aj-apartment.html": {
+    "name": "ADB Apartment",
+    "location": "Hemel Hempstead",
+    "score": "4.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367537404.webp?k=ef79864f473316e8eb79f3470c8ee48b3da3ed760fd5cf8700c3494af13347ca&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mayflower-house-codicote.html": {
+    "name": "MayFlower House",
+    "location": "Codicote",
+    "score": "9.1",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392129390.webp?k=72c3aa529c690650efc98c8d0f110857d8851b52ceb4b40fbcc7d7fa4fb7f259&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/seven-suites-luxury-1-bed-in-watford-central.html": {
+    "name": "Seven Suites - Luxury 1 bed in Watford Central",
+    "location": "Watford",
+    "score": "6.9",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388798322.webp?k=e9da8c0ee656331b8d2f1daa1942e037a5605f671508f52ec552aea576bb1952&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-large-stylish-1-bed-house-with-parking-in-watford.html": {
+    "name": "Pass the Keys Large Stylish 1 Bed house with parking in Watford",
+    "location": "Watford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421901656.webp?k=b586c8d09343f97d9af5e4ff933db9709c8fe24813546dab87eecbdc47f36e0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/deluxe-1-bedroom-st-albans-apartment-free-wifi-parking.html": {
+    "name": "Deluxe 1 Bedroom St Albans Apartment - Free Wifi & Parking",
+    "location": "St. Albans",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305012139.webp?k=08fa5b413164a29ca8b8d0bdd3965933d96a5dfd32ef32e5ef7cd8c6963e7ca5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/borehamwood-luxury-2-bed-2-bath-apartment.html": {
+    "name": "Borehamwood - Luxury 2 bed 2 bath apartment",
+    "location": "Borehamwood",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/91900387.webp?k=18899328e39b4eeba378ed504c388d2459cda54d1483e5f6faff2301bc810bb8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/town-centre-flat.html": {
+    "name": "Town Centre Flat",
+    "location": "Watford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419065746.webp?k=28c989100880cd060b00ad5fca89f10abb7dd9882b12eee74423412fbc3aae23&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/apartment-nr-train-station-that-sleeps-4-by-jm-short-lets-amp-serviced-accommoda.html": {
+    "name": "Brand New 1 Bed Apartment Stevenage Sleeps 4 Free Parking Nr Train Station By JM Short Lets & Serviced Accommodation Business & Leisure",
+    "location": "Little Wymondley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/376356337.webp?k=84fb8cfb58350678c7986ca00381eb47138f805bc39204b4173130f915162d11&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-3bed-serviced-house-in-stevenage-parking-garden-hertfordshire1.html": {
+    "name": "BEAUTIFUL 3BED SERVICED HOUSE in STEVENAGE + Parking + Garden",
+    "location": "Aston End",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352128424.webp?k=f6729ba95915f1a22792e56f31bf3e2a5b9898cd82cc90c43c1ff72a67b6f141&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/town-centre-1-bed-apartment-harry-potter.html": {
+    "name": "Town Centre 1 bed apartment Harry Potter",
+    "location": "Watford",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403048237.webp?k=e459fd4c15dcbad48551d5a3e2e2fb1b897ac44cb6410775c88acf7126095a45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stansted-airport-luxury-apartment-bishops-stortford-millars-one-loft-4.html": {
+    "name": "Stansted Airport Luxury Apartment Bishops Stortford Millars One Loft 4",
+    "location": "Bishops Stortford",
+    "score": "8.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301461845.webp?k=a37b44b4379fe0c711ef0ac5989dbac9178e87de234e5686e443f57da67515fd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-large-stylish-modern-six-bedroom-house-in-watford.html": {
+    "name": "Pass the Keys Large Stylish Modern Six Bedroom House in Watford",
+    "location": "Watford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418200995.webp?k=8f6e51277a9a50848b0fb3e8c2b58eeaab3410529120e59c1e856b5903f4ee2e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sefain-household.html": {
+    "name": "Sefain Household",
+    "location": "Great Parndon",
+    "score": "7.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393359595.webp?k=ecdbc9df970823c0f35683aca3d76ba3c47828064d2a69774c15956ce084b2fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-house-2-bedrooms-hertfordshire.html": {
+    "name": "Entire House 2 Bedrooms & two rain power showers",
+    "location": "Bishops Stortford",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/415901664.webp?k=fbe15c156f5376eda8d3cfe24a175cb1cf7a4b1397a23cc68084e2ac51bd9b17&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lily-rose-apartment.html": {
+    "name": "Blue Rose Apartment",
+    "location": "St. Albans",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416830532.webp?k=c79155f42d30a37d308e7aabe3542d402d1fa76a75b29c39caa4f9ca232e3ccd&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/red-rose-apartment.html": {
+    "name": "Red Rose Apartment",
+    "location": "St. Albans",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/392688286.webp?k=87442522adeac21284eb749779b878d26c5170d904903b6184fe375d4a329220&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/borne-house.html": {
+    "name": "Spacious Contractor Flat for Large groups - Private Parking by Tailored Apartments",
+    "location": "Cheshunt",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304342705.webp?k=eebf2ac1521bd919f92e1071292c05c097079ee108258c81f1f93ba8cc6f33ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/velvet-2-bedroom-apartment-brewery-road-hoddesdon-hoddesdon.html": {
+    "name": "Velvet 2-bedroom apartment, Brewery Road, Hoddesdon",
+    "location": "Hoddesdon",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/356518417.webp?k=c551552779eef9fe57e41a46e50bb27f302d71cc4316381bbbfa52e5252babda&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-luxury-4-bedroom-home-with-large-garden.html": {
+    "name": "Pass the Keys Luxury 4 Bedroom home with large garden",
+    "location": "Watford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404693396.webp?k=a901bfae01dc4de48d163a95fd50c9394148a2369cd4a3e0eae7a0963cf1cd69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/entire-residential-house-st-albans.html": {
+    "name": "Entire residential private house St Albans free WI-FI free Parking close to Luton airport London St Pancras International",
+    "location": "St. Albans",
+    "score": "9.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350141492.webp?k=7cbb8e04e53c7f2ffbaf3a2233c5c626b92b510101268a75329ec7270dd29b87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bookeduk-new-2-bedroom-flat-in-bishops-stortford.html": {
+    "name": "BookedUK: New 2 Bedroom Flat in Bishop's Stortford",
+    "location": "Bishops Stortford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436847770.webp?k=7d51012ce70f2e51cd562e9c0357f459b715a022a458572cffa7138cca6e807d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-chicken-coop-hertford.html": {
+    "name": "The Chicken Coop",
+    "location": "Hertford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/389105108.webp?k=88586a8ef65e8160a45c4974fd70d8ddf4a4d82c56423446247dfd0709ad8fb4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-albans-luxury-1-bedroom-apartment-hertfordshire1.html": {
+    "name": "St Albans - Luxury 1 Bedroom Apartment",
+    "location": "St. Albans",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410926201.webp?k=40f911d56947b39672c6bff2acfcfcacfd10126b7f15843b11b0f91ff0c6e00a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-studio-nr-hitchin-herts.html": {
+    "name": "The Studio",
+    "location": "Astwick",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/363512028.webp?k=9d444204407639f3a472d5c098c0f3315cf0baf8dabe10ea11acee1268299c63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/immaculate-1-bed-apartment-in-borehamwood.html": {
+    "name": "Immaculate 1-Bed Apartment in Borehamwood",
+    "location": "Borehamwood",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367410196.webp?k=91ba6bc4b16c7591d06470c54478c95f93c1c496d9a08d8dfce07eff45fa7a65&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-3-bedroom-apartment-beside-stansted.html": {
+    "name": "Fully equipped Large 3 bedroom",
+    "location": "Bishops Stortford",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413387059.webp?k=71fbdc63870ab2ca88c4e7ee690cc534d120cb84eff39b41d928c0868f61689e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/fully-equipped-modern-3-bedroom-house.html": {
+    "name": "Fully Equipped Modern 3 bedroom House",
+    "location": "Bishops Stortford",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405922797.webp?k=e6fa23e44c3bc56e133a4af9697d94c11170fe5c4a58aacb0a60ae3c7c7af399&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/croxley-flat-1.html": {
+    "name": "Beautiful Byewaters sleeps 5 free parking",
+    "location": "Croxley Green",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/142047981.webp?k=015ed25f936bc0634c319714d4b73113dce1b940c302db1be09bc3e9f461a42d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tree-house-essex.html": {
+    "name": "Tree House",
+    "location": "Potter Street",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/349723404.webp?k=631f17a89dbae92cee22aa9967838d69f584c23cece852a5e6e5ebadb4a8a80c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/semi-rural-design-led-contemporary-barn-conversion-hemel-hempstead.html": {
+    "name": "The Honeybee's Nest - Semi-rural Barn Conversion close to Leavesden Studios",
+    "location": "Leverstock Green",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/403221807.webp?k=af615307216b4fbf48c547dd6c01282d8d2dd2943cf15457f14737273d60daa3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/six-hill-stevenage-apartments-with-garden.html": {
+    "name": "Entire House 3-Bed in Stevenage Hertfordshire With Parking & Garden",
+    "location": "Stevenage",
+    "score": "8.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269137644.webp?k=9e4bbb89a441c36e53daf65b3323f1c6b8e17fc87bd3186f601d25c3335a9fb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sharps-court.html": {
+    "name": "Hitchin - Sharps Court",
+    "location": "Hitchin",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/372964223.webp?k=3bd50b37e7cb20e8521c926a7a8163302a641b5dddad79ffac927598f1bd6b43&o=&s=1"
+  }
+}

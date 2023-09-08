@@ -1,0 +1,594 @@
+{
+  "https://www.booking.com/hotel/ie/the-newgrange.html": {
+    "name": "The Newgrange Hotel",
+    "location": "Navan",
+    "score": "7.5",
+    "review_count": "1,255 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350853073.webp?k=e1b4de1c7de65446b284c525cad10029f58009e2a1c313e7ee8f64ce864384d9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-ardboyne.html": {
+    "name": "Ardboyne Hotel",
+    "location": "Navan",
+    "score": "7.8",
+    "review_count": "793 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404870656.webp?k=d944f8dbb0393f285fef967fb260421a60e9807710a168cc7195f1f3207a287c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castle-arch.html": {
+    "name": "Castle Arch Hotel",
+    "location": "Trim",
+    "score": "7.4",
+    "review_count": "781 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/47613472.webp?k=054ff72aedaac905c7dd54fe6277af95b4e1e2a7cb67404daa6f88605b1391e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/headfordarms.html": {
+    "name": "Headfort Arms Hotel",
+    "location": "Kells",
+    "score": "8.7",
+    "review_count": "735 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/19035593.webp?k=467c25500993c68c8110648451e005eb8dfca158a478a18e20e9649f9ae2a1e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/johnstown-house-spa.html": {
+    "name": "The Johnstown Estate",
+    "location": "Enfield",
+    "score": "8.5",
+    "review_count": "1,077 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/136321133.webp?k=f54e28f96b00b0346a68394800bfcbfee9b94c7317a9e38d63bfea308bc4d8bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hamlet-court.html": {
+    "name": "Hamlet Court Hotel",
+    "location": "Enfield",
+    "score": "8.1",
+    "review_count": "369 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264193530.webp?k=ac86d1902e779566d894e21c3f927b4cb3e4e0c1931517948474a7d45db6808b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/citynorth.html": {
+    "name": "CityNorth Hotel & Conference Centre",
+    "location": "Gormanston",
+    "score": "7.7",
+    "review_count": "635 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283287741.webp?k=f7d0a3f3bfb748da1dd0c07285d2dede5ab4ecd3f454e497d596d7b27fd60e38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/conyngham-arms-slane.html": {
+    "name": "Conyngham Arms Hotel",
+    "location": "Slane",
+    "score": "8.4",
+    "review_count": "612 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241150161.webp?k=8c453150c43c81df3672a7df57e690ccf7877d0e5adf775f04cfb43c2ce3ab4a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/reddans-bar-and-b-and-b.html": {
+    "name": "Reddans of Bettystown Luxury Bed & Breakfast, Restaurant and Bar",
+    "location": "Bettystown",
+    "score": "8.7",
+    "review_count": "1,032 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/101067324.webp?k=127872237d653b953f8838c50d351e4bbf85ded118d21a9e9da67870042cfa4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brogans-bar-guesthouse.html": {
+    "name": "Brogans Bar & Hotel",
+    "location": "Trim",
+    "score": "8.0",
+    "review_count": "715 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265674571.webp?k=aff598a9f581a39d7ca16ea4f4fb3d1e3f5043097be7c3794a3daaf4e28f22f9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/killyon-guesthouse.html": {
+    "name": "Killyon Guest House",
+    "location": "Navan",
+    "score": "8.0",
+    "review_count": "308 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/38019459.webp?k=cfa8c92d659d6f18cec563db215a1119e3209af1e0559e73155a63dc21bee058&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/knightsbrook-golf-resort.html": {
+    "name": "Knightsbrook Hotel & Golf Resort",
+    "location": "Trim",
+    "score": "7.6",
+    "review_count": "727 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114474373.webp?k=1433dbf5fcc29d560e35f4d41366529c7f45102ac72abeddf8c5457d336e2f58&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/forest-hills-lodge.html": {
+    "name": "Forest Hills Lodge",
+    "location": "Slane",
+    "score": "7.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416195421.webp?k=7b29ba713197117407d23867550e2dcaca1907aaa26fdbc7e62b10fae4c0eb8d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rock-farm-slane-glamping.html": {
+    "name": "Rock Farm Slane - Glamping",
+    "location": "Slane",
+    "score": "9.0",
+    "review_count": "237 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/53265835.webp?k=a2d2e67ee4f76b35baf48f276b13b43cc6275b5eebdca8dd48f29ffc97e63418&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-johnstown-estate-lodges.html": {
+    "name": "The Johnstown Estate Lodges",
+    "location": "Enfield",
+    "score": "8.0",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158339101.webp?k=657eebfce2fb3d019613b6132a275c3a5aaf18cad56678a40c4689be521ce117&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/trim-castle.html": {
+    "name": "Trim Castle Hotel",
+    "location": "Trim",
+    "score": "8.6",
+    "review_count": "1,106 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300603923.webp?k=b33600050d4466078080211059aa059edf87d76ab18b315665a1eab4b8961079&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/old-darnley-lodge.html": {
+    "name": "Darnley Lodge Hotel",
+    "location": "Athboy",
+    "score": "8.7",
+    "review_count": "215 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287663252.webp?k=a9cbd85f1413181ea16dc8c17fe2e0b9cb6519c7387c77c4ede1103600504250&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashbourne-house.html": {
+    "name": "Ashbourne House Hotel",
+    "location": "Ashbourne",
+    "score": "7.5",
+    "review_count": "424 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/5360815.webp?k=94040931af02d5c87e9af4ca8e582140a4113a846da3397160003a45af064f13&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/old-post-office-slane.html": {
+    "name": "Old Post Office",
+    "location": "Slane",
+    "score": "8.7",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/306093613.webp?k=4f536c3b600881e1205984811446ec373689b1ee8c8a2f877848e11cb8c835be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ashbourne-marriott.html": {
+    "name": "Pillo Hotel Ashbourne Leisure Club & Spa",
+    "location": "Ashbourne",
+    "score": "7.5",
+    "review_count": "1,086 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/19302819.webp?k=99c25cf270a6b2858159a383167d0e1d781d99fa28d09077d28806587dae5021&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/grangegeeth-inn.html": {
+    "name": "Grangegeeth Inn",
+    "location": "Slane",
+    "score": "7.1",
+    "review_count": "151 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305376975.webp?k=0c871df0d7c02685257a2d2338c77eacec96d610695101d8467cb26a45b2b441&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/knightsbrook-courtyard-accommodation.html": {
+    "name": "Knightsbrook Hotel Courtyard Accommodation",
+    "location": "Trim",
+    "score": "8.2",
+    "review_count": "91 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/64691744.webp?k=d52aaeb895db6c7020db61f43306bba703a7f71d86cfe5b891ad74162c3aa019&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rathgillen-house.html": {
+    "name": "Rathgillen House",
+    "location": "Nobber",
+    "score": "9.4",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261841785.webp?k=c6e737af8f6fe846f817036a30c2cd33cf9d48cfa9d1fbdabc0924eb588d694d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hatton-39-s-of-garadice.html": {
+    "name": "Hatton's of Garadice",
+    "location": "Garadice",
+    "score": "8.0",
+    "review_count": "271 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/114463900.webp?k=849ddf2f29e6c45024f9c77504021f126f5b12b351bad804d78307134b6a5428&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/teach-na-teamhrach-navan.html": {
+    "name": "Balreask Bar, Restaurant & Guest Accommodation",
+    "location": "Navan",
+    "score": "8.5",
+    "review_count": "192 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/34787651.webp?k=d21aa14ea0ecb66fb80eba34bff2f965663752ca51e7a02f7d6502e14b8726b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/limehouse-ecolodge.html": {
+    "name": "Rock Farm Slane - Limehouse",
+    "location": "Slane",
+    "score": "9.1",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249244090.webp?k=f4e470cc1450261706b24bacb226406610f8d9860348f084cac876f41b02a25d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/bellinter-house-navan.html": {
+    "name": "Bellinter House",
+    "location": "Navan",
+    "score": "8.1",
+    "review_count": "451 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/110885560.webp?k=bc4178c05e3d14f5f32913dfa1efe6cbc80af901bbc42ecac9565a1d3898f982&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/caravogue-house.html": {
+    "name": "Caravogue House",
+    "location": "Trim",
+    "score": "9.4",
+    "review_count": "384 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/270187551.webp?k=f5908de45ad3840355cf558dacb56687b41e56d142411cc6ea93ae8dc0234b1f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/swallow-39-s-rest-garden-apartment.html": {
+    "name": "Swallow's Rest Garden Apartment",
+    "location": "Ashbourne",
+    "score": "9.8",
+    "review_count": "65 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234994613.webp?k=93a30baf5b67149645630e01af9389cb2a79c96479a7328951b9bc6e84a6debc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/athlumney-manor-guest-accommodation.html": {
+    "name": "Athlumney Manor Guest Accommodation",
+    "location": "Navan",
+    "score": "9.2",
+    "review_count": "143 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/8240036.webp?k=69eb6f216892756492f2d3748c3dad3dba815b307d74905484473e2adc955e7b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/decoy-country-cottages.html": {
+    "name": "Decoy Country Cottages",
+    "location": "Navan",
+    "score": "8.8",
+    "review_count": "33 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/23527280.webp?k=046b3bb274f830702e173928de0205e18e8c616ee4941346dc4c3b4ab6798a64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/log-cabin-kells.html": {
+    "name": "Log cabin",
+    "location": "Kells",
+    "score": "9.0",
+    "review_count": "170 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319790391.webp?k=abff16b66c6d8750f9807d8dbab27f1700a111c00b94883ffd700533f817a9e5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/townley-hall-apartments.html": {
+    "name": "Townley Hall Apartments",
+    "location": "Slane",
+    "score": "8.8",
+    "review_count": "76 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255966076.webp?k=9b42c1303334d7f6ce9a0e805ba1925d8e345523f50313c8f9aed92f64b81a49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/highfield-house-guesthouse.html": {
+    "name": "Highfield House Guesthouse",
+    "location": "Trim",
+    "score": "8.9",
+    "review_count": "207 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/27786698.webp?k=3372b0a968ac1f0fa6b25270be97592f331b8febaa942c8acae0165bc32ebb85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/loughcrew-view-bed-and-breakfast.html": {
+    "name": "Loughcrew View Bed and Breakfast",
+    "location": "Kells",
+    "score": "9.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409994637.webp?k=3c2c823a44c362ab72d6ebf8f111dd46b73d08884f7815471d85fc11a508773c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/brownstead-lodge.html": {
+    "name": "Brownstead Cottage",
+    "location": "Navan",
+    "score": "9.8",
+    "review_count": "26 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359971037.webp?k=73092dd9cf08fd153fb85b8862577d033a349a3a0fa274eb5cc64ac09d369c54&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/slane-farm.html": {
+    "name": "Slane Farm Hostel, Cottages and Camping",
+    "location": "Slane",
+    "score": "8.8",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/40160288.webp?k=5ea47b145f16729a106361f837d0e9d7819ee8c08d53b13c7f1fdd72f9047f87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dunderry-lodge-1-bedroom-1-large-sofa-bed-peaceful-surroundings.html": {
+    "name": "Dunderry Lodge Family Apartments",
+    "location": "Navan",
+    "score": "9.4",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437377441.webp?k=ef877e9ff71022cfc56b8e84c5ef411b178a92418a5802e8deb49a0cc2146f3a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dunboyne-castle-spa.html": {
+    "name": "Dunboyne Castle Hotel & Spa",
+    "location": "Dunboyne",
+    "score": "7.7",
+    "review_count": "907 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/28165499.webp?k=26776a0fe7255078eefb95625d533f0c3bb613573fbe4d7ff55bd0a59b671f50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tom-blake-house.html": {
+    "name": "Tom Blake House",
+    "location": "Kells",
+    "score": "9.8",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207822277.webp?k=781efceb7f42a1107ae80bf373dfc12980ca711450b2fa26ed94cc716ce7abcb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/castletownmoor-clinic-amp-permaculture-farm.html": {
+    "name": "Castletownmoor Clinic & Permaculture Farm",
+    "location": "Kells",
+    "score": "7.9",
+    "review_count": "77 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158273120.webp?k=4e3214f55a03d7b6ff7eb16b58ba7caa2c516241b4b24aac244cb6258df30df3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-groom-39-s-cottage.html": {
+    "name": "The Groom's Cottage",
+    "location": "Navan",
+    "score": "8.5",
+    "review_count": "18 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/127988737.webp?k=56b95f6f62e690c0ace551259e2643bcaa6060b7630426f73264a318efbe0d72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/delphi-cottage.html": {
+    "name": "Delphi Cottage",
+    "location": "Ashbourne",
+    "score": "8.0",
+    "review_count": "260 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/107880071.webp?k=26c012fa9212abeb0330ec309e353a07efa789050983f1ab96e90777d1f052c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/knightsbrook-bed-amp-breakfast.html": {
+    "name": "Knightsbrook Guesthouse",
+    "location": "Trim",
+    "score": "9.7",
+    "review_count": "130 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/100509974.webp?k=bb5f755ed12873150e5f9007ed3f5861b9aa581991cfdad7a6e417e20dea40b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/single-room-in-lovely-country-residence.html": {
+    "name": "Single Room in Lovely Country Residence",
+    "location": "Nobber",
+    "score": "9.9",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325683082.webp?k=6a94b38fd655b619046164c0d22c410ce05ba83a0003730a00688a8b4ba2402a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/private-room-in-superb-house-bed-1-nobber1.html": {
+    "name": "Private Room in Superb House Bed 1",
+    "location": "Nobber",
+    "score": "9.5",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325395948.webp?k=3bf7e9fdde3423fe47d449ff6c95308106d28f13c5f46969eec391d6949c5a0a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/creggmore.html": {
+    "name": "Bedroom No 3 Garden view",
+    "location": "Nobber",
+    "score": "9.6",
+    "review_count": "60 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324260668.webp?k=d479b44c12df7921c17c78feca5426c4e11386640346e249b869a53b3170eb8e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/aisling-guest-house.html": {
+    "name": "Aisling Guest House",
+    "location": "Ashbourne",
+    "score": "7.5",
+    "review_count": "390 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302328332.webp?k=3ee34f399c44f42c7010d0856e6d87054d47036c584817faacc410cca5ecd650&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/ballymagarvey-b-amp-b.html": {
+    "name": "Stone Lodge B&B",
+    "location": "Balrath",
+    "score": "9.3",
+    "review_count": "88 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/239327415.webp?k=75cc24c93c74fd5a781b09e6610f43bc53ca9c0a15ea85504a0e341ccb3dd00e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/college-hill-house.html": {
+    "name": "College Hill House",
+    "location": "Slane",
+    "score": "9.5",
+    "review_count": "81 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/53280479.webp?k=a60ca9d068e40b8653ec2a68f93c59f97702d51f1d0c8f7e597529d1e691bef9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rathgillen-mews.html": {
+    "name": "Rathgillen Mews",
+    "location": "Nobber",
+    "score": "8.7",
+    "review_count": "36 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/261798609.webp?k=59d9df6eb55ea103b510cb227b961f45777b69181d33ca9dfcc1da622652303c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/chestnut-view-oldcastle-1-bed-room-self-catering.html": {
+    "name": "ChestNut View Oldcastle 1 bed-room self catering",
+    "location": "Oldcastle",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421722739.webp?k=6e8fb272fab5c755f8c074e4649f4ae6d7b1601ce2b6101cdc50761eb81fc1bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/woodview-lodge.html": {
+    "name": "Woodview Lodge",
+    "location": "Trim",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/433002162.webp?k=26e43f9694622f9baf628ed4259c8b6fd59409fd932f518302035e153506c0c3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/tankardstown-house.html": {
+    "name": "Tankardstown House",
+    "location": "Slane",
+    "score": "9.2",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/162932148.webp?k=63ca92b2d36bcf5297b9362ad4a2a95a0b6030a5fddf47682a0bd2f44836e39b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/delphi-lodge-donaghmore.html": {
+    "name": "Delphi Lodge",
+    "location": "Donaghmore",
+    "score": "8.4",
+    "review_count": "131 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284913197.webp?k=c621547a22fcfcae94187d90c5fc847b3f6014efc22fb9b627d4584ecfa9e86a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/chapel-meadow-lodge.html": {
+    "name": "Chapel Meadow Lodge",
+    "location": "Clonard",
+    "score": "9.5",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295480800.webp?k=8e053cc2af229d1293bff07948f14a9b345319394329e1806f31d339037d634d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/magnificent-house-bed-no2-double-room.html": {
+    "name": "Magnificent House Bed No2 Double Room",
+    "location": "Nobber",
+    "score": "9.5",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324954257.webp?k=e6dfcb35abf177fe373742ef70bab8742955d24321148d586b989be85705917f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/dublin-dunboyne-castle-guest-master-en-suite-room.html": {
+    "name": "DUBLIN DUNBOYNE CASTLE GUEST - Super King ensuite",
+    "location": "Dunboyne",
+    "score": "5.1",
+    "review_count": "328 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/225625634.webp?k=69db34b418cd6b3e84e6c4d1684cea3c0a56f2dc8f06e4ae8c556951468505a5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/boyne-house-slane.html": {
+    "name": "Boyne House Slane",
+    "location": "Slane",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408966994.webp?k=727f7c8a6aa1f694ee1793ca28c4f9630f649d27ad254e7ccee97241a21bd8cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/nick-amp-sandra-39-s.html": {
+    "name": "Nick & Sandra's",
+    "location": "Slane",
+    "score": "9.7",
+    "review_count": "71 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/202176049.webp?k=b24c423bd7cd51a7990a27736175a598b6c8f2e872c59a2ab17813e0918e822b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/grand-roi-apartment.html": {
+    "name": "Grand Roi Apartment",
+    "location": "Navan",
+    "score": "9.5",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316067597.webp?k=4798e9dd03b72a1176d87727382ca3e51b83aa372a607dae49cc6cd622033ad9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/a-magical-hideaway-overlooking-the-river-boyne.html": {
+    "name": "A magical hideaway overlooking the river Boyne",
+    "location": "Donore",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391237466.webp?k=1fc39d686c1bbc6895a9def7fdfb8c1d7024e872b220ba368e6e371f1213ee27&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/queens-brook-apartment.html": {
+    "name": "Queens Brook Apartment",
+    "location": "Navan",
+    "score": "9.8",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316110194.webp?k=65e7b5e8027784cd7c2abe20ac96768184880d9fd88e6f8a4caea0b56cba63f7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/courtyard-holiday-cottages.html": {
+    "name": "Courtyard Holiday Cottages",
+    "location": "Bettystown",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/130791240.webp?k=a358f158aa7ffb08025169565d2f3f644bd25516c56a49483de58a8d3402a8fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/african-dance-apartment.html": {
+    "name": "African Dance Apartment",
+    "location": "Navan",
+    "score": "9.1",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315937597.webp?k=628a7892b91a7222b2a6765e1888fc44c3615dfba2647fb5ffbaf9cb1dd48b4e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/countryside-home-located-just-outside-dublin-city-dunboyne.html": {
+    "name": "Countryside Home located just outside Dublin City",
+    "location": "Dunboyne",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/437893556.webp?k=01b2d0d1c8493347c03fbed56f48baed219c3aceb5fa808d24522cf2150ae317&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/hideaway-at-foxhollow.html": {
+    "name": "Hideaway at Foxhollow",
+    "location": "Kells",
+    "score": "9.8",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/33772287.webp?k=7a6e18b9e20989000678d261ac11ebd270207610bc0f60fd7f5f4702cb30faf0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/showbusiness.html": {
+    "name": "Showbusiness",
+    "location": "Navan",
+    "score": "9.4",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316116386.webp?k=5cb35fa821b2981966315979b7172ab1657a81318e337789d68bc2929171bbc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/the-grooms-cottage-brownstown-kentstown-balrath.html": {
+    "name": "The Groom's Cottage Brownstown Kentstown Balrath",
+    "location": "Navan",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407917935.webp?k=c4ea46022526bf594d0b826740e690b965e30e44315b02bbe4e5596d48128382&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/courtyard-holiday-cottage-no-8.html": {
+    "name": "Courtyard Holiday Cottage No 8",
+    "location": "Bettystown",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/398760684.webp?k=b406fa52a19d24e788e6242906917cae377ae1147c8351577b3308998e94490d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/loughcrew-house-oldcastle4.html": {
+    "name": "Loughcrew House",
+    "location": "Oldcastle",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436494618.webp?k=965ce88beea5abc8d05b683872c0f3cb6a5cc2ba43a542ea1f06dd8b924ccc9a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/modern-space-20-minutes-from-dublin-airport.html": {
+    "name": "Modern Space 20 minutes from Dublin Airport",
+    "location": "Dunboyne",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/428908386.webp?k=1f2a3d2a6ea05fc31e317e4b90cbb7ca3302c1a0fcf66561cddf79125d7884cf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/guests-house.html": {
+    "name": "GUESTS HOUSE",
+    "location": "Dunboyne",
+    "score": "4.7",
+    "review_count": "45 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/266934321.webp?k=bfabe4faab432279eddceab2d40c26628cf091ac140d78ab1bd0bae98fb88b0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/ie/rossanree-house.html": {
+    "name": "Rossnaree House",
+    "location": "Slane",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/15497039.webp?k=4c118d7ebe04894acc1a935973b7b4ce85f097cb127cb4109281a669dd4200b7&o=&s=1"
+  }
+}

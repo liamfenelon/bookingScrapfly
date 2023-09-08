@@ -1,0 +1,954 @@
+{
+  "https://www.booking.com/hotel/us/falcon-point.html": {
+    "name": "Falcon Point",
+    "location": "Avon",
+    "score": "8.6",
+    "review_count": "66 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/148068746.webp?k=59e02c421b812b7ebacbf49e090dcbd20d2f524d9828f6addced0cf1aa36990e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-2-bed-2-bath-condo-1-min-walk-to-bear-lot.html": {
+    "name": "Beaver Creek 2 Bed 2 Bath Condo 1 MIN Walk to Bear Lot",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404292470.webp?k=5d69b34bafee16ece8f291155784159b239ac270bc989d932a69985613f6db36&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sheraton-mountain-vista.html": {
+    "name": "Sheraton Mountain Vista Villas, Avon / Vail Valley",
+    "location": "Avon",
+    "score": "8.8",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/81252491.webp?k=0e38a7d5ccec6ec60cd0be67ecf8bc9fe4c3561ab9cba9de337c1edbd1401e69&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/one-bedroom-apartment-avon.html": {
+    "name": "One-Bedroom Apartment",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/231274640.webp?k=83b610e62ba669a2a7bc42aa1e363796711a93bcea8d32368cb3db46a1bdaaf1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/avon-brookside-escape.html": {
+    "name": "Avon Brookside Escape",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410247630.webp?k=526709fc8baf05d5b38e0b76485aa2b0ac54bbcaab50cc7b6d7a32eef40cb9d3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/330-chapel-square-condo.html": {
+    "name": "330 Chapel Square condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/427034797.webp?k=2e9bb2b45615a1926b1b5689ce19099a699df46dac0d03af5a06aa6099a99bcf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfort-inn-beaver-creek.html": {
+    "name": "Comfort Inn Near Vail Beaver Creek",
+    "location": "Avon",
+    "score": "7.8",
+    "review_count": "456 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/169813282.webp?k=2978c637a89eaddac58ec5e4daf50672eccb0659664fd9f7dd87e33d1c67105e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/christie-lodge.html": {
+    "name": "The Christie Lodge – All Suite Property Vail Valley/Beaver Creek",
+    "location": "Avon",
+    "score": "8.0",
+    "review_count": "196 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/237546128.webp?k=e154eba55c4438fd2a2caad656a710983f27e3a7a05826dfb9ddce05ec8f0b21&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/falcon-point-resort.html": {
+    "name": "GetAways at Falcon Point Resort",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258970072.webp?k=50b536e939cc509ca4bddc1ba45d8e18a3c7563a7d85b2b1ff0f06d322d02ef1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/lakeview-townhome-unit-a5.html": {
+    "name": "Lakeview Townhome Unit A5",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326562260.webp?k=6ab4a914d040d24db745fd43b362c68138b1fc5e5e8ab40176ee3f8653896275&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-west-n2.html": {
+    "name": "Beaver Creek West",
+    "location": "Avon",
+    "score": "5.8",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326579754.webp?k=9aef808d4224ef344a2b745dbf338aed75236c0f0629b20e908e6ef1dee7b123&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/westin-riverfront-mountain-villas.html": {
+    "name": "The Westin Riverfront Mountain Villas",
+    "location": "Avon",
+    "score": "9.1",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/253063644.webp?k=fd729f2e2c4c9260a918c5cda1986765f486eb2ac67abe51e16a6294d0b97946&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-westin-riverfront-resort-and-spa-at-beaver-creek-mountain.html": {
+    "name": "The Westin Riverfront Resort & Spa, Avon, Vail Valley",
+    "location": "Avon",
+    "score": "8.7",
+    "review_count": "39 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/30867422.webp?k=de0886131be49f5597a5b0fdbea2178bb7681edf8591c3fd6f565ea94b2942f4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pop-art-villa-riverfront.html": {
+    "name": "Pop Art Villa Riverfront 310",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329415466.webp?k=3cd1609764c3b5fcdd946fc022154c6513520cabd74968fe33d3c6770640be08&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/seasons-at-avon.html": {
+    "name": "Seasons at Avon",
+    "location": "Avon",
+    "score": "8.7",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173655344.webp?k=7ffd5c919ab0eb7eeaf4ee316f8241a984ecccfed09ffd8ee9024320c8d8db64&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/avon-dream.html": {
+    "name": "Avon Dream Lodges",
+    "location": "Avon",
+    "score": "5.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307549892.webp?k=960bb15b27654db8d2736ad09b9a8e7d87bfb9da567f71fe84bcc48444992ad3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/one-bedroom-suite-christie-lodge-vail-beaver.html": {
+    "name": "One bedroom suite - Christie Lodge, Vail/Beaver",
+    "location": "Avon",
+    "score": "2.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399017632.webp?k=90c28f7f1c8b69d61788c0f67412c782a3f98250544f069c226856a9f4dd21bb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/2-bed-2-bath-apartment-in-vail-valley.html": {
+    "name": "2 Bed 2 Bath Apartment in Avon",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218108761.webp?k=32234e72922764b974e00d930d0c96d69803db51165614450de39d08341f7c49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mountain-stream-condo.html": {
+    "name": "Mountain Stream Condo",
+    "location": "Avon",
+    "score": "6.4",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271023181.webp?k=560b667fbd3341f36fdccc0078ff1b85c878f3c5013345c30891c607c830703c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/cozy-avon-condo-with-grill-walk-to-ski-shuttle.html": {
+    "name": "Cozy Avon Condo with Grill Walk to Ski Shuttle",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/348953863.webp?k=2f932a798cfa5bf2d769a51a931eab5ad657b0fd91b693acd64b85fbafa489e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mein-haus.html": {
+    "name": "Mein Haus Bed & Breakfast",
+    "location": "Avon",
+    "score": "8.8",
+    "review_count": "136 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/206132747.webp?k=729c03fe6d177cdaa88d2c889facb72d2f9df1144794601d3ba55e4a2dc3dcd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/323-beaver-creek-lodge.html": {
+    "name": "323 Beaver Creek Lodge",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357751703.webp?k=3158763b2e2c7edea3cccf0551cb9b73b9cf63fc96f9ca989221c894ab917696&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-charter-3002a.html": {
+    "name": "The Charter 3002A",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396420915.webp?k=b71df895e23db994cc22799e8638df73a10328acabc7910812fdf25440bba41a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/pop-art-villa-riverfront-351.html": {
+    "name": "Pop Art Villa Riverfront 351",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/426246653.webp?k=0650cff79f979b8850f6473375a355b7a942aaa6e6831f728a80b513999114cc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/greenbrier-townhouse-36.html": {
+    "name": "Greenbrier Townhouse 36",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370354828.webp?k=f579f2d13d82ad6966bc98e1f7c6dd4c9638234b7eee86cb3c71bb0cba046430&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/lac-d-avon-chalet.html": {
+    "name": "Lac d’Avon Chalet",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/228268701.webp?k=cd03e2ac5e9cfd3b4c9a454686ff5998c5bf0ec48d263ac2d80e2464811c6a94&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-west-s2-1-bedroom-condo.html": {
+    "name": "Beaver Creek West S2 1 Bedroom condo",
+    "location": "Avon",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327073717.webp?k=1978e58ca17ddf10df64970e4743e0f233ae324c3b97c0a8b7abe4a2da9094ee&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/remodeled-mountain-view-escape.html": {
+    "name": "Remodeled Mountain-View Escape",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332886242.webp?k=55ca165b6f4d0edf3711fe51e69e85a814f9b0cc13566959c0df75c925f2d791&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/16-chambertin-townhomes-townhouse.html": {
+    "name": "16 Chambertin Townhomes Townhouse",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/185108520.webp?k=93762ce8ed49558f7cebc7b08ee3f2604fd9f0818c7b8ced385e29b6b60f3904&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/15-chambertin-townhomes-townhouse.html": {
+    "name": "15 Chambertin Townhomes Townhouse",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413682248.webp?k=df8f07b41b1da9b89052db497b2fb17f51145a55771ba98d767c46f2090bd76f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mtn-escape-w-hot-tub-less-than-2-mi-to-beaver-creek-resort.html": {
+    "name": "Mtn Escape with Hot Tub Less Than 2 Mi to Beaver Creek Resort",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238283248.webp?k=850192e858e4265729091506553c6b884ad8c4efbf70f086dc9e3cba08aa9f63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/avon-condo-between-beaver-creek-vail-resort.html": {
+    "name": "Avon Condo-Between Beaver Creek and Vail Resort",
+    "location": "Avon",
+    "score": "7.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/236646834.webp?k=8b3937a1c7280a26e622e64d465154c1d7c4e8b26a43a5178e993d640bc893b4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/daybreak-ridge.html": {
+    "name": "Daybreak Ridge",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416675929.webp?k=6ba4156b346fa1a8ab0257971d2123aaaaf63e456d47961e1fc4a4e98503f6d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-seasons-unit-205.html": {
+    "name": "The Seasons Unit 205",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370093102.webp?k=e048bd1b26d3bfe8b128d52c2fe114a0af465e44d5299695cc920b6b1e4aa42c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ascent-residence-302.html": {
+    "name": "Ascent Residence 302",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416417851.webp?k=a82b004d302e1c74d547c6bd1e170ac0a0a55e9ecc3f5b394a163e5a92539297&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ascent-residence-309.html": {
+    "name": "Ascent Residence 309",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302224807.webp?k=14f0589db1639fbe0987ea07da3bce003e54af7fb50d9b4f0acb90179548e246&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/lakeside-terrace.html": {
+    "name": "Sheraton Lakeside Terrace Villas at Mountain Vista, Avon, Vail Valley",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311743407.webp?k=412a9681278b57b1eb6d9c4468e9930e10423c27551e439ae7d627cdebce9dd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/eagle-vail-mountain-getaway.html": {
+    "name": "Eagle-Vail Mountain Getaway",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404015626.webp?k=98db30652097f3069775f06f30895f8cedd430117a6adb9c1cff72e48802ca9f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/205-bear-paw-lodge.html": {
+    "name": "205 Bear Paw Lodge",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375047095.webp?k=2aa94a051d3d50b9d3378e2312ab0a0e85bfd1ae49c71f109771fdbe4600a5a6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-west-14.html": {
+    "name": "Beaver Creek West 14",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/311366773.webp?k=4a5ac3033520d2b82cee922a79acfe908f285a8cf249c67d9a1fbfb1a6f150ae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/tranquil-avon-vacation-unit-with-luscious-views.html": {
+    "name": "Tranquil Avon Vacation Unit with Luscious Views",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391911793.webp?k=6eecc7a2a2b4c48ccdcc117798311416f3873017d93a5d7717cb4fd44e855e72&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mountain-vista-avon.html": {
+    "name": "Mountain Vista",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391904486.webp?k=d8b2d903a9b99e1d039247e065d825ced7fc5a0bdcb34f7b0eb3d7810203aaa5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/ridgepoint-townhome-118.html": {
+    "name": "Ridgepoint Townhomes by East West Hospitality",
+    "location": "Avon",
+    "score": "8.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119421155.webp?k=e178265b82aa8ca03fe8f9c3c35eac6c8b2af1c803dd9d63339112d478077649&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/avon-vacation-rental-near-ski-resorts.html": {
+    "name": "Avon Vacation Rental Near Ski Resorts!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425434049.webp?k=d594d0aca257aeaf2567daf400908a317b5122fea06ccf306dd8527c737fa6f2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/stylish-avon-colorado-vacation-rental.html": {
+    "name": "Stylish Avon, Colorado, Vacation Rental!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425433756.webp?k=abab4ddd2be3537e19dca4f079b1ece0116c4f7ba1a15eae4385e39f4136b35b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/avon-village.html": {
+    "name": "Lodge at Brookside",
+    "location": "Avon",
+    "score": "8.2",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/410882820.webp?k=386d0911ae34920a2850360469d37fe8b3c62d313c6654d1a729b0ff7367a281&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/188-ridgepoint-townhomes-townhouse.html": {
+    "name": "188 Ridgepoint Townhomes Townhouse",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190225617.webp?k=34eb05f031a269397bc9921b9b1578310a59b407772032301bf7c374cd549494&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/125-ridgepoint-townhomes-townhouse.html": {
+    "name": "125 Ridgepoint Townhomes Townhouse",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402373433.webp?k=1a131e71b1a38d042923179716e87247983659dbf483f76768228df5a1b48818&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/greenbriar-14-condominium-condo.html": {
+    "name": "Greenbriar 14 Condominium Condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/318311790.webp?k=9dbab26aa4970964f334cc36326d1f77c4dc09a2a21cf1e3525b4a53b177d0e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/stone-creek-lodge.html": {
+    "name": "Stone Creek Lodge",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/405069674.webp?k=e609718a0be92d0b4234296ef0c6fc02afc2faba8e81b94cb03222222a879c09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/greenbrier-c24.html": {
+    "name": "Greenbrier",
+    "location": "Avon",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326817168.webp?k=634951a9bf520df3cefb76675aaf23cb69d4240688da1851351dc22f277ccdf3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/1-59-e-coyote-circle-eagle-vail.html": {
+    "name": "1-59 E Coyote Circle Eagle Vail",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367809068.webp?k=cc593d26b19c34522e4c8b2527ef380714423ed34334e76a3085471b21ece0b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/welcome-to-the-modern-mountain-luxury-home.html": {
+    "name": "Welcome to the Modern Mountain Luxury! home",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399662917.webp?k=ccfbe404ff5739e2bf10a1672d35cb2d85316a668f7af553a352bf8621c05e80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/riverfront-lodge-by-east-west-hospitality.html": {
+    "name": "Riverfront Lodge by East West Hospitality",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289280920.webp?k=147b3fc19caae6f2b731f006b8243f48706b24d16991ece81b0ceac5371f5cd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-lodge-324-condo.html": {
+    "name": "Beaver Creek Lodge 324 condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/333541672.webp?k=3aa9d6154d4498d71c30263dd07a0990c02622f561c73cf93806a02777ab613c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/inviting-avon-condo-with-pool-and-hot-tub-access.html": {
+    "name": "Inviting Avon Condo with Pool and Hot Tub Access!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/368920165.webp?k=a46bce882e4d6a5aaf21014182dab2c9afc590af96cc50bc27354a4530311cf3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-west-s2-3-bedroom-condo.html": {
+    "name": "Beaver Creek West S2 - 3 Bedroom condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326604335.webp?k=737a1d344ae901551785061f1b4f670db4db3d48466ab96fb395f00fc7cb53c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-west-s2-2-bedroom-condo.html": {
+    "name": "Beaver Creek West S2 2 Bedroom condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326603999.webp?k=acee219c76f0c31e1aa6b3da67a50a9d0787f0184c96d55e83eda7c5d83392e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/view-3br-btwn-vail-beaver-creek-on-golf-course.html": {
+    "name": "Colorado Home On Golf Course, Near Vail Ski Resort",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/235785056.webp?k=912b6882a240df7276f26ab677a18d81000fcb8cd4b3a3c10dd5aecb8c5cde50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/3bd-loft-with-ski-in-out-access-and-panoramic-views-condo.html": {
+    "name": "3Bd + Loft With Ski In/Out Access And Panoramic Views! Condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222464432.webp?k=a5c9d99d902ffae42cd49cc80eb0179d87d9e027da8a800307324b8f38ce5b63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/canyon-run-townhome.html": {
+    "name": "Canyon Run Townhome",
+    "location": "Avon",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/249855837.webp?k=b72795c6298bf2c48ad81fe30c2f5059d41929c2a64ca37cd0f547f185222ad6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/canyon-run-b203-townhouse.html": {
+    "name": "Canyon Run B203 Townhouse",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/315860784.webp?k=66e721c22f2169fc3e9f3dba49e6a4a069fb72dbe35993471bf5274d1bfb842a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/snowcloud-508sc-sw5w.html": {
+    "name": "Snowcloud 508SC",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218875791.webp?k=733f4526ace4799ae40c992049e4a10bf265c91a2f632bb29a1c0e2acdb0b710&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/snowcloud-302sc-sw3w.html": {
+    "name": "Snowcloud 302SC",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219004764.webp?k=5d74f02ef5434f328984c73c2429f9de0c4f94d0812f87fba3dc450826fff6c8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/the-seasons-at-avon-518.html": {
+    "name": "The Seasons at Avon",
+    "location": "Avon",
+    "score": "7.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326818937.webp?k=3410a05b85700972da1035b49e3674a377239172afda962fffedb282bffb987e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/stonebridge-townhomes-unit-9.html": {
+    "name": "Stonebridge Townhomes unit 9",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420103213.webp?k=846d12589e5f5da7dfffe129b9f09ac1182a62bd781484f4e7332da0cba137fc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-landing-a308.html": {
+    "name": "Beaver Creek Landing by East West Hospitality",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/119412876.webp?k=e43bbb5cd5b9ce3feb3822fc04882a0296330998619a7218e0e52d5189f53b1a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/6-chambertin-townhomes-townhouse.html": {
+    "name": "6 Chambertin Townhomes Townhouse",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/190272055.webp?k=70432690adb8739585ef115c95143b007e0c4925bc8ef074cf05cb1756abdd96&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/avon-golf-getaway.html": {
+    "name": "Avon Golf Getaway",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326589651.webp?k=182a5183c959b0aab2855d570ecef0c4e2c4b8b5383d317359d9041f4a85d196&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/buck-creek-c203.html": {
+    "name": "Buck Creek C203",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326558234.webp?k=b424422038d667d48795d36faec25fa4ab785f52b3595335c32cd20e78ee4d56&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/liftview-living.html": {
+    "name": "LiftView Living",
+    "location": "Avon",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391721838.webp?k=316563a9105ea0a120c2a025aeacb9f272237d7a624be37901190294a544c184&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/modern-mountain-escape-on-golf-course-with-hot-tub.html": {
+    "name": "Modern Mountain Escape on Golf Course with Hot Tub!",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264870868.webp?k=f313ad676dce1eac53002d11ce5b54ba776548cbd3da47123a6c3b077b6385b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mountain-majesty-avon.html": {
+    "name": "Mountain Majesty",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309380738.webp?k=1edc255983f78bc44683146f51cba94d82df1aed93d0dccd5bb6c48547129156&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/luxe-alpine-loft-half-mile-to-chair-lift.html": {
+    "name": "Luxe Alpine Loft in Avon Half-Mile to Chair Lift!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/300779579.webp?k=24f86820b4d267fb148aa3040a90adaee6ec10854f6532cf67d04892d2e90051&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/canyon-run-townhomes-f102-townhouse.html": {
+    "name": "Canyon Run Townhouse F102",
+    "location": "Avon",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/196576214.webp?k=99e1b0649e036ad27e056a741fb5129dbc0d4df20cd01c8f1b3b59a013ab78b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/mountainside-oasis-avon.html": {
+    "name": "Mountainside Oasis",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407940903.webp?k=9a2f96e2c7e3e60b70000e613c63116d91e0a6c26e3681a8bb112cb0226f5b87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/320-chapel-square-condo.html": {
+    "name": "320 Chapel Square condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/352356045.webp?k=db3454985ea6059e55a3716a87d30fbf80d7515f956a428e1d60c3909b633bd2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/snowlcoud-203-condo.html": {
+    "name": "Snowlcoud 203 condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/326715359.webp?k=413b4d6ef49387afa90a12d77259b68e2da3f91d634e045c8c53c33e7a9c1e62&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-village.html": {
+    "name": "Beaver Creek Village",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285465509.webp?k=a628b88451e98ee8c10ca1d7e708d39e3d2184ad1658568e482b75c11cea9db0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/luxury-nottingham-lake-condo.html": {
+    "name": "Luxury Nottingham Lake Condo",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269401759.webp?k=bdf8d5c0139d2ea82995480da95e44b4f6212d630da739cd0220d4fa38982b52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/nottingham-nook.html": {
+    "name": "Nottingham Nook",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340459707.webp?k=9aa04d29af1aa3de90858f2d604080984b2d3ed58238914442d9a618660c0435&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/liftview-condominiums-condo.html": {
+    "name": "Liftview Condominiums condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285826750.webp?k=e0927e7d28d466ef31290a1d3d62c08ea5ad0cb88b197edce7204e2e28e69749&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/canyon-run-i-203-condo.html": {
+    "name": "Canyon Run I-203 condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/327996997.webp?k=cb437cb5de44c670690ba78ff3d9c5763eabd3e6aa3c533fa15089d2b69799b9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bear-paw-lodge-c301-bg2f.html": {
+    "name": "Bear Paw Lodge Bachelor Gulch Ski In Ski Out",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220705455.webp?k=afb410d2550f25355017a231a34b19c9febc6b2a8fd8de929e9aa079c7aa3871&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/newly-remodeled-2-bedroom-with-loft-on-the-river-condo.html": {
+    "name": "Newly Remodeled 2 bedroom with loft on the River condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321750816.webp?k=da481b16a46b88c820029ee5d840fc0f4c5957752226b94fb780b81226302713&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/gorgeous-2-bd-with-lift-view-in-beaver-creek-condo.html": {
+    "name": "Gorgeous 2 Bd With Lift View In Beaver Creek Condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222243655.webp?k=3e6f9a1802e3298916d6250d08c778c9ac7b9f279ae8d99d2d932b6c5ff197b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/bearpaw-d1-condo-bachelor-gulch.html": {
+    "name": "Bearpaw D1 condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/385803123.webp?k=2d4edfa403fd8305bb3d7bbe91062c62ce046232a40f265e7099b5151f1ed4f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/modern-mountain-getaway-luxury-3-bedroom-ski-in-ski-out-condo.html": {
+    "name": "Modern Mountain Getaway-Luxury 3 bedroom Ski-in Ski-out condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/302372791.webp?k=e0a1d53dfd8dd4202bdb2e9bf7b25ee41aed6e521f8851e3e1ac9901dac8a743&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/4br-ski-in-ski-out-the-top-of-bachelor-gulch-condo.html": {
+    "name": "4Br Ski in Ski Out the Top of Bachelor Gulch condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310176119.webp?k=34acfae08a40f5470e957a08230fe5e6f153792b876794bf6c0012d95e795283&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/sunriver-mountain-getaway.html": {
+    "name": "SunRiver Mountain Getaway",
+    "location": "Avon",
+    "score": "5.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/271404751.webp?k=8ce4a73f47b60a94966dac745b173b8025a1f2d9e179bb472be23a87deca41fe&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/143-enclave.html": {
+    "name": "143 Enclave",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357748771.webp?k=0af19b4c0a66a3fdf7a2510a46c354a666eb05ae693379c8614defc6a70ddea1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/canyon-run-i-101-condo.html": {
+    "name": "Canyon Run I-101 Condo",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313254075.webp?k=48294cf34e6ffd1bf1fbe358dd428d9faffce0a630e10dee795579fda7dc017d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/eagle-drive-dream.html": {
+    "name": "Eagle Drive Dream",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404988389.webp?k=9a1e1cc31868e2f64df78ec95562d244ab9385adc2bec121ceef185821b0b341&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-royal-elk-avon.html": {
+    "name": "Beaver Creek Royal Elk",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373854957.webp?k=108e0385edcad611a888da265e3539e4eb2fdf0ea653293e204f9885ac76d339&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/971-w-beaver-creek.html": {
+    "name": "Beaver Creek Condos",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/248418087.webp?k=7868e0fbcfab92caad79d9b4f3aeb98bc79d6909b342d1573b96df46e4b870ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/fun-on-the-fairway.html": {
+    "name": "Fun on the Fairway",
+    "location": "Avon",
+    "score": "8.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332883193.webp?k=e16cff23dda1824195371f236f8a18578741b1d797593a9dff239cbcb380c51e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-remodeled-home-near-vail-beaver-creek-resort.html": {
+    "name": "Updated Home 10 Min to Vail and Beaver Creek Resorts",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/241393064.webp?k=0acdd55db2b777817fe5def23879c8ba958d2c9edd9b425e7cd8c01de8065aab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/new-lavish-condo-5-mins-to-beaver-creek-resort.html": {
+    "name": "Lavish Escape - 3 Mi from Beaver Creek Resort!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/235473196.webp?k=87a71b5aaabd8b065e8eb06a39c11cca1f4c97c00c677d81a58582bbcb0a0529&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/1203-eagle-drive.html": {
+    "name": "1203 Eagle Drive",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402763008.webp?k=1d896b6bcff483da6aaee555715bb0ba0b08b8d1ee9af85ba6b18047751e3640&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-borders-208l.html": {
+    "name": "Beaver Creek, 2 Bedroom Condo at the Borders, Ski-in Ski-out, in the village",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370168326.webp?k=e82c35fe87723faf7296719f470704c4bd64652aacd599d436ecf6f699cc68c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-borders-504l-avon1.html": {
+    "name": "Beaver Creek, 3 Bedroom Condo at the Borders, Ski-in Ski-out, in the village",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370124701.webp?k=6b22b78040ba7053ec63d7f8f443daf2b9db0752b9691e174d063ecebe2f451a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/wayne-creek-residence-eagle-county.html": {
+    "name": "Wayne Creek Residence",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/217974306.webp?k=76fff77cdc70e5d7be30074a4d05ff5d3c82004cf086f778686bcd0ff394942b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/chalet-prado.html": {
+    "name": "Chalet Prado",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/395565911.webp?k=2d3434128e9f39d495d8d65e128965e072415e1881c54202455fb645d18c9c5c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-borders-113l-avon1.html": {
+    "name": "Beaver Creek, 2 Bedroom Condo at the Borders, Ski-in Ski-out, in the village",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370060395.webp?k=b324e728b3b73f1b49709ba658cc45fb80c7031749d337a3ecf14f7535a86d1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-borders-203u.html": {
+    "name": "Beaver Creek, 1 Bedroom Condo at the Borders, Ski-in Ski-out, in the village",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370042855.webp?k=abc74be89da163bf82eff99b21b86b15c56caf1bf01e88d22bbf82a0f93e7a98&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/294-e-larkspur-lane.html": {
+    "name": "294-E Larkspur Lane",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/402761228.webp?k=f7c5f517092cff9eac2e90cecf6650753a4980e934ea6c18a6fd75e53ae63ca6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/233-larkspur-duplex-unit-b.html": {
+    "name": "233 Larkspur Duplex - Unit B",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/436013525.webp?k=ec9ecc1bda0e9d5c9c3a12f08fb3c9328b84b2765b41f8c98d4183b5b19c3b32&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/elkhorn-509-elte.html": {
+    "name": "Elkhorn 509",
+    "location": "Avon",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220705394.webp?k=4124de50cb6a3568f370c304cec5398b16073e9b6351c18ed5b04d7483d2076e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/townsend-place-beaver-creek-retreat.html": {
+    "name": "Townsend Place",
+    "location": "Avon",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/316799642.webp?k=f783348e89e4d2e18c81bba8024d2795e7847bcc03ce8cc7d333795fe10bb487&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/comfy-avon-condo-with-pool-and-eagle-river-views.html": {
+    "name": "Comfy Avon Condo with Pool and Eagle River Views!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396217362.webp?k=212d07c3393a56f0d4affc6d2b2b99c8b3af2a3ec0cf5cfb1f3555ace34b9634&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/grand-mountain-escape-w-deck-on-eagle-river.html": {
+    "name": "Dreamy Mtn Retreat with Hot Tub 3 Mi to Ski Resorts",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/238002088.webp?k=febc7f6f68da530160abfd84d9d50fa9511879f2f394856066df5aacfbaae3be&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/seasons-at-avon-520-sa3y.html": {
+    "name": "Seasons at Avon 520",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/218875637.webp?k=725d17236bc853eff31c94a832536860ee6935edd4beb376074bfa665f6e3788&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/gorgeous-corner-3br-ski-in-out-access-and-3-decks-condo.html": {
+    "name": "Gorgeous Corner 3Br- Ski In Out Access And 3 Decks! Condo",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/222243897.webp?k=31da9eaffbcb12d47276755255fafe1dd7a60f7cbf40f0f9edee3ba1c9e6abb0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/elkhorn-110-elue.html": {
+    "name": "Elkhorn 110",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220705442.webp?k=d444335a32a4a64c6f9cadc4edf2cd10fee160f812b07b5fe6dc0b6da2675f05&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/condo-with-great-proximity-to-trails-and-slopes.html": {
+    "name": "Condo with Great Proximity to Trails and Slopes!",
+    "location": "Avon",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285726170.webp?k=e9f98db11e1b070891533180e005108884834c7790dd9dedaa64dcf9146b1fb9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/luxurious-home-walk-to-beaver-creek-gondola.html": {
+    "name": "Luxurious Home, Walk to Beaver Creek Gondola!",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/245077017.webp?k=a14f823bfc22cc92366c065e445971df5c71f47dac6c07034902325f50625818&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/rocky-mountain-retreat-avon.html": {
+    "name": "Rocky Mountain Retreat",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413408963.webp?k=92add14eca7d43b59723c12dc9c5b4e3f6c0d444ba47b66f6914159ba41f2867&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-ritz-carlton-2bedroom.html": {
+    "name": "Beaver_Creek_Ritz-Carlton_2Bedroom",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/351835061.webp?k=aedaa7c7e7d991859c8ce3b2e6fcb1aa5be9be92632a1e47a6d4ef94b6518cff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/us/beaver-creek-ritz-carlton-1bedroom.html": {
+    "name": "Beaver_Creek_Ritz-Carlton_1Bedroom",
+    "location": "Avon",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/370653385.webp?k=9a4d7d3d42c25636f4173fb299510c162a28857aaf29f7f1bfeff3616e6f2ea8&o=&s=1"
+  }
+}

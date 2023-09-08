@@ -1,0 +1,842 @@
+{
+  "https://www.booking.com/hotel/gb/beaufort-park.html": {
+    "name": "Beaufort Park Hotel",
+    "location": "Mold",
+    "score": "7.3",
+    "review_count": "2,410 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/38403503.webp?k=c98462c4ff6fc76b5a56637384eaf3cb86c86c66dacee86a6e9cb1fb0bdb4c8f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/emlyn-39-s-coppice.html": {
+    "name": "Emlyn's Coppice - Luxury Woodland Glamping",
+    "location": "Holywell",
+    "score": "9.6",
+    "review_count": "25 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373644996.webp?k=73f217b6c96e1e684447f66a853c0c1bca0d56128393b008d8b2ca6d4b2a6c1c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holidayinnchesterwest.html": {
+    "name": "Holiday Inn A55 Chester West, an IHG Hotel",
+    "location": "Northop",
+    "score": "7.8",
+    "review_count": "824 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263552081.webp?k=5c50f67b8652006ee2ebfd7a04fabbc7ce114b123e00316ee008e397414e1a02&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/herons-lake-retreat-caerwys.html": {
+    "name": "Herons Lake Retreat Lodges",
+    "location": "Caerwys",
+    "score": "8.7",
+    "review_count": "455 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/115606460.webp?k=6a90c7f78e1206bf01657656ffc02049623556c1eca1bab6a95fcc3a6fc61cb6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/famau-cabins-gwel-y-mynudd.html": {
+    "name": "Famau Cabins Gwel Y mynudd",
+    "location": "Cilcain",
+    "score": "9.7",
+    "review_count": "117 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/340384654.webp?k=401c5266a4644d5c5bef8c7f8352b1add441826711549444d82cd713e6acfe9c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-parc-farm-flintshire-north-wales.html": {
+    "name": "Parc Farm Cottage, Flintshire, North Wales",
+    "location": "Rhydymwyn",
+    "score": "10",
+    "review_count": "29 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/338077979.webp?k=53e273d075e89b742c988d65178141920e276c65ea7889732f6fa281fccaadcc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cwtch-cilcain.html": {
+    "name": "The Cwtch",
+    "location": "Cilcain",
+    "score": "9.2",
+    "review_count": "46 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/258323810.webp?k=709c9fb2913837c74e37478b9eefb215efa2904e441b43d833f01c6d41d52180&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thespringfieldhotel.html": {
+    "name": "Springfield Hotel & Restaurant",
+    "location": "Halkyn",
+    "score": "8.3",
+    "review_count": "710 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/183615162.webp?k=53380e4b0d009fbcc7ec9b57c97bdcedc9939b9aff383195696608a682287fac&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-country-cottage-with-outdoor-bathing-flintshire.html": {
+    "name": "Cosy country cottage with outdoor bathing",
+    "location": "Halkyn",
+    "score": "9.7",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378412332.webp?k=40eca63e3cdd59de4e1d76e621f6855613befa0fd6ed43356538efa08e331000&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mountainparkhotel.html": {
+    "name": "Mountain Park Hotel",
+    "location": "Flint",
+    "score": "7.7",
+    "review_count": "574 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309445732.webp?k=47e21a46315c687fa7199e59dd2962337db344a19cc5590ca32ac992ff07633f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penbedw-estate-rural-retreat-in-a-mongolian-yurt.html": {
+    "name": "Penbedw Estate -Rural retreats,tennis",
+    "location": "Mold",
+    "score": "8.9",
+    "review_count": "127 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/284778102.webp?k=8e14c184143c8b387a81db920fc626040d2898f929f48a3fd6b471835eb903d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-rural-stay-with-idyllic-views-amp-great-location.html": {
+    "name": "Stunning rural stay with idyllic views & great location",
+    "location": "Talacre",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413002915.webp?k=d282f25fe11d2212308d6deb3768a83eb8bc56718b9cd4c3ce5d32ab6de7289b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-davids-park-otel.html": {
+    "name": "Village Hotel Chester St David's",
+    "location": "Garden City",
+    "score": "6.7",
+    "review_count": "1,093 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/359480063.webp?k=6d34b7ef542c2d53eca4789d2987f58e1eb3274b82a52a96481f99e4b9666264&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/historic-17th-century-farmhouse-in-wales.html": {
+    "name": "Historic 17th century farmhouse in Wales",
+    "location": "Gwernymynydd",
+    "score": "9.4",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/301473486.webp?k=169fa2d6006961eddc75e07d435176e21bb8e7541948dcf243f663563085049f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oakenholt-farm-bed-and-breakfast.html": {
+    "name": "Oakenholt Farm Bed and Breakfast",
+    "location": "Flint",
+    "score": "9.2",
+    "review_count": "144 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/354237561.webp?k=30b10cb86b9207d6d12282386eb2bf09cf00e5d8da318b2d247c85372d62776b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/13-st-mary-39-s-mews.html": {
+    "name": "13 St Mary's Mews",
+    "location": "Mold",
+    "score": "8.8",
+    "review_count": "139 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177473112.webp?k=2832661ec4843274679728eb17bae6703ff5d49c1eff66063b43aa21f6859f57&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/springfield-apartments-hawarden.html": {
+    "name": "Springfield Apartments, Hawarden",
+    "location": "Hawarden",
+    "score": "9.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/146585959.webp?k=ead781b554d74da4c03003f82eceb7203f25113313f48eeeda3c8949d22299aa&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/sunset-cabin.html": {
+    "name": "Sunset Cabin",
+    "location": "Mold",
+    "score": "9.8",
+    "review_count": "32 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/293657296.webp?k=f9d42e24cc03a85464bcfed36115ad18b50062415c67ef67151adacb2516f71c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plas-hafod.html": {
+    "name": "HARRISONS HALL, Plas Hafod Hotel",
+    "location": "Mold",
+    "score": "8.8",
+    "review_count": "430 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/3948387.webp?k=ef282f496c5b2a229cafbf0a7b470389d3305414232a5fb89f5d106f5d977579&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/8-berth-deluxe-2018-caravan.html": {
+    "name": "8 berth Deluxe 2018 Caravan",
+    "location": "Talacre",
+    "score": "9.0",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/263438698.webp?k=2956dc2fa59734f4f46636eb36b9971a5928fa5afe93ac960ad1b0cc25f7cac0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hideaway-holywell.html": {
+    "name": "The Hideaway Holywell",
+    "location": "Holywell",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438467214.webp?k=2699f5ae9ab26fd40c26b0d92a646446ecc8a0678b956dd1909548b9fb599c33&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-bach-flintshire.html": {
+    "name": "Ty Bach",
+    "location": "Bagillt",
+    "score": "9.5",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325850427.webp?k=6978cb399f29253b3782c7a611102733d7a546e0ad26242f308630417e41c7c7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arbennig-luxury-lodges.html": {
+    "name": "Arbennig Luxury Lodges",
+    "location": "Mold",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/425551971.webp?k=2c461f3fd1b42afddfab59ad4be6ed7f35de299ae9bf3d03a79a9a4dd29ff415&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-glan-yr-afon-inn.html": {
+    "name": "The Glan Yr Afon Inn",
+    "location": "Holywell",
+    "score": "9.1",
+    "review_count": "63 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/297707787.webp?k=36220f86d9afaea313780290d418cad9643815be774a6879cabf5a817c9c7075&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/26-little-roodee.html": {
+    "name": "Near Chester, Hawarden",
+    "location": "Hawarden",
+    "score": "9.6",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406424546.webp?k=37e999f62114bb4956f6c1c05c52eb858eced5ac26c837c334e02a5b30f6fceb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodhouse-cottage.html": {
+    "name": "Woodhouse Cottage",
+    "location": "Garden City",
+    "score": "9.4",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418304643.webp?k=978b39d853006d8dc051a3205891c242d59ba4febeea124d0b625fc31fd0722c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayloft-the-old-mill-holiday-cottages-melin-y-wern.html": {
+    "name": "The Old Mill Holiday Cottages, Nr Mold",
+    "location": "Mold",
+    "score": "9.2",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170458552.webp?k=ef12b113ce81fc598567b34f49e80201c43e40fe994758950376d1a77be68cea&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-granary-at-the-dee-estuary.html": {
+    "name": "Estuary Retreat at The Farmhouse Close to Woods and Sea",
+    "location": "Talacre",
+    "score": "9.3",
+    "review_count": "86 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431201107.webp?k=4716003c8963ecae56cea0bba1a537af44e0cd11370455f40cfbfb3485cdac77&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victoria-holywell.html": {
+    "name": "Victoria hotel",
+    "location": "Holywell",
+    "score": "8.8",
+    "review_count": "327 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/51793459.webp?k=bbb610eefeb9c61c893067abb4cf4bdc6102e925716130e9863267598e8f3ab4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/honeysuckle-cottage-nercwys-near-mold.html": {
+    "name": "Honeysuckle Cottage",
+    "location": "Nerquis",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/417911151.webp?k=d1987aaf6b94e32e8f1bb00c59a2ffcd1e4d444a75eb381573a6d50d9b54a65c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/shepherds-hut-in-the-hills.html": {
+    "name": "Shepherds Hut in the Hills - Nr. Mold",
+    "location": "Nannerch",
+    "score": "10",
+    "review_count": "52 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/256032518.webp?k=007a66d10d29019aa7ba97cd2f20ca8e4856a7eb142bb2eb1c87de7b4bff76b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/anvil-cottage-mold.html": {
+    "name": "Anvil Cottage",
+    "location": "Mold",
+    "score": "9.6",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199255862.webp?k=94fed59ddeade89ea437cde5777f9c99899a9e349d979630fe7a6c8530151c3f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-view-cottage-mold.html": {
+    "name": "Park View Cottage",
+    "location": "Mold",
+    "score": "9.4",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/242289670.webp?k=037b1b1147d564569f4e8a9e881fd380f28be35aa873319ab135d587c8784840&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gladstone-court.html": {
+    "name": "Gladstone Court",
+    "location": "Hawarden",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/314347332.webp?k=a952f76fd30c0d671766e13ab48587c12695716d24d03f9843c040f8520b4ee6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/silver-birch-caravan-park.html": {
+    "name": "Silver Birch Caravan Park",
+    "location": "Talacre",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/92701025.webp?k=315152b9a9cae65025268d6f802a60b2acd0249a5e0a2277790c737b19bee9b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-loft-mold.html": {
+    "name": "The Loft",
+    "location": "Mold",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/220025180.webp?k=5bc8eb27486aeb2232db10f814b1e34c195978420045b2620f9f878d2f990c80&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-cerrig-mold.html": {
+    "name": "Ty Cerrig, Mold",
+    "location": "Mold",
+    "score": "8.5",
+    "review_count": "17 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344437191.webp?k=8b52b66c50a7b738fcc2a2148a97924766a8d6ae397a81b42bc5103c6e38f794&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coastal-village-cottage.html": {
+    "name": "Coastal Village Cottage",
+    "location": "Talacre",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/429508771.webp?k=3b7f108ee7fa67f72fd4b09df945f9203f22a53aaf4f32f9d81459d12078af82&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ewe-two.html": {
+    "name": "Ewe Two",
+    "location": "Flint",
+    "score": "9.9",
+    "review_count": "21 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/364504404.webp?k=23892ba2b538fba9c2645ce6bf7e30e63f4ab40c0ae6c71bb321f5e766f24809&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hawarden-near-chester.html": {
+    "name": "Hawarden near Chester",
+    "location": "Hawarden",
+    "score": "9.8",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360822172.webp?k=32a49301cad044bc727a3cdbc58377747523ea74bd6afc60726d6d3f507e4bb9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-tabitha-wynne.html": {
+    "name": "Ty Tabitha Wynne",
+    "location": "Caerwys",
+    "score": "9.7",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/313379213.webp?k=2fe37c5f25c049ab29880eeb3fc4bbded63d666dcc3a41a5c9440c0099320d38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hafan-fach-yr-wyddgrug.html": {
+    "name": "Hafan Fach",
+    "location": "Mold",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409611635.webp?k=39fa9e73657b401d64367226f4a63bc3f35d50f81a2eba0209daa08a7b90e145&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/hafan-deg.html": {
+    "name": "Hafan Deg",
+    "location": "Mold",
+    "score": "9.4",
+    "review_count": "97 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/50445284.webp?k=c6945c86dd8d3123a5db1a32a245af7b4760434d4b8c2a1246ef027381fd55c9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/parc-farm-holiday-park.html": {
+    "name": "Parc Farm Holiday Park",
+    "location": "Mold",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/170477574.webp?k=597c64995dbd63ed4f159a096a7f542d4aa705e7bc8532feec850b42e2581ad5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ty-melyn-flintshire.html": {
+    "name": "Tŷ Melyn",
+    "location": "Mold",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408659888.webp?k=3b4db263fc36dc48c12412c9c770f0ced9eeb26106008f58b1ae8bc3f0e00bb7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/two-hoots-flint.html": {
+    "name": "Two Hoots",
+    "location": "Flint",
+    "score": "9.5",
+    "review_count": "15 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355908355.webp?k=542bfef3a408d8c41fb101091a66a27340d1f3c86c7516a32a0cb82786c1bd38&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-nook-cottage-holywell.html": {
+    "name": "The Nook Cottage",
+    "location": "Holywell",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/377571337.webp?k=d2eb29b2a4f8218a3aa257a63a10346be79d85446c46671a56d5d8051d99ee2a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bwthyn-bach-addawol.html": {
+    "name": "1 bed Adore Cottage",
+    "location": "Holywell",
+    "score": "5.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/329072253.webp?k=ca5c318b2fb72ab16d0560ab6baf9354487a8692a5392c629e5a391fadc39e83&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/1850s-character-stone-cottage.html": {
+    "name": "1850s Character Stone Cottage",
+    "location": "Mold",
+    "score": "9.6",
+    "review_count": "8 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/369523310.webp?k=0ad67f061bcbf932ce5fefaed359a1eb0a5b3c178b3de15352f03e6a079fab09&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/briar-house-flint.html": {
+    "name": "Briar House",
+    "location": "Flint",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396727042.webp?k=5455faf03702e9925d0b0ef7286968cfd6bbcafd593ab995a776e872cc84b485&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/ash-farm-cottage-holywell.html": {
+    "name": "Ash Farm Cottage",
+    "location": "Holywell",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388807105.webp?k=a457f14607bcc3f53a34031e76f222da1f5b789cee4333e63c7a527426a984b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-flintshire-north-wales-sleeps-up-to-9.html": {
+    "name": "The Flintshire - North Wales - Sleeps Up To 9",
+    "location": "Flint",
+    "score": "9.0",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362495242.webp?k=7f5de1c4e2664322f78b35a94a03e6cf505a963f6c727b5f4a0c75273cf502f1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/primrose-cottage-mold.html": {
+    "name": "Primrose Cottage",
+    "location": "Mold",
+    "score": "9.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/382635972.webp?k=456214515ac557d481d2092498b5b3bebc768924a8b02c9336f4bd7b30368da9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryn-offa-cottage.html": {
+    "name": "Bryn Offa cottage",
+    "location": "Holywell",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360481840.webp?k=fbbfbe2bd8f53526052fbcf5efcd8606e708f01058df8d193451022e184fb80f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-flat-at-brwyn.html": {
+    "name": "The Flat At Brwyn",
+    "location": "Holywell",
+    "score": "9.5",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391917036.webp?k=a044bc0749e151b055c0e228561ea20899306fee7cd089600eb5b10bdd8f9e12&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/victoria-villas-sandycroft.html": {
+    "name": "Victoria Villas",
+    "location": "Sandycroft",
+    "score": "9.6",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408123588.webp?k=c90c063573f00f3d1af3dddfa125a3dac7322030b67735bd7f965df8276ce038&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cabin-a-cosy-private-amp-secure-holiday-home.html": {
+    "name": "'The Cabin'. A cosy private & secure holiday home.",
+    "location": "Padeswood",
+    "score": "8.1",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409988920.webp?k=29465ec505e3380663649bda457d3d8590bf5ff6303b18a3896b253ff083c3b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/relaxing-3-bedroom-chester-home-with-garden-broughton.html": {
+    "name": "Relaxing 3 Bedroom Chester Home with garden",
+    "location": "Broughton",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/350346661.webp?k=29c2b2077cf9e54efdf54992f67f33c89deb5d18f2fa488e808fdbe1bc7c565e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/tyn-y-mynydd-bach.html": {
+    "name": "Tyn-y-Mynydd Bach",
+    "location": "Halkyn",
+    "score": "10",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/412462578.webp?k=6289a739cb1f6b2dc9f7d6cbaa549a48726183d4a2966c2fdfa3611c414f6c20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mattys-place.html": {
+    "name": "Matty's Place",
+    "location": "Nannerch",
+    "score": "8.8",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420871261.webp?k=9ce96e1da2ae57a29a93c5dcea6def400ef40820ae7695350fa621c8ec1ed70c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-north-wales-gathering-9-bedroom-ev-charging.html": {
+    "name": "The North Wales Gathering - 9 Bedroom - EV Charging",
+    "location": "Flint",
+    "score": "9.0",
+    "review_count": "27 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/362606990.webp?k=4722e43ed82f05bd77de17895723b9a5718a1a81310e9da45816ba1472364230&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/butchers-arms-cottage-mold.html": {
+    "name": "Butchers Arms Cottage, Mold",
+    "location": "Llong",
+    "score": "8.8",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267444691.webp?k=4c5c7971130c65ae5a5b76a41276f850688e4933d1f40f202d3e839cdd0fa03d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/connahs-quay-park-farm-barns.html": {
+    "name": "Connah's Quay Park Farm Barns",
+    "location": "Connahs Quay",
+    "score": "9.9",
+    "review_count": "9 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399630714.webp?k=ae1f680491bb0f052aa69a7ab4c8c70117245a1c5077ec9b37427be3640f06d5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/llys-onnen-north-wales-holiday-cottage.html": {
+    "name": "Llys Onnen - North Wales Holiday Cottage",
+    "location": "Mold",
+    "score": "9.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/234111626.webp?k=2d6a844c7035d366d2421a0743e63cc14c8f013e8d61359c3c7bf88dab3e6a06&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-bedroom-2-bathroom-prestige-caravan-presthaven-sands.html": {
+    "name": "3 bedroom 2 bathroom prestige caravan PRESTHAVEN SANDS",
+    "location": "Talacre",
+    "score": "8.1",
+    "review_count": "35 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/267520050.webp?k=0c04d8abb840e5efc8f055505d42e15cc574d5c83218f39f2474e7f9f54e8200&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robins-nest-glamming-pod-north-wales.html": {
+    "name": "Robins Nest glamping pod North Wales",
+    "location": "Mold",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/383929396.webp?k=f2ec36e1d9f8cfd165133a5b63d3da99a36efa2f0eec8deead380eeafd841ea4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/colomendy-alpaca-farm-farm-house.html": {
+    "name": "Colomendy Alpaca Farm - Farm House",
+    "location": "Mold",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357873868.webp?k=3603e84f3d0ee0b1772d1111a8123dd39893c930420710d87d7e5fb6a5d31b87&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-coach-house-hawarden.html": {
+    "name": "The Coach House",
+    "location": "Hawarden",
+    "score": "9.4",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/192912835.webp?k=5e50ef72317e0623c4a912aba6536ad83702a2a9f32ad7f74cfa74ed57f2b056&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/little-pandy-cottage.html": {
+    "name": "Little Pandy Cottage",
+    "location": "Mold",
+    "score": "9.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/371852561.webp?k=b2089feea4d86000460a70ad036f45bacfb6c2cede180c40d1641a0feb7d8e20&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/alyn-vale.html": {
+    "name": "The Deeside",
+    "location": "Buckley",
+    "score": "6.9",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/88404180.webp?k=137b7ebcbc424c1fac58bff602a0093381ee7b5801f71f5fa58480f5985e1d3b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/colomendy-alpaca-farm-coach-house.html": {
+    "name": "Colomendy Alpaca Farm - Coach House",
+    "location": "Mold",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357738820.webp?k=d8399c6752ad65bc3f07ea63064d9b3bdc4d77dd4b5646f2fde68d0d73e330ec&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-cottage-in-award-winning-village.html": {
+    "name": "Limekiln Cottage",
+    "location": "Llanasa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355827899.webp?k=236d9ff9866a7a3b16720a0f906729ecf2476794c59672c7775bc7e2d6ade48a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stone-cottage-mold.html": {
+    "name": "Stone Cottage, Mold",
+    "location": "Mold",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344434510.webp?k=4a4bf5c3bfca39a957467f01d35f16bfd3e32935920cf2bff1428184c2bb392a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-fferm.html": {
+    "name": "Y Fferm",
+    "location": "Padeswood",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/373510707.webp?k=788111f7998efd794e3edfd70058b19811e46e7f3811268635c65ae9450fc58c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/park-house-annexe.html": {
+    "name": "Park House Self-Contained Annex",
+    "location": "Mold",
+    "score": "9.3",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378604376.webp?k=3aedeb81d71dacba741122ad82aa85b59c5b956ef49b51bb6bf763ff715801ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-hayloft-mold.html": {
+    "name": "The Hayloft, Mold",
+    "location": "Mold",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/367008884.webp?k=f9e2dd80e5411b17d4bf426883210d1e12ec3f2e492c6d9e32312849c03bf392&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/y-pinwydd-annex.html": {
+    "name": "Y Pinwydd Annex",
+    "location": "Holywell",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325548145.webp?k=a687f9ad901daca3618fd2cbc3c5de3885946249a9a48c29d80ff79ae2eca07a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-north-west-contractors-base-9-bedroom-ev-charging.html": {
+    "name": "The North West Contractors Base - 9 Bedroom - EV Charging",
+    "location": "Flint",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/287605747.webp?k=48691bbbc0d4fa2587275e7af48d322400d6eee9e4fa83d10cbfeba6af6b8cd9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-barn-mold.html": {
+    "name": "The Old Barn, Mold",
+    "location": "Mold",
+    "score": "9.2",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344439025.webp?k=786764f4c8a20b41e94b0621f890fd56e2c9556f4861b5de6915bff60084b098&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pant-glas-mawr-axton.html": {
+    "name": "Pant Glas Mawr Axton",
+    "location": "Llanasa",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418303351.webp?k=2deb3be7d9270e49816b9554b583b8a7213a42c59b24f90c363360ad9af4f2f5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glan-llyn.html": {
+    "name": "Glan Llyn Farm House",
+    "location": "Mold",
+    "score": "9.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/79485871.webp?k=1f2a53b1dca89cab09cc2ea1ce9c6c2d80b2466d6c93533e633ec25f48925065&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-lambing-shed.html": {
+    "name": "The Lambing Shed",
+    "location": "Newmarket",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344286169.webp?k=8c8d18f045abfb0fbe4e00f8685115bbd7138ea7da8f0d432b280a7654676ce0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stable-cottage-v.html": {
+    "name": "Stable Cottage - HW7452",
+    "location": "Llannerch-y-môr",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/418642572.webp?k=f0ed222027aa84135187e7450161cceb5e1e8a4b98e362ec23006e71ed65bbae&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-luxury-1-bed-cottage.html": {
+    "name": "The Cottage - Luxury 1 Bed Cottage",
+    "location": "Rhydymwyn",
+    "score": "9.7",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/260299609.webp?k=a7e766e794f589df029aa0a5fb87e7b4d07c60d55bc389c0da0b58ab1950c1ab&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/plas-tirion-cottage.html": {
+    "name": "Plas Tirion Cottage",
+    "location": "Mostyn",
+    "score": "9.8",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/244905016.webp?k=3fb60d000cdcf44e0d51e39811cca53e339836abbb4b428f689542f91db0f3c4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/bryn-dedwydd-cottage.html": {
+    "name": "Bryn Dedwydd Cottage",
+    "location": "Mold",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419021358.webp?k=18f25dd672c60cde1de521a7b59ff61832721f1deb780bfdf31058f006bab4e4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-ship-inn-flintshire.html": {
+    "name": "The Ship Inn Greenfield",
+    "location": "Greenfield",
+    "score": "7.4",
+    "review_count": "69 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/269656476.webp?k=b6e3be8d7afd0a2d5f56952d89cf99be5beffd31c8c920fda5065180b69cef50&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/81-maes-deri-ewloe.html": {
+    "name": "81 Maes Deri, Ewloe,",
+    "location": "Ewloe",
+    "score": "8.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/408105839.webp?k=0788bf80e11ffc5bca7faa95e86d4a6a14bdd5547b091c1da537edd495e6ec43&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/woodlands-lodge-come-and-enjoy-the-good-life-buckley.html": {
+    "name": "Woodlands Lodge - come and enjoy the good life",
+    "location": "Buckley",
+    "score": "9.2",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/355613568.webp?k=2a85210518c718613ec72849c457f4858d7964186c93b119d365548ba326db45&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-cottage-treffynnon.html": {
+    "name": "The Cottage",
+    "location": "Talacre",
+    "score": "10",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378125656.webp?k=751d6a8e310e061b53c6bba68d9c74a455fc4c16dae4d626a4e530104eacc434&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/3-penllan-cottages.html": {
+    "name": "3 Penllan Cottages",
+    "location": "Holywell",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411564877.webp?k=e7c7f558b6913d5842f539493d91403e90e0d746dd523ecdc953eaaafa77db0f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/herons-lake-retreat.html": {
+    "name": "Herons Lake Retreat",
+    "location": "Caerwys",
+    "score": "7.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/54474303.webp?k=7ce6c4a8e7e49638c32e5460774a8fa215630596b1350972adfd7458ed1fcb47&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northgate-cottage.html": {
+    "name": "Northgate Cottage",
+    "location": "Holywell",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/288231549.webp?k=44cc03292832721a6ac66c5987a5479f34b098e66763b86a41420aa2e66b09bc&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/brooklands-gronant.html": {
+    "name": "Brooklands",
+    "location": "Talacre",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/393373428.webp?k=63cd84ab624a5166b0f415f2eee757565891f32aed23af4a2997c04f14c92b5d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/northop-hall-country-house-by-payman-club.html": {
+    "name": "Northop Hall Country House Hotel",
+    "location": "Mold",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/404373142.webp?k=04170fe03b11a345a8d9dceea1496c53ed9cc8ddf961fae7a610774897e39820&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-old-coach-house-mold.html": {
+    "name": "The Old Coach House",
+    "location": "Mold",
+    "score": "9.8",
+    "review_count": "10 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/219999166.webp?k=c8f0e938ed8ba27ca5d60bd47c58f536143f0b001061354a3923747398167bc3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/arosfa-holywell.html": {
+    "name": "Arosfa",
+    "location": "Holywell",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/225399893.webp?k=ff359021e3c9c24e23ac26ce85da6a9abf5f5ee0fc40e5d13c7571ff62f4d61f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crown-cottage-holywell.html": {
+    "name": "Crown Cottage, Holywell",
+    "location": "Holywell",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/360066001.webp?k=6b74ba87b18937dc2849eedf823d709ee4f6bec04744082818063ab5f91b4f4c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/esmor-cottage-caerwys.html": {
+    "name": "Esmor Cottage",
+    "location": "Caerwys",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/332454544.webp?k=2b4fc3b1178a5afb8bdff18ccf7e1598a96d39f273ae18d64f770235e3b55563&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pet-friendly-hyfrydle-house.html": {
+    "name": "Maintenance, Transport, Medical Teams Bargain, 3 Bed Detached House, Mold, Sleeps 1 to 5",
+    "location": "Mold",
+    "score": "4.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/409371967.webp?k=0c64a651d0c1ae4556024b7d7b514ef525eeff13201af4f67e30ef0f2977e3b8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-villa-oakenholt-near-flintshire.html": {
+    "name": "The Villa",
+    "location": "Flint",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/416824070.webp?k=c94775784842a7c386601e10d10dc30e0b6012d090162504a0aefb9047897993&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/orchard-cottage-holywell.html": {
+    "name": "Orchard Cottage, Holywell",
+    "location": "Holywell",
+    "score": "9.0",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240206133.webp?k=87ebefc1a42086e589065e4e06a04d3f66555808f1d112034ef0f7fad2806ef3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/burnt-oak-stables.html": {
+    "name": "Burnt Oak Stables",
+    "location": "Mold",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/407528263.webp?k=d338dc9688221ab0c6efadc30742dc4b3351463a73da888594823701f80e3208&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-mystical-orchard.html": {
+    "name": "The Mystical Orchard",
+    "location": "Holywell",
+    "score": "9.3",
+    "review_count": "41 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/304809855.webp?k=a301532a6ead43cb19416b8ba09d705d0aa388a2f9d2c9756765bb76ff3d6c30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rose-hill-holywell.html": {
+    "name": "Rose Hill",
+    "location": "Holywell",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/303439293.webp?k=d927af7df8ccc5a474bacdfe0d285df38fe290118c59b3bc8dc965a8f929ad53&o=&s=1"
+  }
+}

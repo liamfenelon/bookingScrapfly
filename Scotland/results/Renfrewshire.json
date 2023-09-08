@@ -1,0 +1,594 @@
+{
+  "https://www.booking.com/hotel/gb/ashtree-house.html": {
+    "name": "Ashtree House Hotel, Glasgow Airport & Paisley",
+    "location": "Paisley",
+    "score": "8.9",
+    "review_count": "315 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/265171031.webp?k=96e0e515b1fa5aaf4b709b8ec29f0efd196c86624ff046ea4eaf0de3946e75b6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mycosyapartment-47.html": {
+    "name": "Mycosyapartment 47",
+    "location": "Paisley",
+    "score": "8.2",
+    "review_count": "37 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/309273402.webp?k=30dfa4b40d5ea8bc01d502ae9c0f38832d3e894a5c2473a72ddd2a2e9bcce870&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhead-apartments-gallery-view.html": {
+    "name": "Townhead Apartments Gallery View",
+    "location": "Paisley",
+    "score": "9.0",
+    "review_count": "57 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/68538951.webp?k=630811c957f14a8dce967c88e14c84247f0a49c18135dc9fd26f1e5a4b816267&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/castle-gait-paisley.html": {
+    "name": "Castle Gait, Paisley",
+    "location": "Paisley",
+    "score": "9.6",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/140890963.webp?k=129d2a2b0e64e4e5338db7d0f032885707b4a54a83124ce03a8fa4558c2d3d6c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/oakshaw-apartment.html": {
+    "name": "Oakshaw Apartment",
+    "location": "Paisley",
+    "score": "9.5",
+    "review_count": "28 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274026512.webp?k=eb358925f1361a4ef4c601d6324073af37c19ff25c58e97e4c15d6bf0a3c5b5e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/rozina-apartment.html": {
+    "name": "Rozina Apartment",
+    "location": "Paisley",
+    "score": "9.2",
+    "review_count": "47 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/134617490.webp?k=e0b82b4dc77f0096f13062567923c4310569d30e26abd4f429fc89ef12d1e3bf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/paisley-central-apartment-2.html": {
+    "name": "Paisley Central Apartment #2",
+    "location": "Paisley",
+    "score": "9.3",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/177320001.webp?k=3e89e6f4a80f62fc5efec7e1b0c049d7db1a64d1b08188d2547edb33ad6ec17e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/townhead-apartments.html": {
+    "name": "Townhead Apartments Glasgow Airport",
+    "location": "Paisley",
+    "score": "9.0",
+    "review_count": "38 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/105629052.webp?k=570889e11f002c58dfadca645304def54cab3a2d05533270e50e84344ce1b620&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/espedair-apartment.html": {
+    "name": "Espedair Apartment",
+    "location": "Paisley",
+    "score": "9.4",
+    "review_count": "48 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317329131.webp?k=d0ea88d9c62c361b7d51e152c5904f88a25bd3fbb9e75482907d551f556253b0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mycosy-605.html": {
+    "name": "Mycosy 605",
+    "location": "Paisley",
+    "score": "8.9",
+    "review_count": "62 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295795046.webp?k=d9f030081e7939760f2817d2c2b66da0176095399c22fb8932c35d139ef0a1d6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2br-gem-near-to-wsu-city.html": {
+    "name": "Lovely 2BR Gem near to WSU, City.",
+    "location": "Paisley",
+    "score": "9.2",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/421274667.webp?k=d9d4d50786bd5304a134f2fed0a233849455e2f25066882a4928953653182ad1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/dunn-street-apartment.html": {
+    "name": "Dunn Street Apartment",
+    "location": "Paisley",
+    "score": "8.4",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/331985034.webp?k=a4ef482d2b97525e9e752e7950c237b8e8e97638e9299b1fd95b3d2c6b7e30ad&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/paisley-central-apartment.html": {
+    "name": "Paisley Central Apartment #3",
+    "location": "Paisley",
+    "score": "9.2",
+    "review_count": "34 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/285590537.webp?k=70892d60f66475e9c832b552e3a53df606aae82095255dcc055316aacb88e2b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/mycosyapartments54.html": {
+    "name": "Mycosyapartments54",
+    "location": "Paisley",
+    "score": "8.4",
+    "review_count": "24 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/161130771.webp?k=91d6ca318a349bdd54664af2758bbb90045cf926750ae4e38602bd1509e86134&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-apartment-paisley-near-gla-airport.html": {
+    "name": "4 Bed Apartment, Paisley - Near GLA Airport",
+    "location": "Paisley",
+    "score": "6.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/199311239.webp?k=c6e049f66b5cf59a6ef86b1a7e5bd2ec349441341ed9b3b441283a9e48a4ebf2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-apartment-paisley.html": {
+    "name": "Paisley Central Apartment",
+    "location": "Paisley",
+    "score": "9.8",
+    "review_count": "14 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/319361408.webp?k=3ac6686013a2b182459f4174ee3d5ca9df644b71e7255d42dc56b5bf2d323beb&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glasgow-airport-luxury-apartment.html": {
+    "name": "Glasgow Airport Luxury Apartment",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/419372388.webp?k=f78d56e488cea68e95a1034b5ba203bef354a918d7f0b211db01e3435948a7e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-paisley-penthouse-abbey-view.html": {
+    "name": "THE PAISLEY PENTHOUSE - ABBEY VIEW",
+    "location": "Paisley",
+    "score": "9.5",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/420066423.webp?k=795c631083e8363fa895a212dc3c401ea4e0215a041b3684d4e69ce59f329266&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/abbey-house-paisley.html": {
+    "name": "Abbey House",
+    "location": "Paisley",
+    "score": "6.5",
+    "review_count": "51 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/186622907.webp?k=880acae775ea94503030bc7c8d7bcaf7088568e6c9796284c6cc68b4c88010d7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-1-bedroom-flat-newly-decorated-sleeps-4-paisley.html": {
+    "name": "Beautiful 1 Bedroom & Warm flat, Newly Decorated Paisley",
+    "location": "Paisley",
+    "score": "10",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/388294160.webp?k=69cc9e7a6df9f63cd06857c018db6fdd94532f16c5708074c1ad9979866851c1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bedroom-apartment-with-free-parking-renfrewshire.html": {
+    "name": "Lovely 2-bedroom apartment with free parking.",
+    "location": "Paisley",
+    "score": "9.0",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/399863989.webp?k=8b5175f1d7a09b165806a37213a2b73af3c40d43f12d89d04fa4acb68bbfb6d1&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/byevo-glasgow-airport-apartment-1.html": {
+    "name": "ByEvo 1 Brabloch GLA Apartment",
+    "location": "Paisley",
+    "score": "7.0",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413774908.webp?k=80a98f65caf5a1aac0b233b9a63c7a20d9086d67265ec4d1386c144e111122e9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/coats-apartments-paisley-near-glasgow-airport-uws.html": {
+    "name": "Coats Apartments, Paisley near Glasgow Airport, Paisley Gilmour Street Station, UWS, Royal Alexandria Hospital & Paisley Town Centre",
+    "location": "Paisley",
+    "score": "8.2",
+    "review_count": "16 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324950063.webp?k=0d3bec5e099eed3f63fdb762d1c45312b49375acc9f7a4bfbf920136fc8a4a52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/elegant-and-cosy-flat-with-jacuzzi-bath.html": {
+    "name": "Elegant and Cosy flat with Jacuzzi Bath",
+    "location": "Paisley",
+    "score": "8.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/334596413.webp?k=5db3934e0004d4a2500fb48ef94c70eaf4bcbf68b7e6a280cddd829b24b6f9b3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/kilnside-home.html": {
+    "name": "Kilnside home",
+    "location": "Paisley",
+    "score": "9.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/143718805.webp?k=d0d120dfa9633fcdd2844418e3309af20005f645568694b401570547cb38c0d2&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/2-bed-apt-on-quiet-cul-de-sac-fab-location.html": {
+    "name": "2 bed Apt on Quiet Cul-de-Sac Fab Location",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/438168082.webp?k=49c1ab43aaeb893463e501a6585371c0ff47e20ba01667aadedbfa8e51798a4d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/comfortable-4-bed-apt-in-paisley-next-to-station.html": {
+    "name": "Comfortable 4 bed Apt in Paisley Next to Station",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/411250913.webp?k=f16bcf66e9e9dfd38d5ecc8dc29f8ae61a7aeff1684ee787453f6524b4f3469b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/byevo-glasgow-airport-apartment-5.html": {
+    "name": "ByEvo 5 Brabloch GLA Apartment",
+    "location": "Paisley",
+    "score": "10",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/279223863.webp?k=6cbb5bbf55ed8c065af1e7ad300f97cabd2f54f03a53854777de99ddc2121964&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/trident-apartment.html": {
+    "name": "Trident Apartment",
+    "location": "Paisley",
+    "score": "7.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274699087.webp?k=83037dd46b9e52f081c59389ade497fb9c06715be2fd0eac600c41ee2bab9c63&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glasgow-airport-apartment-byevo.html": {
+    "name": "ByEvo 6 Brabloch GLA Apartment",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413773079.webp?k=5bb4157efbbd599d8edf4958e1f01722de74e537fb39f421a846453481826328&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bed-apartment-close-to-gla-airport-m8-paisley.html": {
+    "name": "Modern 2 Bed Apartment Close to Gla Airport & M8",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/390089186.webp?k=7ca2a081fda96510e0e1e2c526ba0a33707b043cda24c398ace414355d51d85d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bed-apartment-close-to-gla-airport-m8.html": {
+    "name": "Modern 2 Bed Apartment, Close to Gla Airport & M8",
+    "location": "Paisley",
+    "score": "7.0",
+    "review_count": "5 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/289050172.webp?k=ee0c90323163f844fbb4881750eeb8aca6f73dd7614ba4144fb01c141feca7c5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/expressglasgowairport.html": {
+    "name": "Holiday Inn Express - Glasgow Airport, an IHG Hotel",
+    "location": "Paisley",
+    "score": "8.3",
+    "review_count": "3,829 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/283194738.webp?k=4ce5897643c943d5e5b888e8187beeead3dcd1e0a23fad52ba7140434cee6f7d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/thenormandyhotel.html": {
+    "name": "Normandy Hotel (Near Glasgow Airport)",
+    "location": "Paisley",
+    "score": "6.5",
+    "review_count": "1,171 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/305165634.webp?k=2e1261650237337dcac72d0f919253636aa6c343281d7b4675d29c7fc9bbd382&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/holidayinnglasgowairport.html": {
+    "name": "Holiday Inn - Glasgow Airport, an IHG Hotel",
+    "location": "Paisley",
+    "score": "7.3",
+    "review_count": "4,172 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/240800580.webp?k=8ab0ef4dc42cc924429ef97008d7b835cab6c6f0ed7a4c71021cb0bd11b14edf&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/courtyardmarriottglasgowairport.html": {
+    "name": "Courtyard by Marriott Glasgow Airport",
+    "location": "Paisley",
+    "score": "8.0",
+    "review_count": "3,087 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/254318470.webp?k=3580285289353e5090e4ab6ac60c2926505c3f1d2a8b4c84cb1642d874480e52&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glynhillhotel.html": {
+    "name": "Glynhill Hotel & Spa near Glasgow Airport",
+    "location": "Renfrew",
+    "score": "7.5",
+    "review_count": "2,078 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/255494202.webp?k=28f6540a3af2544f510be9ff306de7a87123dd14302232eca8ee6d38508dddc7&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/renfrew-modren-flat.html": {
+    "name": "Renfrew Home from Home",
+    "location": "Renfrew",
+    "score": "9.3",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/375219580.webp?k=bb54fcd916068e32b6469b9e0734e819935c8fdd967755e1f307ddf4063d0cd0&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-crossroads.html": {
+    "name": "The Crossroads",
+    "location": "Elderslie",
+    "score": "9.1",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/336122502.webp?k=ff2a30dc1b7547d8022e330eba4a5d8f352bf2620f50f83daebc8fcdca87a4b5&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/223-neilston-road.html": {
+    "name": "223 Neilston Road",
+    "location": "Paisley",
+    "score": "8.7",
+    "review_count": "20 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/158957258.webp?k=603f617c1433f03bd2fd9448bbf5fd727e3be324a7bc61a0c0684c2672d97267&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/the-abbey-inn.html": {
+    "name": "The Abbey Inn",
+    "location": "Paisley",
+    "score": "8.1",
+    "review_count": "876 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/124785939.webp?k=3e583b444f2b65fe5ac3c2a57346257b0eca5958cdcc531e45f8ba02b024e67c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautifully-designed-pollok-house.html": {
+    "name": "Beautifully Designed Pollok House",
+    "location": "South, Glasgow",
+    "score": "7.5",
+    "review_count": "22 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321185348.webp?k=abc12f03c5609dbf666b0d8ae635c52f6a6b8d1edb75f4af74968115eb08fd88&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/crookston.html": {
+    "name": "Crookston Hotel",
+    "location": "South, Glasgow",
+    "score": "7.2",
+    "review_count": "658 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/125289144.webp?k=69cdfa35312ec97e1b989b5d588e10636445e33a703cbe0a82a78282536f107a&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/robertson-park-apartment-74.html": {
+    "name": "Robertson Park Apartment 74",
+    "location": "Renfrew",
+    "score": "6.3",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/317819759.webp?k=ed0cc2233b040b20f868f3063de21f18ff4c87c76c3bc10364a86574ebeda7c6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/gladsmuir-house.html": {
+    "name": "Gladsmuir House",
+    "location": "South, Glasgow",
+    "score": "8.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/344107665.webp?k=2aafdf2dc960dfc1b412e41f975d243f76b78b66602bd3980d6ef15fa4bb8ab3&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cardonald-house.html": {
+    "name": "Cardonald House",
+    "location": "South, Glasgow",
+    "score": "6.7",
+    "review_count": "3 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/406160683.webp?k=15958a32ea4d19a1b4c587e3004e3b55a2c624a9e4614a855ff56ea2a1337e85&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stunning-2-bed-apartment-in-renfrew.html": {
+    "name": "Beautiful 2-Bed Apartment in Renfrew",
+    "location": "Renfrew",
+    "score": "7.7",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/378835449.webp?k=a57e8d555557b75cf6fa5c98950ae761c47086f5b8854c3beac8d2e94461ca16&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cosy-quirky-alwa7a-arabic-for-oasis.html": {
+    "name": "Cosy quirky Alwaha-Arabic for oasis",
+    "location": "Johnstone",
+    "score": "9.7",
+    "review_count": "53 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/268230620.webp?k=e7831805fd6b590f557706f26d6c566e9f2c6506fb8086b9b87aeefb0f4f3053&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/modern-2-bedroom-apartment-near-glasgow-airport.html": {
+    "name": "Modern 2 bedroom apartment near Glasgow Airport",
+    "location": "Paisley",
+    "score": "8.4",
+    "review_count": "23 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/379326836.webp?k=5dea26e04ff10146bddb0c7c16bb701d27ab4d7537f6d24380f5b0b132766210&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glasgow-road-apartment.html": {
+    "name": "A Spacious Flat with Character - Private Car Space",
+    "location": "Paisley",
+    "score": "9.0",
+    "review_count": "19 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/321177856.webp?k=1d961e7de29dd00459e720b921f7f60effa6223db802f9581d4ff693da2aa68c&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/west-brae-holiday-inn-paisley.html": {
+    "name": "West Brae Inn",
+    "location": "Paisley",
+    "score": "5.9",
+    "review_count": "120 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/153418050.webp?k=07204d90bbcdb854eb91ba081a62fe494cf98059db037f92bd3b40b9d13ac534&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/diamond-baron-view-apartment.html": {
+    "name": "Baron View Apartment",
+    "location": "Paisley",
+    "score": "7.5",
+    "review_count": "11 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173565231.webp?k=1eb606da6466b7cf359bf3b9826160b3cf71f7dd216c560a4ea991f952b0590e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/beautiful-3-bedroom-apt-mins-from-glasgow-airport-m8-sec.html": {
+    "name": "Beautiful 3 Bedroom Apt, mins from Glasgow Airport, M8 & SEC",
+    "location": "Paisley",
+    "score": "8.5",
+    "review_count": "12 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/295238690.webp?k=a29ad29a8fb2d29210919cabbe412c5454c5d1ca96a55c2d0b41bef3f3787de4&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/immaculate-3-bed-apartment-in-glasgow-close-to-m8.html": {
+    "name": "Immaculate 3-Bed Apartment in Glasgow close to M8",
+    "location": "South, Glasgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/431092637.webp?k=fdb57dd030dfa28f7b5ba8daa85c1866757c0a7564d15580b533aeb91a6beaff&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/jess-view.html": {
+    "name": "Jess View",
+    "location": "Renfrew",
+    "score": "6.3",
+    "review_count": "6 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274171417.webp?k=908a6e23f212b1e4dbe2caabbc28436d714f53b85b361b0af009ec4906def97f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/lovely-2-bed-apt-close-to-silverburn-mall.html": {
+    "name": "Lovely 2 Bed Apt close to Silverburn Mall",
+    "location": "South, Glasgow",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/397913456.webp?k=18c8d56438230f5f8518ba262feb47c757cb8713959d81a569bbe519c4f5d62e&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/paisley-central-apartment-4.html": {
+    "name": "Paisley Central Apartment #4",
+    "location": "Paisley",
+    "score": "8.7",
+    "review_count": "31 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/264438687.webp?k=f86f7efda217ce97f3153b471dcd2d1559f7551305c8adfa684924a2fd5d67e8&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/spacious-modern-apt-close-to-gla-airport.html": {
+    "name": "Spacious, Modern Apt, close to GLA Airport",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/225713635.webp?k=001fd53325b1b05fe0e6af542c33d7811594b3b817397b55f7693f057d60a07f&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/31-hardgate-gardens.html": {
+    "name": "Hardgate Gardens",
+    "location": "South, Glasgow",
+    "score": "7.2",
+    "review_count": "30 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/307864964.webp?k=d2ca75ccbf4fe087f3a9378d4fe075ce90d05e387721375daf3884edbc47b371&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/glen-apartment-paisley.html": {
+    "name": "Glen Apartment",
+    "location": "Paisley",
+    "score": "7.0",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/310023725.webp?k=5fc7a006bd1f61e86492af81a0927dc9c259f4002a457c0eeab4024d8ed0fd67&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/pass-the-keys-lovely-comfortable-2-bed-braehead-free-parking.html": {
+    "name": "Pass the Keys Lovely, comfortable 2-bed Braehead - free parking",
+    "location": "Renfrew",
+    "score": "6.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/357938965.webp?k=17ffcfa29f7eeb1d6a163df4ac0dbce0d9fb026e60ec5298734fd931979b784d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/penilee-upper-apartment.html": {
+    "name": "Penilee Upper Apartment",
+    "location": "South, Glasgow",
+    "score": "6.7",
+    "review_count": "7 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/274705790.webp?k=6485dfe6ea6526b332394342d899e430e267e091da607fa764a5286f18c4fe30&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/queen-apartment.html": {
+    "name": "Queen Apartment",
+    "location": "Paisley",
+    "score": "8.3",
+    "review_count": "4 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/294395634.webp?k=7fc0ce74fb9aafbc4baf4351f906ea64b73c612a4b2258967225ec3e83dbd65d&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cop26-3-bedroom-house-10mins-walk-gla-airport.html": {
+    "name": "Cop26 3 bedroom house - 10mins walk GLA Airport",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322485762.webp?k=b96a6cb1404569abd18226a88b7d17460121c5a8cc3168b819dbc4da6ca74949&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/byevo-19-walker-gla-apartment.html": {
+    "name": "ByEvo 19 Walker GLA Apartment",
+    "location": "Paisley",
+    "score": "8.5",
+    "review_count": "2 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/413767364.webp?k=622f12d66df9fcbc99200b22d0ac2e2b36a899461d05acdbe960002680b98512&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cop26-4-bedroom-detached-new-build-home.html": {
+    "name": "COP26 Detached new build home",
+    "location": "Barrhead",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324322717.webp?k=6693f6d3644e3e43c5c48dc500c4ec2c187890e4b403e1a770c65c9b8fcce210&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/homestay-oakridge-crescent.html": {
+    "name": "Homestay Oakridge Crescent",
+    "location": "Paisley",
+    "score": "8.3",
+    "review_count": "13 reviews",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/207128157.webp?k=bb3d75254f6684377093fc453334fff28b070da7178ce34791d79e4e3dd04f1b&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/linburn-house.html": {
+    "name": "Linburn House",
+    "location": "South, Glasgow",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/324832834.webp?k=36108c28fcc310402fbf7be943ad3d963111d27f754a287163daa95ad528c5e6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/st-james-apartment-paisley.html": {
+    "name": "St James Apartment",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/396005985.webp?k=59cfd7cfd367b50b2b09d98aed9b979522861f02ec949580b0d04a18a7cf6270&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/paisley-apartment-near-glasgow-airport.html": {
+    "name": "PAISLEY APARTMENT NEAR GLASGOW AIRPORT",
+    "location": "Paisley",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/323451812.webp?k=729dea4da0667b050d1f53d0cf10d4b7e649ff2b584ce811fedea078e9d2fc49&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/stylish-1-bedroom-apartment-ground-floor.html": {
+    "name": "Stylish 1 bedroom Apartment-Ground Floor",
+    "location": "Renfrew",
+    "score": "9.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/384919632.webp?k=0b3b06ef7be0d098321a44253c885108bfdfc3b726e66f2865210ab691545712&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/cottage-flat.html": {
+    "name": "Double Room",
+    "location": "Cardonald",
+    "score": "4.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/325437871.webp?k=cc28dcc8897a4dff1ede321b0caff32463e94f06dcaa4f289b9b37155683ddd6&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/4-bed-detatched-home.html": {
+    "name": "4 bed detatched home",
+    "location": "Hurlet",
+    "score": "",
+    "review_count": "",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/322509116.webp?k=67529c66d699fd5793faa9c7c3a285847d5488db913d58321e87349c3ececaa9&o=&s=1"
+  },
+  "https://www.booking.com/hotel/gb/private-room-near-by-glasgow-airport-renfrewshire.html": {
+    "name": "Private Room Near by Glasgow Airport",
+    "location": "Paisley",
+    "score": "1.0",
+    "review_count": "1 review",
+    "stars": 0,
+    "image": "https://cf.bstatic.com/xdata/images/hotel/square200/391690001.webp?k=d8a8c55927032a9a3cf6e20905eb7d8acd8a07e455a404cf01e235cc255e3ed9&o=&s=1"
+  }
+}
